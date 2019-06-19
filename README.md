@@ -11,7 +11,7 @@ This is split into several tasks:
 
 1. **Manual checks of automatic annotation of two corpora**: coursebooks (COCTAILL) and essays (SweLL-pilot)
 
-* Annotation guidelines: https://docs.google.com/document/d/1W9gcwRwFJ7-DsAC6cf6BHUoEivt73r-XWCV1oKS6xV8/edit# 
+* Annotation check guidelines: https://docs.google.com/document/d/1W9gcwRwFJ7-DsAC6cf6BHUoEivt73r-XWCV1oKS6xV8/edit# 
 * COCTAILL (article): http://www.ep.liu.se/ecp/107/010/ecp14107010.pdf
 * SweLL-pilot (article): http://arxiv.org/pdf/1604.06583v1.pdf 
 * (ev.) Normalization of SweLL-pilot: https://spraakbanken.github.io/swell-project/Normalization_guidelines
