@@ -9,7 +9,7 @@ Several directions are pursued in this project:
 
 This is split into several tasks:
 
-1. _Manual checks of automatic annotation of two corpora_: coursebooks (COCTAILL) and essays (SweLL-pilot)
+1. **Manual checks of automatic annotation of two corpora**: coursebooks (COCTAILL) and essays (SweLL-pilot)
 
 * Annotation guidelines: https://docs.google.com/document/d/1W9gcwRwFJ7-DsAC6cf6BHUoEivt73r-XWCV1oKS6xV8/edit# 
 * COCTAILL (article): http://www.ep.liu.se/ecp/107/010/ecp14107010.pdf
@@ -18,14 +18,14 @@ This is split into several tasks:
 * SVALA-tool, demo (for normalization): https://spraakbanken.gu.se/swell/dev/ 
 
 
-2._ Manual checks of SenSVALex_, a sense-based word list generated from COCTAILL corpus 
+2. **Manual checks of SenSVALex**, a sense-based word list generated from COCTAILL corpus 
 * SVALex (article): https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/SVALex_LREC_cameraReady.pdf
 
-3. (in future): _Manual checks of SweLLex_, a sense-based word list generated from SweLL-pilot)
+3. (in future): **Manual checks of SweLLex**, a sense-based word list generated from SweLL-pilot)
 * SweLLex (article): http://www.ep.liu.se/ecp/130/010/ecp16130010.pdf 
 
 
-4. _Manual lexicographic annotation of SenSVALex_ (and ev. SenSweLLex) using LEGATO tool:
+4. **Manual lexicographic annotation of SenSVALex** (and ev. SenSweLLex) using LEGATO tool:
 * LEGATO: https://spraakbanken.gu.se/larkalabb/legato 
 * Guidelines: https://docs.google.com/document/d/1nZOKf-54FEkjIQFnPUmZZRWqib6y7gpCuKQO-XadeqM/edit#heading=h.5rcsyvi01oc5 
 
