@@ -21,7 +21,7 @@ This is split into several tasks:
 2. **Manual checks of SenSVALex**, a sense-based word list generated from COCTAILL corpus 
 * SVALex (article): https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/SVALex_LREC_cameraReady.pdf
 
-3. (in future): **Manual checks of SweLLex**, a sense-based word list generated from SweLL-pilot)
+3. (in future): **Manual checks of SenSweLLex**, a sense-based word list generated from SweLL-pilot
 * SweLLex (article): http://www.ep.liu.se/ecp/130/010/ecp16130010.pdf 
 
 
