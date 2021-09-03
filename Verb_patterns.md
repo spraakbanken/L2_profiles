@@ -4,7 +4,7 @@
 *(Theerese Lindström Tiedemann, September, 2021)*
 
 * The most recent version of this document is available at [https://spraakbanken.github.io/L2_profiles/Verb_patterns](https://spraakbanken.github.io/L2_profiles/Verb_patterns)
-
+https://docs.google.com/document/d/1SqdjhSDHvYDmb_IIld_ThHDtT3vdixcShCroLXJMFIU/edit#
 _____________________________________________________________________________________
 _Useful links_
 
