@@ -3,8 +3,13 @@
 
 *(Theerese Lindström Tiedemann, September, 2021)*
 
-* The most recent version of this document is available at [https://spraakbanken.github.io/swell-release-v1/Metadata-SW1203](https://spraakbanken.github.io/swell-release-v1/Metadata-SW1203)
-* Previous version of the metadata description: [https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/Metadata\_SW1203_0.pdf](https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/Metadata\_SW1203_0.pdf)
+* The most recent version of this document is available at [https://spraakbanken.github.io/L2_profiles/Verb_patterns](https://spraakbanken.github.io/L2_profiles/Verb_patterns)
+
+* Verb patterns - search info [https://docs.google.com/document/d/121W3_FCtSMdVjQNoDFvRKHl0WCpFUWsRUF_mZDLfxeA/edit#heading=h.kbttnun1ee6l](https://docs.google.com/document/d/121W3_FCtSMdVjQNoDFvRKHl0WCpFUWsRUF_mZDLfxeA/edit#heading=h.kbttnun1ee6l)
+* Verb patterns - version August 2021) [https://docs.google.com/document/d/1StoAkrXDTMTAM5w2ZPAv5ncPBW0D26W9P3E8TSVRQwM/edit#heading=h.af5pz4nq3ast](https://docs.google.com/document/d/1StoAkrXDTMTAM5w2ZPAv5ncPBW0D26W9P3E8TSVRQwM/edit#heading=h.af5pz4nq3ast)
+* Verb - refs [https://docs.google.com/document/d/1SqdjhSDHvYDmb_IIld_ThHDtT3vdixcShCroLXJMFIU/edit#](https://docs.google.com/document/d/1SqdjhSDHvYDmb_IIld_ThHDtT3vdixcShCroLXJMFIU/edit#)
+* Link to (previously maintained) Google Document: [https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/Metadata\_SW1203_0.pdf](https://spraakbanken.gu.se/sites/spraakbanken.gu.se/files/Metadata\_SW1203_0.pdf)
+* 
 
 _____________________________________________________________________________________
 ## Contents
