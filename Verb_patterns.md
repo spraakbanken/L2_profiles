@@ -5,6 +5,9 @@
 
 * The most recent version of this document is available at [https://spraakbanken.github.io/L2_profiles/Verb_patterns](https://spraakbanken.github.io/L2_profiles/Verb_patterns)
 
+_____________________________________________________________________________________
+_Useful links_
+
 * Verb patterns - search info [https://docs.google.com/document/d/121W3_FCtSMdVjQNoDFvRKHl0WCpFUWsRUF_mZDLfxeA/edit#heading=h.kbttnun1ee6l](https://docs.google.com/document/d/121W3_FCtSMdVjQNoDFvRKHl0WCpFUWsRUF_mZDLfxeA/edit#heading=h.kbttnun1ee6l)
 * Verb patterns - version August 2021) [https://docs.google.com/document/d/1StoAkrXDTMTAM5w2ZPAv5ncPBW0D26W9P3E8TSVRQwM/edit#heading=h.af5pz4nq3ast](https://docs.google.com/document/d/1StoAkrXDTMTAM5w2ZPAv5ncPBW0D26W9P3E8TSVRQwM/edit#heading=h.af5pz4nq3ast)
 * Verb - refs [https://docs.google.com/document/d/1SqdjhSDHvYDmb_IIld_ThHDtT3vdixcShCroLXJMFIU/edit#](https://docs.google.com/document/d/1SqdjhSDHvYDmb_IIld_ThHDtT3vdixcShCroLXJMFIU/edit#)
