@@ -430,15 +430,19 @@ ________________________________________________________________________________
 
 Pattern 27a
 
+*Link*: https://github.com/spraakbanken/L2_profiles/blob/master/Verb_patterns.md#kommer-att-futurum
+
 _____________________________________________________________________________________
 
 ### "Tänker-att" futurum
 
 Pattern 27b
 
+*Link*: https://github.com/spraakbanken/L2_profiles/blob/master/Verb_patterns.md#t%C3%A4nker-att-futurum
+
 _____________________________________________________________________________________
 
-### _Ska_ futurum
+### "Ska" futurum
 
 Pattern 27c
 
