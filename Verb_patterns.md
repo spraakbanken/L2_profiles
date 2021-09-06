@@ -85,24 +85,24 @@ ________________________________________________________________________________
 
 | ***Pattern characteristics*** |  Swedish | English | Description/Example|
 |:-------------|:--------------|:--------------|:--------------|
-| **Verbfras / Verb phrase structure**| • simplex| • simple  | i.e. consisting of one verb|
+| Verbfras / Verb phrase structure| • simplex| • simple  | i.e. consisting of one verb|
 ||• complex|• complex| i.e. consisting of several verbs, aka verb chains / verbkedjor|
 ||• elliptisk|• elliptic| i.e. dropping one of the verbs in a chain, usually an auxiliary verb |
 |||||
-| **Tempus / Tense**| • presens | • Present || 
+| Tempus / Tense| • presens | • Present || 
 || • perfekt| • Perfect ||
 || • preteritum | • Past (Preterite)||
 || • pluskvamperfekt| • Pluperfect ||
 || • futurum| • Future||
 || • futurum preteriti| • Future preterite (future of the past)||
 || • konditionalis | • Conditional ||
-| **Modus / Mood**| • indikativ| • Indicative||
+| Modus / Mood| • indikativ| • Indicative||
 || • imperativ| • Imperative||
 || • konjunktiv| • Subjunctive||
-| **Diates / Voice**| • aktiv| • Active||
+| Diates / Voice| • aktiv| • Active||
 || • passiv| • Passive||
 || • deponens| • Deponent||
-| **S-form / S-form**| • | • ||
+| S-form / S-form| • | • ||
 || • | • ||
 || • | • ||
 || • | • ||
