@@ -71,11 +71,11 @@ ________________________________________________________________________________
 
 [8. Verbfraser med futurum](#8-verbfraser-med-futurum)
   - [Kommer-att futurum](#kommer-att-futurum)
-  - [Tänker-att futurum](#tänker---att-futurum)
+  - [Tänker-att futurum](#tänker-att-futurum)
   - [Ska futurum](#ska-futurum)
 
 [9. Verbfraser med modala verbs](#9-verbfraser-med-modala-verb)
-- [Hjälpverb i presens + ha + supinum](#hjälpverb-i-presens-+-ha-+-supinum)
+- [Hjälpverb i presens + ha + supinum](#hjälpverb-i-presens-ha-supinum)
 - [Hjälpverb i preteritum + ha + supinum](#hjälpverb-i-preteritum-+-ha-+-supinum)
 
 
