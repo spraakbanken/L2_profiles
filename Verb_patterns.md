@@ -238,7 +238,7 @@ ________________________________________________________________________________
 
 Pattern 10c, subset of 10a
 
-
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt-och-pluskvamperfekt-utan-finit-verb---s-passiv
 
 _____________________________________________________________________________________
 
@@ -246,13 +246,14 @@ ________________________________________________________________________________
 
 Pattern 7a
 
-
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt---s-form
 _____________________________________________________________________________________
 
 ### Perfekt - s-passiv
 
 Pattern 7b, subset of 7a
 
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt---s-passiv
 
 _____________________________________________________________________________________
 
@@ -260,6 +261,7 @@ ________________________________________________________________________________
 
 Pattern 7c, subset of 7a
 
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt---s-deponens
 
 _____________________________________________________________________________________
 
@@ -267,6 +269,7 @@ ________________________________________________________________________________
 
 Pattern 8
 
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#pluskvamperfekt
 
 _____________________________________________________________________________________
 
@@ -274,6 +277,7 @@ ________________________________________________________________________________
 
 Pattern 9a
 
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#pluskvamperfekt---s-form
 
 _____________________________________________________________________________________
 
@@ -281,12 +285,15 @@ ________________________________________________________________________________
 
 Pattern 9b subset of 9a
 
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#pluskvamperfekt---s-passiv
 
 _____________________________________________________________________________________
 
 ### Pluskvamperfekt - s-deponens
 
 Pattern 9c subset of 9a
+
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#pluskvamperfekt---s-deponens
 
 _____________________________________________________________________________________
 
