@@ -70,7 +70,7 @@ ________________________________________________________________________________
   - [Preteritum - vara-passiv](#preteritum---vara-passiv)
 
 [8. Verbfraser med futurum](#8-verbfraser-med-futurum)
-  - [Kommer-att futurum](#kommer---att-futurum)
+  - [Kommer-att futurum](#kommer-att-futurum)
   - [Tänker-att futurum](#tänker---att-futurum)
   - [Ska futurum](#ska-futurum)
 
@@ -306,12 +306,15 @@ ________________________________________________________________________________
 
 Pattern 23a
 
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum---konditionalis
+
 _____________________________________________________________________________________
 
 ### Futurum preteritum - konditionalis aktiv
 
 Pattern 23b, subset of 23a
 
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum---konditionalis-aktiv
 
 _____________________________________________________________________________________
 
@@ -319,6 +322,7 @@ ________________________________________________________________________________
 
 Pattern 23c, subset of 23a
 
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum---konditionalis-s-form
 
 _____________________________________________________________________________________
 
@@ -326,11 +330,15 @@ ________________________________________________________________________________
 
 Pattern 24
 
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum-supinum
+
 _____________________________________________________________________________________
 
 ### Futurum preteritum supinum - konditionalis aktiv 
 
 Pattern 24a
+
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum-supinum---konditionalis-aktiv
 
 _____________________________________________________________________________________
 
@@ -338,7 +346,7 @@ ________________________________________________________________________________
 
 Pattern 24b
 
-
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum-supinum---konditionalis-s-form
 _____________________________________________________________________________________
 
 ## 6. Verbfraser  - konjunktiv 
@@ -349,6 +357,7 @@ ________________________________________________________________________________
 
 Pattern 25b
 
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#presens---konjunktiv
 
 _____________________________________________________________________________________
 
@@ -356,11 +365,15 @@ ________________________________________________________________________________
 
 Pattern 25c
 
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---konjunktiv
+
 _____________________________________________________________________________________
 
 ### Preteritum - konjunktiv s-passiv
 
 Pattern 25d
+
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---konjunktiv-s-passiv
 
 _____________________________________________________________________________________
 
@@ -372,11 +385,15 @@ ________________________________________________________________________________
 
 Pattern 11a
 
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#presens---bli-passiv
+
 _____________________________________________________________________________________
 
 ### Presens - vara-passiv
 
 Pattern 11b
+
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#presens---vara-passiv
 
 _____________________________________________________________________________________
 
@@ -384,11 +401,15 @@ ________________________________________________________________________________
 
 Pattern 12a
 
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---bli-passiv
+
 _____________________________________________________________________________________
 
 ### Preteritum - vara-passiv
 
 Pattern 12b
+
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---vara-passiv
 
 _____________________________________________________________________________________
 
@@ -412,6 +433,8 @@ ________________________________________________________________________________
 ### _Ska_ futurum
 
 Pattern 27c
+
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#ska-futurum
 
 
 _____________________________________________________________________________________
