@@ -60,7 +60,7 @@ ________________________________________________________________________________
   - [Preteritum - konjunktiv](#preteritum---konjunktiv)
   - [Preteritum - konjunktiv s-passiv](#preteritum---konjunktiv-s-passiv)
 
-[7. Verbfraser med "komplex" passiv](#7-verbfraser-med-"komplex"-passiv)
+[7. Verbfraser med "komplex" passiv](#7-verbfraser-med-komplex-passiv)
   - [Presens - bli-passiv](#presens---bli-passiv)
   - [Presens - vara-passiv](#presens---vara-passiv)
   - [Preteritum - bli-passiv](#preteritum---bli-passiv)
@@ -75,14 +75,10 @@ ________________________________________________________________________________
 [9. Verbfraser med modala verbs](#9-verbfraser-med-modala-verb)
 - [Hjälpverb i presens + ha + supinum](#hjälpverb-i-presens-+-ha-+-supinum)
 - [Hjälpverb i preteritum + ha + supinum](#hjälpverb-i-preteritum-+-ha-+-supinum)
-- [](#)
-- [](#)
+
 
 
   
-  - [1.3 To cite the SW1203 subcorpus](#13-to-cite-the-SW1203-subcorpus)
-
-[2. Metadata description for the SW1203 subcorpus](#2-metadata-description-for-the-SW1203-subcorpus)    
 
 
 _____________________________________________________________________________________
