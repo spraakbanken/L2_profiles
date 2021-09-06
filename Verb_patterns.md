@@ -127,7 +127,7 @@ _Eng:_ (simple, -, imperative mood, active voice, -)
 
 Pattern 1, e.g. begå! 
 
-
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#Imperativ
 _____________________________________________________________________________________
 
 ## 2. Verbfraser med presens 
@@ -144,11 +144,15 @@ _Eng:_ (simple, present, indicative, -, s-form)
 
 Pattern 2a
 
+*Link:* https://spraakbanken.github.io/L2_profiles/Verb_patterns#presens---aktiv
+
 _____________________________________________________________________________________
 
 ### Presens - aktiv utan hjälpverb
 
 Pattern 2b, subset of 2a -- OM VI ANVÄNDER DEN
+
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#presens---aktiv-utan-hj%C3%A4lpverb
 
 _____________________________________________________________________________________
 
@@ -156,12 +160,15 @@ ________________________________________________________________________________
 
 Pattern 3a
 
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#presens---s-forms
 
 _____________________________________________________________________________________
 
 ### Presens - s-passive
 
 Pattern 3b
+
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#presens---s-passive
 
 _____________________________________________________________________________________
 
