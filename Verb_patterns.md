@@ -447,6 +447,8 @@ ________________________________________________________________________________
 
 Pattern 21
 
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#hj%C3%A4lpverb-i-presens-+-ha-+-supinum
+
 _____________________________________________________________________________________
 
 ### Hjälpverb i preteritum + ha + supinum
