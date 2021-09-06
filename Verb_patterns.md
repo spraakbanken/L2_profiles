@@ -23,9 +23,9 @@ ________________________________________________________________________________
  
 [Verbfraser med presens](#verbfraser-med-presens) 
   
-  - [Presens - aktiv](#presens-aktiv)
-  - [Presens - aktiv utan hjälpverb](#presens-aktiv-utan-hjälpverb)
-  - [Presens - s-forms](#presens-s-forms)
+  - [Presens - aktiv](#presens---aktiv)
+  - [Presens - aktiv utan hjälpverb](#presens---aktiv-utan-hjälpverb)
+  - [Presens - s-forms](#presens---s-forms)
   - [](#)
   - [](#)
   - [](#)
