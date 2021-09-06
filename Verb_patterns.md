@@ -36,9 +36,9 @@ ________________________________________________________________________________
   - [Preteritum - s-deponens](#reteritum---s-deponens)
 
 [4. Verbfraser med supinum](#4-verbfraser-med-supinum)
-  - [Perfekt / Pluskvamperfekt utan finit verb](#perfekt-/-pluskvamperfekt-utan-finit-verb)
-  - [Perfekt / Pluskvamperfekt utan finit verb - aktiv](#perfekt-/-pluskvamperfekt-utan-finit-verb---aktiv)
-  - [Perfekt / Pluskvamperfekt utan finit verb - s-passiv](#perfekt-/-pluskvamperfekt-utan-finit-verb---passiv)
+  - [Perfekt / Pluskvamperfekt utan finit verb](#perfekt-pluskvamperfekt-utan-finit-verb)
+  - [Perfekt / Pluskvamperfekt utan finit verb - aktiv](#perfekt-pluskvamperfekt-utan-finit-verb---aktiv)
+  - [Perfekt / Pluskvamperfekt utan finit verb - s-passiv](#perfekt-pluskvamperfekt-utan-finit-verb---passiv)
   - [Perfekt - s-form](#perfekt---s-form)
   - [Perfekt - s-passiv](#perfekt---s-passiv)
   - [Perfekt - s-deponens](#perfekt---s-deponens)
