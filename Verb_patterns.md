@@ -1,7 +1,7 @@
 # Verb patterns in Swedish L2 profile
 **Descriptions and details**
 
-*(Theerese Lindström Tiedemann, September, 2021)*
+*(Therese Lindström Tiedemann, September, 2021)*
 
 * The most recent version of this document is available at [https://spraakbanken.github.io/L2_profiles/Verb_patterns](https://spraakbanken.github.io/L2_profiles/Verb_patterns)
 
