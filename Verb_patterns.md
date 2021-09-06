@@ -54,26 +54,29 @@ ________________________________________________________________________________
   - [Futurum preteritum supinum](#futurum-preteritum-supinum)
   - [Futurum preteritum supinum - konditionalis aktiv](#futurum-preteritum-supinum---konditionalis-aktiv)
   - [Futurum preteritum supinum - konditionalis s-form](#futurum-preteritum-supinum---konditionalis-s-form)
-  - [](#)
-  - [](#)
 
 [6. Verbfraser - konjunktiv](#6-verbfraser - konjunktiv)
-  - [](#)
-  - [](#)
-  - [](#)
+  - [Presens - konjunktiv](#presens---konjunktiv)
+  - [Preteritum - konjunktiv](#preteritum---konjunktiv)
+  - [Preteritum - konjunktiv s-passiv](#preteritum---konjunktiv-s-passiv)
+
+[7. Verbfraser med "komplex" passiv](#7-verbfraser-med-"komplex"-passiv)
+  - [Presens - bli-passiv](#presens---bli-passiv)
+  - [Presens - vara-passiv](#presens---vara-passiv)
+  - [Preteritum - bli-passiv](#preteritum---bli-passiv)
+  - [Preteritum - vara-passiv](#preteritum---vara-passiv)
+
+[8. Verbfraser med futurum](#8-verbfraser-med-futurum)
+  - [Kommer-att futurum](#kommer---att-futurum)
+  - [Tänker-att futurum](#tänker---att-futurum)
+  - [Ska futurum](#ska-futurum)
   - [](#)
 
-[](#)
-  - [](#)
-  - [](#)
-  - [](#)
-  - [](#)
-
-[](#)
-  - [](#)
-  - [](#)
-  - [](#)
-  - [](#)
+[9. Verbfraser med modala verbs](#9-verbfraser-med-modala-verb)
+- [Hjälpverb i presens + ha + supinum](#hjälpverb-i-presens-+-ha-+-supinum)
+- [Hjälpverb i preteritum + ha + supinum](#hjälpverb-i-preteritum-+-ha-+-supinum)
+- [](#)
+- [](#)
 
 
   
@@ -353,7 +356,7 @@ Pattern 27c
 
 _____________________________________________________________________________________
 
-## 9. Verbfraser med modala verbs
+## 9. Verbfraser med modala verb
 
 _____________________________________________________________________________________
 
