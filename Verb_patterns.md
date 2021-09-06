@@ -70,8 +70,8 @@ ________________________________________________________________________________
   - [Preteritum - vara-passiv](#preteritum---vara-passiv)
 
 [8. Verbfraser med futurum](#8-verbfraser-med-futurum)
-  - [Kommer-att futurum](#kommer--att-futurum)
-  - [Tänker-att futurum](#tänker--att-futurum)
+  - [Kommer-att futurum](#kommer-att-futurum)
+  - [Tänker-att futurum](#tänker-att-futurum)
   - [Ska futurum](#ska-futurum)
 
 [9. Verbfraser med modala verbs](#9-verbfraser-med-modala-verb)
@@ -128,6 +128,7 @@ _Eng:_ (simple, -, imperative mood, active voice, -)
 Pattern 1, e.g. begå! 
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#Imperativ
+
 _____________________________________________________________________________________
 
 ## 2. Verbfraser med presens 
@@ -425,13 +426,13 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
-### _Kommer-att_ futurum
+### "Kommer-att" futurum
 
 Pattern 27a
 
 _____________________________________________________________________________________
 
-### _Tänker-att_ futurum
+### "Tänker-att" futurum
 
 Pattern 27b
 
