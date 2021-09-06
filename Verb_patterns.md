@@ -36,7 +36,7 @@ ________________________________________________________________________________
   - [Preteritum](#preteritum)
   - [Preteritum - s-forms](#preteritum---s-forms)
   - [Preteritum - s-passive](#preteritum---s-passive)
-  - [Preteritum - s-deponens](#reteritum---s-deponens)
+  - [Preteritum - s-deponens](#preteritum---s-deponens)
 
 [4. Verbfraser med supinum](#4-verbfraser-med-supinum)
   - [Perfekt och Pluskvamperfekt utan finit verb](#perfekt-och-pluskvamperfekt-utan-finit-verb)
@@ -176,6 +176,8 @@ ________________________________________________________________________________
 
 Pattern 3c
 
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#presens---s-deponens
+
 _____________________________________________________________________________________
 
 ## 3. Verbfraser med preteritum 
@@ -186,6 +188,7 @@ ________________________________________________________________________________
 
 Pattern 4a
 
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum
 
 _____________________________________________________________________________________
 
@@ -193,20 +196,21 @@ ________________________________________________________________________________
 
 Pattern 5a
 
-
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---s-forms
 _____________________________________________________________________________________
 
 ### Preteritum - s-passive
 
 Pattern 5b
 
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---s-passive
 _____________________________________________________________________________________
 
 ### Preteritum - s-deponens
 
 Pattern 5c
 
-
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---s-deponens
 _____________________________________________________________________________________
 
 
