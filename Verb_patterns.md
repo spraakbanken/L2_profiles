@@ -17,11 +17,57 @@ _Useful links_
 
 _____________________________________________________________________________________
 ## Contents
-[1. General information](#1-general-information)
+[Verbfraser med imperativ](#verbfraser-med-imperativ)
 
-  - [1.1 Description of the project](#11-description-of-the-project)
+  - [Imperativ](#Imperativ)
+ 
+[Verbfraser med presens](#verbfraser-med-presens) 
   
-  - [1.2 Description of the SW1203 subcorpus](#12-description-of-the-SW1203-subcorpus)
+  - [Presens - aktiv](#presens-aktiv)
+  - [Presens - aktiv utan hjälpverb](#presens-aktiv-utan-hjälpverb)
+  - [Presens - s-forms](#presens-s-forms)
+  - [](#)
+  - [](#)
+  - [](#)
+  - [](#)
+
+[](#)
+  - [](#)
+  - [](#)
+  - [](#)
+  - [](#)
+
+[](#)
+  - [](#)
+  - [](#)
+  - [](#)
+  - [](#)
+
+[](#)
+  - [](#)
+  - [](#)
+  - [](#)
+  - [](#)
+
+[](#)
+  - [](#)
+  - [](#)
+  - [](#)
+  - [](#)
+
+[](#)
+  - [](#)
+  - [](#)
+  - [](#)
+  - [](#)
+
+[](#)
+  - [](#)
+  - [](#)
+  - [](#)
+  - [](#)
+
+
   
   - [1.3 To cite the SW1203 subcorpus](#13-to-cite-the-SW1203-subcorpus)
 
@@ -50,7 +96,7 @@ Pattern 2a
 
 _____________________________________________________________________________________
 
-### Presens - aktiv (inga hjälpverb)
+### Presens - aktiv utan hjälpverb
 
 Pattern 2b, subset of 2a -- OM VI ANVÄNDER DEN
 
