@@ -17,39 +17,47 @@ _Useful links_
 
 _____________________________________________________________________________________
 ## Contents
-[Verbfraser med imperativ](#verbfraser-med-imperativ)
+[1. Verbfraser med imperativ](#1-verbfraser-med-imperativ)
 
   - [Imperativ](#Imperativ)
  
-[Verbfraser med presens](#verbfraser-med-presens) 
+[2. Verbfraser med presens](#2-verbfraser-med-presens) 
   
   - [Presens - aktiv](#presens---aktiv)
   - [Presens - aktiv utan hjälpverb](#presens---aktiv-utan-hjälpverb)
   - [Presens - s-forms](#presens---s-forms)
-  - [](#)
-  - [](#)
+  - [Presens - s-passive](#presens---s-passive)
+  - [Presens - s-deponens](#presens---s-deponens)
+
+[3. Verbfraser med preteritum](#3-verbfraser-med-preteritum)
+  - [Preteritum](#preteritum)
+  - [Preteritum - s-forms](#preteritum---s-forms)
+  - [Preteritum - s-passive](#preteritum---s-passive)
+  - [Preteritum - s-deponens](#reteritum---s-deponens)
+
+[4. Verbfraser med supinum](#4-verbfraser-med-supinum)
+  - [Perfekt / Pluskvamperfekt utan finit verb](#perfekt-/-pluskvamperfekt-utan-finit-verb)
+  - [Perfekt / Pluskvamperfekt utan finit verb - aktiv](#perfekt-/-pluskvamperfekt-utan-finit-verb---aktiv)
+  - [Perfekt / Pluskvamperfekt utan finit verb - s-passiv](#perfekt-/-pluskvamperfekt-utan-finit-verb---passiv)
+  - [Perfekt - s-form](#perfekt---s-form)
+  - [Perfekt - s-passiv](#perfekt---s-passiv)
+  - [Perfekt - s-deponens](#perfekt---s-deponens)
+  - [Pluskvamperfekt](#pluskvamperfekt)
+  - [Pluskvamperfekt - s-form](#pluskvamperfekt---s-form)
+  - [Pluskvamperfekt - s-passiv](#pluskvamperfekt---s-passiv)
+  - [Pluskvamperfekt - s-deponens](#pluskvamperfekt---s-deponens)
+
+[5. Konditionalis](#5-konditionalis)
+  - [Futurum preteritum - konditionalis](#futurum-preteritum---konditionalis)
+  - [Futurum preteritum - konditionalis aktiv](#futurum-preteritum---konditionalis-aktiv)
+  - [Futurum preteritum - konditionalis s-form](#futurum-preteritum---konditionalis-s-form)
+  - [Futurum preteritum supinum](#futurum-preteritum-supinum)
+  - [Futurum preteritum supinum - konditionalis aktiv](#futurum-preteritum-supinum---konditionalis-aktiv)
+  - [Futurum preteritum supinum - konditionalis s-form](#futurum-preteritum-supinum---konditionalis-s-form)
   - [](#)
   - [](#)
 
-[](#)
-  - [](#)
-  - [](#)
-  - [](#)
-  - [](#)
-
-[](#)
-  - [](#)
-  - [](#)
-  - [](#)
-  - [](#)
-
-[](#)
-  - [](#)
-  - [](#)
-  - [](#)
-  - [](#)
-
-[](#)
+[6. Verbfraser - konjunktiv](#6-verbfraser - konjunktiv)
   - [](#)
   - [](#)
   - [](#)
@@ -76,7 +84,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
-## Verbfraser med imperativ 
+## 1. Verbfraser med imperativ 
 
 
 _____________________________________________________________________________________
@@ -86,7 +94,7 @@ ________________________________________________________________________________
 Pattern 1
 _____________________________________________________________________________________
 
-## Verbfraser med presens 
+## 2. Verbfraser med presens 
 
 _____________________________________________________________________________________
 
@@ -121,7 +129,7 @@ Pattern 3c
 
 _____________________________________________________________________________________
 
-## Verbfraser med preteritum 
+## 3. Verbfraser med preteritum 
 
 _____________________________________________________________________________________
 
@@ -153,7 +161,7 @@ Pattern 5c
 _____________________________________________________________________________________
 
 
-## Verbfraser med supinum 
+## 4. Verbfraser med supinum 
 
 _____________________________________________________________________________________
 
@@ -226,7 +234,7 @@ Pattern 9c subset of 9a
 
 _____________________________________________________________________________________
 
-## Konditionalis 
+## 5. Konditionalis 
 
 _____________________________________________________________________________________
 
@@ -270,7 +278,7 @@ Pattern 24b
 
 _____________________________________________________________________________________
 
-## Verbfraser  - konjunktiv 
+## 6. Verbfraser  - konjunktiv 
 
 _____________________________________________________________________________________
 
@@ -293,7 +301,7 @@ Pattern 25d
 
 _____________________________________________________________________________________
 
-## Verbfraser med "komplex" passiv
+## 7. Verbfraser med "komplex" passiv
 
 _____________________________________________________________________________________
 
@@ -321,7 +329,7 @@ Pattern 12b
 
 _____________________________________________________________________________________
 
-## Verbfraser med futurum
+## 8. Verbfraser med futurum
 
 
 _____________________________________________________________________________________
@@ -345,7 +353,7 @@ Pattern 27c
 
 _____________________________________________________________________________________
 
-## Verbfraser med modala verbs
+## 9. Verbfraser med modala verbs
 
 _____________________________________________________________________________________
 
