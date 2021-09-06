@@ -17,6 +17,9 @@ _Useful links_
 
 _____________________________________________________________________________________
 ## Contents
+
+[Terminologi svenska - engelska](#terminologi-svenska---engelska)
+
 [1. Verbfraser med imperativ](#1-verbfraser-med-imperativ)
 
   - [Imperativ](#Imperativ)
@@ -76,8 +79,35 @@ ________________________________________________________________________________
 - [Hjälpverb i preteritum + ha + supinum](#hjälpverb-i-preteritum-+-ha-+-supinum)
 
 
+_____________________________________________________________________________________
 
-  
+## Terminologi svenska - engelska
+
+| ***Pattern characteristics*** |  Swedish | English | Description/Example|
+|:-------------|:--------------|:--------------|:--------------|
+| **Verbfras / Verb phrase structure**| • simplex, complex, elliptic| • simple  | i.e. consisting of one verb|
+||• complex|• complex| i.e. consisting of several verbs, aka verb chains / verbkedjor|
+||• elliptisk|• elliptic| i.e. dropping one of the verbs in a chain, usually an auxiliary verb |
+|||||
+| **Tempus / Tense**| • presens | • Present || 
+|| • perfekt| • Perfect ||
+|| • preteritum | • Past (Preterite)||
+|| • pluskvamperfekt| • Pluperfect ||
+|| • futurum| • Future||
+|| • futurum preteriti| • Future preterite (future of the past)||
+|| • konditionalis | • Conditional ||
+| **Modus / Mood**| • indikativ| • Indicative||
+|| • imperativ| • Imperative||
+|| • konjunktiv| • Subjunctive||
+| **Diates / Voice**| • aktiv| • Active||
+|| • passiv| • Passive||
+|| • deponens| • Deponent||
+| **S-form / S-form **| • | • ||
+|| • | • ||
+|| • | • ||
+|| • | • ||
+|| • | • ||
+
 
 
 _____________________________________________________________________________________
@@ -89,7 +119,15 @@ ________________________________________________________________________________
 
 ### Imperativ 
 
-Pattern 1
+(_Eng: Imperative_)
+
+_Swe:_(simplex, -, imperativ modus, aktiv diates, -)
+
+_Eng:_ (simple, -, imperative mood, active voice, -)
+
+Pattern 1, e.g. begå! 
+
+
 _____________________________________________________________________________________
 
 ## 2. Verbfraser med presens 
@@ -97,6 +135,12 @@ ________________________________________________________________________________
 _____________________________________________________________________________________
 
 ### Presens - aktiv 
+
+(_Eng: Present tense - active voice_)
+
+_Swe:_(simplex, presens, indikativ, -, s-form)
+
+_Eng:_ (simple, present, indicative, -, s-form)
 
 Pattern 2a
 
