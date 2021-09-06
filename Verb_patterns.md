@@ -70,7 +70,6 @@ ________________________________________________________________________________
   - [Kommer-att futurum](#kommer---att-futurum)
   - [Tänker-att futurum](#tänker---att-futurum)
   - [Ska futurum](#ska-futurum)
-  - [](#)
 
 [9. Verbfraser med modala verbs](#9-verbfraser-med-modala-verb)
 - [Hjälpverb i presens + ha + supinum](#hjälpverb-i-presens-+-ha-+-supinum)
