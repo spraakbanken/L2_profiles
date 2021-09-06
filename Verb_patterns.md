@@ -41,7 +41,7 @@ ________________________________________________________________________________
 [4. Verbfraser med supinum](#4-verbfraser-med-supinum)
   - [Perfekt och Pluskvamperfekt utan finit verb](#perfekt-och-pluskvamperfekt-utan-finit-verb)
   - [Perfekt och Pluskvamperfekt utan finit verb - aktiv](#perfekt-och-pluskvamperfekt-utan-finit-verb---aktiv)
-  - [Perfekt och Pluskvamperfekt utan finit verb - s-passiv](#perfekt-och-pluskvamperfekt-utan-finit-verb---passiv)
+  - [Perfekt och Pluskvamperfekt utan finit verb - s-passiv](#perfekt-och-pluskvamperfekt-utan-finit-verb---s-passiv)
   - [Perfekt - s-form](#perfekt---s-form)
   - [Perfekt - s-passiv](#perfekt---s-passiv)
   - [Perfekt - s-deponens](#perfekt---s-deponens)
@@ -223,18 +223,21 @@ ________________________________________________________________________________
 
 Pattern 10a
 
-
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt-och-pluskvamperfekt-utan-finit-verb
 _____________________________________________________________________________________
 
 ### Perfekt och Pluskvamperfekt utan finit verb - aktiv
 
 Pattern 10b, subset of 10a
 
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt-och-pluskvamperfekt-utan-finit-verb---aktiv
+
 _____________________________________________________________________________________
 
 ### Perfekt och Pluskvamperfekt utan finit verb - s-passiv
 
 Pattern 10c, subset of 10a
+
 
 
 _____________________________________________________________________________________
