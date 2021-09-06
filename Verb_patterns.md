@@ -197,6 +197,7 @@ ________________________________________________________________________________
 Pattern 5a
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---s-forms
+
 _____________________________________________________________________________________
 
 ### Preteritum - s-passive
@@ -204,6 +205,7 @@ ________________________________________________________________________________
 Pattern 5b
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---s-passive
+
 _____________________________________________________________________________________
 
 ### Preteritum - s-deponens
@@ -211,7 +213,9 @@ ________________________________________________________________________________
 Pattern 5c
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---s-deponens
+
 _____________________________________________________________________________________
+
 
 
 ## 4. Verbfraser med supinum 
@@ -224,6 +228,7 @@ ________________________________________________________________________________
 Pattern 10a
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt-och-pluskvamperfekt-utan-finit-verb
+
 _____________________________________________________________________________________
 
 ### Perfekt och Pluskvamperfekt utan finit verb - aktiv
@@ -247,6 +252,7 @@ ________________________________________________________________________________
 Pattern 7a
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt---s-form
+
 _____________________________________________________________________________________
 
 ### Perfekt - s-passiv
@@ -347,6 +353,7 @@ ________________________________________________________________________________
 Pattern 24b
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum-supinum---konditionalis-s-form
+
 _____________________________________________________________________________________
 
 ## 6. Verbfraser  - konjunktiv 
