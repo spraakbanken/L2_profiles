@@ -55,7 +55,7 @@ ________________________________________________________________________________
   - [Futurum preteritum supinum - konditionalis aktiv](#futurum-preteritum-supinum---konditionalis-aktiv)
   - [Futurum preteritum supinum - konditionalis s-form](#futurum-preteritum-supinum---konditionalis-s-form)
 
-[6. Verbfraser - konjunktiv](#6-verbfraser - konjunktiv)
+[6. Verbfraser - konjunktiv](#6-verbfraser---konjunktiv)
   - [Presens - konjunktiv](#presens---konjunktiv)
   - [Preteritum - konjunktiv](#preteritum---konjunktiv)
   - [Preteritum - konjunktiv s-passiv](#preteritum---konjunktiv-s-passiv)
