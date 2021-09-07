@@ -228,7 +228,7 @@ ________________________________________________________________________________
 
 ### Perfekt och Pluskvamperfekt utan finit verb (alla)
 
-Mönster 10a, t.ex.
+Mönster 10a, t.ex. När jag _läst_ ut en jättebra bok, är det svårt att hitta en ny bok.; När jag _läst_ ut den fantastiska boken, visste jag inte vad jag skulle läsa sen.
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt-och-pluskvamperfekt-utan-finit-verb
 
@@ -236,15 +236,15 @@ ________________________________________________________________________________
 
 ### Perfekt och Pluskvamperfekt utan finit verb - aktiv
 
-Pattern 10b, subset of 10a
+Mönster 10b (undergrupp av 10a), t.ex. När jag _läst_ ut en jättebra bok, är det svårt att hitta en ny bok.
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt-och-pluskvamperfekt-utan-finit-verb---aktiv
 
 _____________________________________________________________________________________
 
-### Perfekt och Pluskvamperfekt utan finit verb - s-passiv
+### Perfekt och Pluskvamperfekt utan finit verb - s-form
 
-Pattern 10c, subset of 10a
+Mönster 10c, (undergrupp av 10a), t.ex. När jag _läst_ ut den fantastiska boken, visste jag inte vad jag skulle läsa sen.
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt-och-pluskvamperfekt-utan-finit-verb---s-passiv
 
@@ -252,7 +252,7 @@ ________________________________________________________________________________
 
 ### Perfekt - s-form
 
-Pattern 7a
+Mönster 7a, t.ex. Studentsången _har sjungits_ av studenter i många många år.; Barn _har träffats_ för att fira sina födelsedagar i alla tider.
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt---s-form
 
@@ -260,7 +260,7 @@ ________________________________________________________________________________
 
 ### Perfekt - s-passiv
 
-Pattern 7b, subset of 7a
+Mönster 7b, (undergrupp av 7a), t.ex. Studentsången _har sjungits_ av studenter i många många år.
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt---s-passiv
 
@@ -268,7 +268,7 @@ ________________________________________________________________________________
 
 ### Perfekt - s-deponens
 
-Pattern 7c, subset of 7a
+Mönster 7c, (undergrupp av 7a), t.ex. Barn _har träffats_ för att fira sina födelsedagar i alla tider.
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt---s-deponens
 
@@ -276,7 +276,7 @@ ________________________________________________________________________________
 
 ### Pluskvamperfekt
 
-Pattern 8
+Mönster 8, t.ex. Jag _hade läst ut_ boken innan dagen var slut.
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#pluskvamperfekt
 
@@ -284,7 +284,7 @@ ________________________________________________________________________________
 
 ### Pluskvamperfekt - s-form
 
-Pattern 9a
+Mönster 9a, t.ex. Böckerna _hade lagts_ fram på borden, redo för nya läsare.; De _hade träffats_ på dagis och var fortfarande vänner.
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#pluskvamperfekt---s-form
 
@@ -292,7 +292,7 @@ ________________________________________________________________________________
 
 ### Pluskvamperfekt - s-passiv
 
-Pattern 9b subset of 9a
+Mönster 9b (undergrupp av 9a), t.ex. Böckerna _hade lagts_ fram på borden, redo för nya läsare.
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#pluskvamperfekt---s-passiv
 
@@ -300,18 +300,18 @@ ________________________________________________________________________________
 
 ### Pluskvamperfekt - s-deponens
 
-Pattern 9c subset of 9a
+Mönster 9c (undergrupp av 9a), t.ex. De _hade träffats_ på dagis och var fortfarande vänner.
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#pluskvamperfekt---s-deponens
 
 _____________________________________________________________________________________
 
-## 5. Konditionalis 
+## 5. Futurum preteriti eller Konditionalis 
 
 _____________________________________________________________________________________
 
 
-### Futurum preteritum - konditionalis
+### Futurum preteriti - konditionalis
 
 Pattern 23a
 
@@ -319,7 +319,7 @@ Pattern 23a
 
 _____________________________________________________________________________________
 
-### Futurum preteritum - konditionalis aktiv
+### Futurum preteriti - konditionalis aktiv
 
 Pattern 23b, subset of 23a
 
@@ -327,7 +327,7 @@ Pattern 23b, subset of 23a
 
 _____________________________________________________________________________________
 
-### Futurum preteritum - konditionalis s-form
+### Futurum preteriti - konditionalis s-form
 
 Pattern 23c, subset of 23a
 
