@@ -46,7 +46,7 @@ ________________________________________________________________________________
   - [Pluskvamperfekt - s-form](#pluskvamperfekt---s-form)
   - [Pluskvamperfekt - s-passiv](#pluskvamperfekt---s-passiv)
   - [Pluskvamperfekt - s-deponens](#pluskvamperfekt---s-deponens)
-  - [Perfekt och Pluskvamperfekt utan finit verb (alla)](#perfekt-och-pluskvamperfekt-utan-finit-verb-(alla))
+  - [Perfekt och Pluskvamperfekt utan finit verb (alla)](#perfekt-och-pluskvamperfekt-utan-finit-verb-aktiv---eller---s-form)
   - [Perfekt och Pluskvamperfekt utan finit verb - aktiv](#perfekt-och-pluskvamperfekt-utan-finit-verb---aktiv)
   - [Perfekt och Pluskvamperfekt utan finit verb - s-form](#perfekt-och-pluskvamperfekt-utan-finit-verb---s-form)
 
@@ -226,7 +226,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________
 
 
-### Perfekt och Pluskvamperfekt utan finit verb (alla)
+### Perfekt och Pluskvamperfekt utan finit verb - aktiva och s-former
 
 Mönster 10a, t.ex. När jag _läst_ ut en jättebra bok, är det svårt att hitta en ny bok.; När jag _läst_ ut den fantastiska boken, visste jag inte vad jag skulle läsa sen.
 
