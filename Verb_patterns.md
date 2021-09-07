@@ -46,7 +46,7 @@ ________________________________________________________________________________
   - [Pluskvamperfekt - s-form](#pluskvamperfekt---s-form)
   - [Pluskvamperfekt - s-passiv](#pluskvamperfekt---s-passiv)
   - [Pluskvamperfekt - s-deponens](#pluskvamperfekt---s-deponens)
-  - [Perfekt och Pluskvamperfekt utan finit verb](#perfekt-och-pluskvamperfekt-utan-finit-verb)
+  - [Perfekt och Pluskvamperfekt utan finit verb (alla)](#perfekt-och-pluskvamperfekt-utan-finit-verb-(alla))
   - [Perfekt och Pluskvamperfekt utan finit verb - aktiv](#perfekt-och-pluskvamperfekt-utan-finit-verb---aktiv)
   - [Perfekt och Pluskvamperfekt utan finit verb - s-form](#perfekt-och-pluskvamperfekt-utan-finit-verb---s-form)
 
@@ -127,7 +127,7 @@ _Swe:_(simplex, -, imperativ modus, aktiv diates, -)
 
 _Eng:_ (simple, -, imperative mood, active voice, -)
 
-Pattern 1, e.g. begå! 
+Mönster 1, t.ex. Läs! 
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#Imperativ
 
@@ -145,7 +145,7 @@ _Swe:_(simplex, presens, indikativ, -, s-form)
 
 _Eng:_ (simple, present, indicative, -, s-form)
 
-Pattern 2a
+Mönster 2a, t.ex. jag _läser_
 
 *Link:* https://spraakbanken.github.io/L2_profiles/Verb_patterns#presens---aktiv
 
@@ -153,7 +153,7 @@ ________________________________________________________________________________
 
 ### Presens - aktiv utan hjälpverb
 
-Pattern 2b, subset of 2a -- OM VI ANVÄNDER DEN
+Mönster 2b, undergrupp av 2a -- OM VI ANVÄNDER DEN
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#presens---aktiv-utan-hj%C3%A4lpverb
 
@@ -161,15 +161,15 @@ ________________________________________________________________________________
 
 ### Presens - s-forms
 
-Pattern 3a
+Mönster 3a, t.ex. Svenska _studeras_ vid flera universitet.; Vi _hoppas_ att många deltar i kursen.
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#presens---s-forms
 
 _____________________________________________________________________________________
 
-### Presens - s-passive
+### Presens - s-passiv
 
-Pattern 3b
+Mönster 3b, t.ex. Svenska _studeras_ vid flera universitet.
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#presens---s-passive
 
@@ -177,7 +177,7 @@ ________________________________________________________________________________
 
 ### Presens - s-deponens
 
-Pattern 3c
+Mönster 3c, t.ex. Vi _hoppas_ att många deltar i kursen.
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#presens---s-deponens
 
@@ -189,23 +189,23 @@ ________________________________________________________________________________
 
 ### Preteritum
 
-Pattern 4a
+Mönster 4a, t.ex. Jag _läste_ Det Röda Rummet av Strindberg under sommaren.
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum
 
 _____________________________________________________________________________________
 
-### Preteritum - s-forms
+### Preteritum - s-form
 
-Pattern 5a
+Mönster 5a, t.ex. Det Röda Rummet av Strindberg _lästes_ av många under sommaren.; Många _träffades_ den 6:e juni för att fira nationaldagen.
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---s-forms
 
 _____________________________________________________________________________________
 
-### Preteritum - s-passive
+### Preteritum - s-passiv
 
-Pattern 5b
+Mönster 5b, t.ex. Det Röda Rummet av Strindberg _lästes_ av många under sommaren.
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---s-passive
 
@@ -213,7 +213,7 @@ ________________________________________________________________________________
 
 ### Preteritum - s-deponens
 
-Pattern 5c
+Mönster 5c, t.ex. Många _träffades_ den 6:e juni för att fira nationaldagen.
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---s-deponens
 
@@ -226,9 +226,9 @@ ________________________________________________________________________________
 _____________________________________________________________________________________
 
 
-### Perfekt och Pluskvamperfekt utan finit verb
+### Perfekt och Pluskvamperfekt utan finit verb (alla)
 
-Pattern 10a
+Mönster 10a, t.ex.
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt-och-pluskvamperfekt-utan-finit-verb
 
