@@ -95,7 +95,7 @@ ________________________________________________________________________________
 || • preteritum | • Past (Preterite)||
 || • pluskvamperfekt| • Pluperfect ||
 || • futurum| • Future||
-|| • futurum preteriti| • Future preterite (future of the past)||
+|| • futurum preteritum| • Future preterite (future of the past)||
 || • konditionalis | • Conditional ||
 | Modus / Mood| • indikativ| • Indicative||
 || • imperativ| • Imperative||
@@ -306,54 +306,55 @@ Mönster 9c (undergrupp av 9a), t.ex. De _hade träffats_ på dagis och var fort
 
 _____________________________________________________________________________________
 
-## 5. Futurum preteriti eller Konditionalis 
+## 5. Futurum preteritum eller Konditionalis 
 
 _____________________________________________________________________________________
 
 
-### Futurum preteriti - konditionalis
+### Futurum preteritum - konditionalis
 
-Pattern 23a
+Mönster 23a, t.ex. Det _skulle bli_ fint väder imorgon. (futurum preteritum); Om de vore rika, _skulle_ de inte _bo_ i ett så slitet hus. (konditionalis)
+Futurum preteritum och konditionalis är båda perifrastiska verbkonstruktioner som bildas med verbet _skulle_ plus INFINTIV. Eftersom vi inte kan särskilja dessa formellt så står de som ett mönster, men betydelsen är olika. Futurum preteritum uttrycker att aktionen som beskrivs av infinitivfrasen ska ske i efter den tidpunkt i dåtiden som annars behandlas. Konditionalis är en perifrastisk verbform, dvs. en verbförbindelse, som uttrycker att något är inte är verklighet och kanske osannolikt.
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum---konditionalis
 
 _____________________________________________________________________________________
 
-### Futurum preteriti - konditionalis aktiv
+### Futurum preteritum - konditionalis aktiv
 
-Pattern 23b, subset of 23a
+Mönster 23b, (undergrupp av 23a), t.ex. Det _skulle bli_ fint väder imorgon. (futurum preteritum); Om de vore rika, _skulle_ de inte _bo_ i ett så slitet hus. (konditionalis)
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum---konditionalis-aktiv
 
 _____________________________________________________________________________________
 
-### Futurum preteriti - konditionalis s-form
+### Futurum preteritum eller konditionalis s-form
 
-Pattern 23c, subset of 23a
+Mönster 23c, (undergrupp av 23a), t.ex. Tentor _skulle rättas_ efter att de hade skrivits och innan personalen fick ledigt.
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum---konditionalis-s-form
 
 _____________________________________________________________________________________
 
-### Futurum preteritum supinum 
+### Futurum preteritum eller konditionalis med supinum 
 
-Pattern 24
+Mönster 24, t.ex. Jag _skulle ha läst_ varje klassiker som finns, om jag hade haft tid.
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum-supinum
 
 _____________________________________________________________________________________
 
-### Futurum preteritum supinum - konditionalis aktiv 
+### Futurum preteritum eller konditionalis med supinum - aktiv 
 
-Pattern 24a
+Mönster 24a, (undergrupp av 24) t.ex. Jag _skulle ha läst_ varje klassiker som finns, om jag hade haft tid.
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum-supinum---konditionalis-aktiv
 
 _____________________________________________________________________________________
 
-### Futurum preteritum supinum - konditionalis s-form
+### Futurum preteritum eller konditionalis med supinum -  s-form
 
-Pattern 24b
+Mönster 24b, (undergrupp av 24) t.ex. Vi _skulle ha träffats_ i går men jag fick förhinder.
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum-supinum---konditionalis-s-form
 
@@ -365,7 +366,7 @@ ________________________________________________________________________________
 
 ### Presens - konjunktiv 
 
-Pattern 25b
+Mönster 25b, t.ex. _Leve_ födelsedagsbarnet!
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#presens---konjunktiv
 
@@ -373,7 +374,7 @@ ________________________________________________________________________________
 
 ### Preteritum - konjunktiv
 
-Pattern 25c
+Mönster 25c, t.ex. _Måtte_ vi inte missa flyget!
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---konjunktiv
 
@@ -381,19 +382,19 @@ ________________________________________________________________________________
 
 ### Preteritum - konjunktiv s-passiv
 
-Pattern 25d
+Mönster 25d, t.ex. Om det _funnes_ alternativ, så skulle vi inte operera.
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---konjunktiv-s-passiv
 
 _____________________________________________________________________________________
 
-## 7. Verbfraser med "komplex" passiv
+## 7. Verbfraser med perifrastisk passiv
 
 _____________________________________________________________________________________
 
 ### Presens - bli-passiv
 
-Pattern 11a
+Mönster 11a, t.ex. En del _blir roade_ av frågesporter.
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#presens---bli-passiv
 
@@ -401,7 +402,7 @@ ________________________________________________________________________________
 
 ### Presens - vara-passiv
 
-Pattern 11b
+Mönster 11b, t.ex. Huset _är målat_ i en färg som påminner om röda hallon.
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#presens---vara-passiv
 
@@ -409,7 +410,7 @@ ________________________________________________________________________________
 
 ### Preteritum - bli-passiv
 
-Pattern 12a
+Mönster 12a, t.ex. Cykeln _blev stulen_ precis utanför polishuset.
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---bli-passiv
 
@@ -417,7 +418,7 @@ ________________________________________________________________________________
 
 ### Preteritum - vara-passiv
 
-Pattern 12b
+Mönster 12b, t.ex. Disken _var undanplockad_ och bordet _vad torkat_.
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---vara-passiv
 
@@ -430,7 +431,7 @@ ________________________________________________________________________________
 
 ### "Kommer-att" futurum
 
-Pattern 27a
+Mönster 27a, t.ex. Vi _kommer att diskutera_ eventuella frågor på mötet imorgon.
 
 *Link*: https://github.com/spraakbanken/L2_profiles/blob/master/Verb_patterns.md#kommer-att-futurum
 
@@ -438,7 +439,7 @@ ________________________________________________________________________________
 
 ### "Tänker-att" futurum
 
-Pattern 27b
+Mönster 27b, t.ex. Jag _tänker läsa_ kinesiska i höst.
 
 *Link*: https://github.com/spraakbanken/L2_profiles/blob/master/Verb_patterns.md#t%C3%A4nker-att-futurum
 
@@ -446,7 +447,7 @@ ________________________________________________________________________________
 
 ### "Ska" futurum
 
-Pattern 27c
+Mönster 27c, t.ex. Jag _ska läsa_ nordiska språk i höst.
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#ska-futurum
 
@@ -459,7 +460,7 @@ ________________________________________________________________________________
 
 ### Hjälpverb i presens + ha + supinum
 
-Pattern 21
+Mönster 21
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#hj%C3%A4lpverb-i-presens--ha--supinum
 
@@ -467,7 +468,7 @@ ________________________________________________________________________________
 
 ### Hjälpverb i preteritum + ha + supinum
 
-Pattern 22
+Mönster 22
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#hj%C3%A4lpverb-i-preteritum--ha--supinum
 
