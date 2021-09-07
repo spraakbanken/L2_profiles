@@ -46,7 +46,7 @@ ________________________________________________________________________________
   - [Pluskvamperfekt - s-form](#pluskvamperfekt---s-form)
   - [Pluskvamperfekt - s-passiv](#pluskvamperfekt---s-passiv)
   - [Pluskvamperfekt - s-deponens](#pluskvamperfekt---s-deponens)
-  - [Perfekt och Pluskvamperfekt utan finit verb (alla)](#perfekt-och-pluskvamperfekt-utan-finit-verb-aktiv---eller---s-form)
+  - [Perfekt och Pluskvamperfekt utan finit verb aktiv eller s-form](#perfekt-och-pluskvamperfekt-utan-finit-verb-aktiv---eller---s-form)
   - [Perfekt och Pluskvamperfekt utan finit verb - aktiv](#perfekt-och-pluskvamperfekt-utan-finit-verb---aktiv)
   - [Perfekt och Pluskvamperfekt utan finit verb - s-form](#perfekt-och-pluskvamperfekt-utan-finit-verb---s-form)
 
