@@ -309,7 +309,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________
 
 
-### Futurum preteritum - konditionalis
+### Futurum preteritum eller konditionalis
 
 Mönster 23a, t.ex. Det _skulle bli_ fint väder imorgon. (futurum preteritum); Om de vore rika, _skulle_ de inte _bo_ i ett så slitet hus. (konditionalis)
 Futurum preteritum och konditionalis är båda perifrastiska verbkonstruktioner som bildas med verbet _skulle_ plus INFINTIV. Eftersom vi inte kan särskilja dessa formellt så står de som ett mönster, men betydelsen är olika. Futurum preteritum uttrycker att aktionen som beskrivs av infinitivfrasen ska ske i efter den tidpunkt i dåtiden som annars behandlas. Konditionalis är en perifrastisk verbform, dvs. en verbförbindelse, som uttrycker att något är inte är verklighet och kanske osannolikt.
@@ -318,7 +318,7 @@ Futurum preteritum och konditionalis är båda perifrastiska verbkonstruktioner 
 
 _____________________________________________________________________________________
 
-### Futurum preteritum - konditionalis aktiv
+### Futurum preteritum eller konditionalis aktiv
 
 Mönster 23b, (undergrupp av 23a), t.ex. Det _skulle bli_ fint väder imorgon. (futurum preteritum); Om de vore rika, _skulle_ de inte _bo_ i ett så slitet hus. (konditionalis)
 
@@ -350,7 +350,7 @@ Mönster 24a, (undergrupp av 24) t.ex. Jag _skulle ha läst_ varje klassiker som
 
 _____________________________________________________________________________________
 
-### Futurum preteritum eller konditionalis med supinum -  s-form
+### Futurum preteritum eller konditionalis med supinum - s-form
 
 Mönster 24b, (undergrupp av 24) t.ex. Vi _skulle ha träffats_ i går men jag fick förhinder.
 
