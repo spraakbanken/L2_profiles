@@ -228,7 +228,7 @@ ________________________________________________________________________________
 
 Mönster 10a, t.ex. När jag _läst_ ut en jättebra bok, är det svårt att hitta en ny bok.; När jag _läst_ ut den fantastiska boken, visste jag inte vad jag skulle läsa sen.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt-och-pluskvamperfekt-utan-finit-verb
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt-och-pluskvamperfekt-utan-finit-verb---aktiva-och-s-former
 
 _____________________________________________________________________________________
 
@@ -244,7 +244,7 @@ ________________________________________________________________________________
 
 Mönster 10c, (undergrupp av 10a), t.ex. När jag _läst_ ut den fantastiska boken, visste jag inte vad jag skulle läsa sen.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt-och-pluskvamperfekt-utan-finit-verb---s-passiv
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt-och-pluskvamperfekt-utan-finit-verb---s-form
 
 _____________________________________________________________________________________
 
@@ -314,7 +314,7 @@ ________________________________________________________________________________
 Mönster 23a, t.ex. Det _skulle bli_ fint väder imorgon. (futurum preteritum); Om de vore rika, _skulle_ de inte _bo_ i ett så slitet hus. (konditionalis)
 Futurum preteritum och konditionalis är båda perifrastiska verbkonstruktioner som bildas med verbet _skulle_ plus INFINTIV. Eftersom vi inte kan särskilja dessa formellt så står de som ett mönster, men betydelsen är olika. Futurum preteritum uttrycker att aktionen som beskrivs av infinitivfrasen ska ske i efter den tidpunkt i dåtiden som annars behandlas. Konditionalis är en perifrastisk verbform, dvs. en verbförbindelse, som uttrycker att något är inte är verklighet och kanske osannolikt.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum---konditionalis
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum-eller-konditionalis
 
 _____________________________________________________________________________________
 
@@ -322,7 +322,7 @@ ________________________________________________________________________________
 
 Mönster 23b, (undergrupp av 23a), t.ex. Det _skulle bli_ fint väder imorgon. (futurum preteritum); Om de vore rika, _skulle_ de inte _bo_ i ett så slitet hus. (konditionalis)
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum---konditionalis-aktiv
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum-eller-konditionalis-aktiv
 
 _____________________________________________________________________________________
 
@@ -330,7 +330,7 @@ ________________________________________________________________________________
 
 Mönster 23c, (undergrupp av 23a), t.ex. Tentor _skulle rättas_ efter att de hade skrivits och innan personalen fick ledigt.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum---konditionalis-s-form
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum-eller-konditionalis-s-form
 
 _____________________________________________________________________________________
 
@@ -338,7 +338,7 @@ ________________________________________________________________________________
 
 Mönster 24, t.ex. Jag _skulle ha läst_ varje klassiker som finns, om jag hade haft tid.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum-supinum
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum-eller-konditionalis-med-supinum
 
 _____________________________________________________________________________________
 
@@ -346,7 +346,7 @@ ________________________________________________________________________________
 
 Mönster 24a, (undergrupp av 24) t.ex. Jag _skulle ha läst_ varje klassiker som finns, om jag hade haft tid.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum-supinum---konditionalis-aktiv
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum-eller-konditionalis-med-supinum---aktiv
 
 _____________________________________________________________________________________
 
@@ -354,7 +354,7 @@ ________________________________________________________________________________
 
 Mönster 24b, (undergrupp av 24) t.ex. Vi _skulle ha träffats_ i går men jag fick förhinder.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum-supinum---konditionalis-s-form
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum-eller-konditionalis-med-supinum---s-form
 
 _____________________________________________________________________________________
 
