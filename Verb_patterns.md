@@ -26,8 +26,8 @@ ________________________________________________________________________________
  
 [2. Verbfraser med presens](#2-verbfraser-med-presens) 
   
-  - [Presens - aktiv](#presens---aktiv-inklusive-hjälpverb)
-  - [Presens - aktiv utan hjälpverb](#presens---aktiv-exklusive-hjälpverb)
+  - [Presens - aktiv inklusive hjälpverb](#presens---aktiv-inklusive-hjälpverb)
+  - [Presens - aktiv exklusive hjälpverb](#presens---aktiv-exklusive-hjälpverb)
   - [Presens - s-passiv/deponens](#presens---s-passiv/deponens)
   - [Presens - s-passiv](#presens---s-passiv)
   - [Presens - deponens](#presens---deponens)
