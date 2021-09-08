@@ -33,19 +33,20 @@ ________________________________________________________________________________
   - [Presens - deponens](#presens---deponens)
 
 [3. Verbfraser med preteritum](#3-verbfraser-med-preteritum)
-  - [Preteritum](#preteritum)
+  - [Preteritum - aktiv inklusive hjälpverb](#preteritum---aktiv-inklusive-hjälpverb)
   - [Preteritum - s-passiv/deponens](#preteritum---s-passiv/deponens)
   - [Preteritum - s-passiv](#preteritum---s-passiv)
   - [Preteritum - deponens](#preteritum---deponens)
 
 [4. Verbfraser med supinum](#4-verbfraser-med-supinum)
-  - [Perfekt och Pluskvamperfekt utan finit verb - aktiva och s-former](#perfekt-och-pluskvamperfekt-utan-finit-verb---aktiva-och-s-former)
+  - [Perfekt och Pluskvamperfekt utan finit verb - aktiva och s-passiv/deponens](#perfekt-och-pluskvamperfekt-utan-finit-verb---aktiva-och-s-passiv/deponens)
   - [Perfekt och Pluskvamperfekt utan finit verb - aktiv](#perfekt-och-pluskvamperfekt-utan-finit-verb---aktiv)
-  - [Perfekt och Pluskvamperfekt utan finit verb - s-form](#perfekt-och-pluskvamperfekt-utan-finit-verb---s-form)
+  - [Perfekt och Pluskvamperfekt utan finit verb - s-passiv/deponens](#perfekt-och-pluskvamperfekt-utan-finit-verb---s-passiv/deponens)
+  - [Perfekt - aktiv] (#perfekt---aktiv)
   - [Perfekt - s-passiv/deponens](#perfekt---s-passiv/deponens)
   - [Perfekt - s-passiv](#perfekt---s-passiv)
   - [Perfekt - deponens](#perfekt---deponens)
-  - [Pluskvamperfekt](#pluskvamperfekt)
+  - [Pluskvamperfekt - aktiv](#pluskvamperfekt---aktiv)
   - [Pluskvamperfekt - s-passiv/deponens](#pluskvamperfekt---s-passiv/deponens)
   - [Pluskvamperfekt - s-passiv](#pluskvamperfekt---s-passiv)
   - [Pluskvamperfekt - deponens](#pluskvamperfekt---deponens)
@@ -61,9 +62,9 @@ ________________________________________________________________________________
   - [Futurum preteritum eller konditionalis med supinum - s-passiv/deponens](#futurum-preteritum-eller-konditionalis-med-supinum---s-form)
 
 [6. Verbfraser med konjunktiv](#6-verbfraser-med-konjunktiv)
-  - [Presens - konjunktiv](#presens---konjunktiv)
-  - [Preteritum - konjunktiv](#preteritum---konjunktiv)
-  - [Preteritum - konjunktiv s-passiv](#preteritum---konjunktiv-s-passiv)
+  - [Presens - konjunktiv aktiv](#presens---konjunktiv-aktiv)
+  - [Preteritum - konjunktiv aktiv](#preteritum---konjunktiv-aktiv)
+  - [Preteritum - konjunktiv s-passiv/deponens](#preteritum---konjunktiv-s-passiv/deponens)
 
 [7. Verbfraser med perifrastisk passiv](#7-verbfraser-med-perifrastisk-passiv)
   - [Presens - bli-passiv](#presens---bli-passiv)
@@ -378,7 +379,7 @@ Mönster 25c, t.ex. _Måtte_ vi inte missa flyget!
 
 _____________________________________________________________________________________
 
-### Preteritum - konjunktiv s-passiv
+### Preteritum - konjunktiv s-passiv/deponens
 
 Mönster 25d, t.ex. Om det _funnes_ alternativ, så skulle vi inte operera.
 
