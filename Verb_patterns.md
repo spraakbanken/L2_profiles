@@ -63,7 +63,7 @@ ________________________________________________________________________________
 [6. Verbfraser - konjunktiv](#6-verbfraser---konjunktiv)
   - [Presens - konjunktiv](#presens---konjunktiv)
   - [Preteritum - konjunktiv](#preteritum---konjunktiv)
-  - [Preteritum - konjunktiv s-form](#preteritum---konjunktiv-s-form)
+  - [Preteritum - konjunktiv s-passiv](#preteritum---konjunktiv---s-passiv)
 
 [7. Verbfraser med perifrastisk passiv](#7-verbfraser-med-perifrastisk-passiv)
   - [Presens - bli-passiv](#presens---bli-passiv)
