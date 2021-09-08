@@ -127,7 +127,7 @@ _Eng:_ (simple, -, imperative mood, active voice, -)
 
 Mönster 1, t.ex. Läs! 
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#Imperativ
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#imperativ
 
 _____________________________________________________________________________________
 
@@ -169,7 +169,7 @@ ________________________________________________________________________________
 
 Mönster 3b, t.ex. Svenska _studeras_ vid flera universitet.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#presens---s-passive
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#presens---s-passiv
 
 _____________________________________________________________________________________
 
