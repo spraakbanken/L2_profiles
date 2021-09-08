@@ -205,7 +205,7 @@ ________________________________________________________________________________
 
 Mönster 5b, t.ex. Det Röda Rummet av Strindberg _lästes_ av många under sommaren.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---s-passive
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---s-passiv
 
 _____________________________________________________________________________________
 
