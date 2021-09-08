@@ -159,11 +159,11 @@ Mönster 2b, undergrupp av 2a -- OM VI ANVÄNDER DEN
 
 _____________________________________________________________________________________
 
-### Presens - s-forms
+### Presens - s-form
 
 Mönster 3a, t.ex. Svenska _studeras_ vid flera universitet.; Vi _hoppas_ att många deltar i kursen.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#presens---s-forms
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#presens---s-form
 
 _____________________________________________________________________________________
 
@@ -199,7 +199,7 @@ ________________________________________________________________________________
 
 Mönster 5a, t.ex. Det Röda Rummet av Strindberg _lästes_ av många under sommaren.; Många _träffades_ den 6:e juni för att fira nationaldagen.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---s-forms
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---s-form
 
 _____________________________________________________________________________________
 
