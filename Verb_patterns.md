@@ -52,7 +52,7 @@ ________________________________________________________________________________
  
 
 
-[5. Futurum preteritum eller Konditionalis](#5-futurum-preteritum---eller---konditionalis)
+[5. Futurum preteritum eller Konditionalis](#5-futurum-preteritum-eller-konditionalis)
   - [Futurum preteritum - konditionalis](#futurum-preteritum---konditionalis)
   - [Futurum preteritum - konditionalis aktiv](#futurum-preteritum---konditionalis-aktiv)
   - [Futurum preteritum - konditionalis s-form](#futurum-preteritum---konditionalis-s-form)
