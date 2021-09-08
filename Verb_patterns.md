@@ -53,12 +53,12 @@ ________________________________________________________________________________
 
 
 [5. Futurum preteritum eller Konditionalis](#5-futurum-preteritum-eller-konditionalis)
-  - [Futurum preteritum - konditionalis](#futurum-preteritum---konditionalis)
-  - [Futurum preteritum - konditionalis aktiv](#futurum-preteritum---konditionalis-aktiv)
-  - [Futurum preteritum - konditionalis s-form](#futurum-preteritum---konditionalis-s-form)
-  - [Futurum preteritum med supinum](#futurum-preteritum---med---supinum)
-  - [Futurum preteritum med supinum - konditionalis aktiv](#futurum-preteritum---med---supinum---konditionalis-aktiv)
-  - [Futurum preteritum med supinum - konditionalis s-form](#futurum-preteritum---med---supinum---konditionalis-s-form)
+  - [Futurum preteritum eller konditionalis](#futurum-preteritum-eller-konditionalis)
+  - [Futurum preteritum eller konditionalis aktiv](#futurum-preteritum-eller-konditionalis-aktiv)
+  - [Futurum preteritum eller konditionalis s-form](#futurum-preteritum-eller-konditionalis-s-form)
+  - [Futurum preteritum med supinum](#futurum-preteritum-med-supinum)
+  - [Futurum preteritum med supinum - konditionalis aktiv](#futurum-preteritum-med-supinum---konditionalis-aktiv)
+  - [Futurum preteritum med supinum - konditionalis s-form](#futurum-preteritum-med-supinum---konditionalis-s-form)
 
 [6. Verbfraser - konjunktiv](#6-verbfraser---konjunktiv)
   - [Presens - konjunktiv](#presens---konjunktiv)
