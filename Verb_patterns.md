@@ -26,8 +26,8 @@ ________________________________________________________________________________
  
 [2. Verbfraser med presens](#2-verbfraser-med-presens) 
   
-  - [Presens - aktiv](#presens---aktiv)
-  - [Presens - aktiv utan hjälpverb](#presens---aktiv-utan-hjälpverb)
+  - [Presens - aktiv](#presens---aktiv-inklusive-hjälpverb)
+  - [Presens - aktiv utan hjälpverb](#presens---aktiv-exklusive-hjälpverb)
   - [Presens - s-passiv/deponens](#presens---s-passiv/deponens)
   - [Presens - s-passiv](#presens---s-passiv)
   - [Presens - deponens](#presens---deponens)
@@ -135,7 +135,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
-### Presens - aktiv 
+### Presens - aktiv inklusive hjälpverb
 
 (_Eng: Present tense - active voice_)
 
@@ -149,7 +149,7 @@ Mönster 2a, t.ex. jag _läser_
 
 _____________________________________________________________________________________
 
-### Presens - aktiv utan hjälpverb
+### Presens - aktiv exklusive hjälpverb
 
 Mönster 2b, undergrupp av 2a -- OM VI ANVÄNDER DEN
 
