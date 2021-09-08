@@ -39,9 +39,6 @@ ________________________________________________________________________________
   - [Preteritum - deponens](#preteritum---deponens)
 
 [4. Verbfraser med supinum](#4-verbfraser-med-supinum)
-  - [Perfekt och Pluskvamperfekt utan finit verb - aktiv och s-passiv/deponens](#perfekt-och-pluskvamperfekt-utan-finit-verb---aktiv-och-s-passiv/deponens)
-  - [Perfekt och Pluskvamperfekt utan finit verb - aktiv](#perfekt-och-pluskvamperfekt-utan-finit-verb---aktiv)
-  - [Perfekt och Pluskvamperfekt utan finit verb - s-passiv/deponens](#perfekt-och-pluskvamperfekt-utan-finit-verb---s-passiv/deponens)
   - [Perfekt - aktiv] (#perfekt---aktiv)
   - [Perfekt - s-passiv/deponens](#perfekt---s-passiv/deponens)
   - [Perfekt - s-passiv](#perfekt---s-passiv)
@@ -50,8 +47,9 @@ ________________________________________________________________________________
   - [Pluskvamperfekt - s-passiv/deponens](#pluskvamperfekt---s-passiv/deponens)
   - [Pluskvamperfekt - s-passiv](#pluskvamperfekt---s-passiv)
   - [Pluskvamperfekt - deponens](#pluskvamperfekt---deponens)
- 
-
+  - [Perfekt och Pluskvamperfekt utan finit verb - aktiv och s-passiv/deponens](#perfekt-och-pluskvamperfekt-utan-finit-verb---aktiv-och-s-passiv/deponens)
+  - [Perfekt och Pluskvamperfekt utan finit verb - aktiv](#perfekt-och-pluskvamperfekt-utan-finit-verb---aktiv)
+  - [Perfekt och Pluskvamperfekt utan finit verb - s-passiv/deponens](#perfekt-och-pluskvamperfekt-utan-finit-verb---s-passiv/deponens)
 
 [5. Futurum preteritum eller Konditionalis](#5-futurum-preteritum-eller-konditionalis)
   - [Futurum preteritum eller konditionalis](#futurum-preteritum-eller-konditionalis)
