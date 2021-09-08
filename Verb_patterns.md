@@ -22,7 +22,7 @@ ________________________________________________________________________________
 
 [1. Verbfraser med imperativ](#1-verbfraser-med-imperativ)
 
-  - [Imperativ](#Imperativ)
+  - [Imperativ](#imperativ)
  
 [2. Verbfraser med presens](#2-verbfraser-med-presens) 
   
@@ -42,11 +42,11 @@ ________________________________________________________________________________
   - [Perfekt - s-form](#perfekt---s-form)
   - [Perfekt - s-passiv](#perfekt---s-passiv)
   - [Perfekt - s-deponens](#perfekt---s-deponens)
-  - [Pluskvamperfekt](#pluskvamperfekt)
-  - [Pluskvamperfekt - s-form](#pluskvamperfekt---s-form)
-  - [Pluskvamperfekt - s-passiv](#pluskvamperfekt---s-passiv)
-  - [Pluskvamperfekt - s-deponens](#pluskvamperfekt---s-deponens)
-  - [Perfekt och Pluskvamperfekt utan finit verb aktiv eller s-form](#perfekt-och-pluskvamperfekt-utan-finit-verb-aktiv---eller---s-form)
+  - [Plukvamperfekt](#plukvamperfekt)
+  - [Plukvamperfekt - s-form](#plukvamperfekt---s-form)
+  - [Plukvamperfekt - s-passiv](#plukvamperfekt---s-passiv)
+  - [Plukvamperfekt - s-deponens](#plukvamperfekt---s-deponens)
+  - [Perfekt och Plukvamperfekt utan finit verb aktiv eller s-form](#perfekt-och-plukvamperfekt-utan-finit-verb-aktiv---eller---s-form)
   - [Perfekt och Pluskvamperfekt utan finit verb - aktiv](#perfekt-och-pluskvamperfekt-utan-finit-verb---aktiv)
   - [Perfekt och Pluskvamperfekt utan finit verb - s-form](#perfekt-och-pluskvamperfekt-utan-finit-verb---s-form)
 
