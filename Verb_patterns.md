@@ -248,12 +248,18 @@ Mönster 10c, (undergrupp av 10a), t.ex. När jag _läst_ ut den fantastiska bok
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt-och-pluskvamperfekt-utan-finit-verb---s-form
 
 _____________________________________________________________________________________
+### Perfekt - aktiv
 
-### Perfekt - s-form
+Mönster 6, t.ex.
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt---aktiv
+
+
+_____________________________________________________________________________________
+### Perfekt - s-passiv/deponens
 
 Mönster 7a, t.ex. Studentsången _har sjungits_ av studenter i många många år.; Barn _har träffats_ för att fira sina födelsedagar i alla tider.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt---s-form
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt---s-passiv/deponens
 
 _____________________________________________________________________________________
 
@@ -273,19 +279,19 @@ Mönster 7c, (undergrupp av 7a), t.ex. Barn _har träffats_ för att fira sina f
 
 _____________________________________________________________________________________
 
-### Pluskvamperfekt
+### Pluskvamperfekt - aktiv
 
 Mönster 8, t.ex. Jag _hade läst ut_ boken innan dagen var slut.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#pluskvamperfekt
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#pluskvamperfekt---aktiv
 
 _____________________________________________________________________________________
 
-### Pluskvamperfekt - s-form
+### Pluskvamperfekt - s-passiv/deponens
 
 Mönster 9a, t.ex. Böckerna _hade lagts_ fram på borden, redo för nya läsare.; De _hade träffats_ på dagis och var fortfarande vänner.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#pluskvamperfekt---s-form
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#pluskvamperfekt---s-passiv/deponens
 
 _____________________________________________________________________________________
 
@@ -327,11 +333,11 @@ Mönster 23b, (undergrupp av 23a), t.ex. Det _skulle bli_ fint väder imorgon. (
 
 _____________________________________________________________________________________
 
-### Futurum preteritum eller konditionalis s-form
+### Futurum preteritum eller konditionalis s-passiv/deponens
 
 Mönster 23c, (undergrupp av 23a), t.ex. Tentor _skulle rättas_ efter att de hade skrivits och innan personalen fick ledigt.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum-eller-konditionalis-s-form
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum-eller-konditionalis-s-passiv/deponens
 
 _____________________________________________________________________________________
 
@@ -351,11 +357,11 @@ Mönster 24a, (undergrupp av 24) t.ex. Jag _skulle ha läst_ varje klassiker som
 
 _____________________________________________________________________________________
 
-### Futurum preteritum eller konditionalis med supinum - s-form
+### Futurum preteritum eller konditionalis med supinum - s-passiv/deponens
 
 Mönster 24b, (undergrupp av 24) t.ex. Vi _skulle ha träffats_ i går men jag fick förhinder.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum-eller-konditionalis-med-supinum---s-form
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum-eller-konditionalis-med-supinum---s-passiv/deponens
 
 _____________________________________________________________________________________
 
