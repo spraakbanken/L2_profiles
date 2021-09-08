@@ -28,37 +28,37 @@ ________________________________________________________________________________
   
   - [Presens - aktiv](#presens---aktiv)
   - [Presens - aktiv utan hjälpverb](#presens---aktiv-utan-hjälpverb)
-  - [Presens - s-form](#presens---s-form)
+  - [Presens - s-passiv/deponens](#presens---s-passiv/deponens)
   - [Presens - s-passiv](#presens---s-passiv)
-  - [Presens - s-deponens](#presens---s-deponens)
+  - [Presens - deponens](#presens---deponens)
 
 [3. Verbfraser med preteritum](#3-verbfraser-med-preteritum)
   - [Preteritum](#preteritum)
-  - [Preteritum - s-form](#preteritum---s-form)
+  - [Preteritum - s-passiv/deponens](#preteritum---s-passiv/deponens)
   - [Preteritum - s-passiv](#preteritum---s-passiv)
-  - [Preteritum - s-deponens](#preteritum---s-deponens)
+  - [Preteritum - deponens](#preteritum---deponens)
 
 [4. Verbfraser med supinum](#4-verbfraser-med-supinum)
   - [Perfekt och Pluskvamperfekt utan finit verb - aktiva och s-former](#perfekt-och-pluskvamperfekt-utan-finit-verb---aktiva-och-s-former)
   - [Perfekt och Pluskvamperfekt utan finit verb - aktiv](#perfekt-och-pluskvamperfekt-utan-finit-verb---aktiv)
   - [Perfekt och Pluskvamperfekt utan finit verb - s-form](#perfekt-och-pluskvamperfekt-utan-finit-verb---s-form)
-  - [Perfekt - s-form](#perfekt---s-form)
+  - [Perfekt - s-passiv/deponens](#perfekt---s-passiv/deponens)
   - [Perfekt - s-passiv](#perfekt---s-passiv)
-  - [Perfekt - s-deponens](#perfekt---s-deponens)
+  - [Perfekt - deponens](#perfekt---deponens)
   - [Pluskvamperfekt](#pluskvamperfekt)
-  - [Pluskvamperfekt - s-form](#pluskvamperfekt---s-form)
+  - [Pluskvamperfekt - s-passiv/deponens](#pluskvamperfekt---s-passiv/deponens)
   - [Pluskvamperfekt - s-passiv](#pluskvamperfekt---s-passiv)
-  - [Pluskvamperfekt - s-deponens](#pluskvamperfekt---s-deponens)
+  - [Pluskvamperfekt - deponens](#pluskvamperfekt---deponens)
  
 
 
 [5. Futurum preteritum eller Konditionalis](#5-futurum-preteritum-eller-konditionalis)
   - [Futurum preteritum eller konditionalis](#futurum-preteritum-eller-konditionalis)
   - [Futurum preteritum eller konditionalis aktiv](#futurum-preteritum-eller-konditionalis-aktiv)
-  - [Futurum preteritum eller konditionalis s-form](#futurum-preteritum-eller-konditionalis-s-form)
+  - [Futurum preteritum eller konditionalis s-passiv/deponens](#futurum-preteritum-eller-konditionalis-s-form)
   - [Futurum preteritum eller konditionalis med supinum](#futurum-preteritum-eller-konditionalis-med-supinum)
   - [Futurum preteritum eller konditionalis med supinum - aktiv](#futurum-preteritum-eller-konditionalis-med-supinum---aktiv)
-  - [Futurum preteritum eller konditionalis med supinum - s-form](#futurum-preteritum-eller-konditionalis-med-supinum---s-form)
+  - [Futurum preteritum eller konditionalis med supinum - s-passiv/deponens](#futurum-preteritum-eller-konditionalis-med-supinum---s-form)
 
 [6. Verbfraser med konjunktiv](#6-verbfraser-med-konjunktiv)
   - [Presens - konjunktiv](#presens---konjunktiv)
@@ -72,8 +72,8 @@ ________________________________________________________________________________
   - [Preteritum - vara-passiv](#preteritum---vara-passiv)
 
 [8. Verbfraser med futurum](#8-verbfraser-med-futurum)
-  - [Kommer-att futurum](#kommer-att-futurum)
-  - [Ska futurum](#ska-futurum)
+  - [Kommer-att-futurum](#kommer-att-futurum)
+  - [Ska-futurum](#ska-futurum)
 
 [9. Verbfraser med modala verbs](#9-verbfraser-med-modala-verb)
 - [Hjälpverb i presens + ha + supinum](#hjälpverb-i-presens--ha--supinum)
@@ -103,6 +103,7 @@ ________________________________________________________________________________
 | Diates / Voice| • aktiv| • Active||
 || • passiv| • Passive||
 || • deponens| • Deponent||
+|| • passiv/deponens| • Passive/Deponent||
 | S-form / S-form| • | • ||
 
 
@@ -426,7 +427,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
-### "Kommer-att" futurum
+### "Kommer-att"-futurum
 
 Mönster 27a, t.ex. Vi _kommer att diskutera_ eventuella frågor på mötet imorgon.
 
@@ -435,7 +436,7 @@ Mönster 27a, t.ex. Vi _kommer att diskutera_ eventuella frågor på mötet imor
 
 _____________________________________________________________________________________
 
-### "Ska" futurum
+### "Ska"-futurum
 
 Mönster 27c, t.ex. Jag _ska läsa_ nordiska språk i höst.
 
