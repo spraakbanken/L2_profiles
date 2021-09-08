@@ -158,11 +158,11 @@ Mönster 2b, undergrupp av 2a -- OM VI ANVÄNDER DEN
 
 _____________________________________________________________________________________
 
-### Presens - s-form
+### Presens - s-passiv/deponens
 
 Mönster 3a, t.ex. Svenska _studeras_ vid flera universitet.; Vi _hoppas_ att många deltar i kursen.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#presens---s-form
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#presens---s-passiv/deponens
 
 _____________________________________________________________________________________
 
@@ -174,11 +174,11 @@ Mönster 3b, t.ex. Svenska _studeras_ vid flera universitet.
 
 _____________________________________________________________________________________
 
-### Presens - s-deponens
+### Presens - deponens
 
 Mönster 3c, t.ex. Vi _hoppas_ att många deltar i kursen.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#presens---s-deponens
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#presens---deponens
 
 _____________________________________________________________________________________
 
@@ -194,11 +194,11 @@ Mönster 4a, t.ex. Jag _läste_ Det Röda Rummet av Strindberg under sommaren.
 
 _____________________________________________________________________________________
 
-### Preteritum - s-form
+### Preteritum - s-passiv/deponens
 
 Mönster 5a, t.ex. Det Röda Rummet av Strindberg _lästes_ av många under sommaren.; Många _träffades_ den 6:e juni för att fira nationaldagen.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---s-form
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---s-passiv/deponens
 
 _____________________________________________________________________________________
 
@@ -210,11 +210,11 @@ Mönster 5b, t.ex. Det Röda Rummet av Strindberg _lästes_ av många under somm
 
 _____________________________________________________________________________________
 
-### Preteritum - s-deponens
+### Preteritum - deponens
 
 Mönster 5c, t.ex. Många _träffades_ den 6:e juni för att fira nationaldagen.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---s-deponens
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---deponens
 
 _____________________________________________________________________________________
 
@@ -222,30 +222,6 @@ ________________________________________________________________________________
 
 ## 4. Verbfraser med supinum 
 
-_____________________________________________________________________________________
-
-
-### Perfekt och Pluskvamperfekt utan finit verb - aktiva och s-former
-
-Mönster 10a, t.ex. När jag _läst_ ut en jättebra bok, är det svårt att hitta en ny bok.; När jag _läst_ ut den fantastiska boken, visste jag inte vad jag skulle läsa sen.
-
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt-och-pluskvamperfekt-utan-finit-verb---aktiva-och-s-former
-
-_____________________________________________________________________________________
-
-### Perfekt och Pluskvamperfekt utan finit verb - aktiv
-
-Mönster 10b (undergrupp av 10a), t.ex. När jag _läst_ ut en jättebra bok, är det svårt att hitta en ny bok.
-
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt-och-pluskvamperfekt-utan-finit-verb---aktiv
-
-_____________________________________________________________________________________
-
-### Perfekt och Pluskvamperfekt utan finit verb - s-form
-
-Mönster 10c, (undergrupp av 10a), t.ex. När jag _läst_ ut den fantastiska boken, visste jag inte vad jag skulle läsa sen.
-
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt-och-pluskvamperfekt-utan-finit-verb---s-form
 
 _____________________________________________________________________________________
 ### Perfekt - aktiv
@@ -308,6 +284,31 @@ ________________________________________________________________________________
 Mönster 9c (undergrupp av 9a), t.ex. De _hade träffats_ på dagis och var fortfarande vänner.
 
 *Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#pluskvamperfekt---s-deponens
+
+_____________________________________________________________________________________
+
+
+### Perfekt och Pluskvamperfekt utan finit verb - aktiva och s-former
+
+Mönster 10a, t.ex. När jag _läst_ ut en jättebra bok, är det svårt att hitta en ny bok.; När jag _läst_ ut den fantastiska boken, visste jag inte vad jag skulle läsa sen.
+
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt-och-pluskvamperfekt-utan-finit-verb---aktiva-och-s-former
+
+_____________________________________________________________________________________
+
+### Perfekt och Pluskvamperfekt utan finit verb - aktiv
+
+Mönster 10b (undergrupp av 10a), t.ex. När jag _läst_ ut en jättebra bok, är det svårt att hitta en ny bok.
+
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt-och-pluskvamperfekt-utan-finit-verb---aktiv
+
+_____________________________________________________________________________________
+
+### Perfekt och Pluskvamperfekt utan finit verb - s-form
+
+Mönster 10c, (undergrupp av 10a), t.ex. När jag _läst_ ut den fantastiska boken, visste jag inte vad jag skulle läsa sen.
+
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt-och-pluskvamperfekt-utan-finit-verb---s-form
 
 _____________________________________________________________________________________
 
