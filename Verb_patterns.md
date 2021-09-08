@@ -74,7 +74,7 @@ ________________________________________________________________________________
   - [Kommer-att-futurum](#kommer-att-futurum)
   - [Ska-futurum](#ska-futurum)
 
-[9. Verbfraser med modala verbs](#9-verbfraser-med-modala-verb)
+[9. Verbfraser med hjälpverb](#9-verbfraser-med-hjälpverb)
 - [Hjälpverb i presens + ha + supinum](#hjälpverb-i-presens--ha--supinum)
 - [Hjälpverb i preteritum + ha + supinum](#hjälpverb-i-preteritum--ha--supinum)
 
@@ -451,7 +451,7 @@ Mönster 27c, t.ex. Jag _ska läsa_ nordiska språk i höst.
 
 _____________________________________________________________________________________
 
-## 9. Verbfraser med modala verb
+## 9. Verbfraser med hjälpverb
 
 _____________________________________________________________________________________
 
