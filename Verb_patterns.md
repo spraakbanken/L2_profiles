@@ -104,10 +104,7 @@ ________________________________________________________________________________
 || • passiv| • Passive||
 || • deponens| • Deponent||
 | S-form / S-form| • | • ||
-|| • | • ||
-|| • | • ||
-|| • | • ||
-|| • | • ||
+
 
 *Link*: https://github.com/spraakbanken/L2_profiles/blob/master/Verb_patterns.md#terminologi-svenska---engelska
 
