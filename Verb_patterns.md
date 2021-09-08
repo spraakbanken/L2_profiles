@@ -60,7 +60,7 @@ ________________________________________________________________________________
   - [Futurum preteritum eller konditionalis med supinum - aktiv](#futurum-preteritum-eller-konditionalis-med-supinum---aktiv)
   - [Futurum preteritum eller konditionalis med supinum - s-form](#futurum-preteritum-eller-konditionalis-med-supinum---s-form)
 
-[6. Verbfraser - konjunktiv](#6-verbfraser---konjunktiv)
+[6. Verbfraser med konjunktiv](#6-verbfraser-med-konjunktiv)
   - [Presens - konjunktiv](#presens---konjunktiv)
   - [Preteritum - konjunktiv](#preteritum---konjunktiv)
   - [Preteritum - konjunktiv s-passiv](#preteritum---konjunktiv-s-passiv)
@@ -73,7 +73,7 @@ ________________________________________________________________________________
 
 [8. Verbfraser med futurum](#8-verbfraser-med-futurum)
   - [Kommer-att futurum](#kommer-att-futurum)
-  - [Tänker-att futurum](#tänker-att-futurum)
+  %- [Tänker-att futurum](#tänker-att-futurum)
   - [Ska futurum](#ska-futurum)
 
 [9. Verbfraser med modala verbs](#9-verbfraser-med-modala-verb)
@@ -358,7 +358,7 @@ Mönster 24b, (undergrupp av 24) t.ex. Vi _skulle ha träffats_ i går men jag f
 
 _____________________________________________________________________________________
 
-## 6. Verbfraser - konjunktiv 
+## 6. Verbfraser med konjunktiv 
 
 _____________________________________________________________________________________
 
@@ -435,11 +435,11 @@ Mönster 27a, t.ex. Vi _kommer att diskutera_ eventuella frågor på mötet imor
 
 _____________________________________________________________________________________
 
-### "Tänker-att" futurum
+%### "Tänker" futurum
 
-Mönster 27b, t.ex. Jag _tänker läsa_ kinesiska i höst.
+%Mönster 27b, t.ex. Jag _tänker läsa_ kinesiska i höst.
 
-*Link*: https://github.com/spraakbanken/L2_profiles/blob/master/Verb_patterns.md#t%C3%A4nker-att-futurum
+%*Link*: https://github.com/spraakbanken/L2_profiles/blob/master/Verb_patterns.md#t%C3%A4nker-att-futurum
 
 _____________________________________________________________________________________
 
