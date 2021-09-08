@@ -73,7 +73,6 @@ ________________________________________________________________________________
 
 [8. Verbfraser med futurum](#8-verbfraser-med-futurum)
   - [Kommer-att futurum](#kommer-att-futurum)
-  %- [Tänker-att futurum](#tänker-att-futurum)
   - [Ska futurum](#ska-futurum)
 
 [9. Verbfraser med modala verbs](#9-verbfraser-med-modala-verb)
@@ -433,13 +432,6 @@ Mönster 27a, t.ex. Vi _kommer att diskutera_ eventuella frågor på mötet imor
 
 *Link*: https://github.com/spraakbanken/L2_profiles/blob/master/Verb_patterns.md#kommer-att-futurum
 
-_____________________________________________________________________________________
-
-%### "Tänker" futurum
-
-%Mönster 27b, t.ex. Jag _tänker läsa_ kinesiska i höst.
-
-%*Link*: https://github.com/spraakbanken/L2_profiles/blob/master/Verb_patterns.md#t%C3%A4nker-att-futurum
 
 _____________________________________________________________________________________
 
@@ -456,7 +448,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
-### Hjälpverb i presens + ha + supinum
+### Verb i presens + ha + supinum
 
 Mönster 21
 
@@ -464,7 +456,7 @@ Mönster 21
 
 _____________________________________________________________________________________
 
-### Hjälpverb i preteritum + ha + supinum
+### Verb i preteritum + ha + supinum
 
 Mönster 22
 
