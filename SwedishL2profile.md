@@ -6,93 +6,93 @@ _Elena Volodina and THerese Lindström Tiedemann, September 2021_
 
 [Table view](#table-view)
 
-   -[]()
+   - []()
    
-   -[]()
+   - []()
    
-   -[]()
+   - []()
    
-   -[]()
+   - []()
    
-   -[]()
+   - []()
    
-   -[]()
+   - []()
 
 
 
 [Graphical view](#graphical-view)
 
-   -[]()
+   - []()
    
-   -[]()
+   - []()
    
-   -[]()
+   - []()
    
-   -[]()
+   - []()
    
-   -[]()
+   - []()
    
-   -[]()
+   - []()
 
 
 [Statistical view](#statistical-view)
 
-   -[]()
+   - []()
    
-   -[]()
+   - []()
    
-   -[]()
+   - []()
    
-   -[]()
+   - []()
    
-   -[]()
+   - []()
    
-   -[]()
+   - []()
 
 
 [Swedish Lexical  profile](#swedish-lexical-profile)
 
-   -[Adjectival declension](#adjectival-declension)
+   - [Adjectival declension](#adjectival-declension)
    
-   -[Adjectival adverbial structure](#adjectival-adverbial-structure)
+   - [Adjectival adverbial structure](#adjectival-adverbial-structure)
    
-   -[Multi-word expressions](#multi-word-expressions)
+   - [Multi-word expressions](#multi-word-expressions)
    
-   -[Sen\*Lex](#sen\*lex)
+   - [Sen\*Lex](#sen\*lex)
    
-   -[]()
+   - []()
    
-   -[]()
+   - []()
 
 
 [Swedish Morphological  profile](#swedish-morphological-profile)
 
-   -[]()
+   - []()
    
-   -[]()
+   - []()
    
-   -[]()
+   - []()
    
-   -[]()
+   - []()
    
-   -[]()
+   - []()
    
-   -[]()
+   - []()
 
 
 [Swedish Grammar  profile](#swedish-grammar-profile)
 
-   -[]()
+   - []()
    
-   -[]()
+   - []()
    
-   -[]()
+   - []()
    
-   -[]()
+   - []()
    
-   -[]()
+   - []()
    
-   -[]()
+   - []()
 
 
 ## General description
