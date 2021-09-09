@@ -1,10 +1,29 @@
 # Swedish L2 profile
-_Elena Volodina and THerese Lindström Tiedemann, September 2021_
+_Elena Volodina and Therese Lindström Tiedemann, September 2021_
 
 ## Contents
+
 [General description](#general-description)
 
-[Table view](#table-view)
+   - [About the project](#about-the-project)
+   
+   - [Table view](#table-view)
+
+   
+   
+   - []()
+   
+   - []()
+   
+   - []()
+   
+   - []()
+   
+   - []()
+
+
+
+   - [Graphical view](#graphical-view)
 
    - []()
    
@@ -19,23 +38,7 @@ _Elena Volodina and THerese Lindström Tiedemann, September 2021_
    - []()
 
 
-
-[Graphical view](#graphical-view)
-
-   - []()
-   
-   - []()
-   
-   - []()
-   
-   - []()
-   
-   - []()
-   
-   - []()
-
-
-[Statistical view](#statistical-view)
+   - [Statistical view](#statistical-view)
 
    - []()
    
@@ -50,7 +53,7 @@ _Elena Volodina and THerese Lindström Tiedemann, September 2021_
    - []()
 
 
-[Swedish Lexical  profile](#swedish-lexical-profile)
+[Swedish Lexical profile](#swedish-lexical-profile)
 
    - [Adjectival declension](#adjectival-declension)
    
@@ -58,26 +61,14 @@ _Elena Volodina and THerese Lindström Tiedemann, September 2021_
    
    - [Multi-word expressions](#multi-word-expressions)
    
-   - [Sen\*Lex](#sen\*lex)
+   - [Sen\*Lex](#senlex)
    
    - []()
    
    - []()
 
 
-[Swedish Morphological  profile](#swedish-morphological-profile)
 
-   - []()
-   
-   - []()
-   
-   - []()
-   
-   - []()
-   
-   - []()
-   
-   - []()
 
 
 [Swedish Grammar  profile](#swedish-grammar-profile)
@@ -94,16 +85,30 @@ _Elena Volodina and THerese Lindström Tiedemann, September 2021_
    
    - []()
 
+[Swedish Morphological  profile](#swedish-morphological-profile)
+
+   - [Word family](#word-family)
+   
+   - [Morpheme family](#morpheme-family)
+   
+   - []()
+   
+   - []()
+   
+   - []()
+   
+   - []()
+
 
 ## General description
 
+### About the project
 
+### Table view
 
-## Table view
+### Graphical view
 
-## Graphical view
-
-## Statistical view
+### Statistical view
 
 ## Swedish Lexical profile
 
@@ -118,3 +123,7 @@ _Elena Volodina and THerese Lindström Tiedemann, September 2021_
 ## Swedish Grammar profile
 
 ## Swedish Morphological profile
+
+### Word family
+
+### Morpheme family
