@@ -39,7 +39,7 @@ ________________________________________________________________________________
   - [Preteritum - deponens](#preteritum---deponens)
 
 [4. Verbfraser med supinum](#4-verbfraser-med-supinum)
-  - [Perfekt - aktiv] (#perfekt---aktiv)
+  - [Perfekt - aktiv](#perfekt---aktiv)
   - [Perfekt - s-passiv/deponens](#perfekt---s-passiv/deponens)
   - [Perfekt - s-passiv](#perfekt---s-passiv)
   - [Perfekt - deponens](#perfekt---deponens)
