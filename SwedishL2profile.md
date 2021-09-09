@@ -148,7 +148,7 @@ ________________________________________________________________________________
 - towards the tokens per level (Lexical and Morphological profile)
 - towards number of sentences at a given level of proficiency (Grammar profile). For example, if we have 20 hits in  Coctaill at C1 level, and we know that 
 
-| ***SweLL-pilot (productive)*** |  Nr sentences | Nr tokens | Nr texts|
+| SweLL-pilot (productive) |  Nr sentences | Nr tokens | Nr texts|
 |:-------------|:--------------|:--------------|:--------------|
 | A1| 633|||
 | A2| 2616|| |
