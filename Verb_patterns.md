@@ -3,6 +3,8 @@
 
 *(Therese Lindström Tiedemann, September, 2021)*
 
+This part of the description of the Swedish Grammar Profile will be written in Swedish. English translations of terminology are provided below, see list of contents.
+
 * The most recent version of this document is available at [https://spraakbanken.github.io/L2_profiles/Verb_patterns](https://spraakbanken.github.io/L2_profiles/Verb_patterns)
 
 _____________________________________________________________________________________
