@@ -138,13 +138,13 @@ ________________________________________________________________________________
 
 (_Eng: Present tense - active voice_)
 
-_Swe:_(simplex, presens, indikativ, -, s-form)
+_Swe:_(simplex, presens, indikativ, aktiv, -)
 
-_Eng:_ (simple, present, indicative, -, s-form)
+_Eng:_ (simple, present, indicative, active, -)
 
-Mönster 2a, t.ex. jag _läser_
+Mönster 2a, t.ex. Jag _läser_ en bok.
 
-*Link:* https://spraakbanken.github.io/L2_profiles/Verb_patterns#presens---aktiv
+*Link:* https://spraakbanken.github.io/L2_profiles/Verb_patterns#presens---aktiv-inkl-hj%C3%A4lpverb
 
 _____________________________________________________________________________________
 
@@ -152,7 +152,7 @@ ________________________________________________________________________________
 
 Mönster 2b, undergrupp av 2a -- OM VI ANVÄNDER DEN
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#presens---aktiv-utan-hj%C3%A4lpverb
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#presens---aktiv-exkl-hj%C3%A4lpverb
 
 _____________________________________________________________________________________
 
@@ -184,11 +184,11 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
-### Preteritum
+### Preteritum - aktiv inklusive hjälpverb
 
 Mönster 4a, t.ex. Jag _läste_ Det Röda Rummet av Strindberg under sommaren.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---aktiv-inkl-hj%C3%A4lpverb
 
 _____________________________________________________________________________________
 
