@@ -9,48 +9,48 @@ _Elena Volodina and Therese Lindström Tiedemann, September 2021_
    
    - [Table view](#table-view)
 
-   
-   
-   - []()
-   
-   - []()
-   
-   - []()
-   
-   - []()
-   
-   - []()
+
+
+      - []()
+
+      - []()
+
+      - []()
+
+      - []()
+
+      - []()
 
 
 
    - [Graphical view](#graphical-view)
 
-   - []()
-   
-   - []()
-   
-   - []()
-   
-   - []()
-   
-   - []()
-   
-   - []()
+      - []()
+
+      - []()
+
+      - []()
+
+      - []()
+
+      - []()
+
+      - []()
 
 
    - [Statistical view](#statistical-view)
 
-   - []()
-   
-   - []()
-   
-   - []()
-   
-   - []()
-   
-   - []()
-   
-   - []()
+      - []()
+
+      - []()
+
+      - []()
+
+      - []()
+
+      - []()
+
+      - []()
 
 
 [Swedish Lexical profile](#swedish-lexical-profile)
