@@ -388,7 +388,7 @@ ________________________________________________________________________________
 
 Mönster 25d, t.ex. Om det _funnes_ alternativ, så skulle vi inte operera.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---konjunktiv-s-passiv
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---konjunktiv-s-passiv/deponens
 
 _____________________________________________________________________________________
 
