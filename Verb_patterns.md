@@ -277,16 +277,16 @@ Mönster 9b (undergrupp av 9a), t.ex. Böckerna _hade lagts_ fram på borden, re
 
 _____________________________________________________________________________________
 
-### Pluskvamperfekt - s-deponens
+### Pluskvamperfekt - deponens
 
 Mönster 9c (undergrupp av 9a), t.ex. De _hade träffats_ på dagis och var fortfarande vänner.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#pluskvamperfekt---s-deponens
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#pluskvamperfekt---deponens
 
 _____________________________________________________________________________________
 
 
-### Perfekt och Pluskvamperfekt utan finit verb - aktiva och s-passiv/deponens
+### Perfekt och Pluskvamperfekt utan finit verb - aktiv och s-passiv/deponens
 
 Mönster 10a, t.ex. När jag _läst_ ut en jättebra bok, är det svårt att hitta en ny bok.; När jag _läst_ ut den fantastiska boken, visste jag inte vad jag skulle läsa sen.
 
