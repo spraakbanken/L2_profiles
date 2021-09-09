@@ -148,28 +148,30 @@ ________________________________________________________________________________
 - towards the tokens per level (Lexical and Morphological profile)
 - towards number of sentences at a given level of proficiency (Grammar profile). For example, if we have 20 hits in  Coctaill at C1 level, and we know that 
 
-| SweLL-pilot (productive) |  Nr sentences | Nr tokens | Nr texts|
-|:-------------|:--------------|:--------------|:--------------|
-| A1| 633|||
-| A2| 2616|| |
-| B1| 1719|||
-| B2| 2691|||
-| C1| 2887|||
-| C2|175|||
-| None|148|||
-| Total| 10 869|||
+| |SweLL-pilot (productive) |  Coctaill-texts (receptive)  | 
+|:-------------|:--------------|:--------------|
+| |Nr sentences | Nr tokens | Nr sentences | Nr tokens |
+|:-------------|:--------------|:--------------|
+| A1| 633||||
+| A2| 2616|| ||
+| B1| 1719||||
+| B2| 2691||||
+| C1| 2887||||
+| C2|175||||
+| None|148||||
+| Total| 10 869||||
 
 
-| Coctaill-texts (receptive) |  Nr sentences | Nr tokens | Nr texts|
-|:-------------|:--------------|:--------------|:--------------|
-| A1| 7583|| |
-| A2| 14006 || | 
-| B1| 18528|| |
-| B2| 16649|| |
-| C1| 16668|| |
-| C2| 0|| |
-| None| 3397|| |
-| Total| 76 831|||
+| Coctaill-texts (receptive) |  Nr sentences | Nr tokens | 
+|:-------------|:--------------|:--------------|
+| A1| 7583|| 
+| A2| 14006 ||  
+| B1| 18528|| 
+| B2| 16649|| 
+| C1| 16668|| 
+| C2| 0|| 
+| None| 3397|| 
+| Total| 76 831||
 
 
 
