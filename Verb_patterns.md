@@ -245,11 +245,11 @@ Mönster 7b, (undergrupp av 7a), t.ex. Studentsången _har sjungits_ av studente
 
 _____________________________________________________________________________________
 
-### Perfekt - s-deponens
+### Perfekt - deponens
 
 Mönster 7c, (undergrupp av 7a), t.ex. Barn _har träffats_ för att fira sina födelsedagar i alla tider.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt---s-deponens
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt---deponens
 
 _____________________________________________________________________________________
 
