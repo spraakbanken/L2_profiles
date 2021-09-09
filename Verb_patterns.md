@@ -53,16 +53,16 @@ ________________________________________________________________________________
 
 [5. Futurum preteritum eller Konditionalis](#5-futurum-preteritum-eller-konditionalis)
   - [Futurum preteritum eller konditionalis](#futurum-preteritum-eller-konditionalis)
-  - [Futurum preteritum eller konditionalis aktiv](#futurum-preteritum-eller-konditionalis-aktiv)
-  - [Futurum preteritum eller konditionalis s-passiv/deponens](#futurum-preteritum-eller-konditionalis-s-form)
+  - [Futurum preteritum eller konditionalis - aktiv](#futurum-preteritum-eller-konditionalis---aktiv)
+  - [Futurum preteritum eller konditionalis - s-passiv/deponens](#futurum-preteritum-eller-konditionalis---s-passiv/deponens)
   - [Futurum preteritum eller konditionalis med supinum](#futurum-preteritum-eller-konditionalis-med-supinum)
   - [Futurum preteritum eller konditionalis med supinum - aktiv](#futurum-preteritum-eller-konditionalis-med-supinum---aktiv)
-  - [Futurum preteritum eller konditionalis med supinum - s-passiv/deponens](#futurum-preteritum-eller-konditionalis-med-supinum---s-form)
+  - [Futurum preteritum eller konditionalis med supinum - s-passiv/deponens](#futurum-preteritum-eller-konditionalis-med-supinum---s-passiv/deponens)
 
 [6. Verbfraser med konjunktiv](#6-verbfraser-med-konjunktiv)
-  - [Presens - konjunktiv aktiv](#presens---konjunktiv-aktiv)
-  - [Preteritum - konjunktiv aktiv](#preteritum---konjunktiv-aktiv)
-  - [Preteritum - konjunktiv s-passiv/deponens](#preteritum---konjunktiv-s-passiv/deponens)
+  - [Presens - konjunktiv - aktiv](#presens---konjunktiv---aktiv)
+  - [Preteritum - konjunktiv - aktiv](#preteritum---konjunktiv---aktiv)
+  - [Preteritum - konjunktiv - s-passiv/deponens](#preteritum---konjunktiv---s-passiv/deponens)
 
 [7. Verbfraser med perifrastisk passiv](#7-verbfraser-med-perifrastisk-passiv)
   - [Presens - bli-passiv](#presens---bli-passiv)
@@ -286,11 +286,11 @@ Mönster 9c (undergrupp av 9a), t.ex. De _hade träffats_ på dagis och var fort
 _____________________________________________________________________________________
 
 
-### Perfekt och Pluskvamperfekt utan finit verb - aktiva och s-former
+### Perfekt och Pluskvamperfekt utan finit verb - aktiva och s-passiv/deponens
 
 Mönster 10a, t.ex. När jag _läst_ ut en jättebra bok, är det svårt att hitta en ny bok.; När jag _läst_ ut den fantastiska boken, visste jag inte vad jag skulle läsa sen.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt-och-pluskvamperfekt-utan-finit-verb---aktiva-och-s-former
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt-och-pluskvamperfekt-utan-finit-verb---aktiv-och-s-passiv/deponens
 
 _____________________________________________________________________________________
 
@@ -302,11 +302,11 @@ Mönster 10b (undergrupp av 10a), t.ex. När jag _läst_ ut en jättebra bok, ä
 
 _____________________________________________________________________________________
 
-### Perfekt och Pluskvamperfekt utan finit verb - s-form
+### Perfekt och Pluskvamperfekt utan finit verb - s-passiv/deponens
 
 Mönster 10c, (undergrupp av 10a), t.ex. När jag _läst_ ut den fantastiska boken, visste jag inte vad jag skulle läsa sen.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt-och-pluskvamperfekt-utan-finit-verb---s-form
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt-och-pluskvamperfekt-utan-finit-verb---s-passiv/deponens
 
 _____________________________________________________________________________________
 
@@ -324,7 +324,7 @@ Futurum preteritum och konditionalis är båda perifrastiska verbkonstruktioner 
 
 _____________________________________________________________________________________
 
-### Futurum preteritum eller konditionalis aktiv
+### Futurum preteritum eller konditionalis - aktiv
 
 Mönster 23b, (undergrupp av 23a), t.ex. Det _skulle bli_ fint väder imorgon. (futurum preteritum); Om de vore rika, _skulle_ de inte _bo_ i ett så slitet hus. (konditionalis)
 
@@ -332,7 +332,7 @@ Mönster 23b, (undergrupp av 23a), t.ex. Det _skulle bli_ fint väder imorgon. (
 
 _____________________________________________________________________________________
 
-### Futurum preteritum eller konditionalis s-passiv/deponens
+### Futurum preteritum eller konditionalis - s-passiv/deponens
 
 Mönster 23c, (undergrupp av 23a), t.ex. Tentor _skulle rättas_ efter att de hade skrivits och innan personalen fick ledigt.
 
