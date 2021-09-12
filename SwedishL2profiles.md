@@ -161,7 +161,7 @@ An example for Multi-Word Expressions (MWEs) shows
 * MWE Type 2 - a drop-down menu to limit the search to 9 categories by word classes
 * MWE Type 3 - a drop-down menu to filter various subtypes of verbal MWEs
 
-* Under the first row of filters, there is a possibility to click on the CEFR level buttons to select items appearing at a particular level. Each button is of a _toggle_ character: first click selects the level, the second one de-selects it. Several levels can be selected simultaneously.
+* Under the first row of filters, there is a possibility to click on the CEFR level buttons to select items appearing at a particular level. Each button is of a _toggle_ character: the first click selects the level, the second one de-selects it. Several levels can be selected simultaneously.
 * Only first occurrence - a tick-box showing each MWE item only once, at the level where it appears for the first time (hiding its appearance at other levels).
 * Various views - [Table](ttps://spraakbanken.github.io/L2_profiles/SwedishL2profiles#22-table-view), [Graphical](https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#24-graphical-view) and [Statistical](https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#25-statistical-view) are described in separate subsections.
 
