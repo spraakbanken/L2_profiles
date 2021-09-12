@@ -189,13 +189,15 @@ The [SweL2P](https://spraakbanken.gu.se/larkalabb/svlp) features three main prof
 Each item and pattern in the profile can be filtered in various ways, explored through actual corpus hits in Korp (Table view), studied through statistics (Statistical view) and/or graphs (Graphical view) and downloaded. For each of the three profiles, you can find a more detailed description in this document.
 
 
+_____________________________________________________________________________________
 
 ### Filters
 
+_____________________________________________________________________________________
 
 ### Table view
 
-<img src="TableView.png" width="800">
+<img src="TableView.png" width="1000">
 
 **CEFR level** 
 
@@ -203,6 +205,7 @@ Each item and pattern in the profile can be filtered in various ways, explored t
 
 **Columns**
 
+_____________________________________________________________________________________
 
 ### Frequency information
 
@@ -212,23 +215,18 @@ Each item and pattern in the profile can be filtered in various ways, explored t
 - towards number of sentences at a given level of proficiency (Grammar profile). For example, if we have 20 hits in  Coctaill at C1 level, and we know that 
 
 
-
-
-
-
-
-
-
-![image](https://user-images.githubusercontent.com/31984909/132685773-2ad183c4-fc19-4f32-8861-505f8e03ed3f.png)
+_____________________________________________________________________________________
 
 
 ### Graphical view
 
-<img src="GraphicalView.png" width="800">
+<img src="GraphicalView.png" width="1000">
+
+_____________________________________________________________________________________
 
 ### Statistical view
 
-<img src="StatView.png" width="800">
+<img src="StatView.png" width="1000">
 
 
 
