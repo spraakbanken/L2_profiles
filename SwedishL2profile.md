@@ -168,7 +168,7 @@ The [**SweL2P**](https://spraakbanken.gu.se/larkalabb/svlp) features three main 
 * **grammatical** profile, organized by noun phrases, verb phrases and morpho-syntactic tendencies
 * **morphological** profile, organized into word family and morpheme family
 
-<img src="SweL2Ps.png" width="400">
+<img src="SweL2Ps.png" width="800">
 
 Each item and pattern in the profile can be filtered in various ways, explored through actual corpus hits in Korp (Table view), studied through statistics (Statistical view) and/or graphs (Graphical view) and downloaded. For each of the three profiles, you can find a more detailed description in this document.
 
@@ -179,7 +179,7 @@ Each item and pattern in the profile can be filtered in various ways, explored t
 
 ### Table view
 
-<img src="TableView.png" width="400">
+<img src="TableView.png" width="800">
 
 **CEFR level** 
 
@@ -208,11 +208,11 @@ Each item and pattern in the profile can be filtered in various ways, explored t
 
 ### Graphical view
 
-<img src="GraphicalView.png" width="400">
+<img src="GraphicalView.png" width="800">
 
 ### Statistical view
 
-<img src="StatView.png" width="400">
+<img src="StatView.png" width="800">
 
 
 
