@@ -68,7 +68,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
-### L2P project
+### 1.1 L2P project
 
 The project [Development of lexical and grammatical competences in immigrant Swedish](https://spraakbanken.gu.se/en/projects/l2profiles), funded by Riksbankens Jubileumsfond, 2018-2021, focused on analysis of learners' vocabulary and grammar, and how they are learnt. We performed the study through two corpora: a corpus of coursebook texts and a corpus of learner essays (see below), both marked up for proficiency levels according to the Common European Framework of References (CEFR). The corpora have been processed by computational methods, after which the results have been analysed by linguists, lexicographers, grammarians, teachers and language assessors - both linguistically, and based on theory of teaching, to find ways of identifying minimal or central (need-to-know) vocabulary and grammar scopes, as well as peripheral (good-to-know) grammar and vocabulary at each level of proficiency as a way to support teachers, test-makers, assessor and learners. The aim of this project has, thus, been to provide an extensive description of what lexical and grammatical competence learners at each level possess, both receptively and productively, and explore the relation between the receptive and productive scopes. 
 
@@ -77,7 +77,7 @@ The project has resulted in a [Swedish L2 profiles](https://spraakbanken.gu.se/l
 _____________________________________________________________________________________
 
 
-### Corpora used in the project
+### 1.2 Corpora used in the project
 
 **COCTAILL** is a corpus of course books used for teaching Swedish as a second language (L2). Each chapter is the course books has been marked by teachers for the level of proficiency at which it has been used in courses for non-native Swedish speakers. COCTAILL contains course books at five of the six CEFR (Common European Framework of Reference) levels: A1 (beginner), A2, B1, B2, C1 (advanced). C2 (near-native) is missing. This corpus is used to get an approximation of what vocabulary and grammar L2 learners meet when reading, and are expected to understand **receptively**.
 
@@ -129,7 +129,7 @@ _References_:
 _____________________________________________________________________________________
 
 
-## User interface
+## 2. User interface
 
 _____________________________________________________________________________________
 
@@ -148,11 +148,11 @@ For each of the three profiles ([lexical](https://spraakbanken.github.io/L2_prof
 
 _____________________________________________________________________________________
 
-### Filters
+### 2.1 Filters
 
 _____________________________________________________________________________________
 
-### Table view
+### 2.2 Table view
 
 Link: https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#table-view
 
@@ -171,7 +171,7 @@ Thr **Table view** lists all items in focus, e.g. multi-word expressions or a ve
 
 _____________________________________________________________________________________
 
-### Frequency information
+### 2.3 Frequency information
 
 Link: https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#frequency-information
 
@@ -184,7 +184,7 @@ Link: https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#frequency-inf
 _____________________________________________________________________________________
 
 
-### Graphical view
+### 2.4 Graphical view
 
 Link: https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#graphical-view
 
@@ -192,7 +192,7 @@ Link: https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#graphical-vie
 
 _____________________________________________________________________________________
 
-### Statistical view
+### 2.5 Statistical view
 
 https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#statistical-view
 
@@ -204,45 +204,45 @@ https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#statistical-view
 _____________________________________________________________________________________
 
 
-## Swedish lexical profile
+## 3. Swedish lexical profile
 
 Link: https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#swedish-lexical-profile
 _____________________________________________________________________________________
 
 
-### Adjectival declension
+### 3.1 Adjectival declension
 
-### Adjectival adverbial structure
+### 3.2 Adjectival adverbial structure
 
-### Multi-word expressions
+### 3.3 Multi-word expressions
 
-### Sen\*Lex
+### 3.4 Sen\*Lex
 
 
 _____________________________________________________________________________________
 
 
-## Swedish grammatical profile
+## 4. Swedish grammatical profile
 
 Link: https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#swedish-grammatical-profile
 
 _____________________________________________________________________________________
 
-### Morpho-syntactic descriptors
+### 4.2 Morpho-syntactic descriptors
 
 
-### Noun phrases
+### 4.2 Noun phrases
 
 
 
-### Verb phrases
+### 4.3 Verb phrases
 
 
 
 _____________________________________________________________________________________
 
 
-## Swedish morphological profile
+## 5. Swedish morphological profile
 
 Link: https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#swedish-morphological-profile
 
@@ -250,6 +250,6 @@ ________________________________________________________________________________
 
 
 
-### Word family
+### 5.1 Word family
 
-### Morpheme family
+### 5.2 Morpheme family
