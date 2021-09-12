@@ -169,7 +169,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
-The [**SweL2P**](https://spraakbanken.gu.se/larkalabb/svlp) features three main profiles:
+The [SweL2P](https://spraakbanken.gu.se/larkalabb/svlp) features three main profiles:
 
 * **lexical** profile, organized by words, multi-word expressions and a few other aspects of vocabulary
 * **grammatical** profile, organized by noun phrases, verb phrases and morpho-syntactic tendencies
