@@ -162,7 +162,7 @@ ________________________________________________________________________________
 
 Mönster 3a, t.ex. Svenska _studeras_ vid flera universitet.; Vi _hoppas_ att många deltar i kursen.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#presens---s-passiv/deponens
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#presens---s-passiv-el-deponens
 
 _____________________________________________________________________________________
 
@@ -198,7 +198,7 @@ ________________________________________________________________________________
 
 Mönster 5a, t.ex. Det Röda Rummet av Strindberg _lästes_ av många under sommaren.; Många _träffades_ den 6:e juni för att fira nationaldagen.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---s-passiv/deponens
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---s-passiv-el-deponens
 
 _____________________________________________________________________________________
 
@@ -235,7 +235,7 @@ ________________________________________________________________________________
 
 Mönster 7a, t.ex. Studentsången _har sjungits_ av studenter i många många år.; Barn _har träffats_ för att fira sina födelsedagar i alla tider.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt---s-passiv/deponens
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt---s-passiv-el-deponens
 
 _____________________________________________________________________________________
 
@@ -267,7 +267,7 @@ ________________________________________________________________________________
 
 Mönster 9a, t.ex. Böckerna _hade lagts_ fram på borden, redo för nya läsare.; De _hade träffats_ på dagis och var fortfarande vänner.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#pluskvamperfekt---s-passiv/deponens
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#pluskvamperfekt---s-passiv-el-deponens
 
 _____________________________________________________________________________________
 
@@ -292,7 +292,7 @@ ________________________________________________________________________________
 
 Mönster 10a, t.ex. När jag _läst_ ut en jättebra bok, är det svårt att hitta en ny bok.; När jag _läst_ ut den fantastiska boken, visste jag inte vad jag skulle läsa sen.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt-och-pluskvamperfekt-utan-finit-verb---aktiv-och-s-passiv/deponens
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt-och-pluskvamperfekt-utan-finit-verb---aktiv-och-s-passiv-el-deponens
 
 _____________________________________________________________________________________
 
@@ -308,7 +308,7 @@ ________________________________________________________________________________
 
 Mönster 10c, (undergrupp av 10a), t.ex. När jag _läst_ ut den fantastiska boken, visste jag inte vad jag skulle läsa sen.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt-och-pluskvamperfekt-utan-finit-verb---s-passiv/deponens
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#perfekt-och-pluskvamperfekt-utan-finit-verb---s-passiv-el-deponens
 
 _____________________________________________________________________________________
 
@@ -338,7 +338,7 @@ ________________________________________________________________________________
 
 Mönster 23c, (undergrupp av 23a), t.ex. Tentor _skulle rättas_ efter att de hade skrivits och innan personalen fick ledigt.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum-eller-konditionalis-s-passiv/deponens
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum-eller-konditionalis-s-passiv-el-deponens
 
 _____________________________________________________________________________________
 
@@ -362,7 +362,7 @@ ________________________________________________________________________________
 
 Mönster 24b, (undergrupp av 24) t.ex. Vi _skulle ha träffats_ i går men jag fick förhinder.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum-eller-konditionalis-med-supinum---s-passiv/deponens
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum-eller-konditionalis-med-supinum---s-passiv-el-deponens
 
 _____________________________________________________________________________________
 
