@@ -146,7 +146,7 @@ Filters appear on the top and can be _free-text_, (multiple) choices from _drop-
 
 <img src="Filters-mwe.png" width="1000">
 
-An example for Multi-Word Expressions shows 
+An example for Multi-Word Expressions (MWEs) shows 
 
 * Search word - a free-text window  
 * Word classes - a drop-down menu to limit the search to a (set of) word class(es) as defined in the SUC corpus (22 categories)
