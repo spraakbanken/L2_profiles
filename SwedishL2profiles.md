@@ -183,7 +183,7 @@ The **Table view** lists all items, e.g. multi-word expressions or verb patterns
 * Sense - the sense of the lemgram according to Saldo identifiers(only relevant for polysemous words/lemgrams)
 * Wordclass - which word class this lemgram belongs to, based on a taxonomy from the SUC corpus (22 categories)
 * Saldo wordclass - which word class this lemgram belongs to, based on a taxonomy from the Saldo lexicon (37 categories)
-* WordFormation - which word formation mechanism describes this particular lemgram 
+* WordFormation - which word formation mechanism describes this particular lemgram (7 categories), in the case of _tunnbröd_ the WordFormation mechanism is _compound_
 * Receptive - frequency information about the use of the root in the corpus of course books (Coctaill) with a link to Korp hits containing those items. Values are provided in relative and absolute numbers, see section on [Frequency information](https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#23-frequency-information) for explanations
 * Productive - frequency information about the use of the root in the corpus of essays (SweLL-pilot) with a link to Korp hits containing those items. Values are provided in relative and absolute numbers, see section on [Frequency information](https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#23-frequency-information) for explanations
 
