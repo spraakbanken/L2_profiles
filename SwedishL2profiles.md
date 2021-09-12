@@ -18,10 +18,12 @@ ________________________________________________________________________________
   - [2.1 Filters](#21-filters)
 
   - [2.2 Table view](#22-table-view)
+  
+  - [2.3 Frequency information](#22-frequency-information)
 
-  - [2.3 Graphical view](#23-graphical-view)
+  - [2.4 Graphical view](#24-graphical-view)
 
-   - [2.4 Statistical view](#24-statistical-view)
+  - [2.5 Statistical view](#25-statistical-view)
 
 [3. Swedish lexical profile](#3-swedish-lexical-profile)
 
@@ -123,15 +125,15 @@ ________________________________________________________________________________
 
 The [SweL2P](https://spraakbanken.gu.se/larkalabb/svlp) features three main profiles:
 
-* **lexical** profile, organized by words, multi-word expressions and a few other aspects of vocabulary
-* **grammatical** profile, organized by noun phrases, verb phrases and morpho-syntactic tendencies
-* **morphological** profile, organized into word family and morpheme family
+* [lexical profile](https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#3-swedish-lexical-profile), organized by words, multi-word expressions and a few other aspects of vocabulary
+* [grammatical profile](https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#4-swedish-grammatical-profile), organized by noun phrases, verb phrases and morpho-syntactic descriptors
+* [morphological profile](https://github.com/spraakbanken/L2_profiles/blob/master/SwedishL2profiles.md#5-swedish-morphological-profile), organized into word family and morpheme family
 
 <img src="SweL2Ps.png" width="600">
 
-Each item and pattern in the profile can be **filtered** in various ways depending on the category in focus, explored through actual corpus **hits in Korp** and associated information in a **Table view**, studied through **Statistical view** and/or graphs in the **Graphical view**. Each filtered data selection can be downloaded. 
+Each item or pattern in the profile can be [filtered](https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#21-filters) in various ways depending on the category in focus, explored through actual corpus **hits in Korp** and through associated information in a [Table view](https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#22-table-view), studied through [Statistical view](https://spraakbanken.github.io/L2_profiles/SwedishL2profiles) and/or graphs in the **Graphical view**. Each filtered data selection can be downloaded. 
 
-For each of the three profiles ([lexical](https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#swedish-lexical-profile), grammatical and [morphological](https://github.com/spraakbanken/L2_profiles/blob/master/SwedishL2profiles.md#swedish-morphological-profile)), you can find a more detailed description under the relevant subsection in this document.
+For each of the three profiles (lexical, grammatical and morphological), you can find a more detailed description under the relevant subsection in this document.
 
 
 _____________________________________________________________________________________
@@ -140,20 +142,24 @@ ________________________________________________________________________________
 
 Link: https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#21-filters
 
-Filters appear on the top and can be _free-text_, (multiple) choices from _drop-down menus_, tick boxes or buttons. For each individual category there is an individual set of filters. An example below for Multi-Word Expressions shows 
+Filters appear on the top and can be _free-text_, (multiple) choices from _drop-down menus_, tick boxes or buttons. For each individual category there is an individual set of filters. 
 
-* search word - a free-text window  
+<img src="Filters-mwe.png" width="1000">
+
+An example for Multi-Word Expressions shows 
+
+* Search word - a free-text window  
 * Word classes - a drop-down menu to limit the search to a (set of) word class(es) as defined in the SUC corpus (22 categories)
 * Saldo word classes - a drop-down menu to limit the search to a (set of) word class(es) as defined in the Saldo lexicon (37 categories)
-* MWE Type 1 - a drop-down menu to limit the search to contiguous or non-contiguous MWEs
+* MWE Type 1 - a drop-down menu to limit the search to _contiguous_ or _non-contiguous_ MWEs
 * MWE Type 2 - a drop-down menu to limit the search to 9 categories by word classes
 * MWE Type 3 - a drop-down menu to filter various subtypes of verbal MWEs
 
-* Below, there is a possibility to click on a CEFR level button to select items appearing at the level. Each button is of _toggle_ character: first click selects the item, the second one de-selects it. Several levels can be selected simultaneously.
-* Varios views - Table, Graphical and Statistical are decsribes in separate subsections
-* Only first occurrence - a tick-box showing items only once, at the level where they appear for the first time.
+* Below, there is a possibility to click on CEFR level buttons to select items appearing at a particular level. Each button is of a _toggle_ character: first click selects the item, the second one de-selects it. Several levels can be selected simultaneously.
+* Varios views - Table, Graphical and Statistical are described in separate subsections
+* Only first occurrence - a tick-box showing each MWE item only once, at the level where it appears for the first time (hiding its appearance at other levels).
 
-<img src="Filters-mwe.png" width="1000">
+
 
 _____________________________________________________________________________________
 
