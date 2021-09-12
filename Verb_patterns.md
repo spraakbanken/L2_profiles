@@ -30,41 +30,41 @@ ________________________________________________________________________________
   
   - [Presens - aktiv inklusive hjälpverb](#presens---aktiv-inklusive-hjälpverb)
   - [Presens - aktiv exklusive hjälpverb](#presens---aktiv-exklusive-hjälpverb)
-  - [Presens - s-passiv/deponens](#presens---s-passiv/deponens)
+  - [Presens - s-passiv el. deponens](#presens---s-passiv-el-deponens)
   - [Presens - s-passiv](#presens---s-passiv)
   - [Presens - deponens](#presens---deponens)
 
 [3. Verbfraser med preteritum](#3-verbfraser-med-preteritum)
   - [Preteritum - aktiv inklusive hjälpverb](#preteritum---aktiv-inklusive-hjälpverb)
-  - [Preteritum - s-passiv/deponens](#preteritum---s-passiv/deponens)
+  - [Preteritum - s-passiv el. deponens](#preteritum---s-passiv-el-deponens)
   - [Preteritum - s-passiv](#preteritum---s-passiv)
   - [Preteritum - deponens](#preteritum---deponens)
 
 [4. Verbfraser med supinum](#4-verbfraser-med-supinum)
   - [Perfekt - aktiv](#perfekt---aktiv)
-  - [Perfekt - s-passiv/deponens](#perfekt---s-passiv/deponens)
+  - [Perfekt - s-passiv el. deponens](#perfekt---s-passiv-el-deponens)
   - [Perfekt - s-passiv](#perfekt---s-passiv)
   - [Perfekt - deponens](#perfekt---deponens)
   - [Pluskvamperfekt - aktiv](#pluskvamperfekt---aktiv)
-  - [Pluskvamperfekt - s-passiv/deponens](#pluskvamperfekt---s-passiv/deponens)
+  - [Pluskvamperfekt - s-passiv el. deponens](#pluskvamperfekt---s-passiv-el-deponens)
   - [Pluskvamperfekt - s-passiv](#pluskvamperfekt---s-passiv)
   - [Pluskvamperfekt - deponens](#pluskvamperfekt---deponens)
-  - [Perfekt och Pluskvamperfekt utan finit verb - aktiv och s-passiv/deponens](#perfekt-och-pluskvamperfekt-utan-finit-verb---aktiv-och-s-passiv/deponens)
+  - [Perfekt och Pluskvamperfekt utan finit verb - aktiv och s-passiv el. deponens](#perfekt-och-pluskvamperfekt-utan-finit-verb---aktiv-och-s-passiv-el-deponens)
   - [Perfekt och Pluskvamperfekt utan finit verb - aktiv](#perfekt-och-pluskvamperfekt-utan-finit-verb---aktiv)
-  - [Perfekt och Pluskvamperfekt utan finit verb - s-passiv/deponens](#perfekt-och-pluskvamperfekt-utan-finit-verb---s-passiv/deponens)
+  - [Perfekt och Pluskvamperfekt utan finit verb - s-passiv el. deponens](#perfekt-och-pluskvamperfekt-utan-finit-verb---s-passiv-el-deponens)
 
 [5. Futurum preteritum eller Konditionalis](#5-futurum-preteritum-eller-konditionalis)
   - [Futurum preteritum eller konditionalis](#futurum-preteritum-eller-konditionalis)
   - [Futurum preteritum eller konditionalis - aktiv](#futurum-preteritum-eller-konditionalis---aktiv)
-  - [Futurum preteritum eller konditionalis - s-passiv/deponens](#futurum-preteritum-eller-konditionalis---s-passiv/deponens)
+  - [Futurum preteritum eller konditionalis - s-passiv el. deponens](#futurum-preteritum-eller-konditionalis---s-passiv-el-deponens)
   - [Futurum preteritum eller konditionalis med supinum](#futurum-preteritum-eller-konditionalis-med-supinum)
   - [Futurum preteritum eller konditionalis med supinum - aktiv](#futurum-preteritum-eller-konditionalis-med-supinum---aktiv)
-  - [Futurum preteritum eller konditionalis med supinum - s-passiv/deponens](#futurum-preteritum-eller-konditionalis-med-supinum---s-passiv/deponens)
+  - [Futurum preteritum eller konditionalis med supinum - s-passiv el. deponens](#futurum-preteritum-eller-konditionalis-med-supinum---s-passiv-el-deponens)
 
 [6. Verbfraser med konjunktiv](#6-verbfraser-med-konjunktiv)
   - [Presens - konjunktiv - aktiv](#presens---konjunktiv---aktiv)
   - [Preteritum - konjunktiv - aktiv](#preteritum---konjunktiv---aktiv)
-  - [Preteritum - konjunktiv - s-passiv/deponens](#preteritum---konjunktiv---s-passiv/deponens)
+  - [Preteritum - konjunktiv - s-passiv el. deponens](#preteritum---konjunktiv---s-passiv-el-deponens)
 
 [7. Verbfraser med perifrastisk passiv](#7-verbfraser-med-perifrastisk-passiv)
   - [Presens - bli-passiv](#presens---bli-passiv)
@@ -158,7 +158,7 @@ Mönster 2b, undergrupp av 2a -- OM VI ANVÄNDER DEN
 
 _____________________________________________________________________________________
 
-### Presens - s-passiv/deponens
+### Presens - s-passiv el. deponens
 
 Mönster 3a, t.ex. Svenska _studeras_ vid flera universitet.; Vi _hoppas_ att många deltar i kursen.
 
@@ -194,7 +194,7 @@ Mönster 4a, t.ex. Jag _läste_ Det Röda Rummet av Strindberg under sommaren.
 
 _____________________________________________________________________________________
 
-### Preteritum - s-passiv/deponens
+### Preteritum - s-passiv el. deponens
 
 Mönster 5a, t.ex. Det Röda Rummet av Strindberg _lästes_ av många under sommaren.; Många _träffades_ den 6:e juni för att fira nationaldagen.
 
@@ -231,7 +231,7 @@ Mönster 6, t.ex.
 
 
 _____________________________________________________________________________________
-### Perfekt - s-passiv/deponens
+### Perfekt - s-passiv el. deponens
 
 Mönster 7a, t.ex. Studentsången _har sjungits_ av studenter i många många år.; Barn _har träffats_ för att fira sina födelsedagar i alla tider.
 
@@ -263,7 +263,7 @@ Mönster 8, t.ex. Jag _hade läst ut_ boken innan dagen var slut.
 
 _____________________________________________________________________________________
 
-### Pluskvamperfekt - s-passiv/deponens
+### Pluskvamperfekt - s-passiv el. deponens
 
 Mönster 9a, t.ex. Böckerna _hade lagts_ fram på borden, redo för nya läsare.; De _hade träffats_ på dagis och var fortfarande vänner.
 
@@ -288,7 +288,7 @@ Mönster 9c (undergrupp av 9a), t.ex. De _hade träffats_ på dagis och var fort
 _____________________________________________________________________________________
 
 
-### Perfekt och Pluskvamperfekt utan finit verb - aktiv och s-passiv/deponens
+### Perfekt och Pluskvamperfekt utan finit verb - aktiv och s-passiv el. deponens
 
 Mönster 10a, t.ex. När jag _läst_ ut en jättebra bok, är det svårt att hitta en ny bok.; När jag _läst_ ut den fantastiska boken, visste jag inte vad jag skulle läsa sen.
 
@@ -304,7 +304,7 @@ Mönster 10b (undergrupp av 10a), t.ex. När jag _läst_ ut en jättebra bok, ä
 
 _____________________________________________________________________________________
 
-### Perfekt och Pluskvamperfekt utan finit verb - s-passiv/deponens
+### Perfekt och Pluskvamperfekt utan finit verb - s-passiv el. deponens
 
 Mönster 10c, (undergrupp av 10a), t.ex. När jag _läst_ ut den fantastiska boken, visste jag inte vad jag skulle läsa sen.
 
@@ -334,7 +334,7 @@ Mönster 23b, (undergrupp av 23a), t.ex. Det _skulle bli_ fint väder imorgon. (
 
 _____________________________________________________________________________________
 
-### Futurum preteritum eller konditionalis - s-passiv/deponens
+### Futurum preteritum eller konditionalis - s-passiv el. deponens
 
 Mönster 23c, (undergrupp av 23a), t.ex. Tentor _skulle rättas_ efter att de hade skrivits och innan personalen fick ledigt.
 
@@ -358,7 +358,7 @@ Mönster 24a, (undergrupp av 24) t.ex. Jag _skulle ha läst_ varje klassiker som
 
 _____________________________________________________________________________________
 
-### Futurum preteritum eller konditionalis med supinum - s-passiv/deponens
+### Futurum preteritum eller konditionalis med supinum - s-passiv el. deponens
 
 Mönster 24b, (undergrupp av 24) t.ex. Vi _skulle ha träffats_ i går men jag fick förhinder.
 
@@ -370,7 +370,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
-### Presens - konjunktiv 
+### Presens - konjunktiv - aktiv
 
 Mönster 25b, t.ex. _Leve_ födelsedagsbarnet!
 
@@ -378,7 +378,7 @@ Mönster 25b, t.ex. _Leve_ födelsedagsbarnet!
 
 _____________________________________________________________________________________
 
-### Preteritum - konjunktiv
+### Preteritum - konjunktiv - aktiv
 
 Mönster 25c, t.ex. _Måtte_ vi inte missa flyget!
 
@@ -386,7 +386,7 @@ Mönster 25c, t.ex. _Måtte_ vi inte missa flyget!
 
 _____________________________________________________________________________________
 
-### Preteritum - konjunktiv s-passiv/deponens
+### Preteritum - konjunktiv s-passiv el deponens
 
 Mönster 25d, t.ex. Om det _funnes_ alternativ, så skulle vi inte operera.
 
