@@ -156,8 +156,8 @@ An example for Multi-Word Expressions (MWEs) shows
 * MWE Type 3 - a drop-down menu to filter various subtypes of verbal MWEs
 
 * Under the first row of filters, there is a possibility to click on the CEFR level buttons to select items appearing at a particular level. Each button is of a _toggle_ character: first click selects the level, the second one de-selects it. Several levels can be selected simultaneously.
-* Varios views - Table, Graphical and Statistical are described in separate subsections
 * Only first occurrence - a tick-box showing each MWE item only once, at the level where it appears for the first time (hiding its appearance at other levels).
+* Varios views - [Table](ttps://spraakbanken.github.io/L2_profiles/SwedishL2profiles#22-table-view), [Graphical](https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#24-graphical-view) and [Statistical](https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#25-statistical-view) are described in separate subsections.
 
 
 
@@ -167,18 +167,22 @@ ________________________________________________________________________________
 
 Link: https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#22-table-view
 
-Thr **Table view** lists all items in focus, e.g. multi-word expressions or a verb patterns, one by one, with associated information about it (similar to an Excel sheet). Columns  with descriptive information depend on the item in focus, for example, 
-
-* CEFR level they appear at - once for each level where they appear
-* 
+The **Table view** lists all items, e.g. multi-word expressions or a verb patterns, with associated information about it (similar to an Excel sheet) one by one in rows. Columns  with descriptive information depend on the item in focus, for example, for the Swedish Word Family, there are the following columns with descriptive information:
 
 <img src="TableView.png" width="1000">
 
-**CEFR level** 
+* Root - the root of the word, e.g. _bröd_
+* CEFR level where that root appears at - once for each level and vocabulary item where they appear
+* Lemgram which the roos is a part of, e.g. _tunnbröd_. The lemgram can be clicked to see information about its **morphological analysis** by the project annotators and from _svenska.se_, and a link to its **definition** in _svenska.se_
+* Sense - the sense of the lemgram according to Saldo identifiers(only relevant for polysemous words/lemgrams)
+* Wordclass - which word class this lemgram belongs to, based on a taxonomy from the SUC corpus (22 categories)
+* Saldo wordclass - which word class this lemgram belongs to, based on a taxonomy from the Saldo lexicon (37 categories)
+* WordFormation - which word formation mechanism describes this particular lemgram 
+* Receptive - frequency information about the use of the root in the corpus of course books (Coctaill) with a link to Korp hits containing those items. Values are provided in relative and absolute numbers, see section on [Frequency information](https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#23-frequency-information) for explanations
+* Productive - frequency information about the use of the root in the corpus of essays (SweLL-pilot) with a link to Korp hits containing those items. Values are provided in relative and absolute numbers, see section on [Frequency information](https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#23-frequency-information) for explanations
 
-**Focus item**
+Clicking on the header of the column will sort the whole table according to the values in that column: either alphabetically if the values are strings; or in descending/ascending order if the values are numerical
 
-**Columns**
 
 _____________________________________________________________________________________
 
@@ -187,8 +191,9 @@ ________________________________________________________________________________
 Link: https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#23-frequency-information
 
 * **Receptive** and **Productive**  frequencies 
-* **Absolute** frequency
-* **Relative** frequency  
+  * **Absolute** frequency
+  * **Relative** frequency
+  
 * Link to **Korp hits**  for this particylat
 
 **Receptive**. Column with "Receptive" frequency shows relative and absolute hits of an item/pattern in the texts in the coursebook corpus Coctaill. The relative frequency is normalized 
@@ -215,7 +220,7 @@ ________________________________________________________________________________
 
 ### 2.5 Statistical view
 
-https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#25-statistical-view
+Link: https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#25-statistical-view
 
 <img src="StatView.png" width="1000">
 
