@@ -2,6 +2,7 @@
 _Elena Volodina and Therese Lindström Tiedemann, September 2021_
 
 Online version: [https://spraakbanken.github.io/L2_profiles/VSwedishL2profiles](https://spraakbanken.github.io/L2_profiles/VSwedishL2profiles)
+
 _____________________________________________________________________________________
 
 ## Contents
@@ -33,7 +34,7 @@ ________________________________________________________________________________
       - []()
 
 
-[Swedish Lexical profile](#swedish-lexical-profile)
+[Swedish lexical profile](#swedish-lexical-profile)
 
    - [Adjectival declension](#adjectival-declension)
    
@@ -44,7 +45,7 @@ ________________________________________________________________________________
    - [Sen\*Lex](#senlex)
    
 
-[Swedish Grammar  profile](#swedish-grammar-profile)
+[Swedish grammatical profile](#swedish-grammatical-profile)
 
    - []()
    
@@ -58,7 +59,7 @@ ________________________________________________________________________________
    
    - []()
 
-[Swedish Morphological  profile](#swedish-morphological-profile)
+[Swedish morphological profile](#swedish-morphological-profile)
 
    - [Word family](#word-family)
    
@@ -138,8 +139,6 @@ _References_:
     * SW1203 (part of SweLL-pilot): https://spraakbanken.github.io/swell-release-v1/Metadata-SW1203
     * TISUS 2007 (part of SweLL-pilot): https://spraakbanken.github.io/swell-release-v1/Metadata-TISUS
 
-
-
 _____________________________________________________________________________________
 
 
@@ -155,7 +154,9 @@ The [SweL2P](https://spraakbanken.gu.se/larkalabb/svlp) features three main prof
 
 <img src="SweL2Ps.png" width="600">
 
-Each item and pattern in the profile can be **filtered** in various ways depending on the category in focus, explored through actual corpus **hits in Korp** and a **Table view**, studied through statistical overview (**Statistical view**) and/or graphs (Graphical view) and downloaded. For each of the three profiles, you can find a more detailed description in this document.
+Each item and pattern in the profile can be **filtered** in various ways depending on the category in focus, explored through actual corpus **hits in Korp** and associated information in a **Table view**, studied through **Statistical view** and/or graphs in the **Graphical view**. Each filtered data selection can be downloaded. 
+
+For each of the three profiles ([lexical](https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#swedish-lexical-profile), grammatical and [morphological](https://github.com/spraakbanken/L2_profiles/blob/master/SwedishL2profiles.md#swedish-morphological-profile)), you can find a more detailed description under the relevant subsection in this document.
 
 
 _____________________________________________________________________________________
@@ -165,6 +166,13 @@ ________________________________________________________________________________
 _____________________________________________________________________________________
 
 ### Table view
+
+Link: https://github.com/spraakbanken/L2_profiles/blob/master/SwedishL2profiles.md#table-view
+
+Thr **Table view** lists all items in focus, e.g. multi-word expressions or a verb patterns, one by one, with associated information about it (similar to an Excel sheet). Columns  with descriptive information depend on the item in focus, for example, 
+
+* CEFR level they appear at - once for each level where they appear
+* 
 
 <img src="TableView.png" width="1000">
 
@@ -203,7 +211,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________
 
 
-## Swedish Lexical profile
+## Swedish lexical profile
 
 _____________________________________________________________________________________
 
@@ -220,7 +228,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________
 
 
-## Swedish Grammar profile
+## Swedish grammatical profile
 
 _____________________________________________________________________________________
 
@@ -238,7 +246,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________
 
 
-## Swedish Morphological profile
+## Swedish morphological profile
 
 _____________________________________________________________________________________
 
