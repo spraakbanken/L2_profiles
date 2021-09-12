@@ -233,6 +233,7 @@ ________________________________________________________________________________
 ## 3. Swedish lexical profile
 
 Link: https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#3-swedish-lexical-profile
+
 _____________________________________________________________________________________
 
 
