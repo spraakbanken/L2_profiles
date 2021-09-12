@@ -19,20 +19,9 @@ ________________________________________________________________________________
 
   - [2.2 Table view](#22-table-view)
 
-      - []()
-
   - [2.3 Graphical view](#23-graphical-view)
 
-      - []()
-
-      - []()
-
    - [2.4 Statistical view](#24-statistical-view)
-
-      - []()
-
-      - []()
-
 
 [3. Swedish lexical profile](#3-swedish-lexical-profile)
 
@@ -43,7 +32,6 @@ ________________________________________________________________________________
    - [3.3 Multi-word expressions](#33-multi-word-expressions)
    
    - [3.4 Sen\*Lex](#34-senlex)
-   
 
 [4. Swedish grammatical profile](#4-swedish-grammatical-profile)
 
