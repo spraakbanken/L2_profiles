@@ -173,7 +173,7 @@ ________________________________________________________________________________
 
 Link: https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#22-table-view
 
-The **Table view** lists all items, e.g. multi-word expressions or verb patterns, with associated information about it (similar to an Excel sheet) one by one in rows. Columns  with descriptive information depend on the item in focus, for example, for the Swedish Word Family, there are the following columns with descriptive information:
+The **Table view** lists all items, e.g. multi-word expressions or verb patterns, with associated information about them (similar to an Excel sheet) one by one in rows. Columns  with descriptive information depend on the item in focus, for example, for the Swedish Word Family, there are the following columns with descriptive information:
 
 <img src="TableView.png" width="1000">
 
