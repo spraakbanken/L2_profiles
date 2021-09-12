@@ -386,7 +386,7 @@ Mönster 25c, t.ex. _Måtte_ vi inte missa flyget!
 
 _____________________________________________________________________________________
 
-### Preteritum - konjunktiv s-passiv el. deponens
+### Preteritum - konjunktiv - s-passiv el. deponens
 
 Mönster 25d, t.ex. Om det _funnes_ alternativ, så skulle vi inte operera.
 
@@ -457,7 +457,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
-### Verb i presens + ha + supinum
+### Hjälpverb i presens + ha + supinum
 
 Mönster 21
 
@@ -465,7 +465,7 @@ Mönster 21
 
 _____________________________________________________________________________________
 
-### Verb i preteritum + ha + supinum
+### Hjälpverb i preteritum + ha + supinum
 
 Mönster 22
 
