@@ -386,11 +386,11 @@ Mönster 25c, t.ex. _Måtte_ vi inte missa flyget!
 
 _____________________________________________________________________________________
 
-### Preteritum - konjunktiv s-passiv el deponens
+### Preteritum - konjunktiv s-passiv el. deponens
 
 Mönster 25d, t.ex. Om det _funnes_ alternativ, så skulle vi inte operera.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---konjunktiv-s-passiv/deponens
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---konjunktiv-s-passiv-el-deponens
 
 _____________________________________________________________________________________
 
