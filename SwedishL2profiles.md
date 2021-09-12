@@ -43,7 +43,7 @@ ________________________________________________________________________________
    
    - [4.3 Verb phrases](#43-verb-phrases)
 
-[5. Swedish morphological profile](#s5-wedish-morphological-profile)
+[5. Swedish morphological profile](#5-swedish-morphological-profile)
 
    - [5.1 Word family](#51-word-family)
    
