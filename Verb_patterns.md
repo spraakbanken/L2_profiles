@@ -146,7 +146,7 @@ _Eng:_ (simple, present, indicative, active, -)
 
 Mönster 2a, t.ex. Jag _läser_ en bok.
 
-*Link:* https://spraakbanken.github.io/L2_profiles/Verb_patterns#presens---aktiv-inkl-hj%C3%A4lpverb
+*Link:* https://spraakbanken.github.io/L2_profiles/Verb_patterns#presens---aktiv-inklusive-hj%C3%A4lpverb
 
 _____________________________________________________________________________________
 
@@ -154,7 +154,7 @@ ________________________________________________________________________________
 
 Mönster 2b, undergrupp av 2a -- OM VI ANVÄNDER DEN
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#presens---aktiv-exkl-hj%C3%A4lpverb
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#presens---aktiv-exklusive-hj%C3%A4lpverb
 
 _____________________________________________________________________________________
 
@@ -190,7 +190,7 @@ ________________________________________________________________________________
 
 Mönster 4a, t.ex. Jag _läste_ Det Röda Rummet av Strindberg under sommaren.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---aktiv-inkl-hj%C3%A4lpverb
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---aktiv-inklusive-hj%C3%A4lpverb
 
 _____________________________________________________________________________________
 
