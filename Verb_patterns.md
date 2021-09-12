@@ -374,7 +374,7 @@ ________________________________________________________________________________
 
 Mönster 25b, t.ex. _Leve_ födelsedagsbarnet!
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#presens---konjunktiv
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#presens---konjunktiv---aktiv
 
 _____________________________________________________________________________________
 
@@ -382,7 +382,7 @@ ________________________________________________________________________________
 
 Mönster 25c, t.ex. _Måtte_ vi inte missa flyget!
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---konjunktiv
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---konjunktiv---aktiv
 
 _____________________________________________________________________________________
 
@@ -390,7 +390,7 @@ ________________________________________________________________________________
 
 Mönster 25d, t.ex. Om det _funnes_ alternativ, så skulle vi inte operera.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---konjunktiv-s-passiv-el-deponens
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#preteritum---konjunktiv---s-passiv-el-deponens
 
 _____________________________________________________________________________________
 
