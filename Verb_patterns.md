@@ -330,7 +330,7 @@ ________________________________________________________________________________
 
 Mönster 23b, (undergrupp av 23a), t.ex. Det _skulle bli_ fint väder imorgon. (futurum preteritum); Om de vore rika, _skulle_ de inte _bo_ i ett så slitet hus. (konditionalis)
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum-eller-konditionalis-aktiv
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum-eller-konditionalis---aktiv
 
 _____________________________________________________________________________________
 
