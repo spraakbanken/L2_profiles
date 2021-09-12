@@ -121,36 +121,37 @@ The project has resulted in a [Swedish L2 profiles](https://spraakbanken.gu.se/l
 
 **COCTAILL** is a corpus of course books used for teaching Swedish as a second language (L2). Each chapter is the course books has been marked by teachers for the level of proficiency at which it has been used in courses for non-native Swedish speakers. COCTAILL contains course books at five of the six CEFR (Common European Framework of Reference) levels: A1 (beginner), A2, B1, B2, C1 (advanced). C2 (near-native) is missing. This corpus is used to get an approximation of what vocabulary and grammar L2 learners meet when reading, and are expected to understand **receptively**.
 
-*Statistics over Coctaill (receptive)*
+*Statistics over Coctaill corpus (receptive)*
 
 | CEFR level |  Nr sentences | Nr tokens | 
-|:-----------|:--------------|:--------------|
-| A1| 7583|| 
-| A2| 14006 ||  
-| B1| 18528|| 
-| B2| 16649|| 
-| C1| 16668|| 
-| C2| 0|| 
-| None| 3397|| 
-| Total| 76 831||
+|:-----------|:--------------|:----------|
+| A1         | 7 583         |37 149| 
+| A2         | 14 006        |84 996|  
+| B1         | 18 528        |154 013| 
+| B2         | 16 649        |164 322| 
+| C1         | 16 668        |176 634| 
+| C2         | 0             |0| 
+| None       | 3 397         |34 885| 
+| Total      | 76 831        |651 999|
+
 
 
 _Reference_: Elena Volodina, Ildikó Pilán, Stian Rødven Eide and Hannes Heidarsson 2014. You get what you annotate: a pedagogically annotated corpus of coursebooks for Swedish as a Second Language. Proceedings of the third workshop on NLP for computer-assisted language learning. NEALT Proceedings Series 22 / Linköping Electronic Conference Proceedings 107: 128–144. [pdf](http://www.ep.liu.se/ecp/107/010/ecp14107010.pdf)
 
 **SweLL-pilot** is a corpus contating essays written by learners of Swedish as a second language. The essays have been collected from three separate schools, and have been labeled with the CEFR labels by experts. Essays represent the six levels A1 - C2, although C2 is represented by two essays only. This corpus is used to get an approximation of what vocabulary and grammar L2 learners are able to produce actively when writing, and therefore represent learners' **productive** abilities.
 
-*Statistics over SweLL-pilot (productive)*
+*Statistics over SweLL-pilot corpus (productive)*
 
 | CEFR level | Nr sentences| Nr tokens  |     
 |:-----------|:------------|:-----------|
-| A1         | 633         |   5172         |  
-| A2         | 2616|27304| ||
-| B1         | 1719|24853|||
-| B2         | 2691|45684|||
-| C1         | 2887|52048|||
-| C2         |175|3294|||
-| None       |148|1706|||
-| Total      | 10 869||||
+| A1         | 633         |5 172       |  
+| A2         | 2 616       |27 304      | 
+| B1         | 1 719       |24 853      |
+| B2         | 2 691       |45 684      |
+| C1         | 2 887       |52 048      |
+| C2         | 175         |3 294       |
+| None       | 148         |1 706       |
+| Total      | 10 869      |160 061     |
 
 _Reference_: Elena Volodina, Ildikó Pilán, Ingegerd Enström, Lorena Llozhi, Peter Lundkvist, Gunlög Sundberg, Monica Sandell. 2016. SweLL on the rise: Swedish Learner Language corpus for European Reference Level studies. Proceedings of LREC 2016, Slovenia. [pdf](http://arxiv.org/pdf/1604.06583v1.pdf)
 
