@@ -131,7 +131,7 @@ The [SweL2P](https://spraakbanken.gu.se/larkalabb/svlp) features three main prof
 
 <img src="SweL2Ps.png" width="600">
 
-Each item or pattern in the profile can be [filtered](https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#21-filters) in various ways depending on the category in focus, explored through actual corpus **hits in Korp** and through associated information in a [Table view](https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#22-table-view), studied through [Statistical view](https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#25-statistical-view) and/or graphs in the [Graphical view](https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#24-graphical-view). Each filtered data selection can be downloaded. 
+Each item or pattern in the profile can be [filtered](https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#21-filters) in various ways depending on the category in focus, explored through actual corpus **hits in Korp** and through associated information in a [Table view](https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#22-table-view), studied through [Statistical view](https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#25-statistical-view) and/or graphs in the [Graphical view](https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#24-graphical-view). The entire dataset or each filtered data selection can be downloaded. 
 
 For each of the three profiles (lexical, grammatical and morphological), you can find a more detailed description under the relevant subsection in this document.
 
