@@ -1,7 +1,7 @@
 # Swedish L2 profiles
 _Elena Volodina and Therese Lindström Tiedemann, September 2021_
 
-Online version: [https://spraakbanken.github.io/L2_profiles/VSwedishL2profiles](https://spraakbanken.github.io/L2_profiles/VSwedishL2profiles)
+Online version: [https://spraakbanken.github.io/L2_profiles/SwedishL2profiles](https://spraakbanken.github.io/L2_profiles/SwedishL2profiles)
 
 _____________________________________________________________________________________
 
@@ -167,7 +167,7 @@ ________________________________________________________________________________
 
 ### Table view
 
-Link: https://github.com/spraakbanken/L2_profiles/blob/master/SwedishL2profiles.md#table-view
+Link: https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#table-view
 
 Thr **Table view** lists all items in focus, e.g. multi-word expressions or a verb patterns, one by one, with associated information about it (similar to an Excel sheet). Columns  with descriptive information depend on the item in focus, for example, 
 
@@ -186,6 +186,8 @@ ________________________________________________________________________________
 
 ### Frequency information
 
+Link: https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#frequency-information
+
 **Receptive**. Column with "Receptive" frequency shows relative and absolute hits of an item/pattern in the texts in the coursebook corpus Coctaill. The relative frequency is normalized 
 
 - towards the tokens per level (Lexical and Morphological profile)
@@ -197,11 +199,15 @@ ________________________________________________________________________________
 
 ### Graphical view
 
+Link: https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#graphical-view
+
 <img src="GraphicalView.png" width="1000">
 
 _____________________________________________________________________________________
 
 ### Statistical view
+
+https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#statistical-view
 
 <img src="StatView.png" width="1000">
 
@@ -213,6 +219,7 @@ ________________________________________________________________________________
 
 ## Swedish lexical profile
 
+Link: https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#swedish-lexical-profile
 _____________________________________________________________________________________
 
 
@@ -230,6 +237,8 @@ ________________________________________________________________________________
 
 ## Swedish grammatical profile
 
+Link: https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#swedish-grammatical-profile
+
 _____________________________________________________________________________________
 
 ### Morpho-syntactic descriptors
@@ -237,16 +246,18 @@ ________________________________________________________________________________
 
 ### Noun phrases
 
+
+
 ### Verb phrases
 
-#### Filters
 
-#### Columns
 
 _____________________________________________________________________________________
 
 
 ## Swedish morphological profile
+
+Link: https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#swedish-morphological-profile
 
 _____________________________________________________________________________________
 
