@@ -155,7 +155,7 @@ An example for Multi-Word Expressions shows
 * MWE Type 2 - a drop-down menu to limit the search to 9 categories by word classes
 * MWE Type 3 - a drop-down menu to filter various subtypes of verbal MWEs
 
-* Below, there is a possibility to click on CEFR level buttons to select items appearing at a particular level. Each button is of a _toggle_ character: first click selects the item, the second one de-selects it. Several levels can be selected simultaneously.
+* Undeer the first row of filters, there is a possibility to click on CEFR level buttons to select items appearing at a particular level. Each button is of a _toggle_ character: first click selects the item, the second one de-selects it. Several levels can be selected simultaneously.
 * Varios views - Table, Graphical and Statistical are described in separate subsections
 * Only first occurrence - a tick-box showing each MWE item only once, at the level where it appears for the first time (hiding its appearance at other levels).
 
