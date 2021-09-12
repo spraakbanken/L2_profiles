@@ -138,11 +138,28 @@ ________________________________________________________________________________
 
 ### 2.1 Filters
 
+Link: https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#21-filters
+
+Filters appear on the top and can be _free-text_, (multiple) choices from _drop-down menus_, tick boxes or buttons. For each individual category there is an individual set of filters. An example below for Multi-Word Expressions shows 
+
+* search word - a free-text window  
+* Word classes - a drop-down menu to limit the search to a (set of) word class(es) as defined in the SUC corpus (22 categories)
+* Saldo word classes - a drop-down menu to limit the search to a (set of) word class(es) as defined in the Saldo lexicon (37 categories)
+* MWE Type 1 - a drop-down menu to limit the search to contiguous or non-contiguous MWEs
+* MWE Type 2 - a drop-down menu to limit the search to 9 categories by word classes
+* MWE Type 3 - a drop-down menu to filter various subtypes of verbal MWEs
+
+* Below, there is a possibility to click on a CEFR level button to select items appearing at the level. Each button is of _toggle_ character: first click selects the item, the second one de-selects it. Several levels can be selected simultaneously.
+* Varios views - Table, Graphical and Statistical are decsribes in separate subsections
+* Only first occurrence - a tick-box showing items only once, at the level where they appear for the first time.
+
+<img src="Filters-mwe.png" width="1000">
+
 _____________________________________________________________________________________
 
 ### 2.2 Table view
 
-Link: https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#table-view
+Link: https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#22-table-view
 
 Thr **Table view** lists all items in focus, e.g. multi-word expressions or a verb patterns, one by one, with associated information about it (similar to an Excel sheet). Columns  with descriptive information depend on the item in focus, for example, 
 
@@ -161,9 +178,19 @@ ________________________________________________________________________________
 
 ### 2.3 Frequency information
 
-Link: https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#frequency-information
+Link: https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#23-frequency-information
+
+* **Receptive** and **Productive**  frequencies 
+* **Absolute** frequency
+* **Relative** frequency  
+* Link to **Korp hits**  for this particylat
 
 **Receptive**. Column with "Receptive" frequency shows relative and absolute hits of an item/pattern in the texts in the coursebook corpus Coctaill. The relative frequency is normalized 
+
+- towards the tokens per level (Lexical and Morphological profile)
+- towards number of sentences at a given level of proficiency (Grammar profile). For example, if we have 20 hits in  Coctaill at C1 level, and we know that 
+
+**Productive**. Column with "Productive" frequency shows relative and absolute hits of an item/pattern in the texts in the coursebook corpus Coctaill. The relative frequency is normalized 
 
 - towards the tokens per level (Lexical and Morphological profile)
 - towards number of sentences at a given level of proficiency (Grammar profile). For example, if we have 20 hits in  Coctaill at C1 level, and we know that 
