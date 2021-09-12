@@ -186,7 +186,7 @@ The [SweL2P](https://spraakbanken.gu.se/larkalabb/svlp) features three main prof
 
 <img src="SweL2Ps.png" width="600">
 
-Each item and pattern in the profile can be filtered in various ways, explored through actual corpus hits in Korp (Table view), studied through statistics (Statistical view) and/or graphs (Graphical view) and downloaded. For each of the three profiles, you can find a more detailed description in this document.
+Each item and pattern in the profile can be **filtered** in various ways depending on the category in focus, explored through actual corpus **hits in Korp** and a **Table view**, studied through statistical overview (**Statistical view**) and/or graphs (Graphical view) and downloaded. For each of the three profiles, you can find a more detailed description in this document.
 
 
 _____________________________________________________________________________________
