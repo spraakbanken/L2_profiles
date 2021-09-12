@@ -1,56 +1,32 @@
 # Swedish L2 profiles
 _Elena Volodina and Therese Lindström Tiedemann, September 2021_
 
+Online version: [https://spraakbanken.github.io/L2_profiles/VSwedishL2profiles](https://spraakbanken.github.io/L2_profiles/VSwedishL2profiles)
 _____________________________________________________________________________________
-
-
 
 ## Contents
 
 [General description](#general-description)
 
-   - [About the project](#about-the-project)
+   - [L2P project](#l2p-project)
+ 
+   - [Corpora used in the project](#corpora-used-in-the-project)
+ 
+[User interface](#user-interface)
    
-   - [Table view](#table-view)
+  - [Filters](#filters)
 
+  - [Table view](#table-view)
 
+      - []()
+
+  - [Graphical view](#graphical-view)
 
       - []()
 
       - []()
-
-      - []()
-
-      - []()
-
-      - []()
-
-
-
-   - [Graphical view](#graphical-view)
-
-      - []()
-
-      - []()
-
-      - []()
-
-      - []()
-
-      - []()
-
-      - []()
-
 
    - [Statistical view](#statistical-view)
-
-      - []()
-
-      - []()
-
-      - []()
-
-      - []()
 
       - []()
 
@@ -67,13 +43,6 @@ ________________________________________________________________________________
    
    - [Sen\*Lex](#senlex)
    
-   - []()
-   
-   - []()
-
-
-
-
 
 [Swedish Grammar  profile](#swedish-grammar-profile)
 
