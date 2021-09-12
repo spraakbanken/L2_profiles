@@ -338,7 +338,7 @@ ________________________________________________________________________________
 
 Mönster 23c, (undergrupp av 23a), t.ex. Tentor _skulle rättas_ efter att de hade skrivits och innan personalen fick ledigt.
 
-*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum-eller-konditionalis-s-passiv-el-deponens
+*Link*: https://spraakbanken.github.io/L2_profiles/Verb_patterns#futurum-preteritum-eller-konditionalis---s-passiv-el-deponens
 
 _____________________________________________________________________________________
 
