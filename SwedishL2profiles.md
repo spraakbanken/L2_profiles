@@ -142,7 +142,7 @@ ________________________________________________________________________________
 
 Link: https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#21-filters
 
-Filters appear on the top and can be _free-text_, (multiple) choices from _drop-down menus_, tick boxes or buttons. For each individual category there is an individual set of filters. 
+Filters appear on the top and can be _free-text_, (multiple) choices from _drop-down menus_, _tick boxes_ or _buttons_. For each individual category there is an individual set of filters. 
 
 <img src="Filters-mwe.png" width="1000">
 
