@@ -19,7 +19,7 @@ ________________________________________________________________________________
 
   - [2.2 Table view](#22-table-view)
   
-  - [2.3 Frequency information](#22-frequency-information)
+  - [2.3 Frequency information](#23-frequency-information)
 
   - [2.4 Graphical view](#24-graphical-view)
 
