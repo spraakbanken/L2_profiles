@@ -187,7 +187,7 @@ The **Table view** lists all items, e.g. multi-word expressions or verb patterns
 * Receptive - frequency information about the use of the root in the corpus of course books (Coctaill) with a link to Korp hits containing those items. Values are provided in relative and absolute numbers, see section on [Frequency information](https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#23-frequency-information) for explanations
 * Productive - frequency information about the use of the root in the corpus of essays (SweLL-pilot) with a link to Korp hits containing those items. Values are provided in relative and absolute numbers, see section on [Frequency information](https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#23-frequency-information) for explanations
 
-Clicking on the header of the column will sort the whole table according to the values in that column: either alphabetically if the values are strings; or in descending/ascending order if the values are numerical
+Clicking on the arrows in the column names will sort the whole table according to the values in that column: either alphabetically if the values are strings; or in descending/ascending order if the values are numerical.
 
 
 _____________________________________________________________________________________
