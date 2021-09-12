@@ -7,77 +7,64 @@ ________________________________________________________________________________
 
 ## Contents
 
-[General description](#general-description)
+[1. General description](#1-general-description)
 
-   - [L2P project](#l2p-project)
+   - [1.1 L2P project](#11-l2p-project)
  
-   - [Corpora used in the project](#corpora-used-in-the-project)
+   - [1.2 Corpora used in the project](#12-corpora-used-in-the-project)
  
-[User interface](#user-interface)
+[2. User interface](#2-user-interface)
    
-  - [Filters](#filters)
+  - [2.1 Filters](#21-filters)
 
-  - [Table view](#table-view)
-
-      - []()
-
-  - [Graphical view](#graphical-view)
+  - [2.2 Table view](#22-table-view)
 
       - []()
 
-      - []()
-
-   - [Statistical view](#statistical-view)
+  - [2.3 Graphical view](#23-graphical-view)
 
       - []()
 
       - []()
 
+   - [2.4 Statistical view](#24-statistical-view)
 
-[Swedish lexical profile](#swedish-lexical-profile)
+      - []()
 
-   - [Adjectival declension](#adjectival-declension)
+      - []()
+
+
+[3. Swedish lexical profile](#3-swedish-lexical-profile)
+
+   - [3.1 Adjectival declension](#31-adjectival-declension)
    
-   - [Adjectival adverbial structure](#adjectival-adverbial-structure)
+   - [3.2 Adjectival adverbial structure](#32-adjectival-adverbial-structure)
    
-   - [Multi-word expressions](#multi-word-expressions)
+   - [3.3 Multi-word expressions](#33-multi-word-expressions)
    
-   - [Sen\*Lex](#senlex)
+   - [3.4 Sen\*Lex](#34-senlex)
    
 
-[Swedish grammatical profile](#swedish-grammatical-profile)
+[4. Swedish grammatical profile](#4-swedish-grammatical-profile)
 
-   - []()
+   - [4.1 Morpho-syntactic descriptors](#41-morpho-syntactic-descriptors)
    
-   - []()
+   - [4.2 Noun phrases](#42-noun-phrases)
    
-   - []()
-   
-   - []()
-   
-   - []()
-   
-   - []()
+   - [4.3 Verb phrases](#43-verb-phrases)
 
-[Swedish morphological profile](#swedish-morphological-profile)
+[5. Swedish morphological profile](#s5-wedish-morphological-profile)
 
-   - [Word family](#word-family)
+   - [5.1 Word family](#51-word-family)
    
-   - [Morpheme family](#morpheme-family)
+   - [5.2 Morpheme family](#52-morpheme-family)
    
-   - []()
-   
-   - []()
-   
-   - []()
-   
-   - []()
 
 
 _____________________________________________________________________________________
 
 
-## General description
+## 1. General description
 
 _____________________________________________________________________________________
 
