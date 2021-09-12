@@ -1,5 +1,5 @@
 # Swedish L2 profiles
-_Elena Volodina and Therese Lindström Tiedemann, September 2021_
+_Elena Volodina, Therese Lindström Tiedemann and Samir Yousuf Ali Mohammed, September 2021_
 
 Online version: [https://spraakbanken.github.io/L2_profiles/SwedishL2profiles](https://spraakbanken.github.io/L2_profiles/SwedishL2profiles)
 
