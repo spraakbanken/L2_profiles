@@ -173,7 +173,9 @@ ________________________________________________________________________________
 
 Link: https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#22-table-view
 
-The **Table view** lists all items, e.g. multi-word expressions or verb patterns, with associated information about them (similar to an Excel sheet) one by one in rows. Columns  with descriptive information depend on the item in focus, for example, for the Swedish Word Family, there are the following columns with descriptive information:
+The **Table view** lists all items, e.g. multi-word expressions or verb patterns, with associated information about them (similar to an Excel sheet) one by one in rows. Columns  with descriptive information depend on the item in focus, below illustrateed for the Swedish Word Family. It you are interested in other parts of the Swedish L2 Profile, please, check the relevant subsection under the top sections: (Lexical Profile)[https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#3-swedish-lexical-profile], (Grammatical Profile)[https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#4-swedish-grammatical-profile], (Morphological Profile)[https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#4-swedish-morphological-profile]).
+
+To examplify the table view, please look below at the Swedish Word Family that contains the following columns with descriptive information:
 
 <img src="TableView.png" width="1000">
 
@@ -188,6 +190,8 @@ The **Table view** lists all items, e.g. multi-word expressions or verb patterns
 * Productive - frequency information about the use of the root in the corpus of essays (SweLL-pilot) with a link to Korp hits containing those items. Values are provided in relative and absolute numbers, see section on [Frequency information](https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#23-frequency-information) for explanations
 
 Clicking on the arrows in the column names will sort the whole table according to the values in that column: either alphabetically if the values are strings; or in descending/ascending order if the values are numerical.
+
+For some of the profiles (e.g. for _Verb patterns_ under the _Grammatical Profile_), columsn can be added or removed using a tick box "Extend columns..."
 
 
 _____________________________________________________________________________________
