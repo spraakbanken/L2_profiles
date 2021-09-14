@@ -148,7 +148,9 @@ ________________________________________________________________________________
 
 Link: https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#21-filters
 
-Filters appear on the top and can be _free-text_, (multiple) choices from _drop-down menus_, _tick boxes_ or _buttons_. For each individual category there is an individual set of filters. 
+Filters appear on the top and can be _free-text_, (multiple) choices from _drop-down menus_, _tick boxes_ or _buttons_. For each individual category there is an individual set of filters, below examplified using Multi-Word Expressions under the Swedish L2 Lexical Profile.
+
+If you are interested in filters applicable to other parts of the Swedish L2 Profile, please, check the relevant subsection under the top sections: (Lexical Profile)[https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#3-swedish-lexical-profile], (Grammatical Profile)[https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#4-swedish-grammatical-profile], (Morphological Profile)[https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#5-swedish-morphological-profile]).
 
 <img src="Filters-mwe.png" width="1000">
 
@@ -173,7 +175,9 @@ ________________________________________________________________________________
 
 Link: https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#22-table-view
 
-The **Table view** lists all items, e.g. multi-word expressions or verb patterns, with associated information about them (similar to an Excel sheet) one by one in rows. Columns  with descriptive information depend on the item in focus, below illustrateed for the Swedish Word Family. It you are interested in other parts of the Swedish L2 Profile, please, check the relevant subsection under the top sections: (Lexical Profile)[https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#3-swedish-lexical-profile], (Grammatical Profile)[https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#4-swedish-grammatical-profile], (Morphological Profile)[https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#4-swedish-morphological-profile]).
+The **Table view** lists all items, e.g. multi-word expressions or verb patterns, with associated information about them (similar to an Excel sheet) one by one in rows. Columns  with descriptive information depend on the item in focus, below illustrateed for the Swedish Word Family. 
+
+If you are interested in columns/table view applicable to other parts of the Swedish L2 Profile, please, check the relevant subsection under the top sections: (Lexical Profile)[https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#3-swedish-lexical-profile], (Grammatical Profile)[https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#4-swedish-grammatical-profile], (Morphological Profile)[https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#5-swedish-morphological-profile]).
 
 To examplify the table view, please look below at the Swedish Word Family that contains the following columns with descriptive information:
 
