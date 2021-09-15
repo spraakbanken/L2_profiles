@@ -379,7 +379,105 @@ ________________________________________________________________________________
 
 Mönster 16b, t.ex. Det är utan att överdriva _världens mest åtrådda utmärkelse_ . 
 
+_____________________________________________________________________________________
 
+## 17. N-pl-def
+
+_____________________________________________________________________________________
+
+### N-pl-def
+
+Mönster 17a, t.ex. 
+
+_____________________________________________________________________________________
+
+## 18. A N-pl-def
+
+_____________________________________________________________________________________
+
+### A N-pl-def: Bestämt substantiv i plural med adjektivattribut och bestämd slutartikel - initial satsposition
+
+Mönster 18a, t.ex. _Båda ungarna_ var ju hemma, och de satt i telefon mest hela dagarna, när de inte tittade på video förstås! 
+
+_____________________________________________________________________________________
+
+### A N-pl-def: Bestämt substantiv i plural med adjektivattribut och bestämd slutartikel - icke-initial satsposition
+
+Mönster 18b, t.ex. Vi kan sitta och prata _hela nätterna_ över en flaska vin.   
+
+_____________________________________________________________________________________
+
+## 19. de (här / där ) N-pl-def
+
+_____________________________________________________________________________________
+
+### de (här / där ) N-pl-def: Bestämt substantiv i plural med demonstrativt pronomen med slutartikel
+
+Mönster 19a, t.ex. Och när _de pengarna_ inte räckte lånade hon en halv miljon till.
+
+_____________________________________________________________________________________
+
+## 20. de (här / där ) A N-pl-def
+
+_____________________________________________________________________________________
+
+### de (här / där ) A N-pl-def
+
+Mönster 20a, t.ex. Ett av _de många problemen_ är den svenska kvinnan . 
+
+_____________________________________________________________________________________
+
+## 21. de N-pl
+_____________________________________________________________________________________
+
+### de N-pl: Substantiv i plural med demonstrativt/determinativt pronomen (ingen slutartikel)
+
+Mönster 21a, t.ex. Fördelarna är många för _de pappor_ som väljer att vara hemma – men det finns nackdelar.
+
+_____________________________________________________________________________________
+
+## 22. de A N-pl
+_____________________________________________________________________________________
+
+### de A N-pl: Substantiv i plural med adjektivattribut och demonstrativt/determinativt pronomen (ingen slutartikel)
+
+Mönster 22a, t.ex. _De sista ord_ vi säger till varandra på kvällen: Sov gott!
+
+_____________________________________________________________________________________
+
+## 23. dessa N-pl
+_____________________________________________________________________________________
+
+### dessa N-pl: Substantiv i plural med demonstrativa pronomenet dessa
+
+Mönster 23a, t.ex. Ett av _dessa språk_ nådde norra Europa för mer än 2 000 år sedan. 
+
+_____________________________________________________________________________________
+
+## 24. dessa A N-pl
+_____________________________________________________________________________________
+
+### dessa A N-pl: Substantiv i plural med adjektivattribut och med demonstrativa pronomenet dessa
+
+Mönster 24a, t.ex. _Dessa växelvarma djur_ är nämligen mycket känsliga för klimatförsämringar.
+
+_____________________________________________________________________________________
+
+## 25. Poss/NP-gen N-pl
+_____________________________________________________________________________________
+
+### Poss/NP-gen N-pl
+
+Mönster 25a, t.ex.
+
+_____________________________________________________________________________________
+
+## 26. Poss/NP-gen N-pl
+_____________________________________________________________________________________
+
+### Poss/NP-gen N-pl
+
+Mönster 26a, t.ex.
 
 
 
