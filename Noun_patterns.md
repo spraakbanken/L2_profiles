@@ -472,12 +472,12 @@ Mönster 25a, t.ex.
 
 _____________________________________________________________________________________
 
-## 26. Poss/NP-gen N-pl
+## 26. Poss/NP-gen A N-pl
 _____________________________________________________________________________________
 
-### Poss/NP-gen N-pl
+### Poss/NP-gen A N-pl: Substantiv i plural med adjektivattribut och possessivt pronomen eller genitivattribut (ingen slutartikel)
 
-Mönster 26a, t.ex.
+Mönster 26a, t.ex. Är det en sann bild av _dagens moderna mammor och pappor_ ? 
 
 
 
