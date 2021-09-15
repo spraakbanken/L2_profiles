@@ -90,6 +90,68 @@ ________________________________________________________________________________
 
   - [11a](#11a)
 
+[12. den|det (här|där) A N](#12-dendet-härdär-a-n)
+
+  - [12a](#12a)
+
+[13. denna|detta N](#13-dennadetta-n)
+
+  - [13a](#13a)
+
+[14. denna|detta A N](#14-dennadetta-a-n)
+
+  - [14a](#14a)
+
+[15. Poss|NP-gen N](#15-possnp-gen-n)
+
+  - [15a](#15a)
+
+[16. Poss|NP-gen A N](#16-possnp-gen-a-n)
+
+  - [16a](#16a)
+  - [16b](#16b)
+
+[17. N-pl-def](#17-n-pl-def)
+
+  - [17a](#17a)
+
+[18. A N-pl-def](#18-a-n-pl-def)
+
+  - [18a](#18a)
+  - [18b](#18c)
+
+[12. den|det (här|där) A N](#12-dendet-härdär-a-n)
+
+  - [12a](#12a)
+
+[12. den|det (här|där) A N](#12-dendet-härdär-a-n)
+
+  - [12a](#12a)
+
+[12. den|det (här|där) A N](#12-dendet-härdär-a-n)
+
+  - [12a](#12a)
+
+[12. den|det (här|där) A N](#12-dendet-härdär-a-n)
+
+  - [12a](#12a)
+
+[12. den|det (här|där) A N](#12-dendet-härdär-a-n)
+
+  - [12a](#12a)
+
+[12. den|det (här|där) A N](#12-dendet-härdär-a-n)
+
+  - [12a](#12a)
+
+[12. den|det (här|där) A N](#12-dendet-härdär-a-n)
+
+  - [12a](#12a)
+
+[12. den|det (här|där) A N](#12-dendet-härdär-a-n)
+
+  - [12a](#12a)
+
 _____________________________________________________________________________________
 
 ## Terminologi svenska - engelska
