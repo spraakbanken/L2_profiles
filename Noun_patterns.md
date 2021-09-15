@@ -152,9 +152,9 @@ Mönster 4b, undergrupp till 4a, t.ex Barn tillbringar _en stor del_ av sin dag 
 
 _____________________________________________________________________________________
 
-### indef A N = Substantiv i singular, med attribut och obestämd artikel - utrum, varierande satsposition
+### indef A N = Substantiv i singular, med attribut och obestämd artikel - neutrum, varierande satsposition
 
-Mönster 4c, undergrupp till 4a, t.ex Barn tillbringar _en stor del_ av sin dag i skolan eller förskolan.
+Mönster 4c, undergrupp till 4a, t.ex Det sitter så djupt att man vill göra _ett gott intryck_ .
 
 
 
