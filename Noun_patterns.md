@@ -333,8 +333,51 @@ ________________________________________________________________________________
 
 Mönster 12a, t.ex. Att sova är inte _det passiva tillstånd_ som vi trodde tidigare. 
 
+_____________________________________________________________________________________
 
+## 13. denna / detta N
 
+_____________________________________________________________________________________
+
+### denna / detta N: Substantiv i singular med demonstrativt pronomen denna/detta (ingen slutartikel)
+
+Mönster 13a, t.ex. De som mötte Kristina vid _denna tid_ har beskrivit att hon var liten till växten och hade löst hängande hår. 
+
+_____________________________________________________________________________________
+
+## 14. denna / detta A N
+
+_____________________________________________________________________________________
+
+### denna / detta A N: Substantiv i singular med framförställt attribut och demonstrativt pronomen denna/detta (ingen slutartikel)
+
+Mönster 14a, t.ex. Han menade att människors tankar frös till is i _detta kalla land_ .  
+
+_____________________________________________________________________________________
+
+## 15. Poss|NP-gen N
+
+_____________________________________________________________________________________
+
+### Poss/NP-gen N: Substantiv i singular med framförställt attribut och demonstrativt pronomen denna/detta (ingen slutartikel)
+
+Mönster 15a, t.ex.   
+
+_____________________________________________________________________________________
+
+## 16. Poss/NP-gen A N
+
+_____________________________________________________________________________________
+
+### Poss/NP-gen A N: Substantiv i singular med framförställt attribut och possessivt pronomen eller genitivattribut (ingen slutartikel)
+
+Mönster 16a, t.ex. Det är utan tvekan _min största och viktigaste resa_ genom livet. 
+
+_____________________________________________________________________________________
+
+### Poss/NP-gen A N: Substantiv i singular med framförställt attribut och possessivt pronomen eller genitivattribut (ingen slutartikel)
+
+Mönster 16b, t.ex. Det är utan att överdriva _världens mest åtrådda utmärkelse_ . 
 
 
 
