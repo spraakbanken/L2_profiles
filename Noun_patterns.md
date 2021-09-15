@@ -17,6 +17,7 @@ ________________________________________________________________________________
 ## Contents
 
 [Terminologi svenska - engelska](#-terminologi-svenska---engelska)
+
 [Substantivfras - deskriptorer](#-substantivfras---deskriptorer)
 
 [1. N-sg](#1-n-sg)
