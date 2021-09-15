@@ -120,37 +120,37 @@ ________________________________________________________________________________
   - [18a](#18a)
   - [18b](#18c)
 
-[12. den|det (här|där) A N](#12-dendet-härdär-a-n)
+[19. de (här|där) N-pl-def](#19-de-härdär-n-pl-def)
 
-  - [12a](#12a)
+  - [19a](#19a)
 
-[12. den|det (här|där) A N](#12-dendet-härdär-a-n)
+[20. de (här|där) A N-pl-def](#20-de-härdär-a-n-pl-def)
 
-  - [12a](#12a)
+  - [20a](#20a)
 
-[12. den|det (här|där) A N](#12-dendet-härdär-a-n)
+[21. de N-pl](#21-de-n-pl)
 
-  - [12a](#12a)
+  - [21a](#21a)
 
-[12. den|det (här|där) A N](#12-dendet-härdär-a-n)
+[22. de A N-pl](#22-de-a-n-pl)
 
-  - [12a](#12a)
+  - [22a](#22a)
 
-[12. den|det (här|där) A N](#12-dendet-härdär-a-n)
+[23. dessa N-pl](#23-dessa-n-pl)
 
-  - [12a](#12a)
+  - [23a](#23a)
 
-[12. den|det (här|där) A N](#12-dendet-härdär-a-n)
+[24. dessa A N-pl](#24-dessa-a-n-pl)
 
-  - [12a](#12a)
+  - [24a](#24a)
 
-[12. den|det (här|där) A N](#12-dendet-härdär-a-n)
+[25. Poss|NP-gen N-p](#25-possnp-gen-n-p)
 
-  - [12a](#12a)
+  - [25a](#25a)
 
-[12. den|det (här|där) A N](#12-dendet-härdär-a-n)
+[26. Poss|NP-gen A N-pl](#26-possnp-gen-a-n-pl)
 
-  - [12a](#12a)
+  - [26a](#26a)
 
 _____________________________________________________________________________________
 
