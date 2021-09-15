@@ -345,75 +345,75 @@ Mönster 9a, t.ex.
 
 _____________________________________________________________________________________
 
-### den / det (här / där ) N-def
+### den|det (här|där) N-def
 
 Mönster 9b, t.ex. 
 
 _____________________________________________________________________________________
 
-### den / det (här / där ) N-def
+### den|det (här|där) N-def
 
 Mönster 9c, t.ex. 
 
 _____________________________________________________________________________________
 
-### den / det (här / där ) N-def
+### den|det (här|där) N-def
 
 Mönster 9d, t.ex. 
 
 _____________________________________________________________________________________
 
-### den / det (här / där ) N-def
+### den|det (här|där) N-def
 
 Mönster 9e, t.ex. 
 
 _____________________________________________________________________________________
 
-## 10. den (här / där) / det (här / där ) A N-def -
+## 10. den (här|där) | det (här|där) A N-def -
 
 _____________________________________________________________________________________
 
-### den (här / där) / det (här / där ) A N-def -
+### den (här|där) | det (här|där) A N-def -
 
 Mönster 10a, t.ex. Ett av de många problemen är _den svenska kvinnan_ .
 
 _____________________________________________________________________________________
 
-## 11. den / det (här / där ) N (ingen slutartikel)
+## 11. den|det (här|där) N (ingen slutartikel)
 
 _____________________________________________________________________________________
 
-### den / det (här / där ) N: Substantiv i singular med demonstrativt eller determinativt pronomen (ingen slutartikel)
+### den|det (här|där) N: Substantiv i singular med demonstrativt eller determinativt pronomen (ingen slutartikel)
 
 Mönster 11a, t.ex. Det var _det ögonblick_ då alla fordon stannade upp i några minuter för att sedan sakta styra över från vänster till höger sida.
 
 _____________________________________________________________________________________
 
-## 12. den / det (här / där ) A N
+## 12. den|det (här|där) A N
 
 _____________________________________________________________________________________
 
-### den / det (här / där ) A N: Substantiv i singular med  framförställt attribut och demonstrativt eller determinativt pronomen (ingen slutartikel)
+### den|det (här|där) A N: Substantiv i singular med  framförställt attribut och demonstrativt eller determinativt pronomen (ingen slutartikel)
 
 Mönster 12a, t.ex. Att sova är inte _det passiva tillstånd_ som vi trodde tidigare. 
 
 _____________________________________________________________________________________
 
-## 13. denna / detta N
+## 13. denna|detta N
 
 _____________________________________________________________________________________
 
-### denna / detta N: Substantiv i singular med demonstrativt pronomen denna/detta (ingen slutartikel)
+### denna|detta N: Substantiv i singular med demonstrativt pronomen denna/detta (ingen slutartikel)
 
 Mönster 13a, t.ex. De som mötte Kristina vid _denna tid_ har beskrivit att hon var liten till växten och hade löst hängande hår. 
 
 _____________________________________________________________________________________
 
-## 14. denna / detta A N
+## 14. denna|detta A N
 
 _____________________________________________________________________________________
 
-### denna / detta A N: Substantiv i singular med framförställt attribut och demonstrativt pronomen denna/detta (ingen slutartikel)
+### denna|detta A N: Substantiv i singular med framförställt attribut och demonstrativt pronomen denna/detta (ingen slutartikel)
 
 Mönster 14a, t.ex. Han menade att människors tankar frös till is i _detta kalla land_ .  
 
@@ -423,23 +423,23 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
-### Poss/NP-gen N: Substantiv i singular med framförställt attribut och demonstrativt pronomen denna/detta (ingen slutartikel)
+### Poss|NP-gen N: Substantiv i singular med framförställt attribut och demonstrativt pronomen denna/detta (ingen slutartikel)
 
 Mönster 15a, t.ex.   
 
 _____________________________________________________________________________________
 
-## 16. Poss/NP-gen A N
+## 16. Poss|NP-gen A N
 
 _____________________________________________________________________________________
 
-### Poss/NP-gen A N: Substantiv i singular med framförställt attribut och possessivt pronomen eller genitivattribut (ingen slutartikel)
+### Poss|NP-gen A N: Substantiv i singular med framförställt attribut och possessivt pronomen eller genitivattribut (ingen slutartikel)
 
 Mönster 16a, t.ex. Det är utan tvekan _min största och viktigaste resa_ genom livet. 
 
 _____________________________________________________________________________________
 
-### Poss/NP-gen A N: Substantiv i singular med framförställt attribut och possessivt pronomen eller genitivattribut (ingen slutartikel)
+### Poss|NP-gen A N: Substantiv i singular med framförställt attribut och possessivt pronomen eller genitivattribut (ingen slutartikel)
 
 Mönster 16b, t.ex. Det är utan att överdriva _världens mest åtrådda utmärkelse_ . 
 
@@ -471,21 +471,21 @@ Mönster 18b, t.ex. Vi kan sitta och prata _hela nätterna_ över en flaska vin.
 
 _____________________________________________________________________________________
 
-## 19. de (här / där ) N-pl-def
+## 19. de (här|där) N-pl-def
 
 _____________________________________________________________________________________
 
-### de (här / där ) N-pl-def: Bestämt substantiv i plural med demonstrativt pronomen med slutartikel
+### de (här|där) N-pl-def: Bestämt substantiv i plural med demonstrativt pronomen med slutartikel
 
 Mönster 19a, t.ex. Och när _de pengarna_ inte räckte lånade hon en halv miljon till.
 
 _____________________________________________________________________________________
 
-## 20. de (här / där ) A N-pl-def
+## 20. de (här|där) A N-pl-def
 
 _____________________________________________________________________________________
 
-### de (här / där ) A N-pl-def
+### de (här|där) A N-pl-def
 
 Mönster 20a, t.ex. Ett av _de många problemen_ är den svenska kvinnan . 
 
@@ -527,19 +527,19 @@ Mönster 24a, t.ex. _Dessa växelvarma djur_ är nämligen mycket känsliga för
 
 _____________________________________________________________________________________
 
-## 25. Poss/NP-gen N-pl
+## 25. Poss|NP-gen N-pl
 _____________________________________________________________________________________
 
-### Poss/NP-gen N-pl
+### Poss|NP-gen N-pl
 
 Mönster 25a, t.ex.
 
 _____________________________________________________________________________________
 
-## 26. Poss/NP-gen A N-pl
+## 26. Poss|NP-gen A N-pl
 _____________________________________________________________________________________
 
-### Poss/NP-gen A N-pl: Substantiv i plural med adjektivattribut och possessivt pronomen eller genitivattribut (ingen slutartikel)
+### Poss|NP-gen A N-pl: Substantiv i plural med adjektivattribut och possessivt pronomen eller genitivattribut (ingen slutartikel)
 
 Mönster 26a, t.ex. Är det en sann bild av _dagens moderna mammor och pappor_ ? 
 
