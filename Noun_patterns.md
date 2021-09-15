@@ -16,11 +16,71 @@ _Useful links_
 _____________________________________________________________________________________
 ## Contents
 
-[Terminologi svenska - engelska](#terminologi-svenska---engelska)
+[Terminologi svenska - engelska](#-terminologi-svenska---engelska)
+[Substantivfras - deskriptorer](#-substantivfras---deskriptorer)
 
-[1. ](#1-)
+[1. N-sg](#1-n-sg)
 
-  - [](#)
+  - [1a](#1a)
+  - [1b](#1b)
+  - [1c](#1c)
+  
+[2. A N](#2-a-n)
+
+  - [2a](#2a)
+  - [2b](#2b)
+  - [2c](#2c)
+  - [2d](#2d)
+  - [2e](#2e)
+  - [2f](#2f)
+
+[3. indef N](#3-indef-n)
+
+  - [3a](#3a)
+  - [3b](#3b)
+  - [3c](#3c)
+
+[4. indef A N](#4-indef-a-n)
+
+  - [4a](#4a)
+  - [4b](#4b)
+  - [4c](#4c)
+
+[5. N-pl](#5-n-pl)
+
+  - [5a](#5a)
+  - [5b](#5b)
+  - [5c](#5c)
+  - [5d](#5d)
+  - [5e](#5e)
+  - [5f](#5f)
+
+[6. A N-pl](#6-a-n-pl)
+
+  - [6a](#6a)
+  - [6b](#6b)
+  - [6c](#6c)
+  - [6d](#6d)
+  - [6e](#6e)
+  - [6f](#6f)
+
+[7. N-def](#7-n-def)
+
+  - [7a](#7a)
+  - [7b](#7b)
+
+[8. A N-def](#8-a-n-def)
+
+  - [8a](#8a)
+  - [8b](#8b)
+
+[9. den|det (här|där) N-def](#9-den|det-(här|där)-n-def)
+
+  - [9a](#9a)
+  - [9b](#9b)
+  - [9c](#9c)
+  - [9d](#9d)
+  - [9e](#9e)
 
 _____________________________________________________________________________________
 
@@ -42,8 +102,8 @@ ________________________________________________________________________________
 * Numerus: singular, plural, singular/plural, -
 * Species (bestämdhet) / definiteness: bestämd, obestämd, -
 * Attribut (bestämning) / attribute: adjektivattribut, genitivattribut, -
-* Artikel / arrticle: fristående, slutartikel, fristående/slutartikel, -
-* Satsposition / clause position: initial, varierande, icke-initial, -
+* Artikel / article: fristående, slutartikel, fristående/slutartikel, -
+* Satsposition / clause position: initial, varierande, icke-initial, - 
 * (Kasus / case: genitiv, nominativ, - )
 _____________________________________________________________________________________
 
@@ -271,11 +331,11 @@ Mönster 8b, t.ex. _Hela resan_ ned genom Europa kom att ta ett och ett halvt å
 
 _____________________________________________________________________________________
 
-## 9. den / det (här / där ) N-def
+## 9. den|det (här|där) N-def
  
 _____________________________________________________________________________________
 
-### den / det (här / där ) N-def
+### den|det (här|där) N-def
 
 Mönster 9a, t.ex. 
 
