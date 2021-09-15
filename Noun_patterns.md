@@ -90,15 +90,30 @@ ________________________________________________________________________________
 
 ### A N = Substantiv i singular med adjektivattribut, utan artikel - utrum, initial satsposition
 
-Mönster 2c, undergrup till 2a, t.ex _Följande dialog_ kan utspelas mellan två personer.
+Mönster 2c, undergrupp till 2a, t.ex _Följande dialog_ kan utspelas mellan två personer.
 
 _____________________________________________________________________________________
 
 
 ### A N = Substantiv i singular med adjektivattribut, utan artikel - neutrum, initial satsposition
 
-Mönster 2d, undergrup till 2b, t.ex _Biologiskt arv_ , miljö och slumpen bestämmer om man blir en äventyrare.
+Mönster 2d, undergrupp till 2b, t.ex _Biologiskt arv_ , miljö och slumpen bestämmer om man blir en äventyrare.
 
 _____________________________________________________________________________________
+
+
+### A N = Substantiv i singular med adjektivattribut, utan artikel - utrum,  varierande satsposition
+
+Mönster 2e, undergrupp till 2b, t.ex Myterna om henne började spinnas redan när hon var _liten flicka_ .
+
+_____________________________________________________________________________________
+
+
+### A N = Substantiv i singular med adjektivattribut, utan artikel - neutrum,  varierande satsposition
+
+Mönster 2f, undergrupp till 2c, t.ex Hon ägnade sig med ovanligt _stort intresse_ åt konst och filosofi.
+
+_____________________________________________________________________________________
+
 
 
