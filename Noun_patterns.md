@@ -40,9 +40,10 @@ ________________________________________________________________________________
 * Pattern structure / mönsterstruktur: enkelt, utbygt
 * Genus: utrum, neutrum, utrum/neutrum, -
 * Numerus: singular, plural, singular/plural, -
-* Species / bestämdhet: bestämd, obestämd, -
-* Attribut / attribute: adjektivattribut, genitivattribut, -
-* Artikel: fristående, slutartikel, fristående/slutartikel, -
+* Species (bestämdhet) / definiteness: bestämd, obestämd, -
+* Attribut (bestämning) / attribute: adjektivattribut, genitivattribut, -
+* Artikel / arrticle: fristående, slutartikel, fristående/slutartikel, -
+* Satsposition / clause position: initial, varierande, icke-initial, -
 * (Kasus / case: genitiv, nominativ, - )
 _____________________________________________________________________________________
 
