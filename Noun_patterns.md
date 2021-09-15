@@ -47,7 +47,7 @@ ________________________________________________________________________________
 * (Kasus / case: genitiv, nominativ, - )
 _____________________________________________________________________________________
 
-## 1. Enkel substantivfras 
+## 1. N 
 
 _____________________________________________________________________________________
 
@@ -70,7 +70,7 @@ Mönster 1c, undergrup till 1a, t.ex Jag har _körkort_.
 
 _____________________________________________________________________________________
 
-## 2. Utbygt substantivfras 
+## 2. A N 
 
 _____________________________________________________________________________________
 
@@ -83,7 +83,6 @@ ________________________________________________________________________________
 ### A N = Substantiv i singular med adjektivattribut, utan artikel ???
 
 Mönster 2b, t.ex. Hon log med _stängd mun_ för att hon hade dåliga tänder
-
 
 _____________________________________________________________________________________
 
@@ -109,11 +108,54 @@ Mönster 2e, undergrupp till 2b, t.ex Myterna om henne började spinnas redan n�
 _____________________________________________________________________________________
 
 
-### A N = Substantiv i singular med adjektivattribut, utan artikel - neutrum,  varierande satsposition
+### A N = Substantiv i singular med adjektivattribut, utan artikel - neutrum, varierande satsposition
 
 Mönster 2f, undergrupp till 2c, t.ex Hon ägnade sig med ovanligt _stort intresse_ åt konst och filosofi.
 
 _____________________________________________________________________________________
+
+## 3. indef N
+
+_____________________________________________________________________________________
+
+### indef N = Substantiv i singular, utan attribut med obestämd artikel
+
+Mönster 3a, t.ex Än _en gång_ riskerar han att avslöjas.
+
+_____________________________________________________________________________________
+
+### indef N = Substantiv i singular, utan attribut med obestämd artikel - utrum, varierande satsposition
+
+Mönster 3b, undergrupp till 3a, t.ex Än _en gång_ riskerar han att avslöjas.
+
+_____________________________________________________________________________________
+
+### indef N = Substantiv i singular, utan attribut med obestämd artikel - neutrum, varierande satsposition
+
+Mönster 3c, undergrupp till 3a, t.ex I Rimini träffade hon på _ett disko_ en stilig greve som friade redan samma kväll.
+
+_____________________________________________________________________________________
+
+## 4. indef A N 
+
+_____________________________________________________________________________________
+
+### indef A N = Substantiv i singular, med attribut och obestämd artikel
+
+Mönster 4a, t.ex Han startade _ett eget företag_ där och efter fem år flyttade familjen efter honom.
+
+_____________________________________________________________________________________
+
+### indef A N = Substantiv i singular, med attribut och obestämd artikel - utrum, varierande satsposition
+
+Mönster 4b, undergrupp till 4a, t.ex Barn tillbringar _en stor del_ av sin dag i skolan eller förskolan.
+
+_____________________________________________________________________________________
+
+### indef A N = Substantiv i singular, med attribut och obestämd artikel - utrum, varierande satsposition
+
+Mönster 4c, undergrupp till 4a, t.ex Barn tillbringar _en stor del_ av sin dag i skolan eller förskolan.
+
 
 
 
