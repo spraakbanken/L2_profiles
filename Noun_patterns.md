@@ -47,7 +47,7 @@ ________________________________________________________________________________
 * (Kasus / case: genitiv, nominativ, - )
 _____________________________________________________________________________________
 
-## 1. N 
+## 1. N-sg 
 
 _____________________________________________________________________________________
 
@@ -155,6 +155,50 @@ ________________________________________________________________________________
 ### indef A N = Substantiv i singular, med attribut och obestämd artikel - neutrum, varierande satsposition
 
 Mönster 4c, undergrupp till 4a, t.ex Det sitter så djupt att man vill göra _ett gott intryck_ .
+
+
+_____________________________________________________________________________________
+
+## 5. N-pl
+
+_____________________________________________________________________________________
+
+### N-pl - Substantiv i plural, obestämd form - initial satsposition
+
+Mönster 5a, t.ex. _Finländare_ tycker också att svenskar pratar "kringelikrokigt".
+
+_____________________________________________________________________________________
+
+### N-pl - Substantiv i plural, obestämd form - icke-initial satsposition
+
+Mönster 5b, t.ex. Han ensam bestämmer över _ord_ och regler.
+
+_____________________________________________________________________________________
+
+### N-pl - Substantiv i plural, obestämd form - utrum, initial satsposition
+
+Mönster 5c, undergrupp av 5a, t.ex. _Saker_ och ting förändras. 
+
+_____________________________________________________________________________________
+
+### N-pl - Substantiv i plural, obestämd form - neutrum, initial satsposition
+
+Mönster 5d, undergrupp av 5a, t.ex. _Folk_ frågar mig ofta om dialekterna håller på att dö ut. 
+
+_____________________________________________________________________________________
+
+### N-pl - Substantiv i plural, obestämd form - utrum, varierande satsposition
+
+Mönster 5e, undergrupp av 5b, t.ex. Givetvis gäller det omvända för _svenskar_ i andra länder.  
+
+_____________________________________________________________________________________
+
+### N-pl - Substantiv i plural, obestämd form - neutrum, varierande satsposition
+
+Mönster 5f, undergrupp av 5b, t.ex. Han skriver då och då _brev_ till mig.   
+
+
+
 
 
 
