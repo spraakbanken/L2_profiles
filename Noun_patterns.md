@@ -269,5 +269,74 @@ ________________________________________________________________________________
 
 Mönster 8b, t.ex. _Hela resan_ ned genom Europa kom att ta ett och ett halvt år. 
 
+_____________________________________________________________________________________
+
+## 9. den / det (här / där ) N-def
+ 
+_____________________________________________________________________________________
+
+### den / det (här / där ) N-def
+
+Mönster 9a, t.ex. 
+
+_____________________________________________________________________________________
+
+### den / det (här / där ) N-def
+
+Mönster 9b, t.ex. 
+
+_____________________________________________________________________________________
+
+### den / det (här / där ) N-def
+
+Mönster 9c, t.ex. 
+
+_____________________________________________________________________________________
+
+### den / det (här / där ) N-def
+
+Mönster 9d, t.ex. 
+
+_____________________________________________________________________________________
+
+### den / det (här / där ) N-def
+
+Mönster 9e, t.ex. 
+
+_____________________________________________________________________________________
+
+## 10. den (här / där) / det (här / där ) A N-def -
+
+_____________________________________________________________________________________
+
+### den (här / där) / det (här / där ) A N-def -
+
+Mönster 10a, t.ex. Ett av de många problemen är _den svenska kvinnan_ .
+
+_____________________________________________________________________________________
+
+## 11. den / det (här / där ) N (ingen slutartikel)
+
+_____________________________________________________________________________________
+
+### den / det (här / där ) N: Substantiv i singular med demonstrativt eller determinativt pronomen (ingen slutartikel)
+
+Mönster 11a, t.ex. Det var _det ögonblick_ då alla fordon stannade upp i några minuter för att sedan sakta styra över från vänster till höger sida.
+
+_____________________________________________________________________________________
+
+## 12. den / det (här / där ) A N
+
+_____________________________________________________________________________________
+
+### den / det (här / där ) A N: Substantiv i singular med  framförställt attribut och demonstrativt eller determinativt pronomen (ingen slutartikel)
+
+Mönster 12a, t.ex. Att sova är inte _det passiva tillstånd_ som vi trodde tidigare. 
+
+
+
+
+
+
 
 
