@@ -35,9 +35,69 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
-## 1. Substantivfraser med ... 
+## Substantivfras - deskriptorer
 
+* Pattern structure / mönsterstruktur: enkelt, utbygt
+* Genus: utrum, neutrum, utrum/neutrum, -
+* Numerus: singular, plural, singular/plural, -
+* Species / bestämdhet: bestämd, obestämd, -
+* Attribut / attribute: adjektivattribut, genitivattribut, -
+* Artikel: fristående, slutartikel, fristående/slutartikel, -
+* (Kasus / case: genitiv, nominativ, - )
+_____________________________________________________________________________________
+
+## 1. Enkel substantivfras 
 
 _____________________________________________________________________________________
 
 ### N = Substantiv i singular utan attribut, utan artikel
+
+Mönster 1a, t.ex Jag har _körkort_.
+
+_____________________________________________________________________________________
+
+
+### N = Substantiv i singular utan attribut, utan artikel - utrum
+
+Mönster 1b, undergrup till 1a, t.ex Presens är en vanlig form för _framtid _.
+
+_____________________________________________________________________________________
+
+### N = Substantiv i singular utan attribut, utan artikel - neutrum
+
+Mönster 1c, undergrup till 1a, t.ex Jag har _körkort_.
+
+_____________________________________________________________________________________
+
+## 2. Utbygt substantivfras 
+
+_____________________________________________________________________________________
+
+### A N = Substantiv i singular med adjektivattribut, utan artikel
+
+Mönster 2a, t.ex Det blir _nästa år_.
+
+_____________________________________________________________________________________
+
+### A N = Substantiv i singular med adjektivattribut, utan artikel ???
+
+Mönster 2b, t.ex. Hon log med _stängd mun_ för att hon hade dåliga tänder
+
+
+_____________________________________________________________________________________
+
+
+### A N = Substantiv i singular med adjektivattribut, utan artikel - utrum, initial satsposition
+
+Mönster 2c, undergrup till 2a, t.ex _Följande dialog_ kan utspelas mellan två personer.
+
+_____________________________________________________________________________________
+
+
+### A N = Substantiv i singular med adjektivattribut, utan artikel - neutrum, initial satsposition
+
+Mönster 2d, undergrup till 2b, t.ex _Biologiskt arv_ , miljö och slumpen bestämmer om man blir en äventyrare.
+
+_____________________________________________________________________________________
+
+
