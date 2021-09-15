@@ -163,13 +163,13 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
-### N-pl - Substantiv i plural, obestämd form - initial satsposition
+### N-pl - Substantiv i plural, obestämd form - utrum & neutrum, initial satsposition
 
 Mönster 5a, t.ex. _Finländare_ tycker också att svenskar pratar "kringelikrokigt".
 
 _____________________________________________________________________________________
 
-### N-pl - Substantiv i plural, obestämd form - icke-initial satsposition
+### N-pl - Substantiv i plural, obestämd form - utrum & neutrum, icke-initial satsposition
 
 Mönster 5b, t.ex. Han ensam bestämmer över _ord_ och regler.
 
@@ -197,9 +197,77 @@ ________________________________________________________________________________
 
 Mönster 5f, undergrupp av 5b, t.ex. Han skriver då och då _brev_ till mig.   
 
+_____________________________________________________________________________________
 
+## 6. A N-pl
 
+_____________________________________________________________________________________
 
+### A N-pl - Substantiv i plural med attribut, obestämd form - utrum & neutrum, initial satsposition
+
+Mönster 6a, t.ex. _Sociala relationer_ är viktiga. 
+
+_____________________________________________________________________________________
+
+### A N-pl - Substantiv i plural med attribut, obestämd form - utrum & neutrum, icke-initial satsposition
+
+Mönster 6b, t.ex. För att undvika bråk och _häftiga diskussioner_ kan svensken ibland låta bli att säga hela sanningen. 
+
+_____________________________________________________________________________________
+
+### A N-pl - Substantiv i plural med attribut, obestämd form - utrum, initial satsposition
+
+Mönster 6c, undergrupp av 6a, t.ex. _Blivande adoptivföräldrar_ måste ha tålamod.
+
+_____________________________________________________________________________________
+
+### A N-pl - Substantiv i plural med attribut, obestämd form - neutrum, initial satsposition
+
+Mönster 6d, undergrupp av 6a, t.ex. _Alternativa sätt_ att säga nej på kan vara att säga "kanske" eller "jag ska försöka". 
+
+_____________________________________________________________________________________
+
+### A N-pl - Substantiv i plural med attribut, obestämd form - utrum, varierande satsposition
+
+Mönster 6e, undergrupp av 6b, t.ex. I genomsnitt ägnar _svenska kvinnor_ 81 minuter och _svenska män_ 64 minuter per dag åt Facebook. 
+
+_____________________________________________________________________________________
+
+### A N-pl - Substantiv i plural med attribut, obestämd form - neutrum, varierande satsposition
+
+Mönster 6f, undergrupp av 6b, t.ex. Jag trivs bäst i _öppna landskap_ .  
+
+_____________________________________________________________________________________
+
+## 7. N-def 
+
+_____________________________________________________________________________________
+
+### N-def - Bestämt substantiv med slutartikel
+
+Mönster 7a, t.ex. 
+
+_____________________________________________________________________________________
+
+### N-def - Bestämt substantiv med slutartikel
+
+Mönster 7b, t.ex. 
+
+_____________________________________________________________________________________
+
+## 8. A N-def 
+
+_____________________________________________________________________________________
+
+### A N-def - Bestämt substantiv singular med framförställt attribut och slutartikel samt INGEN framförställd artikel
+
+Mönster 8a, t.ex. För att undvika bråk och häftiga diskussioner kan svensken ibland låta bli att säga _hela sanningen_ . 
+
+_____________________________________________________________________________________
+
+### A N-def - Bestämt substantiv singular med framförställt attribut och slutartikel samt INGEN framförställd artikel - initial satsposition
+
+Mönster 8b, t.ex. _Hela resan_ ned genom Europa kom att ta ett och ett halvt år. 
 
 
 
