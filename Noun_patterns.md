@@ -20,7 +20,7 @@ ________________________________________________________________________________
 
 [Substantivfras - deskriptorer](#substantivfras---deskriptorer)
 
-[1. N-sg](#1-n-sg)
+[1. N-sg (Jag har körkort)](#1-n-sg-jag-har-körkort)
 
   - [1a](#1a)
   - [1b](#1b)
