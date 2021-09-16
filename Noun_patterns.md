@@ -87,19 +87,19 @@ ________________________________________________________________________________
 
   - [10a](#10a)
 
-[11. den|det (här|där) N (ingen slutartikel)](#11-dendet-härdär-n-ingen-slutartikel)
+[11. den|det (här|där) N (ingen slutartikel) (Det var det ögönblick då...)](#11-dendet-härdär-n-ingen-slutartikel-det-var-det-ögönblick-då)
 
   - [11a](#11a)
 
-[12. den|det (här|där) A N](#12-dendet-härdär-a-n)
+[12. den|det (här|där) A N (Att sova är inte det passiva tillståndet)](#12-dendet-härdär-a-n-att-sova-är-inte-det-passiva-tillståndet)
 
   - [12a](#12a)
 
-[13. denna|detta N](#13-dennadetta-n)
+[13. denna|detta N (Vid denna tid var hon...)](#13-dennadetta-n-vid-denna-tid-var-hon)
 
   - [13a](#13a)
 
-[14. denna|detta A N](#14-dennadetta-a-n)
+[14. denna|detta A N (...i detta kalla land)](#14-dennadetta-a-n-i-detta-kalla-land))
 
   - [14a](#14a)
 
@@ -107,7 +107,7 @@ ________________________________________________________________________________
 
   - [15a](#15a)
 
-[16. Poss|NP-gen A N](#16-possnp-gen-a-n)
+[16. Poss|NP-gen A N (Min största resa genom livet)](#16-possnp-gen-a-n-min-största-resa-genom-livet)
 
   - [16a](#16a)
   - [16b](#16b)
@@ -116,32 +116,32 @@ ________________________________________________________________________________
 
   - [17a](#17a)
 
-[18. A N-pl-def](#18-a-n-pl-def)
+[18. A N-pl-def (Båda ungarna var hemma)](#18-a-n-pl-def-båda-ungarna-var-hemma)
 
   - [18a](#18a)
   - [18b](#18c)
 
-[19. de (här|där) N-pl-def](#19-de-härdär-n-pl-def)
+[19. de (här|där) N-pl-def (När de pengarna inte räckte...)](#19-de-härdär-n-pl-def-när-de-pengarna-inte-räckte)
 
   - [19a](#19a)
 
-[20. de (här|där) A N-pl-def](#20-de-härdär-a-n-pl-def)
+[20. de (här|där) A N-pl-def (Ett av de många problemen)](#20-de-härdär-a-n-pl-def-ett-av-de-många-problemen)
 
   - [20a](#20a)
 
-[21. de N-pl](#21-de-n-pl)
+[21. de N-pl (De pappor som väljer...)](#21-de-n-pl-de-pappor-som-väljer)
 
   - [21a](#21a)
 
-[22. de A N-pl](#22-de-a-n-pl)
+[22. de A N-pl (De sista ord vi säger...)](#22-de-a-n-pl-de-sista-ord-vi-säger)
 
   - [22a](#22a)
 
-[23. dessa N-pl](#23-dessa-n-pl)
+[23. dessa N-pl (Ett av dessa språk...)](#23-dessa-n-pl-ett-av-dessa-språk)
 
   - [23a](#23a)
 
-[24. dessa A N-pl](#24-dessa-a-n-pl)
+[24. dessa A N-pl (Dessa växelvarma djur är...)](#24-dessa-a-n-pl-dessa-växelvarma-djur-är)
 
   - [24a](#24a)
 
@@ -149,7 +149,7 @@ ________________________________________________________________________________
 
   - [25a](#25a)
 
-[26. Poss|NP-gen A N-pl](#26-possnp-gen-a-n-pl)
+[26. Poss|NP-gen A N-pl (Dagens moderna mammor och pappor)](#26-possnp-gen-a-n-pl-dagens-moderna-mammor-och-pappor)
 
   - [26a](#26a)
 
@@ -446,7 +446,7 @@ Mönster 10a, t.ex. Ett av de många problemen är _den svenska kvinnan_ .
 
 _____________________________________________________________________________________
 
-## 11. den|det (här|där) N (ingen slutartikel) (Deet var det ögönblick då...)
+## 11. den|det (här|där) N (ingen slutartikel) (Det var det ögönblick då...)
 
 _____________________________________________________________________________________
 
@@ -522,7 +522,7 @@ Mönster 17a, t.ex.
 
 _____________________________________________________________________________________
 
-## 18. A N-pl-def (Båda ungarna va hemma)
+## 18. A N-pl-def (Båda ungarna var hemma)
 
 _____________________________________________________________________________________
 
@@ -603,7 +603,7 @@ Mönster 25a, t.ex.
 
 _____________________________________________________________________________________
 
-## 26. Poss|NP-gen A N-pl (En bild av dagens moderna mammor och pappor)
+## 26. Poss|NP-gen A N-pl (Dagens moderna mammor och pappor)
 _____________________________________________________________________________________
 
 ### Poss|NP-gen A N-pl: Substantiv i plural med adjektivattribut och possessivt pronomen eller genitivattribut (ingen slutartikel)
