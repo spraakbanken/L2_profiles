@@ -56,7 +56,7 @@ ________________________________________________________________________________
   - [5e](#5e)
   - [5f](#5f)
 
-[6. A N-pl](#6-a-n-pl)
+[6. A N-pl (Sociala relationer är viktiga)](#6-a-n-pl-sociala-relationer-är-viktiga)
 
   - [6a](#6a)
   - [6b](#6b)
@@ -70,7 +70,7 @@ ________________________________________________________________________________
   - [7a](#7a)
   - [7b](#7b)
 
-[8. A N-def](#8-a-n-def)
+[8. A N-def (Säga hela sanningen)](#8-a-n-def-säga-hela-sanningen)
 
   - [8a](#8a)
   - [8b](#8b)
@@ -83,7 +83,7 @@ ________________________________________________________________________________
   - [9d](#9d)
   - [9e](#9e)
 
-[10. den (här|där) | det (här|där) A N-def -](#10-den-härdär--det-härdär-a-n-def--)
+[10. den (här|där) | det (här|där) A N-def - (Den svenska modellen är...)](#10-den-härdär--det-härdär-a-n-def---den-svenska-modellen-är)
 
   - [10a](#10a)
 
