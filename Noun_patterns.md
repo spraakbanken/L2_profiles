@@ -26,7 +26,7 @@ ________________________________________________________________________________
   - [1b](#1b)
   - [1c](#1c)
   
-[2. A N](#2-a-n)
+[2. A N (Det blir nästa år)](#2-a-n-det-blir-nästa-år)
 
   - [2a](#2a)
   - [2b](#2b)
@@ -35,19 +35,19 @@ ________________________________________________________________________________
   - [2e](#2e)
   - [2f](#2f)
 
-[3. indef N](#3-indef-n)
+[3. indef N (Än en gång riskerar vi)](#3-indef-n-än-en-gång-riskerar-vi)
 
   - [3a](#3a)
   - [3b](#3b)
   - [3c](#3c)
 
-[4. indef A N](#4-indef-a-n)
+[4. indef A N (Han startade ett eget företag)](#4-indef-a-n-han-startade-ett-eget-företag)
 
   - [4a](#4a)
   - [4b](#4b)
   - [4c](#4c)
 
-[5. N-pl](#5-n-pl)
+[5. N-pl (Finländare tycker...)](#5-n-pl-finländare-tycker)
 
   - [5a](#5a)
   - [5b](#5b)
