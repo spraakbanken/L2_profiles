@@ -548,7 +548,7 @@ Mönster 19a, t.ex. Och när _de pengarna_ inte räckte lånade hon en halv milj
 
 _____________________________________________________________________________________
 
-## 20. de (här|där) A N-pl-def (Ett  av de många problemen)
+## 20. de (här|där) A N-pl-def (Ett av de många problemen)
 
 _____________________________________________________________________________________
 
