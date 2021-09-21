@@ -247,23 +247,23 @@ Mönster 2f, undergrupp till 2b, t.ex Hon ägnade sig med ovanligt _stort intres
 
 _____________________________________________________________________________________
 
-## 3. indef N (Än en gång riskerar vi)
+## 3. indef Nsg (Än _en gång_ ...)
 
 _____________________________________________________________________________________
 
-### indef N = Substantiv i singular, utan attribut med obestämd artikel
+### 3a. indef Nsg (Än _en gång_ ...): Substantiv i singular utan attribut med obestämd artikel
 
 Mönster 3a, t.ex Än _en gång_ riskerar han att avslöjas.
 
 _____________________________________________________________________________________
 
-### indef N = Substantiv i singular, utan attribut med obestämd artikel - utrum, varierande satsposition
+### 3b. indef Nsg (Än _en gång_ ...): Substantiv i singular utan attribut med obestämd artikel - utrum
 
 Mönster 3b, undergrupp till 3a, t.ex Än _en gång_ riskerar han att avslöjas.
 
 _____________________________________________________________________________________
 
-### indef N = Substantiv i singular, utan attribut med obestämd artikel - neutrum, varierande satsposition
+### 3c. indef Nsg (på _ett disko_ ...): Substantiv i singular utan attribut med obestämd artikel - neutrum
 
 Mönster 3c, undergrupp till 3a, t.ex I Rimini träffade hon på _ett disko_ en stilig greve som friade redan samma kväll.
 
