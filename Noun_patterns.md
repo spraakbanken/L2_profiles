@@ -269,23 +269,23 @@ Mönster 3c, undergrupp till 3a, t.ex I Rimini träffade hon på _ett disko_ en 
 
 _____________________________________________________________________________________
 
-## 4. indef A N (Han startade ett eget företag)
+## 4. indef A Nsg (_ett gult hus)
 
 _____________________________________________________________________________________
 
-### indef A N = Substantiv i singular, med attribut och obestämd artikel
+### 4a. indef A Nsg (_en gul bil_) Substantiv i singular med framförställt attribut och obestämd artikel
 
 Mönster 4a, t.ex Han startade _ett eget företag_ där och efter fem år flyttade familjen efter honom.
 
 _____________________________________________________________________________________
 
-### indef A N = Substantiv i singular, med attribut och obestämd artikel - utrum, varierande satsposition
+### 4b. indef A Nsg (_en gul bil_) Substantiv i singular med framförställt attribut och obestämd artikel - utrum
 
 Mönster 4b, undergrupp till 4a, t.ex Barn tillbringar _en stor del_ av sin dag i skolan eller förskolan.
 
 _____________________________________________________________________________________
 
-### indef A N = Substantiv i singular, med attribut och obestämd artikel - neutrum, varierande satsposition
+### 4c. indef A Nsg (_en gul bil_) Substantiv i singular med framförställt attribut och obestämd artikel - neutrum
 
 Mönster 4c, undergrupp till 4a, t.ex Det sitter så djupt att man vill göra _ett gott intryck_ .
 
