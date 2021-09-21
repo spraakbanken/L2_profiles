@@ -336,37 +336,37 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
-### 6a. A N-pl (gula bilar): Substantiv i plural med framförställt attribut obestämd form - initial satsposition
+### 6a. A Npl (gula bilar): Substantiv i plural med framförställt attribut obestämd form - initial satsposition
 
 Mönster 6a, t.ex. _Sociala relationer_ är viktiga. 
 
 _____________________________________________________________________________________
 
-### 6a. A N-pl (gula bilar): Substantiv i plural med framförställt attribut obestämd form - icke-initial satsposition
+### 6b. A Npl (gula bilar): Substantiv i plural med framförställt attribut obestämd form - icke-initial satsposition
 
 Mönster 6b, t.ex. För att undvika bråk och _häftiga diskussioner_ kan svensken ibland låta bli att säga hela sanningen. 
 
 _____________________________________________________________________________________
 
-### A N-pl - Substantiv i plural med attribut, obestämd form - utrum, initial satsposition
+### 6c. A Npl (gula bilar): Substantiv i plural med framförställt attribut obestämd form - utrum, initial satsposition
+
 
 Mönster 6c, undergrupp av 6a, t.ex. _Blivande adoptivföräldrar_ måste ha tålamod.
 
 _____________________________________________________________________________________
 
-### A N-pl - Substantiv i plural med attribut, obestämd form - neutrum, initial satsposition
+### 6d. A Npl (alternativa sätt): Substantiv i plural med framförställt attribut obestämd form - neutrum, initial satsposition
 
 Mönster 6d, undergrupp av 6a, t.ex. _Alternativa sätt_ att säga nej på kan vara att säga "kanske" eller "jag ska försöka". 
 
 _____________________________________________________________________________________
 
-### A N-pl - Substantiv i plural med attribut, obestämd form - utrum, varierande satsposition
-
+### 6e. A Npl (gula bilar): Substantiv i plural med framförställt attribut obestämd form - utrum, icke-initial satsposition
 Mönster 6e, undergrupp av 6b, t.ex. I genomsnitt ägnar _svenska kvinnor_ 81 minuter och _svenska män_ 64 minuter per dag åt Facebook. 
 
 _____________________________________________________________________________________
 
-### A N-pl - Substantiv i plural med attribut, obestämd form - neutrum, varierande satsposition
+### 6f. A Npl (alterenativa sätt): Substantiv i plural med framförställt attribut obestämd form - utrum, icke-initial satsposition
 
 Mönster 6f, undergrupp av 6b, t.ex. Jag trivs bäst i _öppna landskap_ .  
 
