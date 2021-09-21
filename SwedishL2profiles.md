@@ -186,7 +186,7 @@ To examplify the table view, please look below at the Swedish Word Family that c
 * Root - the root of the word, e.g. _bröd_
 * CEFR level where that root appears at - once for each level and vocabulary item where they appear
 * Lemgram which the roos is a part of, e.g. _tunnbröd_. The lemgram can be clicked to see information about its **morphological analysis** by the project annotators and from _svenska.se_, and a link to its **definition** in _svenska.se_
-* Sense - the sense of the lemgram according to Saldo identifiers(only relevant for polysemous words/lemgrams)
+* Sense - the sense of the lemgram according to Saldo identifiers (only relevant for polysemous words/lemgrams)
 * Wordclass - which word class this lemgram belongs to, based on a taxonomy from the SUC corpus (22 categories)
 * Saldo wordclass - which word class this lemgram belongs to, based on a taxonomy from the Saldo lexicon (37 categories)
 * WordFormation - which word formation mechanism describes this particular lemgram (7 categories), in the case of _tunnbröd_ the WordFormation mechanism is _compound_
@@ -204,6 +204,12 @@ ________________________________________________________________________________
 
 Link: https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#23-frequency-information
 
+We present two types of frequency - receptive and productive - for each item in the Table view. Receptive frequency comes from the COCTAILL corpus (coursebooks, including both reading texts and activities surrounding it). Productive frequency comes from the SweLL-pilot corpus (learner essays). In each case, we report the _absolute count_ for the item at a particular level, and the _relative count_ . The numbers a _clickable_, and opens a full list of hits using Korp search interface (Ahlberg et al. 2013).
+
+<img src="Verb_freqs.png" width="1000">
+
+To exemplify, 
+
 * **Receptive** and **Productive**  frequencies 
   * **Absolute** frequency
   * **Relative** frequency
@@ -220,6 +226,9 @@ Link: https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#23-frequency-
 - towards the tokens per level (Lexical and Morphological profile)
 - towards number of sentences at a given level of proficiency (Grammar profile). For example, if we have 20 hits in  Coctaill at C1 level, and we know that 
 
+_References:_ 
+
+* Malin Ahlberg, Lars Borin, Markus Forsberg, Martin Hammarstedt, Leif-Jöran Olsson, Olof Olsson, Johan Roxendal, Jonatan Uppström (2013): Korp and Karp – a bestiary of language resources: the research infrastructure of Språkbanken, in Proceedings of the 19th Nordic Conference of Computational Linguistics (NODALIDA 2013), May 22–24, 2013, Oslo University, Norway. NEALT Proceedings Series 16, utgåva 16, sidor 429-433.
 
 _____________________________________________________________________________________
 
