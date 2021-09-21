@@ -606,9 +606,19 @@ ________________________________________________________________________________
 ## 26. Poss|NP-gen A N-pl (Dagens moderna mammor och pappor)
 _____________________________________________________________________________________
 
-### Poss|NP-gen A N-pl: Substantiv i plural med adjektivattribut och possessivt pronomen eller genitivattribut (ingen slutartikel)
+### 26a Poss|NP-gen A N-pl: Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut (ingen slutartikel)
 
-Mönster 26a, t.ex. Är det en sann bild av _dagens moderna mammor och pappor_ ? 
+Mönster 26a, t.ex. Är det en sann bild av _dagens moderna mammor och pappor_ ?  eller Hon börjar ifrågasätta 	_sina egna värderingar _
 
 
+### 26e Poss|NP-gen A N-pl: Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut (ingen slutartikel) - neutrum
 
+Mönser 26e, t.ex. Folket borde kämpa för att bevara _sina egna språk_ . 
+
+### 26f Poss|NP-gen A N-pl: Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut (ingen slutartikel) - utrum normbrott
+
+Mönser 26f, t.ex.  ...Konkurransen är jättestor och _sina egna jobberfarenheterna_ mycket begränsade . 
+
+### 26g Poss|NP-gen A N-pl: Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut (ingen slutartikel) - nutrum normbrott
+
+Mönser 26g, t.ex.  ...Konkurransen är jättestor och _sina egna jobberfarenheterna_ mycket begränsade . 
