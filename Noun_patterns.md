@@ -178,70 +178,72 @@ ________________________________________________________________________________
 * (Kasus / case: genitiv, nominativ, - )
 _____________________________________________________________________________________
 
-## 1. N-sg (Jag har körkort)
+## 1. Nsg (Jag har _körkort_)
 
 _____________________________________________________________________________________
 
-### N = Substantiv i singular utan attribut, utan artikel
+### 1a. Nsg (Jag har _körkort_): Substantiv i singular utan framförställt attribut utan artikel
 
 Mönster 1a, t.ex Jag har _körkort_.
 
 _____________________________________________________________________________________
 
 
-### N = Substantiv i singular utan attribut, utan artikel - utrum
+### 1b. Nsg (Jag kan _svenska_): Substantiv i singular utan framförställt attribut utan artikel - utrum
+
 
 Mönster 1b, undergrup till 1a, t.ex Presens är en vanlig form för _framtid _.
 
 _____________________________________________________________________________________
 
-### N = Substantiv i singular utan attribut, utan artikel - neutrum
+### 1c. Nsg (Jag har _körkort_): Substantiv i singular utan framförställt attribut utan artikel - neutrum
 
 Mönster 1c, undergrup till 1a, t.ex Jag har _körkort_.
 
 _____________________________________________________________________________________
 
-## 2. A N (Det blir nästa år)
+## 2. A Nsg (Det blir _nästa år_)
 
 _____________________________________________________________________________________
 
-### A N = Substantiv i singular med adjektivattribut, utan artikel
+### 2a. A Nsg (_Följande dialog_ kan...): Substantiv i singular med framförställt attribut utan artikel - initial satsposition
 
-Mönster 2a, t.ex Det blir _nästa år_.
+Mönster 2a, t.ex  _Följande dialog_ kan utspelas mellan två personer.
 
 _____________________________________________________________________________________
 
-### A N = Substantiv i singular med adjektivattribut, utan artikel ???
+### 2b. A Nsg (...med _stängd mun_): Substantiv i singular med framförställt attribut utan artikel - icke-initial satsposition
 
 Mönster 2b, t.ex. Hon log med _stängd mun_ för att hon hade dåliga tänder
 
 _____________________________________________________________________________________
 
 
-### A N = Substantiv i singular med adjektivattribut, utan artikel - utrum, initial satsposition
+### 2c. A Nsg (_Följande dialog_ kan...): Substantiv i singular med framförställt attribut utan artikel - utrum, initial satsposition
 
 Mönster 2c, undergrupp till 2a, t.ex _Följande dialog_ kan utspelas mellan två personer.
 
 _____________________________________________________________________________________
 
 
-### A N = Substantiv i singular med adjektivattribut, utan artikel - neutrum, initial satsposition
+### 2d. A Nsg (_Biologiskt arv_ bestämmer...): Substantiv i singular med framförställt attribut utan artikel - neutrum, initial satsposition
 
 Mönster 2d, undergrupp till 2b, t.ex _Biologiskt arv_ , miljö och slumpen bestämmer om man blir en äventyrare.
 
 _____________________________________________________________________________________
 
 
-### A N = Substantiv i singular med adjektivattribut, utan artikel - utrum,  varierande satsposition
+### 2e. A Nsg (...när hon var _liten flicka_): Substantiv i singular med framförställt attribut utan artikel - utrum, icke-initial satsposition
 
 Mönster 2e, undergrupp till 2b, t.ex Myterna om henne började spinnas redan när hon var _liten flicka_ .
 
 _____________________________________________________________________________________
 
 
-### A N = Substantiv i singular med adjektivattribut, utan artikel - neutrum, varierande satsposition
+### 2f. A Nsg (...med _stort intresse_): Substantiv i singular med framförställt attribut utan artikel - neutrum, icke-initial satsposition
 
-Mönster 2f, undergrupp till 2c, t.ex Hon ägnade sig med ovanligt _stort intresse_ åt konst och filosofi.
+
+Mönster 2f, undergrupp till 2b, t.ex Hon ägnade sig med ovanligt _stort intresse_ åt konst och filosofi.
 
 _____________________________________________________________________________________
 
