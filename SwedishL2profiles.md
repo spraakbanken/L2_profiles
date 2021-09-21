@@ -204,27 +204,17 @@ ________________________________________________________________________________
 
 Link: https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#23-frequency-information
 
-We present two types of frequency - receptive and productive - for each item in the Table view. Receptive frequency comes from the COCTAILL corpus (coursebooks, including both reading texts and activities surrounding it). Productive frequency comes from the SweLL-pilot corpus (learner essays). In each case, we report the _absolute count_ for the item at a particular level, and the _relative count_ . The numbers a _clickable_, and opens a full list of hits using Korp search interface (Ahlberg et al. 2013).
+We present two types of frequency - receptive and productive - for each item in the Table view. **Receptive frequency** comes from the COCTAILL corpus (coursebooks, including both reading texts and activities surrounding it). **Productive frequency** comes from the SweLL-pilot corpus (learner essays). In each case, we report the **absolute count** for the item at a particular level, and the **relative count**. The numbers are **clickable**, and open a full list of hits using Korp search interface (Ahlberg et al. 2013).
 
 <img src="Verb_freqs.png" width="1000">
 
-To exemplify, 
+To exemplify, the Figure above shows Verb patterns at A2 level. _Preteritum_ (Past Simple) has numbers 8.61 (1206) for Receptive count and 53.17 (1391) for Productive one. The **absolute frequency** of hits, 1206, means that the pattern has been used 1206 times in the course books at A2 level. **Relative frequency** for Noun and Verb patterns is calculated with reference to the number of sentences at this particular level, i.e. 1206 occurrences of the Past Simple pattern is divided by 14006 sentences at A2 level and multiplied (i.e. normalized) by 100 = 8.6. This contrasts to the essay data: 1391 occurrences of the Past Simple in 2616 sentences at A2 level makes it a very frequent pattern with a relative frequency 53.17.
 
-* **Receptive** and **Productive**  frequencies 
-  * **Absolute** frequency
-  * **Relative** frequency
-  
-* Link to **Korp hits**  for this particylat
 
-**Receptive**. Column with "Receptive" frequency shows relative and absolute hits of an item/pattern in the texts in the coursebook corpus Coctaill. The relative frequency is normalized 
+**The relative frequency** is normalized 
 
 - towards the tokens per level (Lexical and Morphological profile)
-- towards number of sentences at a given level of proficiency (Grammar profile). For example, if we have 20 hits in  Coctaill at C1 level, and we know that 
-
-**Productive**. Column with "Productive" frequency shows relative and absolute hits of an item/pattern in the texts in the coursebook corpus Coctaill. The relative frequency is normalized 
-
-- towards the tokens per level (Lexical and Morphological profile)
-- towards number of sentences at a given level of proficiency (Grammar profile). For example, if we have 20 hits in  Coctaill at C1 level, and we know that 
+- towards number of sentences at a given level of proficiency (Grammar profile). 
 
 _References:_ 
 
