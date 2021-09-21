@@ -366,25 +366,48 @@ Mönster 6e, undergrupp av 6b, t.ex. I genomsnitt ägnar _svenska kvinnor_ 81 mi
 
 _____________________________________________________________________________________
 
-### 6f. A Npl (alterenativa sätt): Substantiv i plural med framförställt attribut obestämd form - utrum, icke-initial satsposition
+### 6f. A Npl (alternativa sätt): Substantiv i plural med framförställt attribut obestämd form - utrum, icke-initial satsposition
 
 Mönster 6f, undergrupp av 6b, t.ex. Jag trivs bäst i _öppna landskap_ .  
 
 _____________________________________________________________________________________
 
-## 7. N-def 
+## 7. Nsg-def (_Felet_ ska straffas)
 
 _____________________________________________________________________________________
 
-### N-def - Bestämt substantiv med slutartikel
+### 7a. Nsg-def (_Felet_ ska straffas): Substantiv i singular med bestämd slutartikel - initial satsposition
 
-Mönster 7a, t.ex. 
+Mönster 7a, t.ex. _Teckenspråket_ är inte internationellt. 
 
 _____________________________________________________________________________________
 
-### N-def - Bestämt substantiv med slutartikel
+### 7b. Nsg-def (Jag skakar på _huvudet_): Substantiv i singular med bestämd slutartikel - icke-initial satsposition
 
-Mönster 7b, t.ex. 
+Mönster 7b, t.ex. Jag skakar på _huvudet_
+
+_____________________________________________________________________________________
+
+### 7c. Nsg-def (_Svenskan_ är ett språk ): Substantiv i singular med bestämd slutartikel - utrum, initial satsposition
+
+Mönster 7c, undergrupp till 7a, t.ex. _Svenskan_ är ett indoeuropeiskt språk 
+_____________________________________________________________________________________
+
+### 7d. Nsg-def (_Teckenspråket_ är inte internationellt): Substantiv i singular med bestämd slutartikel - neutrum, initial satsposition
+
+Mönster 7d, undergrupp till 7a, t.ex. _Teckenspråket_ är inte internationellt. 
+
+_____________________________________________________________________________________
+
+### 7e. Nsg-def (Min son tog _studenten_ ): Substantiv i singular med bestämd slutartikel - utrum, icke-initial satsposition
+
+Mönster 7e, undergrupp till 7b, t.ex. När min son tog _studenten_ bestämde han sig för att lära sig grekiska .  
+
+_____________________________________________________________________________________
+
+### 7f. Nsg-def (Jag skakar på _huvudet_): Substantiv i singular med bestämd slutartikel - neutrum, icke-initial satsposition
+
+Mönster 7b, undergrupp till 7b, t.ex. Jag skakar på _huvudet_
 
 _____________________________________________________________________________________
 
