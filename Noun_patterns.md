@@ -279,70 +279,70 @@ Mönster 4a, t.ex Han startade _ett eget företag_ där och efter fem år flytta
 
 _____________________________________________________________________________________
 
-### 4b. indef A Nsg (_en gul bil_) Substantiv i singular med framförställt attribut och obestämd artikel - utrum
+### 4b. indef A Nsg (_en gut bil_) Substantiv i singular med framförställt attribut och obestämd artikel - utrum
 
 Mönster 4b, undergrupp till 4a, t.ex Barn tillbringar _en stor del_ av sin dag i skolan eller förskolan.
 
 _____________________________________________________________________________________
 
-### 4c. indef A Nsg (_en gul bil_) Substantiv i singular med framförställt attribut och obestämd artikel - neutrum
+### 4c. indef A Nsg (_ett gult hus_) Substantiv i singular med framförställt attribut och obestämd artikel - neutrum
 
 Mönster 4c, undergrupp till 4a, t.ex Det sitter så djupt att man vill göra _ett gott intryck_ .
 
 
 _____________________________________________________________________________________
 
-## 5. N-pl (Finländare tycker...)
+## 5. Npl (Finländare tycker...)
 
 _____________________________________________________________________________________
 
-### N-pl - Substantiv i plural, obestämd form - utrum & neutrum, initial satsposition
+### 5a. Npl (Finländare tycker...): Substantiv i plural obestämd form - initial satsposition
 
 Mönster 5a, t.ex. _Finländare_ tycker också att svenskar pratar "kringelikrokigt".
 
 _____________________________________________________________________________________
 
-### N-pl - Substantiv i plural, obestämd form - utrum & neutrum, icke-initial satsposition
+### 5b. Npl (bestämma över _ord_): Substantiv i plural obestämd form - icke-initial satsposition
 
 Mönster 5b, t.ex. Han ensam bestämmer över _ord_ och regler.
 
 _____________________________________________________________________________________
 
-### N-pl - Substantiv i plural, obestämd form - utrum, initial satsposition
+### 5c. Npl (_Finländare_ tycker...): Substantiv i plural obestämd form - utrum, initial satsposition
 
 Mönster 5c, undergrupp av 5a, t.ex. _Saker_ och ting förändras. 
 
 _____________________________________________________________________________________
 
-### N-pl - Substantiv i plural, obestämd form - neutrum, initial satsposition
+### 5d. Npl (_Folk_ frågar...): Substantiv i plural obestämd form - neutrum, initial satsposition
 
 Mönster 5d, undergrupp av 5a, t.ex. _Folk_ frågar mig ofta om dialekterna håller på att dö ut. 
 
 _____________________________________________________________________________________
 
-### N-pl - Substantiv i plural, obestämd form - utrum, varierande satsposition
+### 5e. Npl (för _svenskar_ ): Substantiv i plural obestämd form - utrum, icke-initial satsposition
 
 Mönster 5e, undergrupp av 5b, t.ex. Givetvis gäller det omvända för _svenskar_ i andra länder.  
 
 _____________________________________________________________________________________
 
-### N-pl - Substantiv i plural, obestämd form - neutrum, varierande satsposition
+### 5f. Npl (skriva _brev_ ): Substantiv i plural obestämd form - neutrum, icke-initial satsposition
 
 Mönster 5f, undergrupp av 5b, t.ex. Han skriver då och då _brev_ till mig.   
 
 _____________________________________________________________________________________
 
-## 6. A N-pl (Sociala relationer är viktiga)
+## 6. A Npl (gula bilar)
 
 _____________________________________________________________________________________
 
-### A N-pl - Substantiv i plural med attribut, obestämd form - utrum & neutrum, initial satsposition
+### 6a. A N-pl (gula bilar): Substantiv i plural med framförställt attribut obestämd form - initial satsposition
 
 Mönster 6a, t.ex. _Sociala relationer_ är viktiga. 
 
 _____________________________________________________________________________________
 
-### A N-pl - Substantiv i plural med attribut, obestämd form - utrum & neutrum, icke-initial satsposition
+### 6a. A N-pl (gula bilar): Substantiv i plural med framförställt attribut obestämd form - icke-initial satsposition
 
 Mönster 6b, t.ex. För att undvika bråk och _häftiga diskussioner_ kan svensken ibland låta bli att säga hela sanningen. 
 
