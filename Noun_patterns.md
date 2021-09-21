@@ -407,23 +407,49 @@ ________________________________________________________________________________
 
 ### 7f. Nsg-def (Jag skakar på _huvudet_): Substantiv i singular med bestämd slutartikel - neutrum, icke-initial satsposition
 
-Mönster 7b, undergrupp till 7b, t.ex. Jag skakar på _huvudet_
+Mönster 7f, undergrupp till 7b, t.ex. Jag skakar på _huvudet_
 
 _____________________________________________________________________________________
 
-## 8. A N-def (Säga hela sanningen)
+## 8. A Nsg-def (Säga _hela sanningen_ )
 
 _____________________________________________________________________________________
 
-### A N-def - Bestämt substantiv singular med framförställt attribut och slutartikel samt INGEN framförställd artikel
+### 8a. A Nsg-def (Säga _hela sanningen_ ): Substantiv i singular med framförställt attribut och bestämd slutartikel samt INGEN fristående artikel - icke-initial satsposition
 
 Mönster 8a, t.ex. För att undvika bråk och häftiga diskussioner kan svensken ibland låta bli att säga _hela sanningen_ . 
 
 _____________________________________________________________________________________
 
-### A N-def - Bestämt substantiv singular med framförställt attribut och slutartikel samt INGEN framförställd artikel - initial satsposition
+### 8b. A Nsg-def (_Hela resan_ ned genom Europa): Substantiv i singular med framförställt attribut och bestämd slutartikel samt INGEN fristående artikel - initial satsposition
 
 Mönster 8b, t.ex. _Hela resan_ ned genom Europa kom att ta ett och ett halvt år. 
+
+_____________________________________________________________________________________
+
+### 8c. A Nsg-def (säga _hela sanningen_ ): Substantiv i singular med framförställt attribut och bestämd slutartikel samt INGEN fristående artikel - utrum, icke-initial satsposition
+
+Mönster 8c, undergrupp till 8a, t.ex. För att undvika bråk och häftiga diskussioner kan svensken ibland låta bli att säga _hela sanningen_ . 
+
+_____________________________________________________________________________________
+
+### 8d. A Nsg-def (komma ihåg _hela livet_ ): Substantiv i singular med framförställt attribut och bestämd slutartikel samt INGEN fristående artikel - neutrum, icke-initial satsposition
+
+Mönster 8d, undergrupp till 8a, t.ex. Det där kommer man ihåg _hela livet_ 
+
+_____________________________________________________________________________________
+
+### 8e. A Nsg-def (_Hela resan_ ned genom Europa): Substantiv i singular med framförställt attribut och bestämd slutartikel samt INGEN fristående artikel - utrum, initial satsposition
+
+Mönster 8e, undergrupp till 8b, t.ex. _Hela resan_ ned genom Europa kom att ta ett och ett halvt år. 
+
+_____________________________________________________________________________________
+
+### 8f. A Nsg-def (_Enda sättet_ att bli accepterad): Substantiv i singular med framförställt attribut och bestämd slutartikel samt INGEN fristående artikel - neutrum, initial satsposition
+
+Mönster 8f, undergrupp till 8b, t.ex. _Enda sättet_ att bli accepterad skulle vara att konvertera till katolicismen . 
+
+
 
 _____________________________________________________________________________________
 
