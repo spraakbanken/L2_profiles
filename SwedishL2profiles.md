@@ -279,65 +279,63 @@ ________________________________________________________________________________
 
 **FILTERS**:
 
-| **PATTERN DESCRIPTION**                |  Description           |  | 
+| **FILTER NAME**                |  Filter description           |  | 
 |:------------------------|:--------------|:----------|
-| Pattern description   | A drop-down menu to filter verb patterns to the one(s) selected. Multiple selections are possible.  || 
-|                         | There are 40 patterns (see below), see details [here](https://spraakbanken.github.io/L2_profiles/Verb_patterns) ||
+| PATTERN DESCRIPTION     | A drop-down menu to filter verb patterns to the one(s) selected. Multiple selections are possible.  || 
+|                         | There are 38 patterns (see below), see details [here](https://spraakbanken.github.io/L2_profiles/Verb_patterns).||
+|                         |Not all patterns are shown in the Grammar profile due to their absence in the source corpora ||
 || 1. Verbfraser med imperativ || 
-||   Imperativ || 
+||   * (1) Imperativ || 
 || 2. Verbfraser med presens || 
-||    Presens - aktiv inklusive hjälpverb || 
-||    Presens - aktiv exklusive hjälpverb||  
-||   Presens - s-passiv el. deponens || 
-||    Presens - s-passiv || 
-||    Presens - deponens || 
+||    * (2a) Presens - aktiv inklusive hjälpverb || 
+||    * (2b) Presens - aktiv exklusive hjälpverb||  
+||    * (3a) Presens - s-passiv el. deponens || 
+||    * (3b) Presens - s-passiv || 
+||    * (3c) Presens - deponens || 
 || 3. Verbfraser med preteritum || 
-||    Preteritum - aktiv inklusive hjälpverb || 
-||    Preteritum - s-passiv el. deponens || 
-||    Preteritum - s-passiv || 
-||    Preteritum - deponens || 
+||    * (4a)  Preteritum - aktiv inklusive hjälpverb || 
+||    * (5a) Preteritum - s-passiv el. deponens || 
+||    * (5b) Preteritum - s-passiv || 
+||    * (5c) Preteritum - deponens || 
 || 4. Verbfraser med supinum || 
-||    Perfekt - aktiv || 
-||   Perfekt - s-passiv el. deponens || 
-||    Perfekt - s-passiv || 
-||    Perfekt - deponens || 
-||    Pluskvamperfekt - aktiv || 
-||    Pluskvamperfekt - s-passiv el. deponens || 
-||    Pluskvamperfekt - s-passiv || 
-||    Pluskvamperfekt - deponens || 
-||    Perfekt och Pluskvamperfekt utan finit verb - aktiv och s-passiv el. deponens || 
-||    Perfekt och Pluskvamperfekt utan finit verb - aktiv || 
-||    Perfekt och Pluskvamperfekt utan finit verb - s-passiv el. deponens || 
+||    * (6) Perfekt - aktiv || 
+||    * (7a) Perfekt - s-passiv el. deponens || 
+||    * (7b) Perfekt - s-passiv || 
+||    * (7c) Perfekt - deponens || 
+||    * (8) Pluskvamperfekt - aktiv || 
+||    * (9a) Pluskvamperfekt - s-passiv el. deponens || 
+||    * (9b) Pluskvamperfekt - s-passiv || 
+||    * (9c) Pluskvamperfekt - deponens || 
+||    * (10a) Perfekt och Pluskvamperfekt utan finit verb - aktiv och s-passiv el. deponens || 
+||    * (10b) Perfekt och Pluskvamperfekt utan finit verb - aktiv || 
+||    * (10c) Perfekt och Pluskvamperfekt utan finit verb - s-passiv el. deponens || 
 || 5. Futurum preteritum eller Konditionalis || 
-||    Futurum preteritum eller konditionalis || 
-||    Futurum preteritum eller konditionalis - aktiv || 
-||    Futurum preteritum eller konditionalis - s-passiv el. deponens || 
-||    Futurum preteritum eller konditionalis med supinum || 
-||    Futurum preteritum eller konditionalis med supinum - aktiv || 
-||    Futurum preteritum eller konditionalis med supinum - s-passiv el. deponens || 
+||    * (23a) Futurum preteritum eller konditionalis || 
+||    * (23b) Futurum preteritum eller konditionalis - aktiv || 
+||    * (23c) Futurum preteritum eller konditionalis - s-passiv el. deponens || 
+||    * (24) Futurum preteritum eller konditionalis med supinum || 
+||    * (24a) Futurum preteritum eller konditionalis med supinum - aktiv || 
+||    * (24b) Futurum preteritum eller konditionalis med supinum - s-passiv el. deponens || 
 || 6. Verbfraser med konjunktiv || 
-||    Presens - konjunktiv - aktiv || 
-||    Preteritum - konjunktiv - aktiv || 
-||   Preteritum - konjunktiv - s-passiv el. deponens || 
+||    * (25b) Presens - konjunktiv - aktiv || 
+||    * (25c) Preteritum - konjunktiv - aktiv || 
+||    * (25d) Preteritum - konjunktiv - s-passiv el. deponens || 
 || 7. Verbfraser med perifrastisk passiv || 
-||    Presens - bli-passiv || 
-||    Presens - vara-passiv || 
-||    Preteritum - bli-passiv || 
-||    Preteritum - vara-passiv || 
+||    * (11a) Presens - bli-passiv || 
+||    * (11b) Presens - vara-passiv || 
+||    * (12a) Preteritum - bli-passiv || 
+||    * (12b) Preteritum - vara-passiv || 
 || 8. Verbfraser med futurum || 
-||    Kommer-att-futurum || 
-||    Ska-futurum || 
+||    * (27a) Kommer-att-futurum || 
+||    * (27c) Ska-futurum || 
 || 9. Verbfraser med hjälpverb || 
-||    Hjälpverb i presens + ha + supinum || 
-||    Hjälpverb i preteritum + ha + supinum || 
+||    * (21) Hjälpverb i presens + ha + supinum || 
+||    * (22) Hjälpverb i preteritum + ha + supinum || 
 
 
 
-
-|                         |         ||
-|                         |         ||
-|                         |         ||
-|                         |         ||
+| **FILTER NAME**                |  Filter description           |  | 
+|:------------------------|:--------------|:----------|
 | 2. PATTERN STRUCTURE |         ||
 |  |         ||
 |  |         ||
