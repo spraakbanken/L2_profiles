@@ -285,41 +285,41 @@ ________________________________________________________________________________
 |                         | There are 38 patterns (see below), see details [here](https://spraakbanken.github.io/L2_profiles/Verb_patterns).||
 |                         |Not all patterns are shown in the Grammar profile due to their absence in the source corpora ||
 |List of patterns| 1. Verbfraser med imperativ || 
-||     * (1) Imperativ || 
+||    •  (1) Imperativ || 
 || 2. Verbfraser med presens || 
-||    * (2a) Presens - aktiv inklusive hjälpverb || 
-||    * (2b) Presens - aktiv exklusive hjälpverb||  
-||    * (3a) Presens - s-passiv el. deponens || 
-||    * (3b) Presens - s-passiv || 
-||    * (3c) Presens - deponens || 
+||    • (2a) Presens - aktiv inklusive hjälpverb || 
+||    • (2b) Presens - aktiv exklusive hjälpverb||  
+||    • (3a) Presens - s-passiv el. deponens || 
+||    • (3b) Presens - s-passiv || 
+||    • (3c) Presens - deponens || 
 || 3. Verbfraser med preteritum || 
-||    * (4a)  Preteritum - aktiv inklusive hjälpverb || 
-||    * (5a) Preteritum - s-passiv el. deponens || 
-||    * (5b) Preteritum - s-passiv || 
-||    * (5c) Preteritum - deponens || 
+||    • (4a)  Preteritum - aktiv inklusive hjälpverb || 
+||    • (5a) Preteritum - s-passiv el. deponens || 
+||    • (5b) Preteritum - s-passiv || 
+||    • (5c) Preteritum - deponens || 
 || 4. Verbfraser med supinum || 
-||    * (6) Perfekt - aktiv || 
-||    * (7a) Perfekt - s-passiv el. deponens || 
-||    * (7b) Perfekt - s-passiv || 
-||    * (7c) Perfekt - deponens || 
-||    * (8) Pluskvamperfekt - aktiv || 
-||    * (9a) Pluskvamperfekt - s-passiv el. deponens || 
-||    * (9b) Pluskvamperfekt - s-passiv || 
-||    * (9c) Pluskvamperfekt - deponens || 
-||    * (10a) Perfekt och Pluskvamperfekt utan finit verb - aktiv och s-passiv el. deponens || 
-||    * (10b) Perfekt och Pluskvamperfekt utan finit verb - aktiv || 
-||    * (10c) Perfekt och Pluskvamperfekt utan finit verb - s-passiv el. deponens || 
+||    • (6) Perfekt - aktiv || 
+||    • (7a) Perfekt - s-passiv el. deponens || 
+||    • (7b) Perfekt - s-passiv || 
+||    • (7c) Perfekt - deponens || 
+||    • (8) Pluskvamperfekt - aktiv || 
+||    • (9a) Pluskvamperfekt - s-passiv el. deponens || 
+||    • (9b) Pluskvamperfekt - s-passiv || 
+||    • (9c) Pluskvamperfekt - deponens || 
+||    • (10a) Perfekt och Pluskvamperfekt utan finit verb - aktiv och s-passiv el. deponens || 
+||    • (10b) Perfekt och Pluskvamperfekt utan finit verb - aktiv || 
+||    • (10c) Perfekt och Pluskvamperfekt utan finit verb - s-passiv el. deponens || 
 || 5. Futurum preteritum eller Konditionalis || 
-||    * (23a) Futurum preteritum eller konditionalis || 
-||    * (23b) Futurum preteritum eller konditionalis - aktiv || 
-||    * (23c) Futurum preteritum eller konditionalis - s-passiv el. deponens || 
-||    * (24) Futurum preteritum eller konditionalis med supinum || 
-||    * (24a) Futurum preteritum eller konditionalis med supinum - aktiv || 
-||    * (24b) Futurum preteritum eller konditionalis med supinum - s-passiv el. deponens || 
+||    • (23a) Futurum preteritum eller konditionalis || 
+||    • (23b) Futurum preteritum eller konditionalis - aktiv || 
+||    • (23c) Futurum preteritum eller konditionalis - s-passiv el. deponens || 
+||    • (24) Futurum preteritum eller konditionalis med supinum || 
+||    • (24a) Futurum preteritum eller konditionalis med supinum - aktiv || 
+||    • (24b) Futurum preteritum eller konditionalis med supinum - s-passiv el. deponens || 
 || 6. Verbfraser med konjunktiv || 
-||    * (25b) Presens - konjunktiv - aktiv || 
-||    * (25c) Preteritum - konjunktiv - aktiv || 
-||    * (25d) Preteritum - konjunktiv - s-passiv el. deponens || 
+||    • (25b) Presens - konjunktiv - aktiv || 
+||    • (25c) Preteritum - konjunktiv - aktiv || 
+||    • (25d) Preteritum - konjunktiv - s-passiv el. deponens || 
 || 7. Verbfraser med perifrastisk passiv || 
 ||    * (11a) Presens - bli-passiv || 
 ||    * (11b) Presens - vara-passiv || 
