@@ -279,13 +279,13 @@ ________________________________________________________________________________
 
 **FILTERS**:
 
-| **FILTER NAME**                |  Filter description           |  | 
+| **PATTERN DESCRIPTION**                |  Filter description           |  | 
 |:------------------------|:--------------|:----------|
-| PATTERN DESCRIPTION     | A drop-down menu to filter verb patterns to the one(s) selected. Multiple selections are possible.  || 
+|                         | A drop-down menu to filter verb patterns to the one(s) selected. Multiple selections are possible.  || 
 |                         | There are 38 patterns (see below), see details [here](https://spraakbanken.github.io/L2_profiles/Verb_patterns).||
 |                         |Not all patterns are shown in the Grammar profile due to their absence in the source corpora ||
-|| 1. Verbfraser med imperativ || 
-||   * (1) Imperativ || 
+|List of patterns| 1. Verbfraser med imperativ || 
+||     * (1) Imperativ || 
 || 2. Verbfraser med presens || 
 ||    * (2a) Presens - aktiv inklusive hjälpverb || 
 ||    * (2b) Presens - aktiv exklusive hjälpverb||  
@@ -336,15 +336,13 @@ ________________________________________________________________________________
 
 | **FILTER NAME**                |  Filter description           |  | 
 |:------------------------|:--------------|:----------|
-| 2. PATTERN STRUCTURE |         ||
-|  |         ||
-|  |         ||
-|  |         ||
-|  |         ||
-|  |         ||
-| 3. TENSE |         ||
-|  |         ||
-|  |         ||
+| PATTERN STRUCTURE       |  describes whether the pattern consists of one or more verbs    ||
+|                         |  * Enkel       | Consists of a verb in active from|
+|                         |  * Komplex     | Consists of a chain of verbs, including a verb in active form|
+|                         |  * Komplex & elliptiskt      | A single verb or a verb chain missing a verb in active form|
+| 3. TENSE                |         ||
+|                         |         ||
+|                         |         ||
 | 4. MOOD |         ||
 |  |         ||
 |  |         ||
