@@ -204,7 +204,7 @@ ________________________________________________________________________________
 
 Link: https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#23-frequency-information
 
-We present two types of frequency - receptive and productive - for each item in the Table view. **Receptive frequency** comes from the COCTAILL corpus (coursebooks, including both reading texts and activities surrounding it). **Productive frequency** comes from the SweLL-pilot corpus (learner essays). In each case, we report the **absolute count** for the item at a particular level, and the **relative count**. The numbers are **clickable**, and open a full list of hits using Korp search interface (Ahlberg et al. 2013).
+We present two types of frequency - receptive and productive - for each item in the Table view. **Receptive frequency** comes from the COCTAILL corpus (coursebooks, including both reading texts and activities surrounding it). **Productive frequency** comes from the SweLL-pilot corpus (learner essays). In each case, we report the **absolute frequency** (i.e. number of hits/tokens) for the current item at a particular level, and its **relative frequency**. The numbers are **clickable**, and open a full list of hits using Korp search interface (Ahlberg et al. 2013).
 
 <img src="Verb_freqs.png" width="1000">
 
@@ -213,8 +213,8 @@ To exemplify, the Figure above shows Verb patterns at A2 level. _Preteritum_ (Pa
 
 **The relative frequency** is normalized 
 
-- towards the tokens per level (Lexical and Morphological profile)
-- towards number of sentences at a given level of proficiency (Grammar profile). 
+- towards the total number of tokens per level (Lexical and Morphological profile)
+- towards to total number of sentences at a given level of proficiency (Grammar profile). 
 
 _References:_ 
 
