@@ -277,7 +277,157 @@ ________________________________________________________________________________
 
 ### 4.3 Verb phrases
 
+**FILTERS**:
 
+| **PATTERN DESCRIPTION**                |  Description           |  | 
+|:------------------------|:--------------|:----------|
+| Pattern description   | A drop-down menu to filter verb patterns to the one(s) selected. Multiple selections are possible.  || 
+|                         | There are 40 patterns (see below), see details [here](https://spraakbanken.github.io/L2_profiles/Verb_patterns) ||
+|| 1. Verbfraser med imperativ || 
+||   Imperativ || 
+|| 2. Verbfraser med presens || 
+||    Presens - aktiv inklusive hjälpverb || 
+||    Presens - aktiv exklusive hjälpverb||  
+||   Presens - s-passiv el. deponens || 
+||    Presens - s-passiv || 
+||    Presens - deponens || 
+|| 3. Verbfraser med preteritum || 
+||    Preteritum - aktiv inklusive hjälpverb || 
+||    Preteritum - s-passiv el. deponens || 
+||    Preteritum - s-passiv || 
+||    Preteritum - deponens || 
+|| 4. Verbfraser med supinum || 
+||    Perfekt - aktiv || 
+||   Perfekt - s-passiv el. deponens || 
+||    Perfekt - s-passiv || 
+||    Perfekt - deponens || 
+||    Pluskvamperfekt - aktiv || 
+||    Pluskvamperfekt - s-passiv el. deponens || 
+||    Pluskvamperfekt - s-passiv || 
+||    Pluskvamperfekt - deponens || 
+||    Perfekt och Pluskvamperfekt utan finit verb - aktiv och s-passiv el. deponens || 
+||    Perfekt och Pluskvamperfekt utan finit verb - aktiv || 
+||    Perfekt och Pluskvamperfekt utan finit verb - s-passiv el. deponens || 
+|| 5. Futurum preteritum eller Konditionalis || 
+||    Futurum preteritum eller konditionalis || 
+||    Futurum preteritum eller konditionalis - aktiv || 
+||    Futurum preteritum eller konditionalis - s-passiv el. deponens || 
+||    Futurum preteritum eller konditionalis med supinum || 
+||    Futurum preteritum eller konditionalis med supinum - aktiv || 
+||    Futurum preteritum eller konditionalis med supinum - s-passiv el. deponens || 
+|| 6. Verbfraser med konjunktiv || 
+||    Presens - konjunktiv - aktiv || 
+||    Preteritum - konjunktiv - aktiv || 
+||   Preteritum - konjunktiv - s-passiv el. deponens || 
+|| 7. Verbfraser med perifrastisk passiv || 
+||    Presens - bli-passiv || 
+||    Presens - vara-passiv || 
+||    Preteritum - bli-passiv || 
+||    Preteritum - vara-passiv || 
+|| 8. Verbfraser med futurum || 
+||    Kommer-att-futurum || 
+||    Ska-futurum || 
+|| 9. Verbfraser med hjälpverb || 
+||    Hjälpverb i presens + ha + supinum || 
+||    Hjälpverb i preteritum + ha + supinum || 
+
+
+
+
+|                         |         ||
+|                         |         ||
+|                         |         ||
+|                         |         ||
+| 2. PATTERN STRUCTURE |         ||
+|  |         ||
+|  |         ||
+|  |         ||
+|  |         ||
+|  |         ||
+| 3. TENSE |         ||
+|  |         ||
+|  |         ||
+| 4. MOOD |         ||
+|  |         ||
+|  |         ||
+|  |         ||
+| 5. VOICE |         ||
+|  |         ||
+|  |         ||
+|  |         ||
+| 6. FORM |         ||
+|  |         ||
+|  |         ||
+|  |         ||
+|  |         ||
+|7. CEFR LEVELS  |         ||
+|  |         ||
+|  |         ||
+|  |         ||
+|  |         ||
+|  |         ||
+|  |         ||
+|  |         ||
+|  |         ||
+|  |         ||
+
+
+
+
+
+
+
+
+
+**Options**
+| Filter |  XX | Description | 
+|:------------------------|:--------------|:----------|
+| 1. PATTERN DESCRIPTION  |          || 
+|  |         ||
+|  |         ||
+|  |         ||
+|  |         ||
+|  |         ||
+|  |         ||
+|  |         ||
+
+1. EXTEND COLUMNS in the TABLE
+2. ONLY FIRST OCCURRENCE
+
+**Views**
+
+| Filter |  XX | Description | 
+|:------------------------|:--------------|:----------|
+| 1. PATTERN DESCRIPTION  |          || 
+|  |         ||
+|  |         ||
+|  |         ||
+|  |         ||
+|  |         ||
+|  |         ||
+|  |         ||
+1. Table View
+2. Graphical View
+3. Statistical View
+
+**REFERENCE INFORMATION**
+
+| Filter |  XX | Description | 
+|:------------------------|:--------------|:----------|
+| 1. PATTERN DESCRIPTION  |          || 
+|  |         ||
+|  |         ||
+|  |         ||
+|  |         ||
+|  |         ||
+|  |         ||
+|  |         ||
+
+1. Verb patterns - descriptive information
+2. Table View description
+3. Filters description
+4. Receptive/Productive - frequency description
+5. 
 
 _____________________________________________________________________________________
 
