@@ -337,9 +337,9 @@ ________________________________________________________________________________
 | **FILTER NAME**                |  Filter description           |  | 
 |:------------------------|:--------------|:----------|
 | PATTERN STRUCTURE       |  describes whether the pattern consists of one or more verbs    ||
-|                         |  * Enkel       | Consists of a verb in active from|
-|                         |  * Komplex     | Consists of a chain of verbs, including a verb in active form|
-|                         |  * Komplex & elliptiskt      | A single verb or a verb chain missing a verb in active form|
+|                         |  * Enkel       | Consists of a verb in finite from|
+|                         |  * Komplex     | Consists of a chain of verbs, including a verb in finite form|
+|                         |  * Komplex & elliptiskt      | A single verb or a verb chain missing a verb in finite form|
 | 3. TENSE                |         ||
 |                         |         ||
 |                         |         ||
