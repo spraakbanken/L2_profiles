@@ -75,7 +75,7 @@ ________________________________________________________________________________
   - [8a](#8a)
   - [8b](#8b)
 
-[9. den|det (här|där) N-def](#9-dendet-härdär-n-def)
+[9. den\|det (här\|där) N-def](#9-dendet-härdär-n-def)
 
   - [9a](#9a)
   - [9b](#9b)
@@ -464,7 +464,7 @@ Mönster 8e, undergrupp till 8b, t.ex. Oden var _den klokaste guden_ .
 
 _____________________________________________________________________________________
 
-### 8f. Def A Nsg-def (_Enda sättet_ att bli accepterad): Substantiv i singular med framförställt attribut, slutartikel och fristående artikel - neutrum, icke-initial satsposition
+### 8f. Def A Nsg-def (...besökarna i _det virtuella museet_): Substantiv i singular med framförställt attribut, slutartikel och fristående artikel - neutrum, icke-initial satsposition
 
 Mönster 8f, undergrupp till 8b, t.ex. An så länge har inte besökarna i _det virtuella museet_ blivit fler än de i det riktiga museet .
 
@@ -472,19 +472,21 @@ Mönster 8f, undergrupp till 8b, t.ex. An så länge har inte besökarna i _det 
 
 _____________________________________________________________________________________
 
-## 9. den|det (här|där) N-def
+## 9. den här/den där N-def (_Den här studien_ visar orsaker...)
  
 _____________________________________________________________________________________
 
-### den|det (här|där) N-def
+### den här N-def (_Den här studien_ visar orsaker...)
 
-Mönster 9a, t.ex. 
+Mönster 9a, t.ex. Jag har så klart vetat att _den här dagen_	kommer. 
+
+Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
 ### den|det (här|där) N-def
 
-Mönster 9b, t.ex. 
+Mönster 9b, t.ex. Jag har så klart vetat att _den här dagen_	kommer.
 
 _____________________________________________________________________________________
 
