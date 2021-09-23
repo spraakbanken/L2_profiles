@@ -472,7 +472,7 @@ Mönster 8f, undergrupp till 8b, t.ex. An så länge har inte besökarna i _det 
 
 _____________________________________________________________________________________
 
-## 9. den|det här|där N-def (_Den här studien_ visar orsaker...)
+## 9. den\|det här\|där N-def (_Den här studien_ visar orsaker...)
  
 _____________________________________________________________________________________
 
