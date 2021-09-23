@@ -168,13 +168,15 @@ ________________________________________________________________________________
 
 ## Substantivfras - deskriptorer
 
+* Pattern
 * Pattern structure / mönsterstruktur: enkelt, utbygt
+* Satsposition / clause position: initial, varierande, icke-initial, -
+* Species (bestämdhet) / definiteness: bestämd, obestämd, -
 * Genus: utrum, neutrum, utrum/neutrum, -
 * Numerus: singular, plural, singular/plural, -
-* Species (bestämdhet) / definiteness: bestämd, obestämd, -
 * Attribut (bestämning) / attribute: adjektivattribut, genitivattribut, -
 * Artikel / article: fristående, slutartikel, fristående/slutartikel, -
-* Satsposition / clause position: initial, varierande, icke-initial, - 
+*  
 * (Kasus / case: genitiv, nominativ, - )
 _____________________________________________________________________________________
 
@@ -184,7 +186,7 @@ ________________________________________________________________________________
 
 ### 1a. Nsg (Jag har _körkort_): Substantiv i singular utan framförställt attribut utan artikel
 
-Mönster 1a, t.ex Jag har _körkort_.
+Mönster 1a, t.ex Jag har _körkort_. Alla genus blandade. Används inte 
 
 _____________________________________________________________________________________
 
@@ -192,7 +194,7 @@ ________________________________________________________________________________
 ### 1b. Nsg (Jag kan _svenska_): Substantiv i singular utan framförställt attribut utan artikel - utrum
 
 
-Mönster 1b, undergrup till 1a, t.ex Presens är en vanlig form för _framtid _.
+Mönster 1b, undergrup till 1a, t.ex Presens är en vanlig form för _framtid _. 
 
 _____________________________________________________________________________________
 
@@ -208,13 +210,13 @@ ________________________________________________________________________________
 
 ### 2a. A Nsg (_Följande dialog_ kan...): Substantiv i singular med framförställt attribut utan artikel - initial satsposition
 
-Mönster 2a, t.ex  _Följande dialog_ kan utspelas mellan två personer.
+Mönster 2a, t.ex  _Följande dialog_ kan utspelas mellan två personer. Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
 ### 2b. A Nsg (...med _stängd mun_): Substantiv i singular med framförställt attribut utan artikel - icke-initial satsposition
 
-Mönster 2b, t.ex. Hon log med _stängd mun_ för att hon hade dåliga tänder
+Mönster 2b, t.ex. Hon log med _stängd mun_ för att hon hade dåliga tänder. Blandade genum. Används inte.
 
 _____________________________________________________________________________________
 
@@ -251,19 +253,19 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
-### 3a. indef Nsg (Än _en gång_ ...): Substantiv i singular utan attribut med obestämd artikel
+### 3a. indef Nsg (Än _en gång_ ...): Substantiv i singular utan framförställt attribut med obestämd artikel
 
-Mönster 3a, t.ex Än _en gång_ riskerar han att avslöjas.
+Mönster 3a, t.ex Än _en gång_ riskerar han att avslöjas. Blandade genum. Används inte.
 
 _____________________________________________________________________________________
 
-### 3b. indef Nsg (Än _en gång_ ...): Substantiv i singular utan attribut med obestämd artikel - utrum
+### 3b. indef Nsg (Än _en gång_ ...): Substantiv i singular utan framförställt attribut med obestämd artikel - utrum
 
 Mönster 3b, undergrupp till 3a, t.ex Än _en gång_ riskerar han att avslöjas.
 
 _____________________________________________________________________________________
 
-### 3c. indef Nsg (på _ett disko_ ...): Substantiv i singular utan attribut med obestämd artikel - neutrum
+### 3c. indef Nsg (på _ett disko_ ...): Substantiv i singular utan framförställt attribut med obestämd artikel - neutrum
 
 Mönster 3c, undergrupp till 3a, t.ex I Rimini träffade hon på _ett disko_ en stilig greve som friade redan samma kväll.
 
@@ -275,7 +277,9 @@ ________________________________________________________________________________
 
 ### 4a. indef A Nsg (_en gul bil_) Substantiv i singular med framförställt attribut och obestämd artikel
 
-Mönster 4a, t.ex Han startade _ett eget företag_ där och efter fem år flyttade familjen efter honom.
+Mönster 4a, t.ex Han startade _ett eget företag_ där och efter fem år flyttade familjen efter honom. 
+
+Blandade genus. Används inte. 
 
 _____________________________________________________________________________________
 
@@ -300,11 +304,15 @@ ________________________________________________________________________________
 
 Mönster 5a, t.ex. _Finländare_ tycker också att svenskar pratar "kringelikrokigt".
 
+Blandade genus. Används inte. 
+
 _____________________________________________________________________________________
 
 ### 5b. Npl (bestämma över _ord_): Substantiv i plural obestämd form - icke-initial satsposition
 
 Mönster 5b, t.ex. Han ensam bestämmer över _ord_ och regler.
+
+Blandade genus. Används inte. 
 
 _____________________________________________________________________________________
 
@@ -340,33 +348,37 @@ ________________________________________________________________________________
 
 Mönster 6a, t.ex. _Sociala relationer_ är viktiga. 
 
+Blandade genus. Används inte. 
+
 _____________________________________________________________________________________
 
 ### 6b. A Npl (gula bilar): Substantiv i plural med framförställt attribut obestämd form - icke-initial satsposition
 
 Mönster 6b, t.ex. För att undvika bråk och _häftiga diskussioner_ kan svensken ibland låta bli att säga hela sanningen. 
 
+Blandade genus. Används inte. 
+
 _____________________________________________________________________________________
 
-### 6c. A Npl (gula bilar): Substantiv i plural med framförställt attribut obestämd form - utrum, initial satsposition
+### 6c. A Npl (_Gula bilar_ används...): Substantiv i plural med framförställt attribut obestämd form - utrum, initial satsposition
 
 
 Mönster 6c, undergrupp av 6a, t.ex. _Blivande adoptivföräldrar_ måste ha tålamod.
 
 _____________________________________________________________________________________
 
-### 6d. A Npl (alternativa sätt): Substantiv i plural med framförställt attribut obestämd form - neutrum, initial satsposition
+### 6d. A Npl (_Alternativa sätt_ behövs): Substantiv i plural med framförställt attribut obestämd form - neutrum, initial satsposition
 
 Mönster 6d, undergrupp av 6a, t.ex. _Alternativa sätt_ att säga nej på kan vara att säga "kanske" eller "jag ska försöka". 
 
 _____________________________________________________________________________________
 
-### 6e. A Npl (gula bilar): Substantiv i plural med framförställt attribut obestämd form - utrum, icke-initial satsposition
+### 6e. A Npl (...kör _gula bilar_ ): Substantiv i plural med framförställt attribut obestämd form - utrum, icke-initial satsposition
 Mönster 6e, undergrupp av 6b, t.ex. I genomsnitt ägnar _svenska kvinnor_ 81 minuter och _svenska män_ 64 minuter per dag åt Facebook. 
 
 _____________________________________________________________________________________
 
-### 6f. A Npl (alternativa sätt): Substantiv i plural med framförställt attribut obestämd form - utrum, icke-initial satsposition
+### 6f. A Npl (... att använda _alternativa sätt_ ): Substantiv i plural med framförställt attribut obestämd form - neutrum, icke-initial satsposition
 
 Mönster 6f, undergrupp av 6b, t.ex. Jag trivs bäst i _öppna landskap_ .  
 
@@ -376,78 +388,85 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
-### 7a. Nsg-def (_Felet_ ska straffas): Substantiv i singular med bestämd slutartikel - initial satsposition
+### 7a. Nsg-def (_Felet_ ska straffas): Substantiv i singular med slutartikel - initial satsposition
 
 Mönster 7a, t.ex. _Teckenspråket_ är inte internationellt. 
 
+Blandade genus. Används inte. 
+
 _____________________________________________________________________________________
 
-### 7b. Nsg-def (Jag skakar på _huvudet_): Substantiv i singular med bestämd slutartikel - icke-initial satsposition
+### 7b. Nsg-def (Jag skakar på _huvudet_): Substantiv i singular med slutartikel - icke-initial satsposition
 
 Mönster 7b, t.ex. Jag skakar på _huvudet_
 
+Blandade genus. Används inte. 
+
 _____________________________________________________________________________________
 
-### 7c. Nsg-def (_Svenskan_ är ett språk ): Substantiv i singular med bestämd slutartikel - utrum, initial satsposition
+### 7c. Nsg-def (_Svenskan_ är ett språk): Substantiv i singular med slutartikel - utrum, initial satsposition
 
 Mönster 7c, undergrupp till 7a, t.ex. _Svenskan_ är ett indoeuropeiskt språk 
 _____________________________________________________________________________________
 
-### 7d. Nsg-def (_Teckenspråket_ är inte internationellt): Substantiv i singular med bestämd slutartikel - neutrum, initial satsposition
+### 7d. Nsg-def (_Teckenspråket_ är inte internationellt): Substantiv i singular med slutartikel - neutrum, initial satsposition
 
 Mönster 7d, undergrupp till 7a, t.ex. _Teckenspråket_ är inte internationellt. 
 
 _____________________________________________________________________________________
 
-### 7e. Nsg-def (Min son tog _studenten_ ): Substantiv i singular med bestämd slutartikel - utrum, icke-initial satsposition
+### 7e. Nsg-def (Min son tog _studenten_ ): Substantiv i singular med slutartikel - utrum, icke-initial satsposition
 
 Mönster 7e, undergrupp till 7b, t.ex. När min son tog _studenten_ bestämde han sig för att lära sig grekiska .  
 
 _____________________________________________________________________________________
 
-### 7f. Nsg-def (Jag skakar på _huvudet_): Substantiv i singular med bestämd slutartikel - neutrum, icke-initial satsposition
+### 7f. Nsg-def (Jag skakar på _huvudet_): Substantiv i singular med slutartikel - neutrum, icke-initial satsposition
 
 Mönster 7f, undergrupp till 7b, t.ex. Jag skakar på _huvudet_
 
 _____________________________________________________________________________________
 
-## 8. A Nsg-def (Säga _hela sanningen_ )
+## 8. Def A Nsg-def (_Den naturliga följden_ av att...)
 
 _____________________________________________________________________________________
 
-### 8a. A Nsg-def (Säga _hela sanningen_ ): Substantiv i singular med framförställt attribut och bestämd slutartikel samt INGEN fristående artikel - icke-initial satsposition
+### 8a. Def A Nsg-def (_Den naturliga följden_ av att...): Substantiv i singular med framförställt attribut, slutartikel och fristående artikel - initial satsposition
 
-Mönster 8a, t.ex. För att undvika bråk och häftiga diskussioner kan svensken ibland låta bli att säga _hela sanningen_ . 
+Mönster 8a, t.ex. _Den självklara rätten_ att resa fritt gäller bara oss. 
 
-_____________________________________________________________________________________
-
-### 8b. A Nsg-def (_Hela resan_ ned genom Europa): Substantiv i singular med framförställt attribut och bestämd slutartikel samt INGEN fristående artikel - initial satsposition
-
-Mönster 8b, t.ex. _Hela resan_ ned genom Europa kom att ta ett och ett halvt år. 
+Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 8c. A Nsg-def (säga _hela sanningen_ ): Substantiv i singular med framförställt attribut och bestämd slutartikel samt INGEN fristående artikel - utrum, icke-initial satsposition
+### 8b. Def A Nsg-def (...förklaringen till _det gåtfulla leendet_): Substantiv i singular med framförställt attribut, slutartikel och fristående artikel - icke-initial satsposition
 
-Mönster 8c, undergrupp till 8a, t.ex. För att undvika bråk och häftiga diskussioner kan svensken ibland låta bli att säga _hela sanningen_ . 
+Mönster 8b, t.ex. Är det förklaringen till _det gåtfulla leendet_ ?  
 
-_____________________________________________________________________________________
-
-### 8d. A Nsg-def (komma ihåg _hela livet_ ): Substantiv i singular med framförställt attribut och bestämd slutartikel samt INGEN fristående artikel - neutrum, icke-initial satsposition
-
-Mönster 8d, undergrupp till 8a, t.ex. Det där kommer man ihåg _hela livet_ 
+Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 8e. A Nsg-def (_Hela resan_ ned genom Europa): Substantiv i singular med framförställt attribut och bestämd slutartikel samt INGEN fristående artikel - utrum, initial satsposition
+### 8c. Def A Nsg-def ( _Den unga flickan_ uppfostrades...): Substantiv i singular med framförställt attribut, slutartikel och fristående artikel - utrum, initial satsposition
 
-Mönster 8e, undergrupp till 8b, t.ex. _Hela resan_ ned genom Europa kom att ta ett och ett halvt år. 
+Mönster 8c, undergrupp till 8a, t.ex. _Den unga flickan_ uppfostrades till att bli kung ! 
+_____________________________________________________________________________________
+
+### 8d. Def A Nsg-def (_Det största problemet_ är inte...): Substantiv i singular med framförställt attribut, slutartikel och fristående artikel - neutrum, initial satsposition
+
+Mönster 8d, undergrupp till 8a, t.ex. _Det största problemet_ är inte cyklisterna. 
 
 _____________________________________________________________________________________
 
-### 8f. A Nsg-def (_Enda sättet_ att bli accepterad): Substantiv i singular med framförställt attribut och bestämd slutartikel samt INGEN fristående artikel - neutrum, initial satsposition
+### 8e. Def A Nsg-def (Oden var _den klokaste guden_ ): Substantiv i singular med framförställt attribut, slutartikel och fristående artikel - utrum, icke-initial satsposition
 
-Mönster 8f, undergrupp till 8b, t.ex. _Enda sättet_ att bli accepterad skulle vara att konvertera till katolicismen . 
+Mönster 8e, undergrupp till 8b, t.ex. Oden var _den klokaste guden_ .  
+
+_____________________________________________________________________________________
+
+### 8f. Def A Nsg-def (_Enda sättet_ att bli accepterad): Substantiv i singular med framförställt attribut, slutartikel och fristående artikel - neutrum, icke-initial satsposition
+
+Mönster 8f, undergrupp till 8b, t.ex. An så länge har inte besökarna i _det virtuella museet_ blivit fler än de i det riktiga museet .
 
 
 
