@@ -524,13 +524,55 @@ Mönster 10c, t.ex. _Det här speciella förortsspråket_ är en jargong.
 
 _____________________________________________________________________________________
 
-## 11. den|det (här|där) N (ingen slutartikel) (Det var det ögönblick då...)
+## 11. den\|det N (Det var _det ögönblick_ då...)
 
 _____________________________________________________________________________________
 
-### den|det (här|där) N: Substantiv i singular med demonstrativt eller determinativt pronomen (ingen slutartikel)
+### 11a. den\|det N (Det var _det ögönblick_ då...): Substantiv i singular med fristående artikel _den\|det_ utan slutartikel
+
 
 Mönster 11a, t.ex. Det var _det ögonblick_ då alla fordon stannade upp i några minuter för att sedan sakta styra över från vänster till höger sida.
+
+Blandade genus. Används inte.
+
+_____________________________________________________________________________________
+
+### 11b. den N (...tillkom _den indelning_ vi har i dag): Substantiv i singular med fristående artikel _den_ utan slutartikel - utrum
+
+
+Mönster 11a, t.ex. År 1718 tillkom _den indelning_ vi har i dag, med några undantag. 
+
+
+_____________________________________________________________________________________
+
+### 11c. det N (Det var _det ögönblick_ då...): Substantiv i singular med fristående artikel _det_ utan slutartikel
+
+
+Mönster 11a, t.ex. Det var _det ögonblick_ då alla fordon stannade upp i några minuter för att sedan sakta styra över från vänster till höger sida.
+
+_____________________________________________________________________________________
+
+### 11c. det N (Det var _det ögönblick_ då...): Substantiv i singular med fristående artikel _det_ utan slutartikel
+
+
+Mönster 11a, t.ex. Det var _det ögonblick_ då alla fordon stannade upp i några minuter för att sedan sakta styra över från vänster till höger sida.
+
+
+_____________________________________________________________________________________
+
+### 11c. det N (Det var _det ögönblick_ då...): Substantiv i singular med fristående artikel _det_ utan slutartikel
+
+
+Mönster 11a, t.ex. Det var _det ögonblick_ då alla fordon stannade upp i några minuter för att sedan sakta styra över från vänster till höger sida.
+
+
+_____________________________________________________________________________________
+
+### 11c. det N (Det var _det ögönblick_ då...): Substantiv i singular med fristående artikel _det_ utan slutartikel
+
+
+Mönster 11a, t.ex. Det var _det ögonblick_ då alla fordon stannade upp i några minuter för att sedan sakta styra över från vänster till höger sida.
+
 
 _____________________________________________________________________________________
 
