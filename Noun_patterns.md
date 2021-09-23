@@ -75,7 +75,7 @@ ________________________________________________________________________________
   - [8a](#8a)
   - [8b](#8b)
 
-[9. den\|det (här\|där) N-def](#9-dendet-härdär-n-def)
+[9. den|det här|där N-def (_Den här studien_ visar orsaker...)](#9-dendet-härdär-N-def-Den-här-studien-visar-orsaker)
 
   - [9a](#9a)
   - [9b](#9b)
@@ -472,7 +472,7 @@ Mönster 8f, undergrupp till 8b, t.ex. An så länge har inte besökarna i _det 
 
 _____________________________________________________________________________________
 
-## 9. den här/den där N-def (_Den här studien_ visar orsaker...)
+## 9. den|det här|där N-def (_Den här studien_ visar orsaker...)
  
 _____________________________________________________________________________________
 
