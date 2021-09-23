@@ -472,49 +472,55 @@ Mönster 8f, undergrupp till 8b, t.ex. An så länge har inte besökarna i _det 
 
 _____________________________________________________________________________________
 
-## 9. den\|det här\|där N-def (_Den här studien_ visar orsaker...)
+## 9. den\|det här\|där N-def (_Den här studien_ ...)
  
 _____________________________________________________________________________________
 
-### den här N-def (_Den här studien_ visar orsaker...)
+### 9a. den\|det här\|där N-def (_Den här studien_ ...): Substantiv i singular med demonstrativt pronomen och slutartikel
 
-Mönster 9a, t.ex. Jag har så klart vetat att _den här dagen_	kommer. 
+
+Mönster 9a, t.ex. Jag har så klart vetat att _den här dagen_ kommer. 
 
 Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### den|det (här|där) N-def
+### 9b. den här\|där N-def (_Den här studien_ ...): Substantiv i singular med demonstrativt pronomen och slutartikel - utrum
 
-Mönster 9b, t.ex. Jag har så klart vetat att _den här dagen_	kommer.
-
-_____________________________________________________________________________________
-
-### den|det (här|där) N-def
-
-Mönster 9c, t.ex. 
+Mönster 9b, t.ex. Jag har så klart vetat att _den här dagen_ kommer.
 
 _____________________________________________________________________________________
 
-### den|det (här|där) N-def
+### 9c. det här\|där N-def (_Det här priset_ ...): Substantiv i singular med demonstrativt pronomen och slutartikel - neutrum
 
-Mönster 9d, t.ex. 
-
-_____________________________________________________________________________________
-
-### den|det (här|där) N-def
-
-Mönster 9e, t.ex. 
+Mönster 9c, t.ex. _Det här priset_ är med pensionärsrabatt . 
 
 _____________________________________________________________________________________
 
-## 10. den (här|där) | det (här|där) A N-def - (Den svenska modellen är...)
+## 10. den\|det här\|där A N-def (_Den där nya deckaren_ ...)
 
 _____________________________________________________________________________________
 
-### den (här|där) | det (här|där) A N-def -
+### 10a. den\|det här\|där A N-def (_Den där nya deckaren_ ...): Substantiv i singular med demonstrativt pronomen, framförställt attribut och slutartikel
 
-Mönster 10a, t.ex. Ett av de många problemen är _den svenska kvinnan_ .
+Mönster 10a, t.ex. _Den där nya deckaren_ du rekommenderade mig att läsa var riktigt usel.
+
+Blandade genus. Används inte.
+
+_____________________________________________________________________________________
+
+### 10b. den här\|där A N-def (_Den där nya deckaren_ ...): Substantiv i singular med demonstrativt pronomen, framförställt attribut och slutartikel - utrum
+
+Mönster 10b, t.ex. _Den där nya deckaren_ du rekommenderade mig att läsa var riktigt usel.
+
+
+
+_____________________________________________________________________________________
+
+### 10c. det här\|där A N-def (_Det här speciella förortsspråket_ ...): Substantiv i singular med demonstrativt pronomen, framförställt attribut och slutartikel - neutrum
+
+Mönster 10c, t.ex. _Det här speciella förortsspråket_ är en jargong.
+
 
 _____________________________________________________________________________________
 
