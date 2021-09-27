@@ -186,7 +186,9 @@ ________________________________________________________________________________
 
 ### 1a. Nsg (Jag har _körkort_): Substantiv i singular utan framförställt attribut utan artikel
 
-Mönster 1a, t.ex Jag har _körkort_. Alla genus blandade. Används inte 
+Mönster 1a, t.ex Jag har _körkort_. 
+
+Blandade genus. Används inte. 
 
 _____________________________________________________________________________________
 
@@ -210,13 +212,17 @@ ________________________________________________________________________________
 
 ### 2a. A Nsg (_Följande dialog_ kan...): Substantiv i singular med framförställt attribut utan artikel - initial satsposition
 
-Mönster 2a, t.ex  _Följande dialog_ kan utspelas mellan två personer. Blandade genus. Används inte.
+Mönster 2a, t.ex  _Följande dialog_ kan utspelas mellan två personer. 
+
+Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
 ### 2b. A Nsg (...med _stängd mun_): Substantiv i singular med framförställt attribut utan artikel - icke-initial satsposition
 
-Mönster 2b, t.ex. Hon log med _stängd mun_ för att hon hade dåliga tänder. Blandade genum. Används inte.
+Mönster 2b, t.ex. Hon log med _stängd mun_ för att hon hade dåliga tänder. 
+
+Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
@@ -255,7 +261,9 @@ ________________________________________________________________________________
 
 ### 3a. indef Nsg (Än _en gång_ ...): Substantiv i singular utan framförställt attribut med obestämd artikel
 
-Mönster 3a, t.ex Än _en gång_ riskerar han att avslöjas. Blandade genum. Används inte.
+Mönster 3a, t.ex Än _en gång_ riskerar han att avslöjas. 
+
+Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
@@ -528,50 +536,57 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
-### 11a. den\|det N (Det var _det ögönblick_ då...): Substantiv i singular med fristående artikel _den\|det_ utan slutartikel
+### 11a. den\|det N (_den rök_ du andas in...): Substantiv i singular med fristående artikel _den\|det_ utan slutartikel
 
 
-Mönster 11a, t.ex. Det var _det ögonblick_ då alla fordon stannade upp i några minuter för att sedan sakta styra över från vänster till höger sida.
+Mönster 11a, t.ex. Det är inte bara du själv som skadas av	_den rök_ du andas in . 
 
 Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 11b. den N (...tillkom _den indelning_ vi har i dag): Substantiv i singular med fristående artikel _den_ utan slutartikel - utrum
+### 11b. den N (_den rök_ du andas in): Substantiv i singular med fristående artikel _den_ utan slutartikel - utrum
 
 
-Mönster 11a, t.ex. År 1718 tillkom _den indelning_ vi har i dag, med några undantag. 
-
-
-_____________________________________________________________________________________
-
-### 11c. det N (Det var _det ögönblick_ då...): Substantiv i singular med fristående artikel _det_ utan slutartikel
-
-
-Mönster 11a, t.ex. Det var _det ögonblick_ då alla fordon stannade upp i några minuter för att sedan sakta styra över från vänster till höger sida.
-
-_____________________________________________________________________________________
-
-### 11c. det N (Det var _det ögönblick_ då...): Substantiv i singular med fristående artikel _det_ utan slutartikel
-
-
-Mönster 11a, t.ex. Det var _det ögonblick_ då alla fordon stannade upp i några minuter för att sedan sakta styra över från vänster till höger sida.
+Mönster 11b, t.ex. År 1718 tillkom _den indelning_ vi har i dag, med några undantag. 
 
 
 _____________________________________________________________________________________
 
-### 11c. det N (Det var _det ögönblick_ då...): Substantiv i singular med fristående artikel _det_ utan slutartikel
+### 11c. det N (_det land_ man flyttar till): Substantiv i singular med fristående artikel _det_ utan slutartikel - neutrum
 
 
-Mönster 11a, t.ex. Det var _det ögonblick_ då alla fordon stannade upp i några minuter för att sedan sakta styra över från vänster till höger sida.
+Mönster 11c, t.ex. Vanligt är att man lär sig ett andraspråk i _det land_ man flyttar till. 
 
 
 _____________________________________________________________________________________
 
-### 11c. det N (Det var _det ögönblick_ då...): Substantiv i singular med fristående artikel _det_ utan slutartikel
+### 11d. det\|den N (Det var _det ögönblick_ då...): Substantiv i singular med fristående artikel _det\|den_ utan slutartikel - med (relativ) bisatsinledare
 
 
-Mönster 11a, t.ex. Det var _det ögonblick_ då alla fordon stannade upp i några minuter för att sedan sakta styra över från vänster till höger sida.
+Mönster 11d, t.ex. Det var _det ögonblick_ då alla fordon stannade upp i några minuter för att sedan sakta styra över från vänster till höger sida.
+
+Delmängd av 11a. Blandade genus. 
+
+
+_____________________________________________________________________________________
+
+### 11e. den N (_den björn_ som): Substantiv i singular med fristående artikel _den_ utan slutartikel - utrum med (relativ) bisatsinledare
+
+
+Mönster 11e, t.ex.  Väck ej _den björn_ som sover
+
+Delmängd av 11b
+
+
+_____________________________________________________________________________________
+
+### 11f. det N (Det var _det ögönblick_ då...): Substantiv i singular med fristående artikel _det_ utan slutartikel - neutrum med (relativ) bisatsinledare
+
+
+Mönster 11f, t.ex. Det var _det ögonblick_ då alla fordon stannade upp i några minuter för att sedan sakta styra över från vänster till höger sida.
+
+Delmängd av 11c
 
 
 _____________________________________________________________________________________
