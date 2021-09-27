@@ -591,13 +591,47 @@ Delmängd av 11c
 
 _____________________________________________________________________________________
 
-## 12. den|det (här|där) A N (Att sova är inte det passiva tillståndet)
+## 12. den\|det A N (Att sova är inte _det passiva tillstånd_ ...)
 
 _____________________________________________________________________________________
 
-### den|det (här|där) A N: Substantiv i singular med  framförställt attribut och demonstrativt eller determinativt pronomen (ingen slutartikel)
+### 12a. den\|det A N (Att sova är inte _det passiva tillstånd_ ...): Substantiv i singular med fristående artikel _den\|det_ och framförställt attribut utan slutartikel
 
 Mönster 12a, t.ex. Att sova är inte _det passiva tillstånd_ som vi trodde tidigare. 
+
+Blandade genus. Används inte.
+
+_____________________________________________________________________________________
+
+### 12b. den\|det A N (Att sova är inte _det passiva tillstånd_ ...): Substantiv i singular med fristående artikel _den_ och framförställt attribut utan slutartikel - utrum
+
+Mönster 12a, t.ex. Att sova är inte _det passiva tillstånd_ som vi trodde tidigare. 
+
+_____________________________________________________________________________________
+
+### 12c. det A N (Att sova är inte _det passiva tillstånd_ ...): Substantiv i singular med fristående artikel _det_ och framförställt attribut utan slutartikel - neutrum
+
+Mönster 12a, t.ex. Att sova är inte _det passiva tillstånd_ som vi trodde tidigare. 
+
+_____________________________________________________________________________________
+
+### 12d. den\|det A N (Att sova är inte _det passiva tillstånd_ ...): Substantiv i singular med fristående artikel _den\|det_ och framförställt attribut utan slutartikel
+
+Mönster 12a, t.ex. Att sova är inte _det passiva tillstånd_ som vi trodde tidigare. 
+
+_____________________________________________________________________________________
+
+### 12e. den A N som (Att sova är inte _det passiva tillstånd_ ...): Substantiv i singular med fristående artikel _den_ och framförställt attribut utan slutartikel
+
+Mönster 12a, t.ex. Barnens skratt och skrik blandas med _den rytmiska musik_ som hörs från högtalarna .  
+
+_____________________________________________________________________________________
+
+### 12f. den\|det A N (Att sova är inte _det passiva tillstånd_ ...): Substantiv i singular med fristående artikel den\|det och framförställt attribut utan slutartikel
+
+Mönster 12a, t.ex. Att sova är inte _det passiva tillstånd_ som vi trodde tidigare. 
+
+
 
 _____________________________________________________________________________________
 
