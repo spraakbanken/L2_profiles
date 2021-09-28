@@ -735,29 +735,95 @@ Normbrott (förekommer i uppsatser). Mönstret används inte.
 
 _____________________________________________________________________________________
 
-## 16. Poss|NP-gen A N (Min största resa genom livet)
+## 16. Poss\|NP-gen A N (Min största resa genom livet)
 
 _____________________________________________________________________________________
 
-### Poss|NP-gen A N: Substantiv i singular med framförställt attribut och possessivt pronomen eller genitivattribut (ingen slutartikel)
+### 16a. Poss\|NP-gen A N ( _min största resa_ ): Substantiv i singular med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel
 
 Mönster 16a, t.ex. Det är utan tvekan _min största och viktigaste resa_ genom livet. 
 
-_____________________________________________________________________________________
-
-### Poss|NP-gen A N: Substantiv i singular med framförställt attribut och possessivt pronomen eller genitivattribut (ingen slutartikel)
-
-Mönster 16b, t.ex. Det är utan att överdriva _världens mest åtrådda utmärkelse_ . 
+Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-## 17. N-pl-def 
+### 16b. Poss\|NP-gen A N ( _din verkliga livet_ ): Substantiv i singular med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - normbrott
+
+Mönster 16b, t.ex. Då blir det stora problem med _din verkliga livet_ .  
+
+Normbrott (förekommer i uppsatser). Mönstret används inte.
 
 _____________________________________________________________________________________
 
-### N-pl-def
+### 16c. Poss\|NP-gen A N ( _Årets kortaste dag_ ): Substantiv i singular med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - utrum
 
-Mönster 17a, t.ex. 
+Mönster 16c, t.ex. _Årets kortaste dag_ är den 22 december .
+
+_____________________________________________________________________________________
+
+### 16d. Poss\|NP-gen A N ( _sitt stora verk_ ): Substantiv i singular med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - neutrum
+
+Mönster 16d, t.ex. Här publicerade han _sitt stora verk_ ... 
+
+_____________________________________________________________________________________
+
+### 16e. Poss\|NP-gen A N (): Substantiv i singular med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - normbrott
+
+Mönster 16e, t.ex. Det är det som jag pratad med _min kära familjen_ ...
+
+Normbrott (förekommer i uppsatser). Mönstret används inte.
+
+_____________________________________________________________________________________
+
+### 16f. Poss\|NP-gen A N ( _våra moderna livet_ ): Substantiv i singular med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - normbrott
+
+Mönster 16f, t.ex. Stress av arbete eller arbetslöshet är vanlig och kan vara farlig i _våra moderna livet_ .
+
+Normbrott (förekommer i uppsatser). Mönstret används inte.
+
+_____________________________________________________________________________________
+
+## 17. Npl-def  ( _Lärarna_ )
+
+_____________________________________________________________________________________
+
+### 17a. Npl-def ( _Lärarna_ ): Substantiv i plural med slutartikel - initial satsposition
+
+Mönster 17a, t.ex. _Lärarna_ var mycket stränga. 
+
+Blandade genus. Används inte.
+
+_____________________________________________________________________________________
+
+### 17b. Npl-def ( _instruktionerna_ ): Substantiv i plural med slutartikel - icke-initial satsposition
+
+Mönster 17b, t.ex. Tyvärr har _instruktionerna_ hamnat i fel ordning.  
+
+Blandade genus. Används inte.
+
+_____________________________________________________________________________________
+
+### 17c. Npl-def ( _Lärarna_ ): Substantiv i plural med slutartikel - utrum, initial satsposition
+
+Mönster 17c, t.ex. _Lärarna_ var mycket stränga. 
+
+_____________________________________________________________________________________
+
+### 17d. Npl-def ( _Utsläppen_ ): Substantiv i plural med slutartikel - neutrum, initial satsposition
+
+Mönster 17d, t.ex. _Utsläppen_ måste minskas .  
+
+_____________________________________________________________________________________
+
+### 17e. Npl-def (Fyll i _luckorna_ !): Substantiv i plural med slutartikel - utrum, icke-initial satsposition
+
+Mönster 17e, t.ex. Fyll i _luckorna_ ! 
+
+_____________________________________________________________________________________
+
+### 17f. Npl-def ( _barnen_ ): Substantiv i plural med slutartikel - neutrum, icke-initial satsposition
+
+Mönster 17f, t.ex. Vi låter _barnen_ äta godis på lördagar . 
 
 _____________________________________________________________________________________
 
