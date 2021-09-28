@@ -635,33 +635,103 @@ Mönster 12f, t.ex. Att sova är inte _det passiva tillstånd_ som vi trodde tid
 
 _____________________________________________________________________________________
 
-## 13. denna|detta N (Vid denna tid var hon...)
+## 13. denna\|detta N (Vid _denna tid_ var hon...)
 
 _____________________________________________________________________________________
 
-### denna|detta N: Substantiv i singular med demonstrativt pronomen denna/detta (ingen slutartikel)
+### 13a. denna\|detta N (Vid _denna tid_ var hon...): Substantiv i singular med demonstrativt pronomen _denna\|detta_ utan slutartikel
+
 
 Mönster 13a, t.ex. De som mötte Kristina vid _denna tid_ har beskrivit att hon var liten till växten och hade löst hängande hår. 
 
-_____________________________________________________________________________________
-
-## 14. denna|detta A N (...i detta kalla land)
+Blandade genus. Används inte. 
 
 _____________________________________________________________________________________
 
-### denna|detta A N: Substantiv i singular med framförställt attribut och demonstrativt pronomen denna/detta (ingen slutartikel)
+### 13b. denna N (Vid _denna tid_ var hon...): Substantiv i singular med demonstrativt pronomen _denna_ utan slutartikel - utrum
+
+
+Mönster 13b, t.ex. De som mötte Kristina vid _denna tid_ har beskrivit att hon var liten till växten och hade löst hängande hår. 
+
+_____________________________________________________________________________________
+
+### 13c. detta N (_Detta straff_ ...): Substantiv i singular med demonstrativt pronomen _detta_ utan slutartikel - neutrum
+
+
+Mönster 13c, t.ex. _Detta straff_ är ren hämnd .  
+
+ 
+
+_____________________________________________________________________________________
+
+## 14. denna\|detta A N (...i _detta kalla land_ )
+
+_____________________________________________________________________________________
+
+### 14a. denna\|detta A N (...i _detta kalla land_ ): Substantiv i singular med demonstrativt pronomen _denna\|detta_ och framförställt attribut utan slutartikel
 
 Mönster 14a, t.ex. Han menade att människors tankar frös till is i _detta kalla land_ .  
 
+Blandade genus. Används inte.
+
+
+### 14b. denna A N (... _denna nya kunskap_ ): Substantiv i singular med demonstrativt pronomen _denna_ och framförställt attribut utan slutartikel - utrum
+
+Mönster 14b, t.ex. Med _denna nya kunskap_ återvände Kreuger till Sverige   
+
+
+### 14c. detta A N (...i _detta kalla land_ ): Substantiv i singular med demonstrativt pronomen _detta_ och framförställt attribut utan slutartikel - neutrum
+
+Mönster 14c, t.ex. Han menade att människors tankar frös till is i _detta kalla land_ .  
+
 _____________________________________________________________________________________
 
-## 15. Poss|NP-gen N 
+## 15. Poss\|NP-gen N (i _ditt land_ )
 
 _____________________________________________________________________________________
 
-### Poss|NP-gen N: Substantiv i singular med framförställt attribut och demonstrativt pronomen denna/detta (ingen slutartikel)
+### 15a. Poss\|NP-gen N (i _ditt land_ ): Substantiv i singular med possessivt pronomen eller genitivattribut utan slutartikel
 
-Mönster 15a, t.ex.   
+Mönster 15a, t.ex. Äter man något speciellt till söndagsmiddag i _ditt land_ ? 
+
+Blandade genus. Används inte. 
+
+_____________________________________________________________________________________
+
+### 15b. Poss\|NP-gen N ( _Min skolan_  ): Substantiv i singular med possessivt pronomen eller genitivattribut utan slutartikel - normbrott
+
+Mönster 15b, t.ex. _Min skolan_ heter NN Gymnasiet .  
+
+Normbrott (förekommer i uppsatser). Mönstret används inte.
+
+_____________________________________________________________________________________
+
+### 15c. Poss\|NP-gen N ( _min kompis_  ): Substantiv i singular med possessivt pronomen eller genitivattribut utan slutartikel - utrum
+
+Mönster 15c, t.ex. Enligt _min kompis_ är han trevlig .  
+
+_____________________________________________________________________________________
+
+### 15d. Poss\|NP-gen N ( _lärarens telefonnummer_ ): Substantiv i singular med possessivt pronomen eller genitivattribut utan slutartikel - neutrum
+
+Mönster 15d, t.ex. Hur ska jag få reda på _lärarens telefonnummer_ ? 
+
+_____________________________________________________________________________________
+
+### 15e. Poss\|NP-gen N ( _Min skolan_ ): Substantiv i singular med possessivt pronomen eller genitivattribut utan slutartikel - normbrott
+
+
+Mönster 15e, undergrupp till 15c; t.ex. _Min skolan_ heter NN Gymnasiet . 
+
+Normbrott (förekommer i uppsatser). Mönstret används inte.
+
+_____________________________________________________________________________________
+
+### 15f. Poss\|NP-gen N ( _deras livet_ ): Substantiv i singular med possessivt pronomen eller genitivattribut utan slutartikel - normbrott
+
+Mönster 15f, t.ex. Jag har läst boken och fattar om _deras livet_ . 
+
+Normbrott (förekommer i uppsatser). Mönstret används inte.
 
 _____________________________________________________________________________________
 
