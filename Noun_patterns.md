@@ -978,16 +978,49 @@ Mönster 21e, t.ex. Vad betyder _de partikelverb som_ ni har strukit under ?
 
 _____________________________________________________________________________________
 
-## 22. de A N-pl (De sista ord vi säger...)
+## 22. de A Npl ( _De sista ord_ vi säger...)
 _____________________________________________________________________________________
 
-### de A N-pl (): Substantiv i plural med fristående artikel _de_ utan slutartikel
+### 22a. de A Npl ( _De sista ord_ vi säger...): Substantiv i plural med fristående artikel _de_ och framförställt attribut utan slutartikel
 
 Mönster 22a, t.ex. _De sista ord_ vi säger till varandra på kvällen: Sov gott!
 
+Blandade genus. Används inte.
+
 _____________________________________________________________________________________
 
-## 23. dessa N-pl (Ett av dessa språk...)
+### 22b. de A Npl ( _de finaste kläder_ ): Substantiv i plural med fristående artikel _de_ och framförställt attribut utan slutartikel - utrum
+
+Mönster 22b, t.ex. Bilden föreställer en liten prinsessa i _de finaste kläder_ i en vagn dragen av två strutsar. 
+
+_____________________________________________________________________________________
+
+### 22c. de A Npl ( _De flesta adjektiv_ ): Substantiv i plural med fristående artikel _de_ och framförställt attribut utan slutartikel - neutrum
+
+Mönster 22c, t.ex. _De flesta adjektiv_ kompareras som i grupp 1. 
+
+_____________________________________________________________________________________
+
+### 22d. de A Npl ( _de svenska författare som_ ): Substantiv i plural med fristående artikel _de_ och framförställt attribut utan slutartikel - med (relativ) bisatsinledare
+
+Mönster 22d, t.ex. Hon tillhör _de svenska författare som_ blivit kända utanför Sverige. 
+
+Blandade genus. Används inte.
+
+_____________________________________________________________________________________
+
+### 22e. de A Npl ( _de svenska författare som_ ): Substantiv i plural med fristående artikel _de_ och framförställt attribut utan slutartikel - utrum med (relativ) bisatsinledare
+
+Mönster 22e, t.ex. Hon tillhör _de svenska författare som_ blivit kända utanför Sverige. 
+
+_____________________________________________________________________________________
+
+### 22f. de A Npl ( _de politiska partier som_ ): Substantiv i plural med fristående artikel _de_ och framförställt attribut utan slutartikel - neutrum med (relativ) bisatsinledare
+
+Mönster 22f, t.ex. _De politiska partier som_ har flest röster i riksdagen får bilda regering. 
+_____________________________________________________________________________________
+
+## 23. dessa Npl (Ett av dessa språk...)
 _____________________________________________________________________________________
 
 ### dessa N-pl: Substantiv i plural med demonstrativa pronomenet dessa
