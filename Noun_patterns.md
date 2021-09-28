@@ -674,11 +674,13 @@ Mönster 14a, t.ex. Han menade att människors tankar frös till is i _detta kal
 
 Blandade genus. Används inte.
 
+_____________________________________________________________________________________
 
 ### 14b. denna A N (... _denna nya kunskap_ ): Substantiv i singular med demonstrativt pronomen _denna_ och framförställt attribut utan slutartikel - utrum
 
 Mönster 14b, t.ex. Med _denna nya kunskap_ återvände Kreuger till Sverige   
 
+_____________________________________________________________________________________
 
 ### 14c. detta A N (...i _detta kalla land_ ): Substantiv i singular med demonstrativt pronomen _detta_ och framförställt attribut utan slutartikel - neutrum
 
@@ -827,19 +829,59 @@ Mönster 17f, t.ex. Vi låter _barnen_ äta godis på lördagar .
 
 _____________________________________________________________________________________
 
-## 18. A N-pl-def (Båda ungarna var hemma)
+## 18. Def A Npl-def ( _de flesta svenskarna_ )
 
 _____________________________________________________________________________________
 
-### A N-pl-def: Bestämt substantiv i plural med adjektivattribut och bestämd slutartikel - initial satsposition
+### 18a. Def A Npl-def ( _De flesta svenskarna_ ): Substantiv i plural med framförställt attribut, fristående artikel och slutartikel - initial satsposition
 
-Mönster 18a, t.ex. _Båda ungarna_ var ju hemma, och de satt i telefon mest hela dagarna, när de inte tittade på video förstås! 
+Mönster 18a, t.ex. _De flesta svenskarna_ tar semester i juli månad .  
+
+Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### A N-pl-def: Bestämt substantiv i plural med adjektivattribut och bestämd slutartikel - icke-initial satsposition
+### 18b. Def A Npl-def: Substantiv i plural med framförställt attribut, fristående artikel och slutartikel - icke-initial satsposition
 
-Mönster 18b, t.ex. Vi kan sitta och prata _hela nätterna_ över en flaska vin.   
+Mönster 18b, t.ex. _Båda ungarna_ var ju hemma, och de satt i telefon mest hela dagarna, när de inte tittade på video förstås! 
+
+Blandade genus. Används inte.
+
+_____________________________________________________________________________________
+
+### 18c. Def A Npl-def ( _De flesta svenskarna_ ): Substantiv i plural med framförställt attribut, fristående artikel och slutartikel - utrum, initial satsposition
+
+Mönster 18c, t.ex. _De flesta svenskarna_ tar semester i juli månad .  
+
+Är en delmängd i 18e. Används inte. 
+
+
+_____________________________________________________________________________________
+
+### 18d. Def A Npl-def ( _De sämsta jobben_ ): Substantiv i plural med framförställt attribut, fristående artikel och slutartikel - neutrum, initial satsposition
+
+Mönster 18d, t.ex. _De sämsta jobben_ ger de lägsta lönerna . 
+
+Är en delmängd i 18f. Används inte. 
+
+_____________________________________________________________________________________
+
+### 18e. Def A Npl-def: Substantiv i plural med framförställt attribut, fristående artikel och slutartikel - utrum
+
+Mönster 18e, t.ex. _De flesta svenskarna_ tar semester i juli månad . 
+
+_____________________________________________________________________________________
+
+### 18f. Def A Npl-def (under _de senaste åren_ ): Substantiv i plural med framförställt attribut, fristående artikel och slutartikel - neutrum
+
+Mönster 18f, t.ex. Detta kan vara en effekt av de svenska framgångarna under _de senaste åren_ .  
+
+_____________________________________________________________________________________
+
+### XX. A Npl-def ( _Båda ungarna_ ): Substantiv i plural med framförställt attribut, fristående artikel och slutartikel
+
+Mönster 18f, t.ex. _Båda ungarna_ var ju hemma, och de satt i telefon mest hela dagarna, när de inte tittade på video förstås! 
+
 
 _____________________________________________________________________________________
 
