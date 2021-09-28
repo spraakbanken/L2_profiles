@@ -1020,30 +1020,112 @@ ________________________________________________________________________________
 Mönster 22f, t.ex. _De politiska partier som_ har flest röster i riksdagen får bilda regering. 
 _____________________________________________________________________________________
 
-## 23. dessa Npl (Ett av dessa språk...)
+## 23. dessa Npl (Ett av _dessa språk_ ...)
 _____________________________________________________________________________________
 
-### dessa N-pl: Substantiv i plural med demonstrativa pronomenet dessa
+### 23a. dessa Npl ( _dessa språk_ ): Substantiv i plural med demonstrativt pronomen _dessa_ utan slutartikel
 
 Mönster 23a, t.ex. Ett av _dessa språk_ nådde norra Europa för mer än 2 000 år sedan. 
 
+Blandade genus. Används inte.
+
 _____________________________________________________________________________________
 
-## 24. dessa A N-pl (Dessa växelvarma djur är...)
+### 23b. dessa Npl ( _dessa singelmammor_ ): Substantiv i plural med demonstrativt pronomen _dessa_ utan slutartikel - utrum
+
+Mönster 23b, t.ex.  _Dessa singelmammor_ är en modern företeelse.  
+
 _____________________________________________________________________________________
 
-### dessa A N-pl: Substantiv i plural med adjektivattribut och med demonstrativa pronomenet dessa
+### 23c. dessa Npl ( _dessa påståenden_ ): Substantiv i plural med demonstrativt pronomen _dessa_ utan slutartikel - neutrum
+
+Mönster 23c, t.ex. Vilket av _dessa påståenden_ stämmer in på dig? 
+
+_____________________________________________________________________________________
+
+## 24. dessa A Npl (Dessa växelvarma djur är...)
+_____________________________________________________________________________________
+
+### 24a. dessa A Npl (): Substantiv i plural med demonstrativt pronomen _dessa_ och framförställt attribut utan slutartikel
 
 Mönster 24a, t.ex. _Dessa växelvarma djur_ är nämligen mycket känsliga för klimatförsämringar.
 
+Blandade genus. Används inte.
+
 _____________________________________________________________________________________
 
-## 25. Poss|NP-gen N-pl 
+### 24b. dessa A Npl ( _dessa outtalade regler_ ): Substantiv i plural med demonstrativt pronomen _dessa_ och framförställt attribut utan slutartikel - utrum
+
+Mönster 24b, t.ex. Vill man integreras i det svenska samhället gäller det bara att lära sig alla _dessa outtalade regler_ . 
+
 _____________________________________________________________________________________
 
-### Poss|NP-gen N-pl
+### 24c. dessa A Npl (): Substantiv i plural med demonstrativt pronomen _dessa_ och framförställt attribut utan slutartikel - neutrum
 
-Mönster 25a, t.ex.
+Mönster 24c, t.ex. _Dessa växelvarma djur_ är nämligen mycket känsliga för klimatförsämringar.
+
+_____________________________________________________________________________________
+
+## 25. Poss\|NP-gen Npl ( _mina barn_ )
+_____________________________________________________________________________________
+
+### 25a. Poss\|NP-gen Npl ( _mina barn_ ): Substantiv i plural med possessivt pronomen eller genitivattribut utan slutartikel
+
+Mönster 25a, t.ex. _Mina barn_ kommer att lära sig svenska fortare och bättre än jag. 
+
+Blandade genus. Används inte.
+
+_____________________________________________________________________________________
+
+### 25b. Poss\|NP-gen Npl ( _min kompisarna_ ): Substantiv i plural med possessivt pronomen eller genitivattribut utan slutartikel - normbrott
+
+Mönster 25b, t.ex. En dag _min kompisarna_ skrev till mig på facebook...
+
+Normbrott (förekommer i uppsatser). Mönstret används inte.
+
+_____________________________________________________________________________________
+
+### 25c. Poss\|NP-gen Npl ( _min byxor_ ): Substantiv i plural med possessivt pronomen eller genitivattribut utan slutartikel - normbrott
+
+Mönster 25c, t.ex. Den gamla kvinna tappa hennes apelsin juice på _min byxor_ när hon försöka att öppna hennes mat plast. 
+
+Normbrott (förekommer i uppsatser). Mönstret används inte.
+
+_____________________________________________________________________________________
+
+### 25d. Poss\|NP-gen Npl (_dina kamrater_): Substantiv i plural med possessivt pronomen eller genitivattribut utan slutartikel - utrum
+
+Mönster 25d, t.ex. Jämför med _dina kamrater_ ! 
+
+_____________________________________________________________________________________
+
+### 25e. Poss\|NP-gen Npl ( _era länder_): Substantiv i plural med possessivt pronomen eller genitivattribut utan slutartikel - neutrum
+
+Mönster 25e, t.ex. Vad finns det för skrock i _era länder_ ? 
+
+_____________________________________________________________________________________
+
+### 25f. Poss\|NP-gen Npl ( _era länder_): Substantiv i plural med possessivt pronomen eller genitivattribut utan slutartikel - normbrott
+
+Mönster 25f, t.ex. Det var förra år när började jag kände ont i _mina lungorna_ . 
+
+_____________________________________________________________________________________
+
+### 25g. Poss\|NP-gen Npl ( _dina barnen_ ): Substantiv i plural med possessivt pronomen eller genitivattribut utan slutartikel - normbrott
+
+Mönster 25g, t.ex. Slutling pappa ring till mamma och sa till henne kom och ta hand _dina barnen_ och vi bli lycklig. 
+
+_____________________________________________________________________________________
+
+### 25h. Poss\|NP-gen Npl (_sin pengar_): Substantiv i plural med possessivt pronomen eller genitivattribut utan slutartikel - normbrott
+
+Mönster 25h, t.ex. Hon kan spara alla _sin pengar_ och hon iblad åker till Sverige att besöka mig. 
+
+_____________________________________________________________________________________
+
+### 25i. Poss\|NP-gen Npl (): Substantiv i plural med possessivt pronomen eller genitivattribut utan slutartikel - normbrott
+
+Mönster 25i, t.ex. (no hits...)
 
 _____________________________________________________________________________________
 
