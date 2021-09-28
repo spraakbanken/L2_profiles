@@ -935,25 +935,53 @@ Mönster 20c, t.ex. Vad jag arbetade med _de där franska breven_ !
 
 _____________________________________________________________________________________
 
-### XXX de (här|där) A N-pl-def (): 
+### XXX de (här|där) A Npl-def (): 
 
 Mönster 20a, t.ex. Ett av _de många problemen_ är den svenska kvinnan . 
 
 _____________________________________________________________________________________
 
-## 21. de N-pl (De pappor som väljer...)
+## 21. de Npl (De pappor som väljer...)
+
 _____________________________________________________________________________________
 
-### de N-pl: Substantiv i plural med demonstrativt/determinativt pronomen (ingen slutartikel)
+### 21a. de Npl ( _de svar_ ): Substantiv i plural med fristående artikel _de_ utan slutartikel
 
-Mönster 21a, t.ex. Fördelarna är många för _de pappor_ som väljer att vara hemma – men det finns nackdelar.
+Mönster 21a, t.ex. Redovisa _de svar_ du har fått för hela gruppen. 
+
+Blandade genus. Används inte.
+
+_____________________________________________________________________________________
+
+### 21b. de Npl ( _de anställda_ ): Substantiv i plural med fristående artikel _de_ utan slutartikel - utrum
+
+Mönster 21b, t.ex. _De anställda_ träffas och utbyter idéer och erfarenheter  
+
+_____________________________________________________________________________________
+
+### 21c. de Npl ( _de skepp_ ): Substantiv i plural med fristående artikel _de_ utan slutartikel - neutrum
+
+Mönster 21c, t.ex. _De skepp_ man använde var långsmala och vackert formade.  
+
+_____________________________________________________________________________________
+
+### 21d. de Npl ( _de människor som_ ): Substantiv i plural med fristående artikel _de_ utan slutartikel - utrum med (relativ) bisatsinledare
+
+Mönster 21d, t.ex. Vad säger då statistiken mer om _de människor som_ separerar?  
+
+_____________________________________________________________________________________
+
+### 21e. de Npl ( _de partikelverb som_ ): Substantiv i plural med fristående artikel _de_ utan slutartikel - neutrum med (relativ) bisatsinledare
+
+Mönster 21e, t.ex. Vad betyder _de partikelverb som_ ni har strukit under ? 
+
 
 _____________________________________________________________________________________
 
 ## 22. de A N-pl (De sista ord vi säger...)
 _____________________________________________________________________________________
 
-### de A N-pl: Substantiv i plural med adjektivattribut och demonstrativt/determinativt pronomen (ingen slutartikel)
+### de A N-pl (): Substantiv i plural med fristående artikel _de_ utan slutartikel
 
 Mönster 22a, t.ex. _De sista ord_ vi säger till varandra på kvällen: Sov gott!
 
