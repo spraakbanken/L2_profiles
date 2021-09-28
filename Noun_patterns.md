@@ -1109,11 +1109,15 @@ ________________________________________________________________________________
 
 Mönster 25f, t.ex. Det var förra år när började jag kände ont i _mina lungorna_ . 
 
+Normbrott (förekommer i uppsatser). Mönstret används inte.
+
 _____________________________________________________________________________________
 
 ### 25g. Poss\|NP-gen Npl ( _dina barnen_ ): Substantiv i plural med possessivt pronomen eller genitivattribut utan slutartikel - normbrott
 
 Mönster 25g, t.ex. Slutling pappa ring till mamma och sa till henne kom och ta hand _dina barnen_ och vi bli lycklig. 
+
+Normbrott (förekommer i uppsatser). Mönstret används inte.
 
 _____________________________________________________________________________________
 
@@ -1121,30 +1125,79 @@ ________________________________________________________________________________
 
 Mönster 25h, t.ex. Hon kan spara alla _sin pengar_ och hon iblad åker till Sverige att besöka mig. 
 
+Normbrott (förekommer i uppsatser). Mönstret används inte.
+
 _____________________________________________________________________________________
 
 ### 25i. Poss\|NP-gen Npl (): Substantiv i plural med possessivt pronomen eller genitivattribut utan slutartikel - normbrott
 
 Mönster 25i, t.ex. (no hits...)
 
+Normbrott (förekommer i uppsatser). Mönstret används inte.
+
 _____________________________________________________________________________________
 
-## 26. Poss|NP-gen A N-pl (Dagens moderna mammor och pappor)
+## 26. Poss\|NP-gen A Npl (Dagens moderna mammor och pappor)
 _____________________________________________________________________________________
 
-### 26a Poss|NP-gen A N-pl: Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut (ingen slutartikel)
+### 26a Poss\|NP-gen A Npl (): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel
 
 Mönster 26a, t.ex. Är det en sann bild av _dagens moderna mammor och pappor_ ?  eller Hon börjar ifrågasätta 	_sina egna värderingar _
 
+Blandade genus. Används inte.
 
-### 26e Poss|NP-gen A N-pl: Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut (ingen slutartikel) - neutrum
+_____________________________________________________________________________________
 
-Mönser 26e, t.ex. Folket borde kämpa för att bevara _sina egna språk_ . 
+### 26b Poss\|NP-gen A Npl (_mina smutsik kläderna_): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - normbrott
 
-### 26f Poss|NP-gen A N-pl: Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut (ingen slutartikel) - utrum normbrott
+Mönster 26b, t.ex. När jag vaknar först jag duschar sedan tar lite frukost eftersom städer och tvättar _mina smutsik kläderna_ . 
 
-Mönser 26f, t.ex.  ...Konkurransen är jättestor och _sina egna jobberfarenheterna_ mycket begränsade . 
+Normbrott (förekommer i uppsatser). Mönstret används inte.
 
-### 26g Poss|NP-gen A N-pl: Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut (ingen slutartikel) - nutrum normbrott
+_____________________________________________________________________________________
 
-Mönser 26g, t.ex.  ...Konkurransen är jättestor och _sina egna jobberfarenheterna_ mycket begränsade . 
+### 26c Poss\|NP-gen A Npl (_min dåliga dagar_ ): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - normbrott
+
+Mönster 26c, t.ex. Det var _min dåliga dagar_ på mit liv.
+
+Normbrott (förekommer i uppsatser). Mönstret används inte.
+
+_____________________________________________________________________________________
+
+### 26d Poss\|NP-gen A Npl (_Bergmans bästa filmer_): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - utrum
+
+Mönster 26d, t.ex. Fanny och Alexander är en av Ingmar _Bergmans bästa filmer_ . 
+
+_____________________________________________________________________________________
+
+### 26e Poss\|NP-gen A N-pl (_sina egna språk_): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - neutrum
+
+Mönster 26e, t.ex. Folket borde kämpa för att bevara _sina egna språk_ . 
+
+_____________________________________________________________________________________
+
+### 26f Poss\|NP-gen A N-pl ( _sina egna jobberfarenheterna_ ): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - utrum normbrott
+
+Mönster 26f, t.ex.  ...Konkurransen är jättestor och _sina egna jobberfarenheterna_ mycket begränsade . 
+
+Normbrott (förekommer i uppsatser). Mönstret används inte.
+
+_____________________________________________________________________________________
+
+
+### 26g Poss\|NP-gen A N-pl (): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - neutrum normbrott
+
+Mönster 26g, t.ex.  (0 hits)
+
+Normbrott (förekommer i uppsatser). Mönstret används inte.
+
+_____________________________________________________________________________________
+
+### 26h Poss\|NP-gen A Npl (): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - normbrott
+
+Mönster 26h, t.ex. 
+_____________________________________________________________________________________
+
+### 26i Poss\|NP-gen A Npl (): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - normbrott
+
+Mönster 26i, t.ex. 
