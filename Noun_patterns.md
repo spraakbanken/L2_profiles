@@ -722,7 +722,6 @@ ________________________________________________________________________________
 
 ### 15e. Poss\|NP-gen N ( _Min skolan_ ): Substantiv i singular med possessivt pronomen eller genitivattribut utan slutartikel - normbrott
 
-
 Mönster 15e, undergrupp till 15c; t.ex. _Min skolan_ heter NN Gymnasiet . 
 
 Normbrott (förekommer i uppsatser). Mönstret används inte.
@@ -885,21 +884,58 @@ Mönster 18f, t.ex. _Båda ungarna_ var ju hemma, och de satt i telefon mest hel
 
 _____________________________________________________________________________________
 
-## 19. de (här|där) N-pl-def (När de pengarna inte räckte...)
+## 19. de här\|där Npl-def ( _de här orden_ )
 
 _____________________________________________________________________________________
 
-### de (här|där) N-pl-def: Bestämt substantiv i plural med demonstrativt pronomen med slutartikel
+### 19a.  de här\|där Npl-def ( _de här orden_ ...): Substantiv i plural med demonstrativt pronomen _de här\|där_ och slutartikel
 
+Mönster 19a, t.ex. Kontrollera att du förstår _de här orden_ . 
+
+Blandade genus. Används inte.
+
+_____________________________________________________________________________________
+
+### 19b.  de här\|där Npl-def ( _De där idéerna_ ): Substantiv i plural med demonstrativt pronomen _de här\|där_ och slutartikel - utrum
+
+Mönster 19b, t.ex. _De där idéerna_ är inte nya .  
+
+_____________________________________________________________________________________
+
+### 19c.  de här\|där Npl-def (_de här orden_ ...): Substantiv i plural med demonstrativt pronomen _de här\|där_ och slutartikel - neutrum
+
+Mönster 19c, t.ex. Kontrollera att du förstår _de här orden_ . 
+
+_____________________________________________________________________________________
+
+
+### XX. de Npl-def
 Mönster 19a, t.ex. Och när _de pengarna_ inte räckte lånade hon en halv miljon till.
 
 _____________________________________________________________________________________
 
-## 20. de (här|där) A N-pl-def (Ett av de många problemen)
+## 20. de här\|där A Npl-def ( _de här gröna knapparna_ )
 
 _____________________________________________________________________________________
 
-### de (här|där) A N-pl-def
+### 20a. de här\|där A Npl-def ( _de här gröna knapparna_  ): Substantiv i plural med demonstrativt pronomen _de här\|där_ och framförställt attribut och slutartikel
+
+Mönster 20a, t.ex. Du måste trycka på _de här gröna knapparna_ för att välja. 
+_____________________________________________________________________________________
+
+### 20b. de här\|där A Npl-def ( _de här gröna knapparna_ ): Substantiv i plural med demonstrativt pronomen _de här\|där_ och framförställt attribut och slutartikel - utrum
+
+Mönster 20b, t.ex. Du måste trycka på _de här gröna knapparna_ för att välja. 
+
+_____________________________________________________________________________________
+
+### 20c. de här\|där A Npl-def ( _de där franska breven_ ): Substantiv i plural med demonstrativt pronomen _de här\|där_ och framförställt attribut och slutartikel - neutrum
+
+Mönster 20c, t.ex. Vad jag arbetade med _de där franska breven_ !
+
+_____________________________________________________________________________________
+
+### XXX de (här|där) A N-pl-def (): 
 
 Mönster 20a, t.ex. Ett av _de många problemen_ är den svenska kvinnan . 
 
