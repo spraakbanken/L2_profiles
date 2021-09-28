@@ -1140,7 +1140,7 @@ ________________________________________________________________________________
 ## 26. Poss\|NP-gen A Npl (Dagens moderna mammor och pappor)
 _____________________________________________________________________________________
 
-### 26a Poss\|NP-gen A Npl (): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel
+### 26a. Poss\|NP-gen A Npl (): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel
 
 Mönster 26a, t.ex. Är det en sann bild av _dagens moderna mammor och pappor_ ?  eller Hon börjar ifrågasätta 	_sina egna värderingar _
 
@@ -1148,7 +1148,7 @@ Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 26b Poss\|NP-gen A Npl (_mina smutsik kläderna_): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - normbrott
+### 26b. Poss\|NP-gen A Npl (_mina smutsik kläderna_): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - normbrott
 
 Mönster 26b, t.ex. När jag vaknar först jag duschar sedan tar lite frukost eftersom städer och tvättar _mina smutsik kläderna_ . 
 
@@ -1156,7 +1156,7 @@ Normbrott (förekommer i uppsatser). Mönstret används inte.
 
 _____________________________________________________________________________________
 
-### 26c Poss\|NP-gen A Npl (_min dåliga dagar_ ): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - normbrott
+### 26c. Poss\|NP-gen A Npl (_min dåliga dagar_ ): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - normbrott
 
 Mönster 26c, t.ex. Det var _min dåliga dagar_ på mit liv.
 
@@ -1164,19 +1164,19 @@ Normbrott (förekommer i uppsatser). Mönstret används inte.
 
 _____________________________________________________________________________________
 
-### 26d Poss\|NP-gen A Npl (_Bergmans bästa filmer_): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - utrum
+### 26d. Poss\|NP-gen A Npl (_Bergmans bästa filmer_): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - utrum
 
 Mönster 26d, t.ex. Fanny och Alexander är en av Ingmar _Bergmans bästa filmer_ . 
 
 _____________________________________________________________________________________
 
-### 26e Poss\|NP-gen A N-pl (_sina egna språk_): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - neutrum
+### 26e. Poss\|NP-gen A N-pl (_sina egna språk_): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - neutrum
 
 Mönster 26e, t.ex. Folket borde kämpa för att bevara _sina egna språk_ . 
 
 _____________________________________________________________________________________
 
-### 26f Poss\|NP-gen A N-pl ( _sina egna jobberfarenheterna_ ): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - utrum normbrott
+### 26f. Poss\|NP-gen A N-pl ( _sina egna jobberfarenheterna_ ): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - utrum normbrott
 
 Mönster 26f, t.ex.  ...Konkurransen är jättestor och _sina egna jobberfarenheterna_ mycket begränsade . 
 
@@ -1185,7 +1185,7 @@ Normbrott (förekommer i uppsatser). Mönstret används inte.
 _____________________________________________________________________________________
 
 
-### 26g Poss\|NP-gen A N-pl (): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - neutrum normbrott
+### 26g. Poss\|NP-gen A N-pl (): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - neutrum normbrott
 
 Mönster 26g, t.ex.  (0 hits)
 
@@ -1193,11 +1193,99 @@ Normbrott (förekommer i uppsatser). Mönstret används inte.
 
 _____________________________________________________________________________________
 
-### 26h Poss\|NP-gen A Npl (): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - normbrott
+### 26h. Poss\|NP-gen A Npl (): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - normbrott
 
 Mönster 26h, t.ex. 
 _____________________________________________________________________________________
 
-### 26i Poss\|NP-gen A Npl (): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - normbrott
+### 26i. Poss\|NP-gen A Npl (): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - normbrott
 
 Mönster 26i, t.ex. 
+
+_____________________________________________________________________________________
+
+## 27. A Nsg-def (_Hela kvarteret_)
+_____________________________________________________________________________________
+
+### 27a. A Nsg-def (_Hela kvarteret_): Substantiv i singular med framförställt attribut utan fristående artikel med slutartikel - initial satsposition
+
+Mönster 27a, t.ex. _Hela kvarteret_ kommer att rivas . 
+
+Blandade genus. Används inte.
+
+_____________________________________________________________________________________
+
+### 27b. A Nsg-def ( _högra örat_): Substantiv i singular med framförställt attribut utan fristående artikel med slutartikel - icke-initial satsposition
+
+Mönster 27b, t.ex. Jag hör sämre på _högra örat_ än på vänstra . 
+
+Blandade genus. Används inte.
+
+_____________________________________________________________________________________
+
+### 27c. A Nsg-def (_Sista bussen_): Substantiv i singular med framförställt attribut utan fristående artikel med slutartikel - utrum, initial satsposition
+
+Mönster 27c, t.ex. _Sista bussen_ går halv tolv, va?  
+
+_____________________________________________________________________________________
+
+### 27d. A Nsg-def (_Svenska språket_): Substantiv i singular med framförställt attribut utan fristående artikel med slutartikel - neutrum, initial satsposition
+
+Mönster 26d, t.ex. _Svenska språket_ hade tidigare fyra olika böjningsformer av substantiven.  
+
+_____________________________________________________________________________________
+
+### 27e. A Nsg-def (_ena armen_): Substantiv i singular med framförställt attribut utan fristående artikel med slutartikel - utrum, icke-initial satsposition
+
+Mönster 27e, t.ex. Jag började få ont i _ena armen_ 
+
+_____________________________________________________________________________________
+
+### 27f. A Nsg-def (_Hela kvarteret_): Substantiv i singular med framförställt attribut utan fristående artikel med slutartikel - neutrum, icke-initial satsposition
+
+Mönster 27f, t.ex. Eva följer _senaste modet_  
+
+_____________________________________________________________________________________
+
+## 28. A Npl-def (_Båda ungarna_)
+_____________________________________________________________________________________
+
+### 28a. A Npl-def (_Båda ungarna_): Substantiv i plural med framförställt attribut utan fristående artikel med slutartikel - initial satsposition
+
+Mönster 28a, t.ex. _Båda ungarna_ var ju hemma 
+
+Blandade genus. Används inte.
+
+_____________________________________________________________________________________
+
+### 28b. A Npl-def (): Substantiv i plural med framförställt attribut utan fristående artikel med slutartikel - icke-initial satsposition
+
+Mönster 28b, t.ex. 
+
+Blandade genus. Används inte.
+
+_____________________________________________________________________________________
+
+### 28c. A Npl-def (_Båda ungarna_): Substantiv i plural med framförställt attribut utan fristående artikel med slutartikel - utrum, initial satsposition
+
+Mönster 28c, t.ex. _Båda ungarna_ var ju hemma 
+
+_____________________________________________________________________________________
+
+### 28d. A Npl-def (_Olympiska sommarspelen_): Substantiv i plural med framförställt attribut utan fristående artikel med slutartikel - neutrum, initial satsposition
+
+Mönster 28d, t.ex. _Olympiska sommarspelen_ 1896-2000
+
+_____________________________________________________________________________________
+
+### 28e. A Npl-def ( _hela dagarna_): Substantiv i plural med framförställt attribut utan fristående artikel med slutartikel - utrum, icke-initial satsposition
+
+Mönster 28e, t.ex. Hon berättar vad hon gör _hela dagarna_ 
+
+_____________________________________________________________________________________
+
+### 28f. A Npl-def ( _båda paren_ ): Substantiv i plural med framförställt attribut utan fristående artikel med slutartikel - neutrum, icke-initial satsposition
+
+Mönster 28f, t.ex. 1981 hade _båda paren_ skilt sig 
+
+
