@@ -56,14 +56,14 @@ ________________________________________________________________________________
   - [5e. Npl (för svenskar): Substantiv i plural - utrum, icke-initial satsposition](#5e-npl-för-svenskar-substantiv-i-plural---utrum-icke-initial-satsposition)
   - [5f. Npl (skriva brev): Substantiv i plural - neutrum, icke-initial satsposition](#5f-npl-skriva-brev-substantiv-i-plural---neutrum-icke-initial-satsposition)
 
-[6. A N-pl (Sociala relationer är viktiga)](#6-a-n-pl-sociala-relationer-är-viktiga)
+[6. A Npl (gula bolar)](#6-a-npl-gula-bilar)
 
-  - [6a](#6a)
-  - [6b](#6b)
-  - [6c](#6c)
-  - [6d](#6d)
-  - [6e](#6e)
-  - [6f](#6f)
+  - [6a. A Npl (gula bilar): Substantiv i plural med framförställt attribut - initial satsposition](#6a-a-npl-gula-bilar-substantiv-i-plural-med-framförställt-attribut---initial-satsposition)
+  - [6b. A Npl (gula bilar): Substantiv i plural med framförställt attribut - icke-initial satsposition](#6b-a-npl-gula-bilar-substantiv-i-plural-med-framförställt-attribut---icke-initial-satsposition)
+  - [6c. A Npl (Gula bilar används): Substantiv i plural med framförställt attribut - utrum, initial satsposition](#6c-a-npl-gula-bilar-används-substantiv-i-plural-med-framförställt-attribut---utrum-initial-satsposition)
+  - [6d. A Npl (Alternativa sätt behövs): Substantiv i plural med framförställt attribut - neutrum, initial satsposition](#6d. A Npl (Alternativa sätt behövs): Substantiv i plural med framförställt attribut - neutrum, initial satsposition)
+  - [6e. A Npl (kör gula bilar): Substantiv i plural med framförställt attribut - utrum, icke-initial satsposition](#6e-a-npl-kör-gula-bilar-substantiv-i-plural-med-framförställt-attribut---utrum-icke-initial-satsposition)
+  - [6f. A Npl (att använda alternativa sätt): Substantiv i plural med framförställt attribut - neutrum, icke-initial satsposition](#6f-a-npl-att-använda-alternativa-sätt-substantiv-i-plural-med-framförställt-attribut---neutrum-icke-initial-satsposition)
 
 [7. N-def](#7-n-def)
 
