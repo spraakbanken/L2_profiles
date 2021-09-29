@@ -20,7 +20,7 @@ ________________________________________________________________________________
 
 [Substantivfras - deskriptorer](#substantivfras---deskriptorer)
 
-[1. N-sg (Jag har körkort)](#1-n-sg-jag-har-körkort)
+[1. Nsg (Jag har körkort)](#1-nsg-jag-har-körkort)
 
   - [1a. Nsg (Jag har körkort): Substantiv i singular](#1a-nsg-jag-har-körkort-substantiv-i-singular)
   - [1b. Nsg (Jag kan svenska): Substantiv i singular - utrum](#1b-nsg-jag-kan-svenska-substantiv-i-singular---utrum)
@@ -45,16 +45,16 @@ ________________________________________________________________________________
 
   - [4a. indef A Nsg (en gul bil): Substantiv i singular med framförställt attribut och obestämd artikel](#4a-indef-a-nsg-en-gul-bil-substantiv-i-singular-med-framförställt-attribut-och-obestämd-artikel)
   - [4b. indef A Nsg (en gul bil): Substantiv i singular med framförställt attribut och obestämd artikel - utrum](#4b-indef-a-nsg-en-gul-bil-substantiv-i-singular-med-framförställt-attribut-och-obestämd-artikel---utrum)
-  - [4c](#4c)
+  - [4c. indef A Nsg (ett gult hus): Substantiv i singular med framförställt attribut och obestämd artikel - neutrum](#4c-indef-a-nsg-ett-gult-hus-substantiv-i-singular-med-framförställt-attribut-och-obestämd-artikel---neutrum)
 
-[5. N-pl (Finländare tycker...)](#5-n-pl-finländare-tycker)
+[5. Npl (Finländare tycker)](#5-npl-finländare-tycker)
 
-  - [5a](#5a)
-  - [5b](#5b)
-  - [5c](#5c)
-  - [5d](#5d)
-  - [5e](#5e)
-  - [5f](#5f)
+  - [5a. Npl (Finländare tycker): Substantiv i plural - initial satsposition](#5a-npl-finländare-tycker-substantiv-i-plural---initial-satsposition)
+  - [5b. Npl (bestämma över ord): Substantiv i plural - icke-initial satsposition](#5b-npl-bestämma-över-ord-substantiv-i-plural---icke-initial-satsposition)
+  - [5c. Npl (Finländare tycker): Substantiv i plural - utrum, initial satsposition](#5c-npl-finländare-tycker-substantiv-i-plural---utrum-initial-satsposition)
+  - [5d. Npl (Folk frågar): Substantiv i plural - neutrum, initial satsposition](#5d-npl-folk-frågar-substantiv-i-plural---neutrum-initial-satsposition)
+  - [5e. Npl (för svenskar): Substantiv i plural - utrum, icke-initial satsposition](#5e-npl-för-svenskar-substantiv-i-plural---utrum-icke-initial-satsposition)
+  - [5f. Npl (skriva brev): Substantiv i plural - neutrum, icke-initial satsposition](#5f-npl-skriva-brev-substantiv-i-plural---neutrum-icke-initial-satsposition)
 
 [6. A N-pl (Sociala relationer är viktiga)](#6-a-n-pl-sociala-relationer-är-viktiga)
 
