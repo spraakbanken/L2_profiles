@@ -104,9 +104,14 @@ ________________________________________________________________________________
   - [11e. den Nsg som (den björn som): Substantiv i singular med fristående artikel den utan slutartikel - utrum med relativ bisatsinledare](#11e-den-nsg-som-den-björn-som-substantiv-i-singular-med-fristående-artikel-den-utan-slutartikel---utrum-med-relativ-bisatsinledare)
   - [11f. det Nsg som (Det var det ögönblick då): Substantiv i singular med fristående artikel det utan slutartikel - neutrum med relativ bisatsinledare](#11f-det-nsg-som-det-var-det-ögönblick-då-substantiv-i-singular-med-fristående-artikel-det-utan-slutartikel---neutrum-med-relativ-bisatsinledare)
 
-[12. den|det (här|där) A N (Att sova är inte det passiva tillståndet)](#12-dendet-härdär-a-n-att-sova-är-inte-det-passiva-tillståndet)
+[12. den\|det A Nsg (Att sova är inte det passiva tillstånd)](#12-dendet-a-nsg-att-sova-är-inte-det-passiva-tillstånd)
 
-  - [12a](#12a)
+  - [12a. den\|det A Nsg (Att sova är inte det passiva tillstånd): Substantiv i singular med fristående artikel den\|det och framförställt attribut utan slutartikel](#12a-dendet-a-nsg-att-sova-är-inte-det-passiva-tillstånd-substantiv-i-singular-med-fristående-artikel-dendet-och-framförställt-attribut-utan-slutartikel)
+  - [12b. den A Nsg (den ringaste lust att diska): Substantiv i singular med fristående artikel den och framförställt attribut utan slutartikel - utrum](#12b-den-a-nsg-den-ringaste-lust-att-diska-substantiv-i-singular-med-fristående-artikel-den-och-framförställt-attribut-utan-slutartikel---utrum)
+  - [12c. det A Nsg (det neutrala språk man ofta hör): Substantiv i singular med fristående artikel det och framförställt attribut utan slutartikel - neutrum](#12c-det-a-nsg-det-neutrala-språk-man-ofta-hör-substantiv-i-singular-med-fristående-artikel-det-och-framförställt-attribut-utan-slutartikel---neutrum)
+  - [12d. den\|det A Nsg som (Att sova är inte det passiva tillstånd som): Substantiv i singular med fristående artikel den\|det och framförställt attribut utan slutartikel - med relativ bisatsinledare](#12d-dendet-a-nsg-som-att-sova-är-inte-det-passiva-tillstånd-som-substantiv-i-singular-med-fristående-artikel-dendet-och-framförställt-attribut-utan-slutartikel---med-relativ-bisatsinledare)
+  - [12e. den A Nsg som (den rytmiska musik som hörs): Substantiv i singular med fristående artikel den och framförställt attribut utan slutartikel - utrum med relativ bisatsinledare](#12e-den-a-nsg-som-den-rytmiska-musik-som-hörs-substantiv-i-singular-med-fristående-artikel-den-och-framförställt-attribut-utan-slutartikel---utrum-med-relativ-bisatsinledare)
+  - [12f. det A Nsg som (Att sova är inte det passiva tillstånd som): Substantiv i singular med fristående artikel det och framförställt attribut utan slutartikel - neutrum med relativ bisatsinledare](#12f-det-a-nsg-som-att-sova-är-inte-det-passiva-tillstånd-som-substantiv-i-singular-med-fristående-artikel-det-och-framförställt-attribut-utan-slutartikel---neutrum-med-relativ-bisatsinledare)
 
 [13. denna|detta N (Vid denna tid var hon...)](#13-dennadetta-n-vid-denna-tid-var-hon)
 
@@ -621,7 +626,7 @@ Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 12b. den\|det A Nsg (_den ringaste lust_ 	att diska): Substantiv i singular med fristående artikel _den_ och framförställt attribut utan slutartikel - utrum
+### 12b. den A Nsg (_den ringaste lust_ 	att diska): Substantiv i singular med fristående artikel _den_ och framförställt attribut utan slutartikel - utrum
 
 Mönster 12b, t.ex. Hon hade inte _den ringaste lust_ att diska. 
 
@@ -647,7 +652,7 @@ Mönster 12e, t.ex. Barnens skratt och skrik blandas med _den rytmiska musik_ so
 
 _____________________________________________________________________________________
 
-### 12f. det A Nsg som (Att sova är inte _det passiva tillstånd som_ ...): Substantiv i singular med fristående artikel _det_ och framförställt attribut utan slutartikel - neutrum med relativ bisatsinledare
+### 12f. det A Nsg som (Att sova är inte _det passiva tillstånd som_): Substantiv i singular med fristående artikel _det_ och framförställt attribut utan slutartikel - neutrum med relativ bisatsinledare
 
 Mönster 12f, t.ex. Att sova är inte _det passiva tillstånd_ som vi trodde tidigare. 
 
@@ -708,7 +713,7 @@ Mönster 14c, t.ex. Han menade att människors tankar frös till is i _detta kal
 
 _____________________________________________________________________________________
 
-## 15. Poss\|NP-gen Nsg (i _ditt land_ )
+## 15. Poss\|NP-gen Nsg (i _ditt land_)
 
 (utan slutartikel)
 
