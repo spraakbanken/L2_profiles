@@ -83,13 +83,11 @@ ________________________________________________________________________________
   - [8e. def A Nsg-def (Oden var den klokaste guden): Substantiv i singular med framförställt attribut, slutartikel och fristående artikel - utrum, icke-initial satsposition](#8e-def-a-nsg-def-oden-var-den-klokaste-guden-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-fristående-artikel---utrum-icke-initial-satsposition)
   - [8f. def A Nsg-def (besökarna i det virtuella museet): Substantiv i singular med framförställt attribut, slutartikel och fristående artikel - neutrum, icke-initial satsposition](#8f-def-a-nsg-def-besökarna-i-det-virtuella-museet-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-fristående-artikel---neutrum-icke-initial-satsposition)
 
-[9. den\|det här\|där N-def (_Den här studien_ visar orsaker...)](#9-dendet-härdär-n-def-den-här-studien-visar-orsaker)
+[9. den\|det här\|där Nsg-def (_Den här studien_)](#9-dendet-härdär-nsg-def-den-här-studien)
 
-  - [9a](#9a)
-  - [9b](#9b)
-  - [9c](#9c)
-  - [9d](#9d)
-  - [9e](#9e)
+  - [9a. den\|det här\|där Nsg-def (Den här studien): Substantiv i singular med demonstrativt pronomen den\|det här\|där och slutartikel](#9a-dendet-härdär-nsg-def-den-här-studien-substantiv-i-singular-med-demonstrativt-pronomen-den\|det-här\|där-och-slutartikel)
+  - [9b. den här\|där Nsg-def (Den här studien): Substantiv i singular med demonstrativt pronomen den här|där och slutartikel - utrum](#9b-den-här\|där-nsg-def-den-här-studien-substantiv-i-singular-med-demonstrativt-pronomen-den-här\|där-och-slutartikel---utrum)
+  - [9c. det här\|där Nsg-def (Det här priset): Substantiv i singular med demonstrativt pronomen det här|där och slutartikel - neutrum](#9c-det-här\|där-nsg-def-det-här-priset-substantiv-i-singular-med-demonstrativt-pronomen-det-här\|där-och-slutartikel---neutrum)
 
 [10. den (här|där) | det (här|där) A N-def - (Den svenska modellen är...)](#10-den-härdär--det-härdär-a-n-def---den-svenska-modellen-är)
 
