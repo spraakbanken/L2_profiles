@@ -95,15 +95,14 @@ ________________________________________________________________________________
   - [10b. den här\|där A Nsg-def (Den där nya deckaren): Substantiv i singular med demonstrativt pronomen den här\|där, framförställt attribut och slutartikel - utrum](#10b-den-härdär-a-nsg-def-den-där-nya-deckaren-substantiv-i-singular-med-demonstrativt-pronomen-den-härdär-framförställt-attribut-och-slutartikel---utrum)
   - [10c. det här\|där A Nsg-def (Det här speciella förortsspråket): Substantiv i singular med demonstrativt pronomen det här\|där, framförställt attribut och slutartikel - neutrum](#10c-det-härdär-a-nsg-def-det-här-speciella-förortsspråket-substantiv-i-singular-med-demonstrativt-pronomen-det-härdär-framförställt-attribut-och-slutartikel---neutrum)
 
-[11. den|det (här|där) N (ingen slutartikel) (Det var det ögönblick då...)](#11-dendet-härdär-n-ingen-slutartikel-det-var-det-ögönblick-då)
+[11. den\|det Nsg (Det var det ögönblick då)](#11-dendet-nsg-det-var-det-ögönblick-då)
 
-  - [11a](#11a)
-  - [11a](#11a)
-  - [11a](#11a)
-  - [11a](#11a)
-  - [11a](#11a)
-  - [11a](#11a)
-  - [11a](#11a)
+  - [11a. den\|det Nsg (den rök du andas in): Substantiv i singular med fristående artikel den\|det utan slutartikel](#11a-dendet-nsg-den-rök-du-andas-in-substantiv-i-singular-med-fristående-artikel-dendet-utan-slutartikel)
+  - [11b. den Nsg (den rök du andas in): Substantiv i singular med fristående artikel den utan slutartikel - utrum](#11b-den-nsg-den-rök-du-andas-in-substantiv-i-singular-med-fristående-artikel-den-utan-slutartikel---utrum)
+  - [11c. det Nsg (det land man flyttar till): Substantiv i singular med fristående artikel det utan slutartikel - neutrum](#11c-det-nsg-det-land-man-flyttar-till-substantiv-i-singular-med-fristående-artikel det utan slutartikel - neutrum)
+  - [11d. det\|den Nsg som (Det var det ögönblick då): Substantiv i singular med fristående artikel det\|den utan slutartikel - med relativ bisatsinledare](#11d-detden-nsg-som-det-var-det-ögönblick-då-substantiv-i-singular-med-fristående-artikel-detden-utan-slutartikel---med-relativ-bisatsinledare)
+  - [11e. den Nsg som (den björn som): Substantiv i singular med fristående artikel den utan slutartikel - utrum med relativ bisatsinledare](#11e-den-nsg-som-den-björn-som-substantiv-i-singular-med-fristående-artikel-den-utan-slutartikel---utrum-med-relativ-bisatsinledare)
+  - [11f. det Nsg som (Det var det ögönblick då): Substantiv i singular med fristående artikel det utan slutartikel - neutrum med relativ bisatsinledare](#11f-det-nsg-som-det-var-det-ögönblick-då-substantiv-i-singular-med-fristående-artikel-det-utan-slutartikel---neutrum-med-relativ-bisatsinledare)
 
 [12. den|det (här|där) A N (Att sova är inte det passiva tillståndet)](#12-dendet-härdär-a-n-att-sova-är-inte-det-passiva-tillståndet)
 
