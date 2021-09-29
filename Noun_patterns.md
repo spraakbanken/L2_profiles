@@ -65,15 +65,23 @@ ________________________________________________________________________________
   - [6e. A Npl (kör gula bilar): Substantiv i plural med framförställt attribut - utrum, icke-initial satsposition](#6e-a-npl-kör-gula-bilar-substantiv-i-plural-med-framförställt-attribut---utrum-icke-initial-satsposition)
   - [6f. A Npl (att använda alternativa sätt): Substantiv i plural med framförställt attribut - neutrum, icke-initial satsposition](#6f-a-npl-att-använda-alternativa-sätt-substantiv-i-plural-med-framförställt-attribut---neutrum-icke-initial-satsposition)
 
-[7. N-def](#7-n-def)
+[7. Nsg-def (Felet ska straffas)](#7-nsg-def-felet-ska-straffas)
 
-  - [7a](#7a)
-  - [7b](#7b)
+  - [7a. Nsg-def (Felet ska straffas): Substantiv i singular med slutartikel - initial satsposition](#7a-nsg-def-felet-ska-straffas-substantiv-i-singular-med-slutartikel---initial-satsposition)
+  - [7b. Nsg-def (Jag skakar på huvudet): Substantiv i singular med slutartikel - icke-initial satsposition](#7b-nsg-def-jag-skakar-på-huvudet-substantiv-i-singular-med-slutartikel---icke-initial-satsposition)
+  - [7c. Nsg-def (Svenskan är ett språk): Substantiv i singular med slutartikel - utrum, initial satsposition](#7c-nsg-def-svenskan-är-ett-språk-substantiv-i-singular-med-slutartikel---utrum-initial-satsposition)
+  - [7d. Nsg-def (Teckenspråket är inte internationellt): Substantiv i singular med slutartikel - neutrum, initial satsposition](#7d-nsg-def-teckenspråket-är-inte-internationellt-substantiv-i-singular-med-slutartikel---neutrum-initial-satsposition)
+  - [7e. Nsg-def (Min son tog studenten): Substantiv i singular med slutartikel - utrum, icke-initial satsposition](#7e-nsg-def-min-son-tog-studenten-substantiv-i-singular-med-slutartikel---utrum-icke-initial-satsposition)
+  - [7f. Nsg-def (Jag skakar på huvudet): Substantiv i singular med slutartikel - neutrum, icke-initial satsposition](#7f-nsg-def-jag-skakar-på-huvudet-substantiv-i-singular-med-slutartikel---neutrum-icke-initial-satsposition)
 
-[8. A N-def (Säga hela sanningen)](#8-a-n-def-säga-hela-sanningen)
+[8. def A Nsg-def (Den naturliga följden av att)](#8-def-a-nsg-def-den-naturliga-följden-av-att)
 
-  - [8a](#8a)
-  - [8b](#8b)
+  - [8a. def A Nsg-def (Den naturliga följden av att): Substantiv i singular med framförställt attribut, slutartikel och fristående artikel - initial satsposition](#8a-def-a-nsg-def-den-naturliga-följden-av-att-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-fristående-artikel---initial-satsposition)
+  - [8b. def A Nsg-def (förklaringen till det gåtfulla leendet): Substantiv i singular med framförställt attribut, slutartikel och fristående artikel - icke-initial satsposition](#8b-def-a-nsg-def-förklaringen-till-det-gåtfulla-leendet-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-fristående-artikel---icke-initial-satsposition)
+  - [8c. def A Nsg-def (Den unga flickan uppfostrades): Substantiv i singular med framförställt attribut, slutartikel och fristående artikel - utrum, initial satspositio](#8c-def-a-nsg-def-den-unga-flickan-uppfostrades-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-fristående-artikel---utrum-initial-satsposition)
+  - [8d. def A Nsg-def (Det största problemet är inte): Substantiv i singular med framförställt attribut, slutartikel och fristående artikel - neutrum, initial satsposition](#8d-def-a-nsg-def-det-största-problemet-är-inte-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-fristående-artikel---neutrum-initial-satsposition)
+  - [8e. def A Nsg-def (Oden var den klokaste guden): Substantiv i singular med framförställt attribut, slutartikel och fristående artikel - utrum, icke-initial satsposition](#8e-def-a-nsg-def-oden-var-den-klokaste-guden-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-fristående-artikel---utrum-icke-initial-satsposition)
+  - [8f. def A Nsg-def (besökarna i det virtuella museet): Substantiv i singular med framförställt attribut, slutartikel och fristående artikel - neutrum, icke-initial satsposition](#8f-def-a-nsg-def-besökarna-i-det-virtuella-museet-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-fristående-artikel---neutrum-icke-initial-satsposition)
 
 [9. den\|det här\|där N-def (_Den här studien_ visar orsaker...)](#9-dendet-härdär-n-def-den-här-studien-visar-orsaker)
 
@@ -465,7 +473,7 @@ Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 8c. def A Nsg-def (_Den unga flickan_ uppfostrades): Substantiv i singular med framförställt attribut, slutartikel och fristående artikel - utrum, initial satspositio
+### 8c. def A Nsg-def (_Den unga flickan_ uppfostrades): Substantiv i singular med framförställt attribut, slutartikel och fristående artikel - utrum, initial satsposition
 
 Mönster 8c, undergrupp till 8a, t.ex. _Den unga flickan_ uppfostrades till att bli kung ! 
 _____________________________________________________________________________________
