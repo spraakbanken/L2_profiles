@@ -23,8 +23,8 @@ ________________________________________________________________________________
 [1. Nsg (Jag har _körkort_)](#1-nsg-jag-har-körkort)
 
   - [1a. Nsg (Jag har _körkort_): Substantiv i singular](#1a-nsg-jag-har-körkort-substantiv-i-singular)
-  - [1b](#1b)
-  - [1c](#1c)
+  - [1b. Nsg (Jag kan _svenska_): Substantiv i singular - utrum](#1-nsg-jag-kan-svenska-substantiv-i-singular---utrum)
+  - [1c. Nsg (Jag har _körkort_): Substantiv i singular - neutrum](#1c-nsg-jag-har-körkort-substantiv-i-singular---neutrum)
   
 [2. A N (Det blir nästa år)](#2-a-n-det-blir-nästa-år)
 
