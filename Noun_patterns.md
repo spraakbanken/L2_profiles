@@ -89,12 +89,20 @@ ________________________________________________________________________________
   - [9b. den här\|där Nsg-def (Den här studien): Substantiv i singular med demonstrativt pronomen den här|där och slutartikel - utrum](#9b-den-härdär-nsg-def-den-här-studien-substantiv-i-singular-med-demonstrativt-pronomen-den-härdär-och-slutartikel---utrum)
   - [9c. det här\|där Nsg-def (Det här priset): Substantiv i singular med demonstrativt pronomen det här|där och slutartikel - neutrum](#9c-det-härdär-nsg-def-det-här-priset-substantiv-i-singular-med-demonstrativt-pronomen-det-härdär-och-slutartikel---neutrum)
 
-[10. den (här|där) | det (här|där) A N-def - (Den svenska modellen är...)](#10-den-härdär--det-härdär-a-n-def---den-svenska-modellen-är)
+[10. den\|det här\|där A Nsg-def (Den där nya deckaren)](#10-dendet-härdär-a-nsg-def-den-där-nya-deckaren)
 
-  - [10a](#10a)
+  - [10a. den\|det här\|där A Nsg-def (Den där nya deckaren): Substantiv i singular med demonstrativt pronomen den\|det här\|där, framförställt attribut och slutartikel](#10a-dendet-härdär-a-nsg-def-den-där-nya-deckaren-substantiv-i-singular-med-demonstrativt-pronomen-dendet-härdär-framförställt-attribut-och-slutartikel)
+  - [10b. den här\|där A Nsg-def (Den där nya deckaren): Substantiv i singular med demonstrativt pronomen den här\|där, framförställt attribut och slutartikel - utrum](#10b-den-härdär-a-nsg-def-den-där-nya-deckaren-substantiv-i-singular-med-demonstrativt-pronomen-den-härdär-framförställt-attribut-och-slutartikel---utrum)
+  - [10c. det här\|där A Nsg-def (Det här speciella förortsspråket): Substantiv i singular med demonstrativt pronomen det här\|där, framförställt attribut och slutartikel - neutrum](#10c-det-härdär-a-nsg-def-det-här-speciella-förortsspråket-substantiv-i-singular-med-demonstrativt-pronomen-det-härdär-framförställt-attribut-och-slutartikel---neutrum)
 
 [11. den|det (här|där) N (ingen slutartikel) (Det var det ögönblick då...)](#11-dendet-härdär-n-ingen-slutartikel-det-var-det-ögönblick-då)
 
+  - [11a](#11a)
+  - [11a](#11a)
+  - [11a](#11a)
+  - [11a](#11a)
+  - [11a](#11a)
+  - [11a](#11a)
   - [11a](#11a)
 
 [12. den|det (här|där) A N (Att sova är inte det passiva tillståndet)](#12-dendet-härdär-a-n-att-sova-är-inte-det-passiva-tillståndet)
@@ -525,7 +533,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
-### 10a. den\|det här\|där A Nsg-def (_Den där nya deckaren_): Substantiv i singular med demonstrativt pronomen _den\|det här\|där_ , framförställt attribut och slutartikel
+### 10a. den\|det här\|där A Nsg-def (_Den där nya deckaren_): Substantiv i singular med demonstrativt pronomen _den\|det här\|där_, framförställt attribut och slutartikel
 
 Mönster 10a, t.ex. _Den där nya deckaren_ du rekommenderade mig att läsa var riktigt usel.
 
@@ -533,7 +541,7 @@ Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 10b. den här\|där A Nsg-def (_Den där nya deckaren_): Substantiv i singular med demonstrativt pronomen _den här\|där_ , framförställt attribut och slutartikel - utrum
+### 10b. den här\|där A Nsg-def (_Den där nya deckaren_): Substantiv i singular med demonstrativt pronomen _den här\|där_, framförställt attribut och slutartikel - utrum
 
 Mönster 10b, t.ex. _Den där nya deckaren_ du rekommenderade mig att läsa var riktigt usel.
 
@@ -541,7 +549,7 @@ Mönster 10b, t.ex. _Den där nya deckaren_ du rekommenderade mig att läsa var 
 
 _____________________________________________________________________________________
 
-### 10c. det här\|där A Nsg-def (_Det här speciella förortsspråket_): Substantiv i singular med demonstrativt pronomen _det här\|där_ , framförställt attribut och slutartikel - neutrum
+### 10c. det här\|där A Nsg-def (_Det här speciella förortsspråket_): Substantiv i singular med demonstrativt pronomen _det här\|där_, framförställt attribut och slutartikel - neutrum
 
 Mönster 10c, t.ex. _Det här speciella förortsspråket_ är en jargong.
 
