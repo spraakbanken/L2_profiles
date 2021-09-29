@@ -845,7 +845,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
-### 18a. Def A Npl-def ( _De flesta svenskarna_ ): Substantiv i plural med framförställt attribut, fristående artikel och slutartikel - initial satsposition
+### 18a. def A Npl-def ( _De flesta svenskarna_ ): Substantiv i plural med framförställt attribut, fristående artikel och slutartikel - initial satsposition
 
 Mönster 18a, t.ex. _De flesta svenskarna_ tar semester i juli månad .  
 
@@ -853,7 +853,7 @@ Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 18b. Def A Npl-def: Substantiv i plural med framförställt attribut, fristående artikel och slutartikel - icke-initial satsposition
+### 18b. def A Npl-def ( _båda ungarna_ ): Substantiv i plural med framförställt attribut, fristående artikel och slutartikel - icke-initial satsposition
 
 Mönster 18b, t.ex. _Båda ungarna_ var ju hemma, och de satt i telefon mest hela dagarna, när de inte tittade på video förstås! 
 
@@ -861,7 +861,7 @@ Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 18c. Def A Npl-def ( _De flesta svenskarna_ ): Substantiv i plural med framförställt attribut, fristående artikel och slutartikel - utrum, initial satsposition
+### 18c. def A Npl-def ( _De flesta svenskarna_ ): Substantiv i plural med framförställt attribut, fristående artikel och slutartikel - utrum, initial satsposition
 
 Mönster 18c, t.ex. _De flesta svenskarna_ tar semester i juli månad .  
 
@@ -870,7 +870,7 @@ Mönster 18c, t.ex. _De flesta svenskarna_ tar semester i juli månad .
 
 _____________________________________________________________________________________
 
-### 18d. Def A Npl-def ( _De sämsta jobben_ ): Substantiv i plural med framförställt attribut, fristående artikel och slutartikel - neutrum, initial satsposition
+### 18d. def A Npl-def ( _De sämsta jobben_ ): Substantiv i plural med framförställt attribut, fristående artikel och slutartikel - neutrum, initial satsposition
 
 Mönster 18d, t.ex. _De sämsta jobben_ ger de lägsta lönerna . 
 
@@ -878,13 +878,13 @@ Mönster 18d, t.ex. _De sämsta jobben_ ger de lägsta lönerna .
 
 _____________________________________________________________________________________
 
-### 18e. Def A Npl-def: Substantiv i plural med framförställt attribut, fristående artikel och slutartikel - utrum
+### 18e. def A Npl-def (_De flesta svenskarna_): Substantiv i plural med framförställt attribut, fristående artikel och slutartikel - utrum
 
 Mönster 18e, t.ex. _De flesta svenskarna_ tar semester i juli månad . 
 
 _____________________________________________________________________________________
 
-### 18f. Def A Npl-def (under _de senaste åren_ ): Substantiv i plural med framförställt attribut, fristående artikel och slutartikel - neutrum
+### 18f. def A Npl-def (under _de senaste åren_ ): Substantiv i plural med framförställt attribut, fristående artikel och slutartikel - neutrum
 
 Mönster 18f, t.ex. Detta kan vara en effekt av de svenska framgångarna under _de senaste åren_ .  
 
@@ -913,11 +913,6 @@ ________________________________________________________________________________
 
 Mönster 19c, t.ex. Kontrollera att du förstår _de här orden_ . 
 
-_____________________________________________________________________________________
-
-
-### XX. de Npl-def
-Mönster 19a, t.ex. Och när _de pengarna_ inte räckte lånade hon en halv miljon till.
 
 _____________________________________________________________________________________
 
@@ -925,30 +920,25 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
-### 20a. de här\|där A Npl-def ( _de här gröna knapparna_  ): Substantiv i plural med demonstrativt pronomen _de här\|där_ och framförställt attribut och slutartikel
+### 20a. de här\|där A Npl-def ( _de här gröna knapparna_  ): Substantiv i plural med demonstrativt pronomen _de här\|där_ , framförställt attribut och slutartikel
 
 Mönster 20a, t.ex. Du måste trycka på _de här gröna knapparna_ för att välja. 
 _____________________________________________________________________________________
 
-### 20b. de här\|där A Npl-def ( _de här gröna knapparna_ ): Substantiv i plural med demonstrativt pronomen _de här\|där_ och framförställt attribut och slutartikel - utrum
+### 20b. de här\|där A Npl-def ( _de här gröna knapparna_ ): Substantiv i plural med demonstrativt pronomen _de här\|där_ , framförställt attribut och slutartikel - utrum
 
 Mönster 20b, t.ex. Du måste trycka på _de här gröna knapparna_ för att välja. 
 
 _____________________________________________________________________________________
 
-### 20c. de här\|där A Npl-def ( _de där franska breven_ ): Substantiv i plural med demonstrativt pronomen _de här\|där_ och framförställt attribut och slutartikel - neutrum
+### 20c. de här\|där A Npl-def ( _de där franska breven_ ): Substantiv i plural med demonstrativt pronomen _de här\|där_ , framförställt attribut och slutartikel - neutrum
 
-Mönster 20c, t.ex. Vad jag arbetade med _de där franska breven_ !
+Mönster 20c, t.ex. Vad jag arbetade med _de där franska breven_ !  Ett av _de många problemen_ är den svenska kvinnan . 
 
-_____________________________________________________________________________________
-
-### XXX de (här|där) A Npl-def (): 
-
-Mönster 20a, t.ex. Ett av _de många problemen_ är den svenska kvinnan . 
 
 _____________________________________________________________________________________
 
-## 21. de Npl (De pappor som väljer...)
+## 21. de Npl (_De pappor_ du träffat...)
 
 _____________________________________________________________________________________
 
@@ -972,13 +962,13 @@ Mönster 21c, t.ex. _De skepp_ man använde var långsmala och vackert formade.
 
 _____________________________________________________________________________________
 
-### 21d. de Npl ( _de människor som_ ): Substantiv i plural med fristående artikel _de_ utan slutartikel - utrum med relativ bisatsinledare
+### 21d. de Npl som ( _de människor som_ ): Substantiv i plural med fristående artikel _de_ utan slutartikel - utrum med relativ bisatsinledare
 
 Mönster 21d, t.ex. Vad säger då statistiken mer om _de människor som_ separerar?  
 
 _____________________________________________________________________________________
 
-### 21e. de Npl ( _de partikelverb som_ ): Substantiv i plural med fristående artikel _de_ utan slutartikel - neutrum med (relativ) bisatsinledare
+### 21e. de Npl som ( _de partikelverb som_ ): Substantiv i plural med fristående artikel _de_ utan slutartikel - neutrum med relativ bisatsinledare
 
 Mönster 21e, t.ex. Vad betyder _de partikelverb som_ ni har strukit under ? 
 
@@ -988,7 +978,7 @@ ________________________________________________________________________________
 ## 22. de A Npl ( _De sista ord_ vi säger...)
 _____________________________________________________________________________________
 
-### 22a. de A Npl ( _De sista ord_ vi säger...): Substantiv i plural med fristående artikel _de_ och framförställt attribut utan slutartikel
+### 22a. de A Npl ( _De sista ord_ vi säger...): Substantiv i plural med fristående artikel _de_ , framförställt attribut, utan slutartikel
 
 Mönster 22a, t.ex. _De sista ord_ vi säger till varandra på kvällen: Sov gott!
 
@@ -996,19 +986,19 @@ Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 22b. de A Npl ( _de finaste kläder_ ): Substantiv i plural med fristående artikel _de_ och framförställt attribut utan slutartikel - utrum
+### 22b. de A Npl ( _de finaste kläder_ ): Substantiv i plural med fristående artikel _de_ , framförställt attribut, utan slutartikel - utrum
 
 Mönster 22b, t.ex. Bilden föreställer en liten prinsessa i _de finaste kläder_ i en vagn dragen av två strutsar. 
 
 _____________________________________________________________________________________
 
-### 22c. de A Npl ( _De flesta adjektiv_ ): Substantiv i plural med fristående artikel _de_ och framförställt attribut utan slutartikel - neutrum
+### 22c. de A Npl ( _De flesta adjektiv_ ): Substantiv i plural med fristående artikel _de_ , framförställt attribut, utan slutartikel - neutrum
 
 Mönster 22c, t.ex. _De flesta adjektiv_ kompareras som i grupp 1. 
 
 _____________________________________________________________________________________
 
-### 22d. de A Npl ( _de svenska författare som_ ): Substantiv i plural med fristående artikel _de_ och framförställt attribut utan slutartikel - med (relativ) bisatsinledare
+### 22d. de A Npl som ( _de svenska författare som_ ): Substantiv i plural med fristående artikel _de_ , framförställt attribut, utan slutartikel - med relativ bisatsinledare
 
 Mönster 22d, t.ex. Hon tillhör _de svenska författare som_ blivit kända utanför Sverige. 
 
@@ -1016,13 +1006,13 @@ Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 22e. de A Npl ( _de svenska författare som_ ): Substantiv i plural med fristående artikel _de_ och framförställt attribut utan slutartikel - utrum med (relativ) bisatsinledare
+### 22e. de A Npl som ( _de svenska författare som_ ): Substantiv i plural med fristående artikel _de_ , framförställt attribut, utan slutartikel - utrum med relativ bisatsinledare
 
 Mönster 22e, t.ex. Hon tillhör _de svenska författare som_ blivit kända utanför Sverige. 
 
 _____________________________________________________________________________________
 
-### 22f. de A Npl ( _de politiska partier som_ ): Substantiv i plural med fristående artikel _de_ och framförställt attribut utan slutartikel - neutrum med (relativ) bisatsinledare
+### 22f. de A Npl som ( _de politiska partier som_ ): Substantiv i plural med fristående artikel _de_ , framförställt attribut, utan slutartikel - neutrum med relativ bisatsinledare
 
 Mönster 22f, t.ex. _De politiska partier som_ har flest röster i riksdagen får bilda regering. 
 _____________________________________________________________________________________
@@ -1040,24 +1030,24 @@ Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 23b. dessa Npl ( _dessa singelmammor_ ): Substantiv i plural med demonstrativt pronomen _dessa_ utan slutartikel - utrum
+### 23b. dessa Npl ( _dessa singelmammor_ ): Substantiv i plural med demonstrativt pronomen _dessa_ - utrum
 
 Mönster 23b, t.ex.  _Dessa singelmammor_ är en modern företeelse.  
 
 _____________________________________________________________________________________
 
-### 23c. dessa Npl ( _dessa påståenden_ ): Substantiv i plural med demonstrativt pronomen _dessa_ utan slutartikel - neutrum
+### 23c. dessa Npl ( _dessa påståenden_ ): Substantiv i plural med demonstrativt pronomen _dessa_ - neutrum
 
 Mönster 23c, t.ex. Vilket av _dessa påståenden_ stämmer in på dig? 
 
 _____________________________________________________________________________________
 
-## 24. dessa A Npl (Dessa växelvarma djur är...)
+## 24. dessa A Npl (_Dessa växelvarma djur_ är...)
 
 (utan slutartikel)
 _____________________________________________________________________________________
 
-### 24a. dessa A Npl (): Substantiv i plural med demonstrativt pronomen _dessa_ och framförställt attribut 
+### 24a. dessa A Npl ( _Dessa växelvarma djur_): Substantiv i plural med demonstrativt pronomen _dessa_ och framförställt attribut 
 
 Mönster 24a, t.ex. _Dessa växelvarma djur_ är nämligen mycket känsliga för klimatförsämringar.
 
@@ -1065,13 +1055,13 @@ Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 24b. dessa A Npl ( _dessa outtalade regler_ ): Substantiv i plural med demonstrativt pronomen _dessa_ och framförställt attribut utan slutartikel - utrum
+### 24b. dessa A Npl ( _dessa outtalade regler_ ): Substantiv i plural med demonstrativt pronomen _dessa_ och framförställt attribut - utrum
 
 Mönster 24b, t.ex. Vill man integreras i det svenska samhället gäller det bara att lära sig alla _dessa outtalade regler_ . 
 
 _____________________________________________________________________________________
 
-### 24c. dessa A Npl (): Substantiv i plural med demonstrativt pronomen _dessa_ och framförställt attribut utan slutartikel - neutrum
+### 24c. dessa A Npl (_Dessa växelvarma djur_ ): Substantiv i plural med demonstrativt pronomen _dessa_ och framförställt attribut - neutrum
 
 Mönster 24c, t.ex. _Dessa växelvarma djur_ är nämligen mycket känsliga för klimatförsämringar.
 
@@ -1082,7 +1072,7 @@ ________________________________________________________________________________
 (utan slutartikel)
 _____________________________________________________________________________________
 
-### 25a. Poss\|NP-gen Npl ( _mina barn_ ): Substantiv i plural med possessivt pronomen eller genitivattribut 
+### 25a. Poss\|NP-gen Npl ( _mina barn_ ): Substantiv i plural med possessivt pronomen el. genitivattribut 
 
 Mönster 25a, t.ex. _Mina barn_ kommer att lära sig svenska fortare och bättre än jag. 
 
@@ -1090,7 +1080,7 @@ Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 25b. Poss\|NP-gen Npl ( _min kompisarna_ ): Substantiv i plural med possessivt pronomen eller genitivattribut utan slutartikel - normbrott
+### 25b. Poss\|NP-gen Npl ( _min kompisarna_ ): Substantiv i plural med possessivt pronomen el. genitivattribut - normbrott
 
 Mönster 25b, t.ex. En dag _min kompisarna_ skrev till mig på facebook...
 
@@ -1098,7 +1088,7 @@ Normbrott (förekommer i uppsatser). Mönstret används inte.
 
 _____________________________________________________________________________________
 
-### 25c. Poss\|NP-gen Npl ( _min byxor_ ): Substantiv i plural med possessivt pronomen eller genitivattribut utan slutartikel - normbrott
+### 25c. Poss\|NP-gen Npl ( _min byxor_ ): Substantiv i plural med possessivt pronomen el. genitivattribut - normbrott
 
 Mönster 25c, t.ex. Den gamla kvinna tappa hennes apelsin juice på _min byxor_ när hon försöka att öppna hennes mat plast. 
 
@@ -1106,19 +1096,19 @@ Normbrott (förekommer i uppsatser). Mönstret används inte.
 
 _____________________________________________________________________________________
 
-### 25d. Poss\|NP-gen Npl (_dina kamrater_): Substantiv i plural med possessivt pronomen eller genitivattribut utan slutartikel - utrum
+### 25d. Poss\|NP-gen Npl (_dina kamrater_): Substantiv i plural med possessivt pronomen el. genitivattribut - utrum
 
 Mönster 25d, t.ex. Jämför med _dina kamrater_ ! 
 
 _____________________________________________________________________________________
 
-### 25e. Poss\|NP-gen Npl ( _era länder_): Substantiv i plural med possessivt pronomen eller genitivattribut utan slutartikel - neutrum
+### 25e. Poss\|NP-gen Npl ( _era länder_): Substantiv i plural med possessivt pronomen el. genitivattribut - neutrum
 
 Mönster 25e, t.ex. Vad finns det för skrock i _era länder_ ? 
 
 _____________________________________________________________________________________
 
-### 25f. Poss\|NP-gen Npl ( _era länder_): Substantiv i plural med possessivt pronomen eller genitivattribut utan slutartikel - normbrott
+### 25f. Poss\|NP-gen Npl ( _era länder_): Substantiv i plural med possessivt pronomen el. genitivattribut - normbrott
 
 Mönster 25f, t.ex. Det var förra år när började jag kände ont i _mina lungorna_ . 
 
@@ -1126,7 +1116,7 @@ Normbrott (förekommer i uppsatser). Mönstret används inte.
 
 _____________________________________________________________________________________
 
-### 25g. Poss\|NP-gen Npl ( _dina barnen_ ): Substantiv i plural med possessivt pronomen eller genitivattribut utan slutartikel - normbrott
+### 25g. Poss\|NP-gen Npl ( _dina barnen_ ): Substantiv i plural med possessivt pronomen el. genitivattribut - normbrott
 
 Mönster 25g, t.ex. Slutling pappa ring till mamma och sa till henne kom och ta hand _dina barnen_ och vi bli lycklig. 
 
@@ -1134,7 +1124,7 @@ Normbrott (förekommer i uppsatser). Mönstret används inte.
 
 _____________________________________________________________________________________
 
-### 25h. Poss\|NP-gen Npl (_sin pengar_): Substantiv i plural med possessivt pronomen eller genitivattribut utan slutartikel - normbrott
+### 25h. Poss\|NP-gen Npl (_sin pengar_): Substantiv i plural med possessivt pronomen el. genitivattribut - normbrott
 
 Mönster 25h, t.ex. Hon kan spara alla _sin pengar_ och hon iblad åker till Sverige att besöka mig. 
 
@@ -1142,7 +1132,7 @@ Normbrott (förekommer i uppsatser). Mönstret används inte.
 
 _____________________________________________________________________________________
 
-### 25i. Poss\|NP-gen Npl (): Substantiv i plural med possessivt pronomen eller genitivattribut utan slutartikel - normbrott
+### 25i. Poss\|NP-gen Npl (): Substantiv i plural med possessivt pronomen el. genitivattribut - normbrott
 
 Mönster 25i, t.ex. (no hits...)
 
@@ -1150,12 +1140,12 @@ Normbrott (förekommer i uppsatser). Mönstret används inte.
 
 _____________________________________________________________________________________
 
-## 26. Poss\|NP-gen A Npl (Dagens moderna mammor och pappor)
+## 26. Poss\|NP-gen A Npl (_Dagens moderna mammor och pappor_)
 
 (utan slutartikel)
 _____________________________________________________________________________________
 
-### 26a. Poss\|NP-gen A Npl (): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut 
+### 26a. Poss\|NP-gen A Npl (): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut 
 
 Mönster 26a, t.ex. Är det en sann bild av _dagens moderna mammor och pappor_ ?  eller Hon börjar ifrågasätta 	_sina egna värderingar _
 
@@ -1163,7 +1153,7 @@ Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 26b. Poss\|NP-gen A Npl (_mina smutsik kläderna_): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - normbrott
+### 26b. Poss\|NP-gen A Npl (_mina smutsik kläderna_): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut - normbrott
 
 Mönster 26b, t.ex. När jag vaknar först jag duschar sedan tar lite frukost eftersom städer och tvättar _mina smutsik kläderna_ . 
 
@@ -1171,7 +1161,7 @@ Normbrott (förekommer i uppsatser). Mönstret används inte.
 
 _____________________________________________________________________________________
 
-### 26c. Poss\|NP-gen A Npl (_min dåliga dagar_ ): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - normbrott
+### 26c. Poss\|NP-gen A Npl (_min dåliga dagar_ ): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut - normbrott
 
 Mönster 26c, t.ex. Det var _min dåliga dagar_ på mit liv.
 
@@ -1179,19 +1169,19 @@ Normbrott (förekommer i uppsatser). Mönstret används inte.
 
 _____________________________________________________________________________________
 
-### 26d. Poss\|NP-gen A Npl (_Bergmans bästa filmer_): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - utrum
+### 26d. Poss\|NP-gen A Npl (_Bergmans bästa filmer_): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut - utrum
 
 Mönster 26d, t.ex. Fanny och Alexander är en av Ingmar _Bergmans bästa filmer_ . 
 
 _____________________________________________________________________________________
 
-### 26e. Poss\|NP-gen A N-pl (_sina egna språk_): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - neutrum
+### 26e. Poss\|NP-gen A N-pl (_sina egna språk_): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut - neutrum
 
 Mönster 26e, t.ex. Folket borde kämpa för att bevara _sina egna språk_ . 
 
 _____________________________________________________________________________________
 
-### 26f. Poss\|NP-gen A N-pl ( _sina egna jobberfarenheterna_ ): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - utrum normbrott
+### 26f. Poss\|NP-gen A N-pl ( _sina egna jobberfarenheterna_ ): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut - utrum, normbrott
 
 Mönster 26f, t.ex.  ...Konkurransen är jättestor och _sina egna jobberfarenheterna_ mycket begränsade . 
 
@@ -1200,7 +1190,7 @@ Normbrott (förekommer i uppsatser). Mönstret används inte.
 _____________________________________________________________________________________
 
 
-### 26g. Poss\|NP-gen A N-pl (): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - neutrum normbrott
+### 26g. Poss\|NP-gen A N-pl (): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut - neutrum, normbrott
 
 Mönster 26g, t.ex.  (0 hits)
 
@@ -1208,12 +1198,12 @@ Normbrott (förekommer i uppsatser). Mönstret används inte.
 
 _____________________________________________________________________________________
 
-### 26h. Poss\|NP-gen A Npl (): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - normbrott
+### 26h. Poss\|NP-gen A Npl (): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut - normbrott
 
 Mönster 26h, t.ex. 
 _____________________________________________________________________________________
 
-### 26i. Poss\|NP-gen A Npl (): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - normbrott
+### 26i. Poss\|NP-gen A Npl (): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut - normbrott
 
 Mönster 26i, t.ex. 
 
