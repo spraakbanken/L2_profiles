@@ -30,7 +30,7 @@ ________________________________________________________________________________
 
   - [2a. A Nsg (Följande dialog kan): Substantiv i singular med framförställt attribut - initial satsposition](#2a-a-nsg-följande-dialog-kan-substantiv-i-singular-med-framförställt-attribut---initial-satsposition)
   - [2b. A Nsg (med stängd mun): Substantiv i singular med framförställt attribut - icke-initial satsposition](#2b-a-nsg-med-stängd-mun-substantiv-i-singular-med-framförställt-attribut---icke-initial-satsposition)
-  - [2c. A Nsg (Följande dialog kan): Substantiv i singular med framförställt attribut - utrum, initial satsposition](#2c-a-nsg-följande-dialog-kan-substantiv-i-singular-med-framförställt-attribut---initial-satsposition)
+  - [2c. A Nsg (Följande dialog kan): Substantiv i singular med framförställt attribut - utrum, initial satsposition](#2c-a-nsg-följande-dialog-kan-substantiv-i-singular-med-framförställt-attribut---utrum-initial-satsposition)
   - [2d. A Nsg (Biologiskt arv bestämmer): Substantiv i singular med framförställt attribut - neutrum, initial satsposition](#2d-a-nsg-biologiskt-arv-bestämmer-substantiv-i-singular-med-framförställt-attribut---neutrum-initial-satsposition)
   - [2e. A Nsg (när hon var liten flicka): Substantiv i singular med framförställt attribut - utrum, icke-initial satsposition](#2e-a-nsg-när-hon-var-liten-flicka-substantiv-i-singular-med-framförställt-attribut---utrum-icke-initial-satsposition)
   - [2f. A Nsg (med stort intresse): Substantiv i singular med framförställt attribut - neutrum, icke-initial satsposition](#2f-a-nsg-med-stort-intresse-substantiv-i-singular-med-framförställt-attribut---neutrum-icke-initial-satsposition)
@@ -38,8 +38,8 @@ ________________________________________________________________________________
 [3. indef Nsg (Än en gång)](#3-indef-nsg-än-en-gång-riskerar-vi)
 
   - [3a. indef Nsg (Än en gång): Substantiv i singular med obestämd artikel](#3a-indef-nsg-än-en-gång-substantiv-i-singular-med-obestämd-artikel)
-  - [3b](#3b)
-  - [3c](#3c)
+  - [3b. indef Nsg (Än en gång): Substantiv i singular med obestämd artikel - utrum](#3b-indef-nsg-än-en-gång-substantiv-i-singular-med-obestämd-artikel---utrum)
+  - [3c. indef Nsg (på ett disko): Substantiv i singular med obestämd artikel - neutrum](#3c-indef-nsg-på-ett-disko-substantiv-i-singular-med-obestämd-artikel---neutrum)
 
 [4. indef A N (Han startade ett eget företag)](#4-indef-a-n-han-startade-ett-eget-företag)
 
