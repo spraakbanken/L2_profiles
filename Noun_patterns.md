@@ -22,14 +22,14 @@ ________________________________________________________________________________
 
 [1. N-sg (Jag har körkort)](#1-n-sg-jag-har-körkort)
 
-  - [1a](#1a)
-  - [1b](#1b)
-  - [1c](#1c)
+  - [1a. Nsg (Jag har körkort): Substantiv i singular](#1a-nsg-jag-har-körkort-substantiv-i-singular)
+  - [1b. Nsg (Jag kan svenska): Substantiv i singular - utrum](#1b-nsg-jag-kan-svenska-substantiv-i-singular---utrum)
+  - [1c. Nsg (Jag har körkort): Substantiv i singular - neutrum](#1c-nsg-jag-har-körkort-substantiv-i-singular---neutrum)
   
-[2. A N (Det blir nästa år)](#2-a-n-det-blir-nästa-år)
+[2. A Nsg (Det blir nästa år)](#2-a-nsg-det-blir-nästa-år)
 
-  - [2a](#2a)
-  - [2b](#2b)
+  - [2a. A Nsg (Följande dialog kan): Substantiv i singular med framförställt attribut - initial satsposition](#2a-a-nsg-följande-dialog-kan-substantiv-i-singular-med-framförställt-attribut---initial-satsposition)
+  - [2b. A Nsg (med stängd mun): Substantiv i singular med framförställt attribut - icke-initial satsposition](#2b-a-nsg-med-stängd-mun-substantiv-i-singular-med-framförställt-attribut---icke-initial-satsposition)
   - [2c](#2c)
   - [2d](#2d)
   - [2e](#2e)
@@ -634,7 +634,7 @@ Mönster 12e, t.ex. Barnens skratt och skrik blandas med _den rytmiska musik_ so
 
 _____________________________________________________________________________________
 
-### 12f. det A Nsg (Att sova är inte _det passiva tillstånd som_ ...): Substantiv i singular med fristående artikel _det_ och framförställt attribut utan slutartikel - neutrum med relativ bisatsinledare
+### 12f. det A Nsg som (Att sova är inte _det passiva tillstånd som_ ...): Substantiv i singular med fristående artikel _det_ och framförställt attribut utan slutartikel - neutrum med relativ bisatsinledare
 
 Mönster 12f, t.ex. Att sova är inte _det passiva tillstånd_ som vi trodde tidigare. 
 
