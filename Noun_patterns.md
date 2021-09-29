@@ -548,7 +548,6 @@ ________________________________________________________________________________
 
 ### 11a. den\|det Nsg (_den rök_ du andas in...): Substantiv i singular med fristående artikel _den\|det_ utan slutartikel
 
-
 Mönster 11a, t.ex. Det är inte bara du själv som skadas av	_den rök_ du andas in . 
 
 Blandade genus. Används inte.
@@ -557,21 +556,17 @@ ________________________________________________________________________________
 
 ### 11b. den Nsg (_den rök_ du andas in): Substantiv i singular med fristående artikel _den_ utan slutartikel - utrum
 
-
 Mönster 11b, t.ex. År 1718 tillkom _den indelning_ vi har i dag, med några undantag. 
-
 
 _____________________________________________________________________________________
 
 ### 11c. det Nsg (_det land_ man flyttar till): Substantiv i singular med fristående artikel _det_ utan slutartikel - neutrum
 
-
 Mönster 11c, t.ex. Vanligt är att man lär sig ett andraspråk i _det land_ man flyttar till. 
-
 
 _____________________________________________________________________________________
 
-### 11d. det\|den Nsg (Det var _det ögönblick_ då...): Substantiv i singular med fristående artikel _det\|den_ utan slutartikel - med (relativ) bisatsinledare
+### 11d. det\|den Nsg (Det var _det ögönblick_ då...): Substantiv i singular med fristående artikel _det\|den_ utan slutartikel - med relativ bisatsinledare
 
 
 Mönster 11d, t.ex. Det var _det ögonblick_ då alla fordon stannade upp i några minuter för att sedan sakta styra över från vänster till höger sida.
@@ -581,7 +576,7 @@ Delmängd av 11a. Blandade genus.
 
 _____________________________________________________________________________________
 
-### 11e. den N (_den björn_ som): Substantiv i singular med fristående artikel _den_ utan slutartikel - utrum med (relativ) bisatsinledare
+### 11e. den Nsg (_den björn_ som): Substantiv i singular med fristående artikel _den_ utan slutartikel - utrum med relativ bisatsinledare
 
 
 Mönster 11e, t.ex.  Väck ej _den björn_ som sover
@@ -591,7 +586,7 @@ Delmängd av 11b
 
 _____________________________________________________________________________________
 
-### 11f. det N (Det var _det ögönblick_ då...): Substantiv i singular med fristående artikel _det_ utan slutartikel - neutrum med (relativ) bisatsinledare
+### 11f. det Nsg (Det var _det ögönblick_ då...): Substantiv i singular med fristående artikel _det_ utan slutartikel - neutrum med relativ bisatsinledare
 
 
 Mönster 11f, t.ex. Det var _det ögonblick_ då alla fordon stannade upp i några minuter för att sedan sakta styra över från vänster till höger sida.
@@ -601,11 +596,11 @@ Delmängd av 11c
 
 _____________________________________________________________________________________
 
-## 12. den\|det A N (Att sova är inte _det passiva tillstånd_ ...)
+## 12. den\|det A Nsg (Att sova är inte _det passiva tillstånd_ ...)
 
 _____________________________________________________________________________________
 
-### 12a. den\|det A N (Att sova är inte _det passiva tillstånd_ ...): Substantiv i singular med fristående artikel _den\|det_ och framförställt attribut utan slutartikel
+### 12a. den\|det A Nsg (Att sova är inte _det passiva tillstånd_ ...): Substantiv i singular med fristående artikel _den\|det_ och framförställt attribut utan slutartikel
 
 Mönster 12a, t.ex. Att sova är inte _det passiva tillstånd_ som vi trodde tidigare. 
 
@@ -613,31 +608,31 @@ Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 12b. den\|det A N (... _den ringaste lust_ 	att diska...): Substantiv i singular med fristående artikel _den_ och framförställt attribut utan slutartikel - utrum
+### 12b. den\|det A Nsg (... _den ringaste lust_ 	att diska...): Substantiv i singular med fristående artikel _den_ och framförställt attribut utan slutartikel - utrum
 
 Mönster 12b, t.ex. Hon hade inte _den ringaste lust_ att diska. 
 
 _____________________________________________________________________________________
 
-### 12c. det A N (... _det neutrala språk_ man ofta hör...): Substantiv i singular med fristående artikel _det_ och framförställt attribut utan slutartikel - neutrum
+### 12c. det A Nsg (... _det neutrala språk_ man ofta hör...): Substantiv i singular med fristående artikel _det_ och framförställt attribut utan slutartikel - neutrum
 
 Mönster 12c, t.ex. Det är _det neutrala språk_ man ofta hör i radio och TV .  
 
 _____________________________________________________________________________________
 
-### 12d. den\|det A N (Att sova är inte _det passiva tillstånd som_ ...): Substantiv i singular med fristående artikel _den\|det_ och framförställt attribut utan slutartikel - med (relativ) bisatsinledare
+### 12d. den\|det A Nsg (Att sova är inte _det passiva tillstånd som_ ...): Substantiv i singular med fristående artikel _den\|det_ och framförställt attribut utan slutartikel - med relativ bisatsinledare
 
 Mönster 12d, t.ex. Att sova är inte _det passiva tillstånd som_ vi trodde tidigare. 
 
 _____________________________________________________________________________________
 
-### 12e. den A N som (_den rytmiska musik som_ hörs...): Substantiv i singular med fristående artikel _den_ och framförställt attribut utan slutartikel - utrum med (relativ) bisatsinledare
+### 12e. den A Nsg som (_den rytmiska musik som_ hörs...): Substantiv i singular med fristående artikel _den_ och framförställt attribut utan slutartikel - utrum med relativ bisatsinledare
 
 Mönster 12e, t.ex. Barnens skratt och skrik blandas med _den rytmiska musik_ som hörs från högtalarna .  
 
 _____________________________________________________________________________________
 
-### 12f. det A N (Att sova är inte _det passiva tillstånd som_ ...): Substantiv i singular med fristående artikel _det_ och framförställt attribut utan slutartikel - neutrum med (relativ) bisatsinledare
+### 12f. det A Nsg (Att sova är inte _det passiva tillstånd som_ ...): Substantiv i singular med fristående artikel _det_ och framförställt attribut utan slutartikel - neutrum med relativ bisatsinledare
 
 Mönster 12f, t.ex. Att sova är inte _det passiva tillstånd_ som vi trodde tidigare. 
 
@@ -645,11 +640,13 @@ Mönster 12f, t.ex. Att sova är inte _det passiva tillstånd_ som vi trodde tid
 
 _____________________________________________________________________________________
 
-## 13. denna\|detta N (Vid _denna tid_ var hon...)
+## 13. denna\|detta Nsg (Vid _denna tid_ var hon...)
+
+(utan slutartikel)
 
 _____________________________________________________________________________________
 
-### 13a. denna\|detta N (Vid _denna tid_ var hon...): Substantiv i singular med demonstrativt pronomen _denna\|detta_ utan slutartikel
+### 13a. denna\|detta Nsg (Vid _denna tid_ var hon...): Substantiv i singular med demonstrativt pronomen _denna\|detta_ 
 
 
 Mönster 13a, t.ex. De som mötte Kristina vid _denna tid_ har beskrivit att hon var liten till växten och hade löst hängande hår. 
@@ -658,14 +655,14 @@ Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 13b. denna N (Vid _denna tid_ var hon...): Substantiv i singular med demonstrativt pronomen _denna_ utan slutartikel - utrum
+### 13b. denna Nsg (Vid _denna tid_ var hon...): Substantiv i singular med demonstrativt pronomen _denna_ - utrum
 
 
 Mönster 13b, t.ex. De som mötte Kristina vid _denna tid_ har beskrivit att hon var liten till växten och hade löst hängande hår. 
 
 _____________________________________________________________________________________
 
-### 13c. detta N (_Detta straff_ ...): Substantiv i singular med demonstrativt pronomen _detta_ utan slutartikel - neutrum
+### 13c. detta Nsg (_Detta straff_ ...): Substantiv i singular med demonstrativt pronomen _detta_ - neutrum
 
 
 Mönster 13c, t.ex. _Detta straff_ är ren hämnd .  
@@ -674,11 +671,13 @@ Mönster 13c, t.ex. _Detta straff_ är ren hämnd .
 
 _____________________________________________________________________________________
 
-## 14. denna\|detta A N (...i _detta kalla land_ )
+## 14. denna\|detta A Nsg (...i _detta kalla land_ )
+
+(utan slutartikel)
 
 _____________________________________________________________________________________
 
-### 14a. denna\|detta A N (...i _detta kalla land_ ): Substantiv i singular med demonstrativt pronomen _denna\|detta_ och framförställt attribut utan slutartikel
+### 14a. denna\|detta A Nsg (...i _detta kalla land_ ): Substantiv i singular med demonstrativt pronomen _denna\|detta_ och framförställt attribut
 
 Mönster 14a, t.ex. Han menade att människors tankar frös till is i _detta kalla land_ .  
 
@@ -686,23 +685,25 @@ Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 14b. denna A N (... _denna nya kunskap_ ): Substantiv i singular med demonstrativt pronomen _denna_ och framförställt attribut utan slutartikel - utrum
+### 14b. denna A Nsg (... _denna nya kunskap_ ): Substantiv i singular med demonstrativt pronomen _denna_ och framförställt attribut - utrum
 
 Mönster 14b, t.ex. Med _denna nya kunskap_ återvände Kreuger till Sverige   
 
 _____________________________________________________________________________________
 
-### 14c. detta A N (...i _detta kalla land_ ): Substantiv i singular med demonstrativt pronomen _detta_ och framförställt attribut utan slutartikel - neutrum
+### 14c. detta A Nsg (...i _detta kalla land_ ): Substantiv i singular med demonstrativt pronomen _detta_ och framförställt attribut - neutrum
 
 Mönster 14c, t.ex. Han menade att människors tankar frös till is i _detta kalla land_ .  
 
 _____________________________________________________________________________________
 
-## 15. Poss\|NP-gen N (i _ditt land_ )
+## 15. Poss\|NP-gen Nsg (i _ditt land_ )
+
+(utan slutartikel)
 
 _____________________________________________________________________________________
 
-### 15a. Poss\|NP-gen N (i _ditt land_ ): Substantiv i singular med possessivt pronomen eller genitivattribut utan slutartikel
+### 15a. Poss\|NP-gen Nsg (i _ditt land_ ): Substantiv i singular med possessivt pronomen eller genitivattribut 
 
 Mönster 15a, t.ex. Äter man något speciellt till söndagsmiddag i _ditt land_ ? 
 
@@ -710,7 +711,7 @@ Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 15b. Poss\|NP-gen N ( _Min skolan_  ): Substantiv i singular med possessivt pronomen eller genitivattribut utan slutartikel - normbrott
+### 15b. Poss\|NP-gen Nsg ( _Min skolan_  ): Substantiv i singular med possessivt pronomen eller genitivattribut - normbrott
 
 Mönster 15b, t.ex. _Min skolan_ heter NN Gymnasiet .  
 
@@ -718,19 +719,19 @@ Normbrott (förekommer i uppsatser). Mönstret används inte.
 
 _____________________________________________________________________________________
 
-### 15c. Poss\|NP-gen N ( _min kompis_  ): Substantiv i singular med possessivt pronomen eller genitivattribut utan slutartikel - utrum
+### 15c. Poss\|NP-gen Nsg ( _min kompis_  ): Substantiv i singular med possessivt pronomen eller genitivattribut - utrum
 
 Mönster 15c, t.ex. Enligt _min kompis_ är han trevlig .  
 
 _____________________________________________________________________________________
 
-### 15d. Poss\|NP-gen N ( _lärarens telefonnummer_ ): Substantiv i singular med possessivt pronomen eller genitivattribut utan slutartikel - neutrum
+### 15d. Poss\|NP-gen Nsg ( _lärarens telefonnummer_ ): Substantiv i singular med possessivt pronomen eller genitivattribut - neutrum
 
 Mönster 15d, t.ex. Hur ska jag få reda på _lärarens telefonnummer_ ? 
 
 _____________________________________________________________________________________
 
-### 15e. Poss\|NP-gen N ( _Min skolan_ ): Substantiv i singular med possessivt pronomen eller genitivattribut utan slutartikel - normbrott
+### 15e. Poss\|NP-gen Nsg ( _Min skolan_ ): Substantiv i singular med possessivt pronomen eller genitivattribut - normbrott
 
 Mönster 15e, undergrupp till 15c; t.ex. _Min skolan_ heter NN Gymnasiet . 
 
@@ -738,7 +739,7 @@ Normbrott (förekommer i uppsatser). Mönstret används inte.
 
 _____________________________________________________________________________________
 
-### 15f. Poss\|NP-gen N ( _deras livet_ ): Substantiv i singular med possessivt pronomen eller genitivattribut utan slutartikel - normbrott
+### 15f. Poss\|NP-gen Nsg ( _deras livet_ ): Substantiv i singular med possessivt pronomen eller genitivattribut - normbrott
 
 Mönster 15f, t.ex. Jag har läst boken och fattar om _deras livet_ . 
 
@@ -746,11 +747,13 @@ Normbrott (förekommer i uppsatser). Mönstret används inte.
 
 _____________________________________________________________________________________
 
-## 16. Poss\|NP-gen A N (Min största resa genom livet)
+## 16. Poss\|NP-gen A Nsg (Min största resa genom livet)
+
+(utan slutartikel)
 
 _____________________________________________________________________________________
 
-### 16a. Poss\|NP-gen A N ( _min största resa_ ): Substantiv i singular med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel
+### 16a. Poss\|NP-gen A Nsg ( _min största resa_ ): Substantiv i singular med possessivt pronomen el. genitivattribut och framförställt attribut 
 
 Mönster 16a, t.ex. Det är utan tvekan _min största och viktigaste resa_ genom livet. 
 
@@ -758,7 +761,7 @@ Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 16b. Poss\|NP-gen A N ( _din verkliga livet_ ): Substantiv i singular med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - normbrott
+### 16b. Poss\|NP-gen A Nsg ( _din verkliga livet_ ): Substantiv i singular med possessivt pronomen el. genitivattribut och framförställt attribut - normbrott
 
 Mönster 16b, t.ex. Då blir det stora problem med _din verkliga livet_ .  
 
@@ -766,19 +769,19 @@ Normbrott (förekommer i uppsatser). Mönstret används inte.
 
 _____________________________________________________________________________________
 
-### 16c. Poss\|NP-gen A N ( _Årets kortaste dag_ ): Substantiv i singular med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - utrum
+### 16c. Poss\|NP-gen A Nsg ( _Årets kortaste dag_ ): Substantiv i singular med possessivt pronomen el. genitivattribut och framförställt attribut - utrum
 
 Mönster 16c, t.ex. _Årets kortaste dag_ är den 22 december .
 
 _____________________________________________________________________________________
 
-### 16d. Poss\|NP-gen A N ( _sitt stora verk_ ): Substantiv i singular med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - neutrum
+### 16d. Poss\|NP-gen A Nsg ( _sitt stora verk_ ): Substantiv i singular med possessivt pronomen el. genitivattribut och framförställt attribut - neutrum
 
 Mönster 16d, t.ex. Här publicerade han _sitt stora verk_ ... 
 
 _____________________________________________________________________________________
 
-### 16e. Poss\|NP-gen A N (): Substantiv i singular med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - normbrott
+### 16e. Poss\|NP-gen A Nsg ( _min kära familjen_ ): Substantiv i singular med possessivt pronomen el. genitivattribut och framförställt attribut - normbrott
 
 Mönster 16e, t.ex. Det är det som jag pratad med _min kära familjen_ ...
 
@@ -786,7 +789,7 @@ Normbrott (förekommer i uppsatser). Mönstret används inte.
 
 _____________________________________________________________________________________
 
-### 16f. Poss\|NP-gen A N ( _våra moderna livet_ ): Substantiv i singular med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel - normbrott
+### 16f. Poss\|NP-gen A Nsg ( _våra moderna livet_ ): Substantiv i singular med possessivt pronomen el. genitivattribut och framförställt attribut - normbrott
 
 Mönster 16f, t.ex. Stress av arbete eller arbetslöshet är vanlig och kan vara farlig i _våra moderna livet_ .
 
@@ -838,7 +841,7 @@ Mönster 17f, t.ex. Vi låter _barnen_ äta godis på lördagar .
 
 _____________________________________________________________________________________
 
-## 18. Def A Npl-def ( _de flesta svenskarna_ )
+## 18. def A Npl-def ( _de flesta svenskarna_ )
 
 _____________________________________________________________________________________
 
@@ -884,12 +887,6 @@ ________________________________________________________________________________
 ### 18f. Def A Npl-def (under _de senaste åren_ ): Substantiv i plural med framförställt attribut, fristående artikel och slutartikel - neutrum
 
 Mönster 18f, t.ex. Detta kan vara en effekt av de svenska framgångarna under _de senaste åren_ .  
-
-_____________________________________________________________________________________
-
-### XX. A Npl-def ( _Båda ungarna_ ): Substantiv i plural med framförställt attribut, fristående artikel och slutartikel
-
-Mönster 18f, t.ex. _Båda ungarna_ var ju hemma, och de satt i telefon mest hela dagarna, när de inte tittade på video förstås! 
 
 
 _____________________________________________________________________________________
@@ -975,7 +972,7 @@ Mönster 21c, t.ex. _De skepp_ man använde var långsmala och vackert formade.
 
 _____________________________________________________________________________________
 
-### 21d. de Npl ( _de människor som_ ): Substantiv i plural med fristående artikel _de_ utan slutartikel - utrum med (relativ) bisatsinledare
+### 21d. de Npl ( _de människor som_ ): Substantiv i plural med fristående artikel _de_ utan slutartikel - utrum med relativ bisatsinledare
 
 Mönster 21d, t.ex. Vad säger då statistiken mer om _de människor som_ separerar?  
 
@@ -1031,9 +1028,11 @@ Mönster 22f, t.ex. _De politiska partier som_ har flest röster i riksdagen få
 _____________________________________________________________________________________
 
 ## 23. dessa Npl (Ett av _dessa språk_ ...)
+
+(utan slutartikel)
 _____________________________________________________________________________________
 
-### 23a. dessa Npl ( _dessa språk_ ): Substantiv i plural med demonstrativt pronomen _dessa_ utan slutartikel
+### 23a. dessa Npl ( _dessa språk_ ): Substantiv i plural med demonstrativt pronomen _dessa_ 
 
 Mönster 23a, t.ex. Ett av _dessa språk_ nådde norra Europa för mer än 2 000 år sedan. 
 
@@ -1054,9 +1053,11 @@ Mönster 23c, t.ex. Vilket av _dessa påståenden_ stämmer in på dig?
 _____________________________________________________________________________________
 
 ## 24. dessa A Npl (Dessa växelvarma djur är...)
+
+(utan slutartikel)
 _____________________________________________________________________________________
 
-### 24a. dessa A Npl (): Substantiv i plural med demonstrativt pronomen _dessa_ och framförställt attribut utan slutartikel
+### 24a. dessa A Npl (): Substantiv i plural med demonstrativt pronomen _dessa_ och framförställt attribut 
 
 Mönster 24a, t.ex. _Dessa växelvarma djur_ är nämligen mycket känsliga för klimatförsämringar.
 
@@ -1077,9 +1078,11 @@ Mönster 24c, t.ex. _Dessa växelvarma djur_ är nämligen mycket känsliga för
 _____________________________________________________________________________________
 
 ## 25. Poss\|NP-gen Npl ( _mina barn_ )
+
+(utan slutartikel)
 _____________________________________________________________________________________
 
-### 25a. Poss\|NP-gen Npl ( _mina barn_ ): Substantiv i plural med possessivt pronomen eller genitivattribut utan slutartikel
+### 25a. Poss\|NP-gen Npl ( _mina barn_ ): Substantiv i plural med possessivt pronomen eller genitivattribut 
 
 Mönster 25a, t.ex. _Mina barn_ kommer att lära sig svenska fortare och bättre än jag. 
 
@@ -1148,9 +1151,11 @@ Normbrott (förekommer i uppsatser). Mönstret används inte.
 _____________________________________________________________________________________
 
 ## 26. Poss\|NP-gen A Npl (Dagens moderna mammor och pappor)
+
+(utan slutartikel)
 _____________________________________________________________________________________
 
-### 26a. Poss\|NP-gen A Npl (): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut utan slutartikel
+### 26a. Poss\|NP-gen A Npl (): Substantiv i plural med possessivt pronomen eller genitivattribut och framförställt attribut 
 
 Mönster 26a, t.ex. Är det en sann bild av _dagens moderna mammor och pappor_ ?  eller Hon börjar ifrågasätta 	_sina egna värderingar _
 
@@ -1219,7 +1224,7 @@ ________________________________________________________________________________
 
 ### 27a. A Nsg-def (_Hela kvarteret_): Substantiv i singular med framförställt attribut utan fristående artikel med slutartikel - initial satsposition
 
-Mönster 27a, t.ex. _Hela kvarteret_ kommer att rivas . 
+Mönster 27a, t.ex. _Hela kvarteret_ kommer att rivas. 
 
 Blandade genus. Används inte.
 
@@ -1227,7 +1232,7 @@ ________________________________________________________________________________
 
 ### 27b. A Nsg-def ( _högra örat_): Substantiv i singular med framförställt attribut utan fristående artikel med slutartikel - icke-initial satsposition
 
-Mönster 27b, t.ex. Jag hör sämre på _högra örat_ än på vänstra . 
+Mönster 27b, t.ex. Jag hör sämre på _högra örat_ än på vänstra. 
 
 Blandade genus. Används inte.
 
