@@ -61,7 +61,7 @@ ________________________________________________________________________________
   - [6a. A Npl (gula bilar): Substantiv i plural med framförställt attribut - initial satsposition](#6a-a-npl-gula-bilar-substantiv-i-plural-med-framförställt-attribut---initial-satsposition)
   - [6b. A Npl (gula bilar): Substantiv i plural med framförställt attribut - icke-initial satsposition](#6b-a-npl-gula-bilar-substantiv-i-plural-med-framförställt-attribut---icke-initial-satsposition)
   - [6c. A Npl (Gula bilar används): Substantiv i plural med framförställt attribut - utrum, initial satsposition](#6c-a-npl-gula-bilar-används-substantiv-i-plural-med-framförställt-attribut---utrum-initial-satsposition)
-  - [6d. A Npl (Alternativa sätt behövs): Substantiv i plural med framförställt attribut - neutrum, initial satsposition](#6d. A Npl (Alternativa sätt behövs): Substantiv i plural med framförställt attribut - neutrum, initial satsposition)
+  - [6d. A Npl (Alternativa sätt behövs): Substantiv i plural med framförställt attribut - neutrum, initial satsposition](#6d-a-npl-alternativa-sätt-behövs-substantiv-i-plural-med-framförställt-attribut---neutrum-initial-satsposition)
   - [6e. A Npl (kör gula bilar): Substantiv i plural med framförställt attribut - utrum, icke-initial satsposition](#6e-a-npl-kör-gula-bilar-substantiv-i-plural-med-framförställt-attribut---utrum-icke-initial-satsposition)
   - [6f. A Npl (att använda alternativa sätt): Substantiv i plural med framförställt attribut - neutrum, icke-initial satsposition](#6f-a-npl-att-använda-alternativa-sätt-substantiv-i-plural-med-framförställt-attribut---neutrum-icke-initial-satsposition)
 
