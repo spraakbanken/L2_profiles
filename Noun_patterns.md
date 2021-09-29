@@ -20,9 +20,9 @@ ________________________________________________________________________________
 
 [Substantivfras - deskriptorer](#substantivfras---deskriptorer)
 
-[1. N-sg (Jag har körkort)](#1-n-sg-jag-har-körkort)
+[1. Nsg (Jag har _körkort_)](#1-nsg-jag-har-körkort)
 
-  - [1a](#1a)
+  - [1a. Nsg (Jag har _körkort_): Substantiv i singular](#1a-nsg-jag-har-körkort-substantiv-i-singular)
   - [1b](#1b)
   - [1c](#1c)
   
