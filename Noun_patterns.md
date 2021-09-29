@@ -41,10 +41,10 @@ ________________________________________________________________________________
   - [3b. indef Nsg (Än en gång): Substantiv i singular med obestämd artikel - utrum](#3b-indef-nsg-än-en-gång-substantiv-i-singular-med-obestämd-artikel---utrum)
   - [3c. indef Nsg (på ett disko): Substantiv i singular med obestämd artikel - neutrum](#3c-indef-nsg-på-ett-disko-substantiv-i-singular-med-obestämd-artikel---neutrum)
 
-[4. indef A N (Han startade ett eget företag)](#4-indef-a-n-han-startade-ett-eget-företag)
+[4. indef A Nsg (_ett gult hus_)](#4-indef-a-nsg-ett-gult-hus)
 
-  - [4a](#4a)
-  - [4b](#4b)
+  - [4a. indef A Nsg (en gul bil): Substantiv i singular med framförställt attribut och obestämd artikel](#4a-indef-a-nsg-en-gul-bil-substantiv-i-singular-med-framförställt-attribut-och-obestämd-artikel)
+  - [4b. indef A Nsg (en gul bil): Substantiv i singular med framförställt attribut och obestämd artikel - utrum](#4b-indef-a-nsg-en-gul-bil-substantiv-i-singular-med-framförställt-attribut-och-obestämd-artikel---utrum)
   - [4c](#4c)
 
 [5. N-pl (Finländare tycker...)](#5-n-pl-finländare-tycker)
@@ -284,7 +284,7 @@ Mönster 3c, undergrupp till 3a, t.ex I Rimini träffade hon på _ett disko_ en 
 
 _____________________________________________________________________________________
 
-## 4. indef A Nsg (_ett gult hus)
+## 4. indef A Nsg (_ett gult hus_)
 
 _____________________________________________________________________________________
 
