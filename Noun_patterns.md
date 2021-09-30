@@ -167,17 +167,28 @@ ________________________________________________________________________________
   - [19b. de här\|där Npl-def (De där idéerna): Substantiv i plural med demonstrativt pronomen de här\|där och slutartikel - utrum](#19b-de-härdär-npl-def-de-där-idéerna-substantiv-i-plural-med-demonstrativt-pronomen-de-härdär-och-slutartikel---utrum)
   - [19c. de här\|där Npl-def (de här orden): Substantiv i plural med demonstrativt pronomen de här\|där och slutartikel - neutrum](#19c-de-härdär-npl-def-de-här-orden-substantiv-i-plural-med-demonstrativt-pronomen-de-härdär-och-slutartikel---neutrum)
 
-[20. de (här|där) A N-pl-def (Ett av de många problemen)](#20-de-härdär-a-n-pl-def-ett-av-de-många-problemen)
+[20. de här\|där A Npl-def (de här gröna knapparna)](#20-de-härdär-a-npl-def-de-här-gröna-knapparna)
 
-  - [20a](#20a)
+  - [20a. de här\|där A Npl-def (de här gröna knapparna): Substantiv i plural med demonstrativt pronomen de här\|där, framförställt attribut och slutartikel](#20a-de-härdär-a-npl-def-de-här-gröna-knapparna-substantiv-i-plural-med-demonstrativt-pronomen-de-härdär-framförställt-attribut-och-slutartikel)
+  - [20b. de här\|där A Npl-def (de här gröna knapparna): Substantiv i plural med demonstrativt pronomen de här\|där, framförställt attribut och slutartikel - utrum](#20b-de-härdär-a-npl-def-de-här-gröna-knapparna-substantiv-i-plural-med-demonstrativt-pronomen-de-härdär-framförställt-attribut-och-slutartikel---utrum)
+  - [20c. de här\|där A Npl-def (de där franska breven): Substantiv i plural med demonstrativt pronomen de här\|där, framförställt attribut och slutartikel - neutrum](#20c-de-härdär-a-npl-def-de-där-franska-breven-substantiv-i-plural-med-demonstrativt-pronomen-de-härdär-framförställt-attribut-och-slutartikel---neutrum)
 
-[21. de N-pl (De pappor som väljer...)](#21-de-n-pl-de-pappor-som-väljer)
+[21. de Npl (De pappor du träffat)](#21-de-npl-de-pappor-du-träffat)
 
-  - [21a](#21a)
+  - [21a. de Npl (de svar): Substantiv i plural med bestämd artikel de utan slutartikel](#21a-de-npl-de-svar-substantiv-i-plural-med-bestämd-artikel-de-utan-slutartikel)
+  - [21b. de Npl (de anställda): Substantiv i plural med bestämd artikel de utan slutartikel - utrum](#21b-de-npl-de-anställda-substantiv-i-plural-med-bestämd-artikel-de-utan-slutartikel---utrum)
+  - [21c. de Npl (de skepp): Substantiv i plural med bestämd artikel de utan slutartikel - neutrum](#21c-de-npl-de-skepp-substantiv-i-plural-med-bestämd-artikel-de-utan-slutartikel---neutrum)
+  - [21d. de Npl relS (de människor som): Substantiv i plural med bestämd artikel de utan slutartikel - utrum med relativ bisatsinledare](#21d-de-npl-rels-de-människor-som-substantiv-i-plural-med-bestämd-artikel-de-utan-slutartikel---utrum-med-relativ-bisatsinledare)
+  - [21e. de Npl relS (de partikelverb som): Substantiv i plural med bestämd artikel de utan slutartikel - neutrum med relativ bisatsinledare](#21e-de-npl-rels-de-partikelverb-som-substantiv-i-plural-med-bestämd-artikel-de-utan-slutartikel---neutrum-med-relativ-bisatsinledare)
 
-[22. de A N-pl (De sista ord vi säger...)](#22-de-a-n-pl-de-sista-ord-vi-säger)
+[22. de A Npl (De sista ord vi säger)](#22-de-a-npl-de-sista-ord-vi-säger)
 
-  - [22a](#22a)
+  - [22a. de A Npl (De sista ord vi säger): Substantiv i plural med bestämd artikel de, framförställt attribut, utan slutartikel](#22a-de-a-npl-de-sista-ord-vi-säger-substantiv-i-plural-med-bestämd-artikel-de-framförställt-attribut-utan-slutartikel)
+  - [22b. de A Npl (de finaste kläder): Substantiv i plural med bestämd artikel de, framförställt attribut, utan slutartikel - utrum](#22b-de-a-npl-de-finaste-kläder-substantiv-i-plural-med-bestämd-artikel-de-framförställt-attribut-utan-slutartikel---utrum)
+  - [22c. de A Npl (De flesta adjektiv): Substantiv i plural med bestämd artikel de, framförställt attribut, utan slutartikel - neutrum](#22c-de-a-npl-de-flesta-adjektiv-substantiv-i-plural-med-bestämd-artikel-de-framförställt-attribut-utan-slutartikel---neutrum)
+  - [22d. de A Npl relS (de svenska författare som): Substantiv i plural med bestämd artikel de, framförställt attribut, utan slutartikel - med relativ bisatsinledare](#22d-de-a-npl-rels-de-svenska-författare-som-substantiv-i-plural-med-bestämd-artikel-de-framförställt-attribut-utan-slutartikel---med-relativ-bisatsinledare)
+  - [22e. de A Npl relS (de svenska författare som): Substantiv i plural med bestämd artikel de, framförställt attribut, utan slutartikel - utrum med relativ bisatsinledare](#22e-de-a-npl-rels-de-svenska-författare-som-substantiv-i-plural-med-bestämd-artikel-de-framförställt-attribut-utan-slutartikel---utrum-med-relativ bisatsinledare)
+  - [22f. de A Npl relS (de politiska partier som): Substantiv i plural med bestämd artikel de, framförställt attribut, utan slutartikel - neutrum med relativ bisatsinledare](#22f-de-a-npl-rels-de-politiska-partier-som-substantiv-i-plural-med-bestämd-artikel-de-framförställt-attribut-utan-slutartikel---neutrum-med-relativ-bisatsinledare)
 
 [23. dessa N-pl (Ett av dessa språk...)](#23-dessa-n-pl-ett-av-dessa-språk)
 
@@ -957,7 +968,7 @@ Mönster 19c, t.ex. Kontrollera att du förstår _de här orden_ .
 
 _____________________________________________________________________________________
 
-## 20. de här\|där A Npl-def ( _de här gröna knapparna_ )
+## 20. de här\|där A Npl-def (_de här gröna knapparna_)
 
 _____________________________________________________________________________________
 
