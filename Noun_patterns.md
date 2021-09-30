@@ -113,12 +113,20 @@ ________________________________________________________________________________
   - [12e. den A Nsg relS (den rytmiska musik som hörs): Substantiv i singular med bestämd artikel den och framförställt attribut utan slutartikel - utrum med relativ bisatsinledare](#12e-den-a-nsg-rels-den-rytmiska-musik-som-hörs-substantiv-i-singular-med-bestämd-artikel-den-och-framförställt-attribut-utan-slutartikel---utrum-med-relativ-bisatsinledare)
   - [12f. det A Nsg relS (Att sova är inte det passiva tillstånd som): Substantiv i singular med bestämd artikel det och framförställt attribut utan slutartikel - neutrum med relativ bisatsinledare](#12f-det-a-nsg-rels-att-sova-är-inte-det-passiva-tillstånd-som-substantiv-i-singular-med-bestämd-artikel-det-och-framförställt-attribut-utan-slutartikel---neutrum-med-relativ-bisatsinledare)
 
-[13. denna|detta N (Vid denna tid var hon...)](#13-dennadetta-n-vid-denna-tid-var-hon)
+[13. denna\|detta Nsg (Vid denna tid var hon)](#13-dennadetta-nsg-vid-denna-tid-var-hon)
 
-  - [13a](#13a)
+  - [13a. denna\|detta Nsg (Vid denna tid var hon): Substantiv i singular med demonstrativt pronomen denna\|detta](#13a-dennadetta-nsg-vid-denna-tid-var-hon-substantiv-i-singular-med-demonstrativt-pronomen-dennadetta)
+  - [13b. denna Nsg (Vid denna tid var hon): Substantiv i singular med demonstrativt pronomen denna - utrum](#13b-denna-nsg-vid-denna-tid-var-hon-substantiv-i-singular-med-demonstrativt-pronomen-denna---utrum)
+  - [13c. detta Nsg (Detta straff): Substantiv i singular med demonstrativt pronomen detta - neutrum](#13c-detta-nsg-detta-straff-substantiv-i-singular-med-demonstrativt-pronomen-detta---neutrum)
 
-[14. denna|detta A N (...i detta kalla land)](#14-dennadetta-a-n-i-detta-kalla-land))
+[14. denna\|detta A Nsg (i detta kalla land)](#14-dennadetta-a-nsg-i-detta-kalla-land)
 
+  - [14a](#14a)
+  - [14a](#14a)
+  - [14a](#14a)
+  - [14a](#14a)
+  - [14a](#14a)
+  - [14a](#14a)
   - [14a](#14a)
 
 [15. Poss|NP-gen N](#15-possnp-gen-n)
@@ -486,6 +494,7 @@ ________________________________________________________________________________
 ### 8c. def A Nsg-def (_Den unga flickan_ uppfostrades): Substantiv i singular med framförställt attribut, slutartikel och bestämd artikel - utrum, initial satsposition
 
 Mönster 8c, undergrupp till 8a, t.ex. _Den unga flickan_ uppfostrades till att bli kung ! 
+
 _____________________________________________________________________________________
 
 ### 8d. def A Nsg-def (_Det största problemet_ är inte): Substantiv i singular med framförställt attribut, slutartikel och bestämd artikel - neutrum, initial satsposition
@@ -687,7 +696,7 @@ Mönster 13c, t.ex. _Detta straff_ är ren hämnd .
 
 _____________________________________________________________________________________
 
-## 14. denna\|detta A Nsg (i _detta kalla land_ )
+## 14. denna\|detta A Nsg (i _detta kalla land_)
 
 (utan slutartikel)
 
