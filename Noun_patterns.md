@@ -163,7 +163,7 @@ ________________________________________________________________________________
 
 [19. de här\|där Npl-def (de här orden)](#19-de-härdär-npl-def-de-här-orden)
 
-  - [19a. de här\|där Npl-def (de här orden): Substantiv i plural med demonstrativt pronomen de här|där och slutartikel](#19a-de-härdär-npl-def-de-här-orden-substantiv-i-plural-med-demonstrativt-pronomen-de-härdär-och-slutartikel)
+  - [19a. de här\|där Npl-def (de här orden): Substantiv i plural med demonstrativt pronomen de här\|där och slutartikel](#19a-de-härdär-npl-def-de-här-orden-substantiv-i-plural-med-demonstrativt-pronomen-de-härdär-och-slutartikel)
   - [19b. de här\|där Npl-def (De där idéerna): Substantiv i plural med demonstrativt pronomen de här\|där och slutartikel - utrum](#19b-de-härdär-npl-def-de-där-idéerna-substantiv-i-plural-med-demonstrativt-pronomen-de-härdär-och-slutartikel---utrum)
   - [19c. de här\|där Npl-def (de här orden): Substantiv i plural med demonstrativt pronomen de här\|där och slutartikel - neutrum](#19c-de-härdär-npl-def-de-här-orden-substantiv-i-plural-med-demonstrativt-pronomen-de-härdär-och-slutartikel---neutrum)
 
@@ -180,6 +180,7 @@ ________________________________________________________________________________
   - [21c. de Npl (de skepp): Substantiv i plural med bestämd artikel de utan slutartikel - neutrum](#21c-de-npl-de-skepp-substantiv-i-plural-med-bestämd-artikel-de-utan-slutartikel---neutrum)
   - [21d. de Npl relS (de människor som): Substantiv i plural med bestämd artikel de utan slutartikel - utrum med relativ bisatsinledare](#21d-de-npl-rels-de-människor-som-substantiv-i-plural-med-bestämd-artikel-de-utan-slutartikel---utrum-med-relativ-bisatsinledare)
   - [21e. de Npl relS (de partikelverb som): Substantiv i plural med bestämd artikel de utan slutartikel - neutrum med relativ bisatsinledare](#21e-de-npl-rels-de-partikelverb-som-substantiv-i-plural-med-bestämd-artikel-de-utan-slutartikel---neutrum-med-relativ-bisatsinledare)
+  - 
 
 [22. de A Npl (De sista ord vi säger)](#22-de-a-npl-de-sista-ord-vi-säger)
 
@@ -190,13 +191,17 @@ ________________________________________________________________________________
   - [22e. de A Npl relS (de svenska författare som): Substantiv i plural med bestämd artikel de, framförställt attribut, utan slutartikel - utrum med relativ bisatsinledare](#22e-de-a-npl-rels-de-svenska-författare-som-substantiv-i-plural-med-bestämd-artikel-de-framförställt-attribut-utan-slutartikel---utrum-med-relativ bisatsinledare)
   - [22f. de A Npl relS (de politiska partier som): Substantiv i plural med bestämd artikel de, framförställt attribut, utan slutartikel - neutrum med relativ bisatsinledare](#22f-de-a-npl-rels-de-politiska-partier-som-substantiv-i-plural-med-bestämd-artikel-de-framförställt-attribut-utan-slutartikel---neutrum-med-relativ-bisatsinledare)
 
-[23. dessa N-pl (Ett av dessa språk...)](#23-dessa-n-pl-ett-av-dessa-språk)
+[23. dessa Npl (Ett av dessa språk)](#23-dessa-npl-ett-av-dessa-språk)
 
-  - [23a](#23a)
+  - [23a. dessa Npl (dessa språk): Substantiv i plural med demonstrativt pronomen dessa](#23a-dess-npl-dessa-språk-substantiv-i-plural-med-demonstrativt-pronomen-dessa)
+  - [23b. dessa Npl (dessa singelmammor): Substantiv i plural med demonstrativt pronomen dessa - utrum](#23b-dessa-npl-dessa-singelmammor-substantiv-i-plural-med-demonstrativt-pronomen-dessa---utrum)
+  - [23c. dessa Npl (dessa påståenden): Substantiv i plural med demonstrativt pronomen dessa - neutrum](#23c-dessa-npl-dessa-påståenden-substantiv-i-plural-med-demonstrativt-pronomen-dessa---neutrum)
 
-[24. dessa A N-pl (Dessa växelvarma djur är...)](#24-dessa-a-n-pl-dessa-växelvarma-djur-är)
+[24. dessa A Npl (Dessa växelvarma djur är)](#24-dessa-a-npl-dessa-växelvarma-djur-är)
 
-  - [24a](#24a)
+  - [24a. dessa A Npl (Dessa växelvarma djur): Substantiv i plural med demonstrativt pronomen dessa och framförställt attribut](#24a-dessa-a-npl-dessa-växelvarma-djur-substantiv-i-plural-med-demonstrativt-pronomen-dessa-och-framförställt-attribut)
+  - [24b. dessa A Npl (dessa outtalade regler): Substantiv i plural med demonstrativt pronomen dessa och framförställt attribut - utrum](#24b-dessa-a-npl-dessa-outtalade-regler-substantiv-i-plural-med-demonstrativt-pronomen-dessa-och-framförställt-attribut---utrum)
+  - [24c. dessa A Npl (Dessa växelvarma djur): Substantiv i plural med demonstrativt pronomen dessa och framförställt attribut - neutrum](#24c-dessa-a-npl-dessa-växelvarma-djur-substantiv-i-plural-med-demonstrativt-pronomen-dessa-och-framförställt-attribut---neutrum)
 
 [25. Poss|NP-gen N-p](#25-possnp-gen-n-pl)
 
