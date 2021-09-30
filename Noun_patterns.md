@@ -143,9 +143,14 @@ ________________________________________________________________________________
   - [16e. Poss\|NP-gen A Nsg (min kära familjen): Substantiv i singular med possessivt pronomen el. genitivattribut och framförställt attribut - normbrott](#16e-possnp-gen-a-nsg-min-kära-familjen-substantiv-i-singular-med-possessivt-pronomen-el-genitivattribut-och-framförställt-attribut---normbrott)
   - [16f. Poss\|NP-gen A Nsg (våra moderna livet): Substantiv i singular med possessivt pronomen el. genitivattribut och framförställt attribut - normbrott](#16f-possnp-gen-a-nsg-våra-moderna-livet-substantiv-i-singular-med-possessivt-pronomen-el-genitivattribut-och-framförställt-attribut---normbrott)
 
-[17. N-pl-def](#17-n-pl-def)
+[17. Npl-def (Lärarna)](#17-npl-def-lärarna)
 
-  - [17a](#17a)
+  - [17a. Npl-def (Lärarna): Substantiv i plural med slutartikel - initial satsposition](#17a-npl-def-lärarna-substantiv-i-plural-med-slutartikel---initial-satsposition)
+  - [17b. Npl-def (instruktionerna): Substantiv i plural med slutartikel - icke-initial satsposition](#17b-npl-def-instruktionerna-substantiv-i-plural-med-slutartikel---icke-initial-satsposition)
+  - [17c. Npl-def (Lärarna): Substantiv i plural med slutartikel - utrum, initial satsposition](#17c-npl-def-lärarna-substantiv-i-plural-med-slutartikel---utrum-initial-satsposition)
+  - [17d. Npl-def (Utsläppen): Substantiv i plural med slutartikel - neutrum, initial satsposition](#17d-npl-def-utsläppen-substantiv-i-plural-med-slutartikel---neutrum-initial-satsposition)
+  - [17e. Npl-def (Fyll i luckorna): Substantiv i plural med slutartikel - utrum, icke-initial satsposition](#17e-npl-def-fyll-i-luckorna-substantiv-i-plural-med-slutartikel---utrum-icke-initial-satsposition)
+  - [17f. Npl-def (barnen): Substantiv i plural med slutartikel - neutrum, icke-initial satsposition](#17f-npl-def-barnen-substantiv-i-plural-med-slutartikel---neutrum-icke-initial-satsposition)
 
 [18. A N-pl-def (Båda ungarna var hemma)](#18-a-n-pl-def-båda-ungarna-var-hemma)
 
