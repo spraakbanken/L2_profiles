@@ -237,7 +237,7 @@ ________________________________________________________________________________
 
 [28. A Npl-def (Båda ungarna)](#28-a-npl-def-båda-ungarna)
 
-  - [28a. A Npl-def (Båda ungarna): Substantiv i plural med framförställt attribut utan bestämd artikel med slutartikel - initial satsposition](#28a-a-npl-def-båda ungarna-substantiv-i-plural-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---initial-satsposition)
+  - [28a. A Npl-def (Båda ungarna): Substantiv i plural med framförställt attribut utan bestämd artikel med slutartikel - initial satsposition](#28a-a-npl-def-båda-ungarna-substantiv-i-plural-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---initial-satsposition)
   - [28b. A Npl-def (): Substantiv i plural med framförställt attribut utan bestämd artikel med slutartikel - icke-initial satsposition](#28b-a-npl-def-substantiv-i-plural-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---icke-initial-satsposition)
   - [28c. A Npl-def (Båda ungarna): Substantiv i plural med framförställt attribut utan bestämd artikel med slutartikel - utrum, initial satsposition](#28c-a-npl-def-båda-ungarna-substantiv-i-plural-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---utrum-initial-satsposition)
   - [28d. A Npl-def (Olympiska sommarspelen): Substantiv i plural med framförställt attribut utan bestämd artikel med slutartikel - neutrum, initial satsposition](#28d-a-npl-def-olympiska-sommarspelen-substantiv-i-plural-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---neutrum-initial-satsposition)
