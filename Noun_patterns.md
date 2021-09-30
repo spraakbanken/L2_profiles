@@ -211,9 +211,39 @@ ________________________________________________________________________________
   - [25e. Poss\|NP-gen Npl (era länder): Substantiv i plural med possessivt pronomen el. genitivattribut - neutrum](#25e-possnp-gen-npl-era-länder-substantiv-i-plural-med-possessivt-pronomen-el-genitivattribut---neutrum)
   - [25f. Poss\|NP-gen Npl (era länder): Substantiv i plural med possessivt pronomen el. genitivattribut - normbrott](#25f-possnp-gen-npl-era-länder-substantiv-i-plural-med-possessivt-pronomen-el-genitivattribut---normbrott)
   - [25g. Poss\|NP-gen Npl (dina barnen): Substantiv i plural med possessivt pronomen el. genitivattribut - normbrott](#25g-possnp-gen-npl-dina-barnen-substantiv-i-plural-med-possessivt-pronomen-el-genitivattribut---normbrott)
+  - [25h. Poss\|NP-gen Npl (sin pengar): Substantiv i plural med possessivt pronomen el. genitivattribut - normbrott](#25h-possnp-gen-npl-sin-pengar-substantiv-i-plural-med-possessivt-pronomen-el-genitivattribut---normbrott)
+  - [25i. Poss\|NP-gen Npl (): Substantiv i plural med possessivt pronomen el. genitivattribut - normbrott](#25i-possnp-gen-npl-substantiv-i-plural-med-possessivt-pronomen-el-genitivattribut---normbrott)
 
-[26. Poss|NP-gen A N-pl (Dagens moderna mammor och pappor)](#26-possnp-gen-a-n-pl-dagens-moderna-mammor-och-pappor)
+[26. Poss\|NP-gen A Npl (Dagens moderna mammor och pappor)](#26-possnp-gen-a-npl-dagens-moderna-mammor-och-pappor)
 
+  - [26a. Poss\|NP-gen A Npl (): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut](#26a-possnp-gen-a-npl-substantiv-i-plural-med-possessivt-pronomen-el-genitivattribut-och-framförställt-attribut)
+  - [26b. Poss\|NP-gen A Npl (mina smutsik kläderna): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut - normbrott](#26b-possnp-gen-a-npl-mina-smutsik-kläderna-substantiv-i-plural-med-possessivt-pronomen-el-genitivattribut-och-framförställt-attribut---normbrott)
+  - [26c. Poss\|NP-gen A Npl (min dåliga dagar): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut - normbrott](#26c-possnp-gen-a-npl-min-dåliga-dagar-substantiv-i-plural-med-possessivt-pronomen-el-genitivattribut-och-framförställt-attribut---normbrott)
+  - [26d. Poss\|NP-gen A Npl (Bergmans bästa filmer): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut - utrum](#26d-possnp-gen-a-npl-bergmans-bästa-filmer-substantiv-i-plural-med-possessivt-pronomen-el-genitivattribut-och-framförställt-attribut---utrum)
+  - [26e. Poss\|NP-gen A Npl (sina egna språk): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut - neutrum](#26e-possnp-gen-a-npl-sina-egna-språk-substantiv-i-plural-med-possessivt-pronomen-el-genitivattribut-och-framförställt-attribut---neutrum)
+  - [26f. Poss\|NP-gen A Npl (sina egna jobberfarenheterna): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut - utrum, normbrott](#26f-possnp-gen-a-npl-sina-egna-jobberfarenheterna-substantiv-i-plural-med-possessivt-pronomen-el-genitivattribut-och-framförställt-attribut---utrum-normbrott)
+  - [26g. Poss\|NP-gen A Npl (): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut - neutrum, normbrott](#26g-possnp-gen-a-npl-substantiv-i-plural-med-possessivt-pronomen-el-genitivattribut-och-framförställt-attribut---neutrum-normbrott)
+  - [26h. Poss\|NP-gen A Npl (): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut - normbrott](#26h-possnp-gen-a-npl-substantiv-i-plural-med-possessivt-pronomen-el-genitivattribut-och-framförställt-attribut---normbrott)
+  - [26i. Poss\|NP-gen A Npl (): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut - normbrott](#26i-possnp-gen-a-npl-substantiv-i-plural-med-possessivt-pronomen-el-genitivattribut-och-framförställt-attribut---normbrott)
+ 
+[27. ](#27)
+
+  - [26a](#26a)
+  - [26a](#26a)
+  - [26a](#26a)
+  - [26a](#26a)
+  - [26a](#26a)
+  - [26a](#26a)
+  - [26a](#26a)
+
+[28. ](#28)
+
+  - [26a](#26a)
+  - [26a](#26a)
+  - [26a](#26a)
+  - [26a](#26a)
+  - [26a](#26a)
+  - [26a](#26a)
   - [26a](#26a)
 
 _____________________________________________________________________________________
@@ -1238,13 +1268,13 @@ Mönster 26d, t.ex. Fanny och Alexander är en av Ingmar _Bergmans bästa filmer
 
 _____________________________________________________________________________________
 
-### 26e. Poss\|NP-gen A N-pl (_sina egna språk_): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut - neutrum
+### 26e. Poss\|NP-gen A Npl (_sina egna språk_): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut - neutrum
 
 Mönster 26e, t.ex. Folket borde kämpa för att bevara _sina egna språk_. 
 
 _____________________________________________________________________________________
 
-### 26f. Poss\|NP-gen A N-pl (_sina egna jobberfarenheterna_): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut - utrum, normbrott
+### 26f. Poss\|NP-gen A Npl (_sina egna jobberfarenheterna_): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut - utrum, normbrott
 
 Mönster 26f, t.ex. Konkurransen är jättestor och _sina egna jobberfarenheterna_ mycket begränsade . 
 
@@ -1253,7 +1283,7 @@ Normbrott (förekommer i uppsatser). Mönstret används inte.
 _____________________________________________________________________________________
 
 
-### 26g. Poss\|NP-gen A N-pl (): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut - neutrum, normbrott
+### 26g. Poss\|NP-gen A Npl (): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut - neutrum, normbrott
 
 Mönster 26g, t.ex.  (0 hits)
 
