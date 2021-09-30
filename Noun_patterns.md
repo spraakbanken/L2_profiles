@@ -152,14 +152,20 @@ ________________________________________________________________________________
   - [17e. Npl-def (Fyll i luckorna): Substantiv i plural med slutartikel - utrum, icke-initial satsposition](#17e-npl-def-fyll-i-luckorna-substantiv-i-plural-med-slutartikel---utrum-icke-initial-satsposition)
   - [17f. Npl-def (barnen): Substantiv i plural med slutartikel - neutrum, icke-initial satsposition](#17f-npl-def-barnen-substantiv-i-plural-med-slutartikel---neutrum-icke-initial-satsposition)
 
-[18. A N-pl-def (Båda ungarna var hemma)](#18-a-n-pl-def-båda-ungarna-var-hemma)
+[18. def A Npl-def (de flesta svenskarna)](#18-def-a-npl-def-de-flesta-svenskarna)
 
-  - [18a](#18a)
-  - [18b](#18c)
+  - [18a. def A Npl-def (De flesta svenskarna): Substantiv i plural med framförställt attribut, bestämd artikel och slutartikel - initial satsposition](#18a-def-a-npl-def-de-flesta-svenskarna-substantiv-i-plural-med-framförställt-attribut-bestämd-artikel-och-slutartikel---initial-satsposition)
+  - [18b. def A Npl-def (båda ungarna): Substantiv i plural med framförställt attribut, bestämd artikel och slutartikel - icke-initial satsposition](#18b-def-a-npl-def-båda-ungarna-substantiv-i-plural-med-framförställt-attribut-bestämd-artikel-och-slutartikel---icke-initial-satsposition)
+  - [18c. def A Npl-def (De flesta svenskarna): Substantiv i plural med framförställt attribut, bestämd artikel och slutartikel - utrum, initial satsposition](#18c-def-a-npl-def-de-flesta-svenskarna-substantiv-i-plural-med-framförställt-attribut-bestämd-artikel-och-slutartikel---utrum-initial-satsposition)
+  - [18d. def A Npl-def (De sämsta jobben): Substantiv i plural med framförställt attribut, bestämd artikel och slutartikel - neutrum, initial satsposition](#18d-def-a-npl-def-de-sämsta-jobben-substantiv-i-plural-med-framförställt-attribut-bestämd-artikel-och-slutartikel---neutrum-initial-satsposition)
+  - [18e. def A Npl-def (De flesta svenskarna): Substantiv i plural med framförställt attribut, bestämd artikel och slutartikel - utrum](#18e-def-a-npl-def-de-flesta-svenskarna-substantiv-i-plural-med-framförställt-attribut-bestämd-artikel-och-slutartikel---utrum)
+  - [18f. def A Npl-def (under de senaste åren): Substantiv i plural med framförställt attribut, bestämd artikel och slutartikel - neutrum](#18f-def-a-npl-def-under-de-senaste-åren-substantiv-i-plural-med-framförställt-attribut-bestämd-artikel-och-slutartikel---neutrum)
 
-[19. de (här|där) N-pl-def (När de pengarna inte räckte...)](#19-de-härdär-n-pl-def-när-de-pengarna-inte-räckte)
+[19. de här\|där Npl-def (de här orden)](#19-de-härdär-npl-def-de-här-orden)
 
-  - [19a](#19a)
+  - [19a. de här\|där Npl-def (de här orden): Substantiv i plural med demonstrativt pronomen de här|där och slutartikel](#19a-de-härdär-npl-def-de-här-orden-substantiv-i-plural-med-demonstrativt-pronomen-de-härdär-och-slutartikel)
+  - [19b. de här\|där Npl-def (De där idéerna): Substantiv i plural med demonstrativt pronomen de här\|där och slutartikel - utrum](#19b-de-härdär-npl-def-de-där-idéerna-substantiv-i-plural-med-demonstrativt-pronomen-de-härdär-och-slutartikel---utrum)
+  - [19c. de här\|där Npl-def (de här orden): Substantiv i plural med demonstrativt pronomen de här\|där och slutartikel - neutrum](#19c-de-härdär-npl-def-de-här-orden-substantiv-i-plural-med-demonstrativt-pronomen-de-härdär-och-slutartikel---neutrum)
 
 [20. de (här|där) A N-pl-def (Ett av de många problemen)](#20-de-härdär-a-n-pl-def-ett-av-de-många-problemen)
 
