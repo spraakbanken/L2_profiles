@@ -180,7 +180,6 @@ ________________________________________________________________________________
   - [21c. de Npl (de skepp): Substantiv i plural med bestämd artikel de utan slutartikel - neutrum](#21c-de-npl-de-skepp-substantiv-i-plural-med-bestämd-artikel-de-utan-slutartikel---neutrum)
   - [21d. de Npl relS (de människor som): Substantiv i plural med bestämd artikel de utan slutartikel - utrum med relativ bisatsinledare](#21d-de-npl-rels-de-människor-som-substantiv-i-plural-med-bestämd-artikel-de-utan-slutartikel---utrum-med-relativ-bisatsinledare)
   - [21e. de Npl relS (de partikelverb som): Substantiv i plural med bestämd artikel de utan slutartikel - neutrum med relativ bisatsinledare](#21e-de-npl-rels-de-partikelverb-som-substantiv-i-plural-med-bestämd-artikel-de-utan-slutartikel---neutrum-med-relativ-bisatsinledare)
-  - 
 
 [22. de A Npl (De sista ord vi säger)](#22-de-a-npl-de-sista-ord-vi-säger)
 
@@ -188,7 +187,7 @@ ________________________________________________________________________________
   - [22b. de A Npl (de finaste kläder): Substantiv i plural med bestämd artikel de, framförställt attribut, utan slutartikel - utrum](#22b-de-a-npl-de-finaste-kläder-substantiv-i-plural-med-bestämd-artikel-de-framförställt-attribut-utan-slutartikel---utrum)
   - [22c. de A Npl (De flesta adjektiv): Substantiv i plural med bestämd artikel de, framförställt attribut, utan slutartikel - neutrum](#22c-de-a-npl-de-flesta-adjektiv-substantiv-i-plural-med-bestämd-artikel-de-framförställt-attribut-utan-slutartikel---neutrum)
   - [22d. de A Npl relS (de svenska författare som): Substantiv i plural med bestämd artikel de, framförställt attribut, utan slutartikel - med relativ bisatsinledare](#22d-de-a-npl-rels-de-svenska-författare-som-substantiv-i-plural-med-bestämd-artikel-de-framförställt-attribut-utan-slutartikel---med-relativ-bisatsinledare)
-  - [22e. de A Npl relS (de svenska författare som): Substantiv i plural med bestämd artikel de, framförställt attribut, utan slutartikel - utrum med relativ bisatsinledare](#22e-de-a-npl-rels-de-svenska-författare-som-substantiv-i-plural-med-bestämd-artikel-de-framförställt-attribut-utan-slutartikel---utrum-med-relativ bisatsinledare)
+  - [22e. de A Npl relS (de svenska författare som): Substantiv i plural med bestämd artikel de, framförställt attribut, utan slutartikel - utrum med relativ bisatsinledare](#22e-de-a-npl-rels-de-svenska-författare-som-substantiv-i-plural-med-bestämd-artikel-de-framförställt-attribut-utan-slutartikel---utrum-med-relativ-bisatsinledare)
   - [22f. de A Npl relS (de politiska partier som): Substantiv i plural med bestämd artikel de, framförställt attribut, utan slutartikel - neutrum med relativ bisatsinledare](#22f-de-a-npl-rels-de-politiska-partier-som-substantiv-i-plural-med-bestämd-artikel-de-framförställt-attribut-utan-slutartikel---neutrum-med-relativ-bisatsinledare)
 
 [23. dessa Npl (Ett av dessa språk)](#23-dessa-npl-ett-av-dessa-språk)
