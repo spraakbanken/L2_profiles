@@ -76,12 +76,12 @@ ________________________________________________________________________________
 
 [8. def A Nsg-def (Den naturliga följden av att)](#8-def-a-nsg-def-den-naturliga-följden-av-att)
 
-  - [8a. def A Nsg-def (Den naturliga följden av att): Substantiv i singular med framförställt attribut, slutartikel och fristående artikel - initial satsposition](#8a-def-a-nsg-def-den-naturliga-följden-av-att-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-fristående-artikel---initial-satsposition)
-  - [8b. def A Nsg-def (förklaringen till det gåtfulla leendet): Substantiv i singular med framförställt attribut, slutartikel och fristående artikel - icke-initial satsposition](#8b-def-a-nsg-def-förklaringen-till-det-gåtfulla-leendet-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-fristående-artikel---icke-initial-satsposition)
-  - [8c. def A Nsg-def (Den unga flickan uppfostrades): Substantiv i singular med framförställt attribut, slutartikel och fristående artikel - utrum, initial satspositio](#8c-def-a-nsg-def-den-unga-flickan-uppfostrades-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-fristående-artikel---utrum-initial-satsposition)
-  - [8d. def A Nsg-def (Det största problemet är inte): Substantiv i singular med framförställt attribut, slutartikel och fristående artikel - neutrum, initial satsposition](#8d-def-a-nsg-def-det-största-problemet-är-inte-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-fristående-artikel---neutrum-initial-satsposition)
-  - [8e. def A Nsg-def (Oden var den klokaste guden): Substantiv i singular med framförställt attribut, slutartikel och fristående artikel - utrum, icke-initial satsposition](#8e-def-a-nsg-def-oden-var-den-klokaste-guden-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-fristående-artikel---utrum-icke-initial-satsposition)
-  - [8f. def A Nsg-def (besökarna i det virtuella museet): Substantiv i singular med framförställt attribut, slutartikel och fristående artikel - neutrum, icke-initial satsposition](#8f-def-a-nsg-def-besökarna-i-det-virtuella-museet-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-fristående-artikel---neutrum-icke-initial-satsposition)
+  - [8a. def A Nsg-def (Den naturliga följden av att): Substantiv i singular med framförställt attribut, slutartikel och bestämd artikel - initial satsposition](#8a-def-a-nsg-def-den-naturliga-följden-av-att-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-bestämd-artikel---initial-satsposition)
+  - [8b. def A Nsg-def (förklaringen till det gåtfulla leendet): Substantiv i singular med framförställt attribut, slutartikel och bestämd artikel - icke-initial satsposition](#8b-def-a-nsg-def-förklaringen-till-det-gåtfulla-leendet-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-bestämd-artikel---icke-initial-satsposition)
+  - [8c. def A Nsg-def (Den unga flickan uppfostrades): Substantiv i singular med framförställt attribut, slutartikel och bestämd artikel - utrum, initial satspositio](#8c-def-a-nsg-def-den-unga-flickan-uppfostrades-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-bestämd-artikel---utrum-initial-satsposition)
+  - [8d. def A Nsg-def (Det största problemet är inte): Substantiv i singular med framförställt attribut, slutartikel och bestämd artikel - neutrum, initial satsposition](#8d-def-a-nsg-def-det-största-problemet-är-inte-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-bestämd-artikel---neutrum-initial-satsposition)
+  - [8e. def A Nsg-def (Oden var den klokaste guden): Substantiv i singular med framförställt attribut, slutartikel och bestämd artikel - utrum, icke-initial satsposition](#8e-def-a-nsg-def-oden-var-den-klokaste-guden-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-bestämd-artikel---utrum-icke-initial-satsposition)
+  - [8f. def A Nsg-def (besökarna i det virtuella museet): Substantiv i singular med framförställt attribut, slutartikel och bestämd artikel - neutrum, icke-initial satsposition](#8f-def-a-nsg-def-besökarna-i-det-virtuella-museet-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-bestämd-artikel---neutrum-icke-initial-satsposition)
 
 [9. den\|det här\|där Nsg-def (_Den här studien_)](#9-dendet-härdär-nsg-def-den-här-studien)
 
@@ -97,21 +97,21 @@ ________________________________________________________________________________
 
 [11. den\|det Nsg (Det var det ögönblick då)](#11-dendet-nsg-det-var-det-ögönblick-då)
 
-  - [11a. den\|det Nsg (den rök du andas in): Substantiv i singular med fristående artikel den\|det utan slutartikel](#11a-dendet-nsg-den-rök-du-andas-in-substantiv-i-singular-med-fristående-artikel-dendet-utan-slutartikel)
-  - [11b. den Nsg (den rök du andas in): Substantiv i singular med fristående artikel den utan slutartikel - utrum](#11b-den-nsg-den-rök-du-andas-in-substantiv-i-singular-med-fristående-artikel-den-utan-slutartikel---utrum)
-  - [11c. det Nsg (det land man flyttar till): Substantiv i singular med fristående artikel det utan slutartikel - neutrum](#11c-det-nsg-det-land-man-flyttar-till-substantiv-i-singular-med-fristående-artikel-det-utan-slutartikel---neutrum)
-  - [11d. det\|den Nsg som (Det var det ögönblick då): Substantiv i singular med fristående artikel det\|den utan slutartikel - med relativ bisatsinledare](#11d-detden-nsg-som-det-var-det-ögönblick-då-substantiv-i-singular-med-fristående-artikel-detden-utan-slutartikel---med-relativ-bisatsinledare)
-  - [11e. den Nsg som (den björn som): Substantiv i singular med fristående artikel den utan slutartikel - utrum med relativ bisatsinledare](#11e-den-nsg-som-den-björn-som-substantiv-i-singular-med-fristående-artikel-den-utan-slutartikel---utrum-med-relativ-bisatsinledare)
-  - [11f. det Nsg som (Det var det ögönblick då): Substantiv i singular med fristående artikel det utan slutartikel - neutrum med relativ bisatsinledare](#11f-det-nsg-som-det-var-det-ögönblick-då-substantiv-i-singular-med-fristående-artikel-det-utan-slutartikel---neutrum-med-relativ-bisatsinledare)
+  - [11a. den\|det Nsg (den rök du andas in): Substantiv i singular med bestämd artikel den\|det utan slutartikel](#11a-dendet-nsg-den-rök-du-andas-in-substantiv-i-singular-med-bestämd-artikel-dendet-utan-slutartikel)
+  - [11b. den Nsg (den rök du andas in): Substantiv i singular med bestämd artikel den utan slutartikel - utrum](#11b-den-nsg-den-rök-du-andas-in-substantiv-i-singular-med-bestämd-artikel-den-utan-slutartikel---utrum)
+  - [11c. det Nsg (det land man flyttar till): Substantiv i singular med bestämd artikel det utan slutartikel - neutrum](#11c-det-nsg-det-land-man-flyttar-till-substantiv-i-singular-med-bestämd-artikel-det-utan-slutartikel---neutrum)
+  - [11d. det\|den Nsg som (Det var det ögönblick då): Substantiv i singular med bestämd artikel det\|den utan slutartikel - med relativ bisatsinledare](#11d-detden-nsg-som-det-var-det-ögönblick-då-substantiv-i-singular-med-bestämd-artikel-detden-utan-slutartikel---med-relativ-bisatsinledare)
+  - [11e. den Nsg som (den björn som): Substantiv i singular med bestämd artikel den utan slutartikel - utrum med relativ bisatsinledare](#11e-den-nsg-som-den-björn-som-substantiv-i-singular-med-bestämd-artikel-den-utan-slutartikel---utrum-med-relativ-bisatsinledare)
+  - [11f. det Nsg som (Det var det ögönblick då): Substantiv i singular med bestämd artikel det utan slutartikel - neutrum med relativ bisatsinledare](#11f-det-nsg-som-det-var-det-ögönblick-då-substantiv-i-singular-med-bestämd-artikel-det-utan-slutartikel---neutrum-med-relativ-bisatsinledare)
 
 [12. den\|det A Nsg (Att sova är inte det passiva tillstånd)](#12-dendet-a-nsg-att-sova-är-inte-det-passiva-tillstånd)
 
-  - [12a. den\|det A Nsg (Att sova är inte det passiva tillstånd): Substantiv i singular med fristående artikel den\|det och framförställt attribut utan slutartikel](#12a-dendet-a-nsg-att-sova-är-inte-det-passiva-tillstånd-substantiv-i-singular-med-fristående-artikel-dendet-och-framförställt-attribut-utan-slutartikel)
-  - [12b. den A Nsg (den ringaste lust att diska): Substantiv i singular med fristående artikel den och framförställt attribut utan slutartikel - utrum](#12b-den-a-nsg-den-ringaste-lust-att-diska-substantiv-i-singular-med-fristående-artikel-den-och-framförställt-attribut-utan-slutartikel---utrum)
-  - [12c. det A Nsg (det neutrala språk man ofta hör): Substantiv i singular med fristående artikel det och framförställt attribut utan slutartikel - neutrum](#12c-det-a-nsg-det-neutrala-språk-man-ofta-hör-substantiv-i-singular-med-fristående-artikel-det-och-framförställt-attribut-utan-slutartikel---neutrum)
-  - [12d. den\|det A Nsg som (Att sova är inte det passiva tillstånd som): Substantiv i singular med fristående artikel den\|det och framförställt attribut utan slutartikel - med relativ bisatsinledare](#12d-dendet-a-nsg-som-att-sova-är-inte-det-passiva-tillstånd-som-substantiv-i-singular-med-fristående-artikel-dendet-och-framförställt-attribut-utan-slutartikel---med-relativ-bisatsinledare)
-  - [12e. den A Nsg som (den rytmiska musik som hörs): Substantiv i singular med fristående artikel den och framförställt attribut utan slutartikel - utrum med relativ bisatsinledare](#12e-den-a-nsg-som-den-rytmiska-musik-som-hörs-substantiv-i-singular-med-fristående-artikel-den-och-framförställt-attribut-utan-slutartikel---utrum-med-relativ-bisatsinledare)
-  - [12f. det A Nsg som (Att sova är inte det passiva tillstånd som): Substantiv i singular med fristående artikel det och framförställt attribut utan slutartikel - neutrum med relativ bisatsinledare](#12f-det-a-nsg-som-att-sova-är-inte-det-passiva-tillstånd-som-substantiv-i-singular-med-fristående-artikel-det-och-framförställt-attribut-utan-slutartikel---neutrum-med-relativ-bisatsinledare)
+  - [12a. den\|det A Nsg (Att sova är inte det passiva tillstånd): Substantiv i singular med bestämd artikel den\|det och framförställt attribut utan slutartikel](#12a-dendet-a-nsg-att-sova-är-inte-det-passiva-tillstånd-substantiv-i-singular-med-bestämd-artikel-dendet-och-framförställt-attribut-utan-slutartikel)
+  - [12b. den A Nsg (den ringaste lust att diska): Substantiv i singular med bestämd artikel den och framförställt attribut utan slutartikel - utrum](#12b-den-a-nsg-den-ringaste-lust-att-diska-substantiv-i-singular-med-bestämd-artikel-den-och-framförställt-attribut-utan-slutartikel---utrum)
+  - [12c. det A Nsg (det neutrala språk man ofta hör): Substantiv i singular med bestämd artikel det och framförställt attribut utan slutartikel - neutrum](#12c-det-a-nsg-det-neutrala-språk-man-ofta-hör-substantiv-i-singular-med-bestämd-artikel-det-och-framförställt-attribut-utan-slutartikel---neutrum)
+  - [12d. den\|det A Nsg som (Att sova är inte det passiva tillstånd som): Substantiv i singular med bestämd artikel den\|det och framförställt attribut utan slutartikel - med relativ bisatsinledare](#12d-dendet-a-nsg-som-att-sova-är-inte-det-passiva-tillstånd-som-substantiv-i-singular-med-bestämd-artikel-dendet-och-framförställt-attribut-utan-slutartikel---med-relativ-bisatsinledare)
+  - [12e. den A Nsg som (den rytmiska musik som hörs): Substantiv i singular med bestämd artikel den och framförställt attribut utan slutartikel - utrum med relativ bisatsinledare](#12e-den-a-nsg-som-den-rytmiska-musik-som-hörs-substantiv-i-singular-med-bestämd-artikel-den-och-framförställt-attribut-utan-slutartikel---utrum-med-relativ-bisatsinledare)
+  - [12f. det A Nsg som (Att sova är inte det passiva tillstånd som): Substantiv i singular med bestämd artikel det och framförställt attribut utan slutartikel - neutrum med relativ bisatsinledare](#12f-det-a-nsg-som-att-sova-är-inte-det-passiva-tillstånd-som-substantiv-i-singular-med-bestämd-artikel-det-och-framförställt-attribut-utan-slutartikel---neutrum-med-relativ-bisatsinledare)
 
 [13. denna|detta N (Vid denna tid var hon...)](#13-dennadetta-n-vid-denna-tid-var-hon)
 
@@ -467,7 +467,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
-### 8a. def A Nsg-def (_Den naturliga följden_ av att): Substantiv i singular med framförställt attribut, slutartikel och fristående artikel - initial satsposition
+### 8a. def A Nsg-def (_Den naturliga följden_ av att): Substantiv i singular med framförställt attribut, slutartikel och bestämd artikel - initial satsposition
 
 Mönster 8a, t.ex. _Den självklara rätten_ att resa fritt gäller bara oss. 
 
@@ -475,7 +475,7 @@ Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 8b. def A Nsg-def (förklaringen till _det gåtfulla leendet_): Substantiv i singular med framförställt attribut, slutartikel och fristående artikel - icke-initial satsposition
+### 8b. def A Nsg-def (förklaringen till _det gåtfulla leendet_): Substantiv i singular med framförställt attribut, slutartikel och bestämd artikel - icke-initial satsposition
 
 Mönster 8b, t.ex. Är det förklaringen till _det gåtfulla leendet_ ?  
 
@@ -483,24 +483,24 @@ Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 8c. def A Nsg-def (_Den unga flickan_ uppfostrades): Substantiv i singular med framförställt attribut, slutartikel och fristående artikel - utrum, initial satsposition
+### 8c. def A Nsg-def (_Den unga flickan_ uppfostrades): Substantiv i singular med framförställt attribut, slutartikel och bestämd artikel - utrum, initial satsposition
 
 Mönster 8c, undergrupp till 8a, t.ex. _Den unga flickan_ uppfostrades till att bli kung ! 
 _____________________________________________________________________________________
 
-### 8d. def A Nsg-def (_Det största problemet_ är inte): Substantiv i singular med framförställt attribut, slutartikel och fristående artikel - neutrum, initial satsposition
+### 8d. def A Nsg-def (_Det största problemet_ är inte): Substantiv i singular med framförställt attribut, slutartikel och bestämd artikel - neutrum, initial satsposition
 
 Mönster 8d, undergrupp till 8a, t.ex. _Det största problemet_ är inte cyklisterna. 
 
 _____________________________________________________________________________________
 
-### 8e. def A Nsg-def (Oden var _den klokaste guden_): Substantiv i singular med framförställt attribut, slutartikel och fristående artikel - utrum, icke-initial satsposition
+### 8e. def A Nsg-def (Oden var _den klokaste guden_): Substantiv i singular med framförställt attribut, slutartikel och bestämd artikel - utrum, icke-initial satsposition
 
 Mönster 8e, undergrupp till 8b, t.ex. Oden var _den klokaste guden_ .  
 
 _____________________________________________________________________________________
 
-### 8f. def A Nsg-def (besökarna i _det virtuella museet_): Substantiv i singular med framförställt attribut, slutartikel och fristående artikel - neutrum, icke-initial satsposition
+### 8f. def A Nsg-def (besökarna i _det virtuella museet_): Substantiv i singular med framförställt attribut, slutartikel och bestämd artikel - neutrum, icke-initial satsposition
 
 Mönster 8f, undergrupp till 8b, t.ex. An så länge har inte besökarna i _det virtuella museet_ blivit fler än de i det riktiga museet.
 
@@ -564,7 +564,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
-### 11a. den\|det Nsg (_den rök_ du andas in): Substantiv i singular med fristående artikel _den\|det_ utan slutartikel
+### 11a. den\|det Nsg (_den rök_ du andas in): Substantiv i singular med bestämd artikel _den\|det_ utan slutartikel
 
 Mönster 11a, t.ex. Det är inte bara du själv som skadas av	_den rök_ du andas in . 
 
@@ -572,19 +572,19 @@ Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 11b. den Nsg (_den rök_ du andas in): Substantiv i singular med fristående artikel _den_ utan slutartikel - utrum
+### 11b. den Nsg (_den rök_ du andas in): Substantiv i singular med bestämd artikel _den_ utan slutartikel - utrum
 
 Mönster 11b, t.ex. År 1718 tillkom _den indelning_ vi har i dag, med några undantag. 
 
 _____________________________________________________________________________________
 
-### 11c. det Nsg (_det land_ man flyttar till): Substantiv i singular med fristående artikel _det_ utan slutartikel - neutrum
+### 11c. det Nsg (_det land_ man flyttar till): Substantiv i singular med bestämd artikel _det_ utan slutartikel - neutrum
 
 Mönster 11c, t.ex. Vanligt är att man lär sig ett andraspråk i _det land_ man flyttar till. 
 
 _____________________________________________________________________________________
 
-### 11d. det\|den Nsg som (Det var _det ögönblick_ då): Substantiv i singular med fristående artikel _det\|den_ utan slutartikel - med relativ bisatsinledare
+### 11d. det\|den Nsg som (Det var _det ögönblick_ då): Substantiv i singular med bestämd artikel _det\|den_ utan slutartikel - med relativ bisatsinledare
 
 
 Mönster 11d, t.ex. Det var _det ögonblick_ då alla fordon stannade upp i några minuter för att sedan sakta styra över från vänster till höger sida.
@@ -594,7 +594,7 @@ Delmängd av 11a. Blandade genus.
 
 _____________________________________________________________________________________
 
-### 11e. den Nsg som (_den björn_ som): Substantiv i singular med fristående artikel _den_ utan slutartikel - utrum med relativ bisatsinledare
+### 11e. den Nsg som (_den björn_ som): Substantiv i singular med bestämd artikel _den_ utan slutartikel - utrum med relativ bisatsinledare
 
 
 Mönster 11e, t.ex.  Väck ej _den björn_ som sover
@@ -604,7 +604,7 @@ Delmängd av 11b
 
 _____________________________________________________________________________________
 
-### 11f. det Nsg som (Det var _det ögönblick_ då): Substantiv i singular med fristående artikel _det_ utan slutartikel - neutrum med relativ bisatsinledare
+### 11f. det Nsg som (Det var _det ögönblick_ då): Substantiv i singular med bestämd artikel _det_ utan slutartikel - neutrum med relativ bisatsinledare
 
 
 Mönster 11f, t.ex. Det var _det ögonblick_ då alla fordon stannade upp i några minuter för att sedan sakta styra över från vänster till höger sida.
@@ -618,7 +618,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
-### 12a. den\|det A Nsg (Att sova är inte _det passiva tillstånd_): Substantiv i singular med fristående artikel _den\|det_ och framförställt attribut utan slutartikel
+### 12a. den\|det A Nsg (Att sova är inte _det passiva tillstånd_): Substantiv i singular med bestämd artikel _den\|det_ och framförställt attribut utan slutartikel
 
 Mönster 12a, t.ex. Att sova är inte _det passiva tillstånd_ som vi trodde tidigare. 
 
@@ -626,19 +626,19 @@ Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 12b. den A Nsg (_den ringaste lust_ 	att diska): Substantiv i singular med fristående artikel _den_ och framförställt attribut utan slutartikel - utrum
+### 12b. den A Nsg (_den ringaste lust_ 	att diska): Substantiv i singular med bestämd artikel _den_ och framförställt attribut utan slutartikel - utrum
 
 Mönster 12b, t.ex. Hon hade inte _den ringaste lust_ att diska. 
 
 _____________________________________________________________________________________
 
-### 12c. det A Nsg (_det neutrala språk_ man ofta hör): Substantiv i singular med fristående artikel _det_ och framförställt attribut utan slutartikel - neutrum
+### 12c. det A Nsg (_det neutrala språk_ man ofta hör): Substantiv i singular med bestämd artikel _det_ och framförställt attribut utan slutartikel - neutrum
 
 Mönster 12c, t.ex. Det är _det neutrala språk_ man ofta hör i radio och TV .  
 
 _____________________________________________________________________________________
 
-### 12d. den\|det A Nsg som (Att sova är inte _det passiva tillstånd som_): Substantiv i singular med fristående artikel _den\|det_ och framförställt attribut utan slutartikel - med relativ bisatsinledare
+### 12d. den\|det A Nsg som (Att sova är inte _det passiva tillstånd som_): Substantiv i singular med bestämd artikel _den\|det_ och framförställt attribut utan slutartikel - med relativ bisatsinledare
 
 Mönster 12d, t.ex. Att sova är inte _det passiva tillstånd som_ vi trodde tidigare. 
 
@@ -646,13 +646,13 @@ Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 12e. den A Nsg som (_den rytmiska musik som_ hörs): Substantiv i singular med fristående artikel _den_ och framförställt attribut utan slutartikel - utrum med relativ bisatsinledare
+### 12e. den A Nsg som (_den rytmiska musik som_ hörs): Substantiv i singular med bestämd artikel _den_ och framförställt attribut utan slutartikel - utrum med relativ bisatsinledare
 
 Mönster 12e, t.ex. Barnens skratt och skrik blandas med _den rytmiska musik_ som hörs från högtalarna .  
 
 _____________________________________________________________________________________
 
-### 12f. det A Nsg som (Att sova är inte _det passiva tillstånd som_): Substantiv i singular med fristående artikel _det_ och framförställt attribut utan slutartikel - neutrum med relativ bisatsinledare
+### 12f. det A Nsg som (Att sova är inte _det passiva tillstånd som_): Substantiv i singular med bestämd artikel _det_ och framförställt attribut utan slutartikel - neutrum med relativ bisatsinledare
 
 Mönster 12f, t.ex. Att sova är inte _det passiva tillstånd_ som vi trodde tidigare. 
 
@@ -861,7 +861,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
-### 18a. def A Npl-def (_De flesta svenskarna_): Substantiv i plural med framförställt attribut, fristående artikel och slutartikel - initial satsposition
+### 18a. def A Npl-def (_De flesta svenskarna_): Substantiv i plural med framförställt attribut, bestämd artikel och slutartikel - initial satsposition
 
 Mönster 18a, t.ex. _De flesta svenskarna_ tar semester i juli månad .  
 
@@ -869,7 +869,7 @@ Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 18b. def A Npl-def (_båda ungarna_): Substantiv i plural med framförställt attribut, fristående artikel och slutartikel - icke-initial satsposition
+### 18b. def A Npl-def (_båda ungarna_): Substantiv i plural med framförställt attribut, bestämd artikel och slutartikel - icke-initial satsposition
 
 Mönster 18b, t.ex. _Båda ungarna_ var ju hemma, och de satt i telefon mest hela dagarna, när de inte tittade på video förstås! 
 
@@ -877,7 +877,7 @@ Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 18c. def A Npl-def (_De flesta svenskarna_): Substantiv i plural med framförställt attribut, fristående artikel och slutartikel - utrum, initial satsposition
+### 18c. def A Npl-def (_De flesta svenskarna_): Substantiv i plural med framförställt attribut, bestämd artikel och slutartikel - utrum, initial satsposition
 
 Mönster 18c, t.ex. _De flesta svenskarna_ tar semester i juli månad .  
 
@@ -886,7 +886,7 @@ Mönster 18c, t.ex. _De flesta svenskarna_ tar semester i juli månad .
 
 _____________________________________________________________________________________
 
-### 18d. def A Npl-def (_De sämsta jobben_): Substantiv i plural med framförställt attribut, fristående artikel och slutartikel - neutrum, initial satsposition
+### 18d. def A Npl-def (_De sämsta jobben_): Substantiv i plural med framförställt attribut, bestämd artikel och slutartikel - neutrum, initial satsposition
 
 Mönster 18d, t.ex. _De sämsta jobben_ ger de lägsta lönerna . 
 
@@ -894,13 +894,13 @@ Mönster 18d, t.ex. _De sämsta jobben_ ger de lägsta lönerna .
 
 _____________________________________________________________________________________
 
-### 18e. def A Npl-def (_De flesta svenskarna_): Substantiv i plural med framförställt attribut, fristående artikel och slutartikel - utrum
+### 18e. def A Npl-def (_De flesta svenskarna_): Substantiv i plural med framförställt attribut, bestämd artikel och slutartikel - utrum
 
 Mönster 18e, t.ex. _De flesta svenskarna_ tar semester i juli månad . 
 
 _____________________________________________________________________________________
 
-### 18f. def A Npl-def (under _de senaste åren_): Substantiv i plural med framförställt attribut, fristående artikel och slutartikel - neutrum
+### 18f. def A Npl-def (under _de senaste åren_): Substantiv i plural med framförställt attribut, bestämd artikel och slutartikel - neutrum
 
 Mönster 18f, t.ex. Detta kan vara en effekt av de svenska framgångarna under _de senaste åren_ .  
 
@@ -958,7 +958,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
-### 21a. de Npl (_de svar_): Substantiv i plural med fristående artikel _de_ utan slutartikel
+### 21a. de Npl (_de svar_): Substantiv i plural med bestämd artikel _de_ utan slutartikel
 
 Mönster 21a, t.ex. Redovisa _de svar_ du har fått för hela gruppen. 
 
@@ -966,25 +966,25 @@ Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 21b. de Npl (_de anställda_): Substantiv i plural med fristående artikel _de_ utan slutartikel - utrum
+### 21b. de Npl (_de anställda_): Substantiv i plural med bestämd artikel _de_ utan slutartikel - utrum
 
 Mönster 21b, t.ex. _De anställda_ träffas och utbyter idéer och erfarenheter  
 
 _____________________________________________________________________________________
 
-### 21c. de Npl (_de skepp_): Substantiv i plural med fristående artikel _de_ utan slutartikel - neutrum
+### 21c. de Npl (_de skepp_): Substantiv i plural med bestämd artikel _de_ utan slutartikel - neutrum
 
 Mönster 21c, t.ex. _De skepp_ man använde var långsmala och vackert formade.  
 
 _____________________________________________________________________________________
 
-### 21d. de Npl som (_de människor som_): Substantiv i plural med fristående artikel _de_ utan slutartikel - utrum med relativ bisatsinledare
+### 21d. de Npl som (_de människor som_): Substantiv i plural med bestämd artikel _de_ utan slutartikel - utrum med relativ bisatsinledare
 
 Mönster 21d, t.ex. Vad säger då statistiken mer om _de människor som_ separerar?  
 
 _____________________________________________________________________________________
 
-### 21e. de Npl som (_de partikelverb som_): Substantiv i plural med fristående artikel _de_ utan slutartikel - neutrum med relativ bisatsinledare
+### 21e. de Npl som (_de partikelverb som_): Substantiv i plural med bestämd artikel _de_ utan slutartikel - neutrum med relativ bisatsinledare
 
 Mönster 21e, t.ex. Vad betyder _de partikelverb som_ ni har strukit under ? 
 
@@ -994,7 +994,7 @@ ________________________________________________________________________________
 ## 22. de A Npl (_De sista ord_ vi säger)
 _____________________________________________________________________________________
 
-### 22a. de A Npl (_De sista ord_ vi säger): Substantiv i plural med fristående artikel _de_, framförställt attribut, utan slutartikel
+### 22a. de A Npl (_De sista ord_ vi säger): Substantiv i plural med bestämd artikel _de_, framförställt attribut, utan slutartikel
 
 Mönster 22a, t.ex. _De sista ord_ vi säger till varandra på kvällen: Sov gott!
 
@@ -1002,19 +1002,19 @@ Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 22b. de A Npl (_de finaste kläder_): Substantiv i plural med fristående artikel _de_, framförställt attribut, utan slutartikel - utrum
+### 22b. de A Npl (_de finaste kläder_): Substantiv i plural med bestämd artikel _de_, framförställt attribut, utan slutartikel - utrum
 
 Mönster 22b, t.ex. Bilden föreställer en liten prinsessa i _de finaste kläder_ i en vagn dragen av två strutsar. 
 
 _____________________________________________________________________________________
 
-### 22c. de A Npl (_De flesta adjektiv_): Substantiv i plural med fristående artikel _de_, framförställt attribut, utan slutartikel - neutrum
+### 22c. de A Npl (_De flesta adjektiv_): Substantiv i plural med bestämd artikel _de_, framförställt attribut, utan slutartikel - neutrum
 
 Mönster 22c, t.ex. _De flesta adjektiv_ kompareras som i grupp 1. 
 
 _____________________________________________________________________________________
 
-### 22d. de A Npl som (_de svenska författare som_): Substantiv i plural med fristående artikel _de_, framförställt attribut, utan slutartikel - med relativ bisatsinledare
+### 22d. de A Npl som (_de svenska författare som_): Substantiv i plural med bestämd artikel _de_, framförställt attribut, utan slutartikel - med relativ bisatsinledare
 
 Mönster 22d, t.ex. Hon tillhör _de svenska författare som_ blivit kända utanför Sverige. 
 
@@ -1022,13 +1022,13 @@ Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 22e. de A Npl som (_de svenska författare som_): Substantiv i plural med fristående artikel _de_, framförställt attribut, utan slutartikel - utrum med relativ bisatsinledare
+### 22e. de A Npl som (_de svenska författare som_): Substantiv i plural med bestämd artikel _de_, framförställt attribut, utan slutartikel - utrum med relativ bisatsinledare
 
 Mönster 22e, t.ex. Hon tillhör _de svenska författare som_ blivit kända utanför Sverige. 
 
 _____________________________________________________________________________________
 
-### 22f. de A Npl som (_de politiska partier som_): Substantiv i plural med fristående artikel _de_, framförställt attribut, utan slutartikel - neutrum med relativ bisatsinledare
+### 22f. de A Npl som (_de politiska partier som_): Substantiv i plural med bestämd artikel _de_, framförställt attribut, utan slutartikel - neutrum med relativ bisatsinledare
 
 Mönster 22f, t.ex. _De politiska partier som_ har flest röster i riksdagen får bilda regering. 
 _____________________________________________________________________________________
@@ -1228,7 +1228,7 @@ ________________________________________________________________________________
 ## 27. A Nsg-def (_Hela kvarteret_)
 _____________________________________________________________________________________
 
-### 27a. A Nsg-def (_Hela kvarteret_): Substantiv i singular med framförställt attribut utan fristående artikel med slutartikel - initial satsposition
+### 27a. A Nsg-def (_Hela kvarteret_): Substantiv i singular med framförställt attribut utan bestämd artikel med slutartikel - initial satsposition
 
 Mönster 27a, t.ex. _Hela kvarteret_ kommer att rivas. 
 
@@ -1236,7 +1236,7 @@ Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 27b. A Nsg-def (_högra örat_): Substantiv i singular med framförställt attribut utan fristående artikel med slutartikel - icke-initial satsposition
+### 27b. A Nsg-def (_högra örat_): Substantiv i singular med framförställt attribut utan bestämd artikel med slutartikel - icke-initial satsposition
 
 Mönster 27b, t.ex. Jag hör sämre på _högra örat_ än på vänstra. 
 
@@ -1244,25 +1244,25 @@ Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 27c. A Nsg-def (_Sista bussen_): Substantiv i singular med framförställt attribut utan fristående artikel med slutartikel - utrum, initial satsposition
+### 27c. A Nsg-def (_Sista bussen_): Substantiv i singular med framförställt attribut utan fribestämdstående artikel med slutartikel - utrum, initial satsposition
 
 Mönster 27c, t.ex. _Sista bussen_ går halv tolv, va?  
 
 _____________________________________________________________________________________
 
-### 27d. A Nsg-def (_Svenska språket_): Substantiv i singular med framförställt attribut utan fristående artikel med slutartikel - neutrum, initial satsposition
+### 27d. A Nsg-def (_Svenska språket_): Substantiv i singular med framförställt attribut utan bestämd artikel med slutartikel - neutrum, initial satsposition
 
 Mönster 26d, t.ex. _Svenska språket_ hade tidigare fyra olika böjningsformer av substantiven.  
 
 _____________________________________________________________________________________
 
-### 27e. A Nsg-def (_ena armen_): Substantiv i singular med framförställt attribut utan fristående artikel med slutartikel - utrum, icke-initial satsposition
+### 27e. A Nsg-def (_ena armen_): Substantiv i singular med framförställt attribut utan bestämd artikel med slutartikel - utrum, icke-initial satsposition
 
 Mönster 27e, t.ex. Jag började få ont i _ena armen_ 
 
 _____________________________________________________________________________________
 
-### 27f. A Nsg-def (_Hela kvarteret_): Substantiv i singular med framförställt attribut utan fristående artikel med slutartikel - neutrum, icke-initial satsposition
+### 27f. A Nsg-def (_Hela kvarteret_): Substantiv i singular med framförställt attribut utan bestämd artikel med slutartikel - neutrum, icke-initial satsposition
 
 Mönster 27f, t.ex. Eva följer _senaste modet_  
 
@@ -1271,7 +1271,7 @@ ________________________________________________________________________________
 ## 28. A Npl-def (_Båda ungarna_)
 _____________________________________________________________________________________
 
-### 28a. A Npl-def (_Båda ungarna_): Substantiv i plural med framförställt attribut utan fristående artikel med slutartikel - initial satsposition
+### 28a. A Npl-def (_Båda ungarna_): Substantiv i plural med framförställt attribut utan bestämd artikel med slutartikel - initial satsposition
 
 Mönster 28a, t.ex. _Båda ungarna_ var ju hemma 
 
@@ -1279,7 +1279,7 @@ Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 28b. A Npl-def (): Substantiv i plural med framförställt attribut utan fristående artikel med slutartikel - icke-initial satsposition
+### 28b. A Npl-def (): Substantiv i plural med framförställt attribut utan bestämd artikel med slutartikel - icke-initial satsposition
 
 Mönster 28b, t.ex. 
 
@@ -1287,25 +1287,25 @@ Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 28c. A Npl-def (_Båda ungarna_): Substantiv i plural med framförställt attribut utan fristående artikel med slutartikel - utrum, initial satsposition
+### 28c. A Npl-def (_Båda ungarna_): Substantiv i plural med framförställt attribut utan bestämd artikel med slutartikel - utrum, initial satsposition
 
 Mönster 28c, t.ex. _Båda ungarna_ var ju hemma 
 
 _____________________________________________________________________________________
 
-### 28d. A Npl-def (_Olympiska sommarspelen_): Substantiv i plural med framförställt attribut utan fristående artikel med slutartikel - neutrum, initial satsposition
+### 28d. A Npl-def (_Olympiska sommarspelen_): Substantiv i plural med framförställt attribut utan bestämd artikel med slutartikel - neutrum, initial satsposition
 
 Mönster 28d, t.ex. _Olympiska sommarspelen_ 1896-2000
 
 _____________________________________________________________________________________
 
-### 28e. A Npl-def (_hela dagarna_): Substantiv i plural med framförställt attribut utan fristående artikel med slutartikel - utrum, icke-initial satsposition
+### 28e. A Npl-def (_hela dagarna_): Substantiv i plural med framförställt attribut utan bestämd artikel med slutartikel - utrum, icke-initial satsposition
 
 Mönster 28e, t.ex. Hon berättar vad hon gör _hela dagarna_ 
 
 _____________________________________________________________________________________
 
-### 28f. A Npl-def (_båda paren_): Substantiv i plural med framförställt attribut utan fristående artikel med slutartikel - neutrum, icke-initial satsposition
+### 28f. A Npl-def (_båda paren_): Substantiv i plural med framförställt attribut utan bestämd artikel med slutartikel - neutrum, icke-initial satsposition
 
 Mönster 28f, t.ex. 1981 hade _båda paren_ skilt sig 
 
