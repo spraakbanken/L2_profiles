@@ -100,18 +100,18 @@ ________________________________________________________________________________
   - [11a. den\|det Nsg (den rök du andas in): Substantiv i singular med bestämd artikel den\|det utan slutartikel](#11a-dendet-nsg-den-rök-du-andas-in-substantiv-i-singular-med-bestämd-artikel-dendet-utan-slutartikel)
   - [11b. den Nsg (den rök du andas in): Substantiv i singular med bestämd artikel den utan slutartikel - utrum](#11b-den-nsg-den-rök-du-andas-in-substantiv-i-singular-med-bestämd-artikel-den-utan-slutartikel---utrum)
   - [11c. det Nsg (det land man flyttar till): Substantiv i singular med bestämd artikel det utan slutartikel - neutrum](#11c-det-nsg-det-land-man-flyttar-till-substantiv-i-singular-med-bestämd-artikel-det-utan-slutartikel---neutrum)
-  - [11d. det\|den Nsg som (Det var det ögönblick då): Substantiv i singular med bestämd artikel det\|den utan slutartikel - med relativ bisatsinledare](#11d-detden-nsg-som-det-var-det-ögönblick-då-substantiv-i-singular-med-bestämd-artikel-detden-utan-slutartikel---med-relativ-bisatsinledare)
-  - [11e. den Nsg som (den björn som): Substantiv i singular med bestämd artikel den utan slutartikel - utrum med relativ bisatsinledare](#11e-den-nsg-som-den-björn-som-substantiv-i-singular-med-bestämd-artikel-den-utan-slutartikel---utrum-med-relativ-bisatsinledare)
-  - [11f. det Nsg som (Det var det ögönblick då): Substantiv i singular med bestämd artikel det utan slutartikel - neutrum med relativ bisatsinledare](#11f-det-nsg-som-det-var-det-ögönblick-då-substantiv-i-singular-med-bestämd-artikel-det-utan-slutartikel---neutrum-med-relativ-bisatsinledare)
+  - [11d. det\|den Nsg relS (Det var det ögönblick då): Substantiv i singular med bestämd artikel det\|den utan slutartikel - med relativ bisatsinledare](#11d-detden-nsg-rels-det-var-det-ögönblick-då-substantiv-i-singular-med-bestämd-artikel-detden-utan-slutartikel---med-relativ-bisatsinledare)
+  - [11e. den Nsg relS (den björn som): Substantiv i singular med bestämd artikel den utan slutartikel - utrum med relativ bisatsinledare](#11e-den-nsg-rels-den-björn-som-substantiv-i-singular-med-bestämd-artikel-den-utan-slutartikel---utrum-med-relativ-bisatsinledare)
+  - [11f. det Nsg relS (Det var det ögönblick då): Substantiv i singular med bestämd artikel det utan slutartikel - neutrum med relativ bisatsinledare](#11f-det-nsg-rels-det-var-det-ögönblick-då-substantiv-i-singular-med-bestämd-artikel-det-utan-slutartikel---neutrum-med-relativ-bisatsinledare)
 
 [12. den\|det A Nsg (Att sova är inte det passiva tillstånd)](#12-dendet-a-nsg-att-sova-är-inte-det-passiva-tillstånd)
 
   - [12a. den\|det A Nsg (Att sova är inte det passiva tillstånd): Substantiv i singular med bestämd artikel den\|det och framförställt attribut utan slutartikel](#12a-dendet-a-nsg-att-sova-är-inte-det-passiva-tillstånd-substantiv-i-singular-med-bestämd-artikel-dendet-och-framförställt-attribut-utan-slutartikel)
   - [12b. den A Nsg (den ringaste lust att diska): Substantiv i singular med bestämd artikel den och framförställt attribut utan slutartikel - utrum](#12b-den-a-nsg-den-ringaste-lust-att-diska-substantiv-i-singular-med-bestämd-artikel-den-och-framförställt-attribut-utan-slutartikel---utrum)
   - [12c. det A Nsg (det neutrala språk man ofta hör): Substantiv i singular med bestämd artikel det och framförställt attribut utan slutartikel - neutrum](#12c-det-a-nsg-det-neutrala-språk-man-ofta-hör-substantiv-i-singular-med-bestämd-artikel-det-och-framförställt-attribut-utan-slutartikel---neutrum)
-  - [12d. den\|det A Nsg som (Att sova är inte det passiva tillstånd som): Substantiv i singular med bestämd artikel den\|det och framförställt attribut utan slutartikel - med relativ bisatsinledare](#12d-dendet-a-nsg-som-att-sova-är-inte-det-passiva-tillstånd-som-substantiv-i-singular-med-bestämd-artikel-dendet-och-framförställt-attribut-utan-slutartikel---med-relativ-bisatsinledare)
-  - [12e. den A Nsg som (den rytmiska musik som hörs): Substantiv i singular med bestämd artikel den och framförställt attribut utan slutartikel - utrum med relativ bisatsinledare](#12e-den-a-nsg-som-den-rytmiska-musik-som-hörs-substantiv-i-singular-med-bestämd-artikel-den-och-framförställt-attribut-utan-slutartikel---utrum-med-relativ-bisatsinledare)
-  - [12f. det A Nsg som (Att sova är inte det passiva tillstånd som): Substantiv i singular med bestämd artikel det och framförställt attribut utan slutartikel - neutrum med relativ bisatsinledare](#12f-det-a-nsg-som-att-sova-är-inte-det-passiva-tillstånd-som-substantiv-i-singular-med-bestämd-artikel-det-och-framförställt-attribut-utan-slutartikel---neutrum-med-relativ-bisatsinledare)
+  - [12d. den\|det A Nsg relS (Att sova är inte det passiva tillstånd som): Substantiv i singular med bestämd artikel den\|det och framförställt attribut utan slutartikel - med relativ bisatsinledare](#12d-dendet-a-nsg-rels-att-sova-är-inte-det-passiva-tillstånd-som-substantiv-i-singular-med-bestämd-artikel-dendet-och-framförställt-attribut-utan-slutartikel---med-relativ-bisatsinledare)
+  - [12e. den A Nsg relS (den rytmiska musik som hörs): Substantiv i singular med bestämd artikel den och framförställt attribut utan slutartikel - utrum med relativ bisatsinledare](#12e-den-a-nsg-rels-den-rytmiska-musik-som-hörs-substantiv-i-singular-med-bestämd-artikel-den-och-framförställt-attribut-utan-slutartikel---utrum-med-relativ-bisatsinledare)
+  - [12f. det A Nsg relS (Att sova är inte det passiva tillstånd som): Substantiv i singular med bestämd artikel det och framförställt attribut utan slutartikel - neutrum med relativ bisatsinledare](#12f-det-a-nsg-rels-att-sova-är-inte-det-passiva-tillstånd-som-substantiv-i-singular-med-bestämd-artikel-det-och-framförställt-attribut-utan-slutartikel---neutrum-med-relativ-bisatsinledare)
 
 [13. denna|detta N (Vid denna tid var hon...)](#13-dennadetta-n-vid-denna-tid-var-hon)
 
@@ -584,7 +584,7 @@ Mönster 11c, t.ex. Vanligt är att man lär sig ett andraspråk i _det land_ ma
 
 _____________________________________________________________________________________
 
-### 11d. det\|den Nsg som (Det var _det ögönblick_ då): Substantiv i singular med bestämd artikel _det\|den_ utan slutartikel - med relativ bisatsinledare
+### 11d. det\|den Nsg relS (Det var _det ögönblick_ då): Substantiv i singular med bestämd artikel _det\|den_ utan slutartikel - med relativ bisatsinledare
 
 
 Mönster 11d, t.ex. Det var _det ögonblick_ då alla fordon stannade upp i några minuter för att sedan sakta styra över från vänster till höger sida.
@@ -594,7 +594,7 @@ Delmängd av 11a. Blandade genus.
 
 _____________________________________________________________________________________
 
-### 11e. den Nsg som (_den björn_ som): Substantiv i singular med bestämd artikel _den_ utan slutartikel - utrum med relativ bisatsinledare
+### 11e. den Nsg relS (_den björn_ som): Substantiv i singular med bestämd artikel _den_ utan slutartikel - utrum med relativ bisatsinledare
 
 
 Mönster 11e, t.ex.  Väck ej _den björn_ som sover
@@ -604,7 +604,7 @@ Delmängd av 11b
 
 _____________________________________________________________________________________
 
-### 11f. det Nsg som (Det var _det ögönblick_ då): Substantiv i singular med bestämd artikel _det_ utan slutartikel - neutrum med relativ bisatsinledare
+### 11f. det Nsg relS (Det var _det ögönblick_ då): Substantiv i singular med bestämd artikel _det_ utan slutartikel - neutrum med relativ bisatsinledare
 
 
 Mönster 11f, t.ex. Det var _det ögonblick_ då alla fordon stannade upp i några minuter för att sedan sakta styra över från vänster till höger sida.
@@ -638,7 +638,7 @@ Mönster 12c, t.ex. Det är _det neutrala språk_ man ofta hör i radio och TV .
 
 _____________________________________________________________________________________
 
-### 12d. den\|det A Nsg som (Att sova är inte _det passiva tillstånd som_): Substantiv i singular med bestämd artikel _den\|det_ och framförställt attribut utan slutartikel - med relativ bisatsinledare
+### 12d. den\|det A Nsg relS (Att sova är inte _det passiva tillstånd som_): Substantiv i singular med bestämd artikel _den\|det_ och framförställt attribut utan slutartikel - med relativ bisatsinledare
 
 Mönster 12d, t.ex. Att sova är inte _det passiva tillstånd som_ vi trodde tidigare. 
 
@@ -646,13 +646,13 @@ Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 12e. den A Nsg som (_den rytmiska musik som_ hörs): Substantiv i singular med bestämd artikel _den_ och framförställt attribut utan slutartikel - utrum med relativ bisatsinledare
+### 12e. den A Nsg relS (_den rytmiska musik som_ hörs): Substantiv i singular med bestämd artikel _den_ och framförställt attribut utan slutartikel - utrum med relativ bisatsinledare
 
 Mönster 12e, t.ex. Barnens skratt och skrik blandas med _den rytmiska musik_ som hörs från högtalarna .  
 
 _____________________________________________________________________________________
 
-### 12f. det A Nsg som (Att sova är inte _det passiva tillstånd som_): Substantiv i singular med bestämd artikel _det_ och framförställt attribut utan slutartikel - neutrum med relativ bisatsinledare
+### 12f. det A Nsg relS (Att sova är inte _det passiva tillstånd som_): Substantiv i singular med bestämd artikel _det_ och framförställt attribut utan slutartikel - neutrum med relativ bisatsinledare
 
 Mönster 12f, t.ex. Att sova är inte _det passiva tillstånd_ som vi trodde tidigare. 
 
@@ -978,13 +978,13 @@ Mönster 21c, t.ex. _De skepp_ man använde var långsmala och vackert formade.
 
 _____________________________________________________________________________________
 
-### 21d. de Npl som (_de människor som_): Substantiv i plural med bestämd artikel _de_ utan slutartikel - utrum med relativ bisatsinledare
+### 21d. de Npl relS (_de människor som_): Substantiv i plural med bestämd artikel _de_ utan slutartikel - utrum med relativ bisatsinledare
 
 Mönster 21d, t.ex. Vad säger då statistiken mer om _de människor som_ separerar?  
 
 _____________________________________________________________________________________
 
-### 21e. de Npl som (_de partikelverb som_): Substantiv i plural med bestämd artikel _de_ utan slutartikel - neutrum med relativ bisatsinledare
+### 21e. de Npl relS (_de partikelverb som_): Substantiv i plural med bestämd artikel _de_ utan slutartikel - neutrum med relativ bisatsinledare
 
 Mönster 21e, t.ex. Vad betyder _de partikelverb som_ ni har strukit under ? 
 
@@ -1014,7 +1014,7 @@ Mönster 22c, t.ex. _De flesta adjektiv_ kompareras som i grupp 1.
 
 _____________________________________________________________________________________
 
-### 22d. de A Npl som (_de svenska författare som_): Substantiv i plural med bestämd artikel _de_, framförställt attribut, utan slutartikel - med relativ bisatsinledare
+### 22d. de A Npl relS (_de svenska författare som_): Substantiv i plural med bestämd artikel _de_, framförställt attribut, utan slutartikel - med relativ bisatsinledare
 
 Mönster 22d, t.ex. Hon tillhör _de svenska författare som_ blivit kända utanför Sverige. 
 
@@ -1022,13 +1022,13 @@ Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 22e. de A Npl som (_de svenska författare som_): Substantiv i plural med bestämd artikel _de_, framförställt attribut, utan slutartikel - utrum med relativ bisatsinledare
+### 22e. de A Npl relS (_de svenska författare som_): Substantiv i plural med bestämd artikel _de_, framförställt attribut, utan slutartikel - utrum med relativ bisatsinledare
 
 Mönster 22e, t.ex. Hon tillhör _de svenska författare som_ blivit kända utanför Sverige. 
 
 _____________________________________________________________________________________
 
-### 22f. de A Npl som (_de politiska partier som_): Substantiv i plural med bestämd artikel _de_, framförställt attribut, utan slutartikel - neutrum med relativ bisatsinledare
+### 22f. de A Npl relS (_de politiska partier som_): Substantiv i plural med bestämd artikel _de_, framförställt attribut, utan slutartikel - neutrum med relativ bisatsinledare
 
 Mönster 22f, t.ex. _De politiska partier som_ har flest röster i riksdagen får bilda regering. 
 _____________________________________________________________________________________
