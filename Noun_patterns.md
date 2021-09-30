@@ -202,9 +202,15 @@ ________________________________________________________________________________
   - [24b. dessa A Npl (dessa outtalade regler): Substantiv i plural med demonstrativt pronomen dessa och framförställt attribut - utrum](#24b-dessa-a-npl-dessa-outtalade-regler-substantiv-i-plural-med-demonstrativt-pronomen-dessa-och-framförställt-attribut---utrum)
   - [24c. dessa A Npl (Dessa växelvarma djur): Substantiv i plural med demonstrativt pronomen dessa och framförställt attribut - neutrum](#24c-dessa-a-npl-dessa-växelvarma-djur-substantiv-i-plural-med-demonstrativt-pronomen-dessa-och-framförställt-attribut---neutrum)
 
-[25. Poss|NP-gen N-p](#25-possnp-gen-n-pl)
+[25. Poss\|NP-gen Npl (mina barn)](#25-possnp-gennpl-mina-barn)
 
-  - [25a](#25a)
+  - [25a. Poss\|NP-gen Npl (mina barn): Substantiv i plural med possessivt pronomen el. genitivattribut](#25a-possnp-gen-npl-mina-barn-substantiv-i-plural-med-possessivt-pronomen-el-genitivattribut)
+  - [25b. Poss\|NP-gen Npl (min kompisarna): Substantiv i plural med possessivt pronomen el. genitivattribut - normbrott](#25b-possnp-gen-npl-min-kompisarna-substantiv-i-plural-med-possessivt-pronomen-el-genitivattribut---normbrott)
+  - [25c. Poss\|NP-gen Npl (min byxor): Substantiv i plural med possessivt pronomen el. genitivattribut - normbrott](#25c-possnp-gen-npl-min-byxor-substantiv-i-plural-med-possessivt-pronomen-el-genitivattribut---normbrott)
+  - [25d. Poss\|NP-gen Npl (dina kamrater): Substantiv i plural med possessivt pronomen el. genitivattribut - utrum](#25d-possnp-gen-npl-dina-kamrater-substantiv-i-plural-med-possessivt-pronomen-el-genitivattribut---utrum)
+  - [25e. Poss\|NP-gen Npl (era länder): Substantiv i plural med possessivt pronomen el. genitivattribut - neutrum](#25e-possnp-gen-npl-era-länder-substantiv-i-plural-med-possessivt-pronomen-el-genitivattribut---neutrum)
+  - [25f. Poss\|NP-gen Npl (era länder): Substantiv i plural med possessivt pronomen el. genitivattribut - normbrott](#25f-possnp-gen-npl-era-länder-substantiv-i-plural-med-possessivt-pronomen-el-genitivattribut---normbrott)
+  - [25g. Poss\|NP-gen Npl (dina barnen): Substantiv i plural med possessivt pronomen el. genitivattribut - normbrott](#25g-possnp-gen-npl-dina-barnen-substantiv-i-plural-med-possessivt-pronomen-el-genitivattribut---normbrott)
 
 [26. Poss|NP-gen A N-pl (Dagens moderna mammor och pappor)](#26-possnp-gen-a-n-pl-dagens-moderna-mammor-och-pappor)
 
@@ -1101,6 +1107,7 @@ ________________________________________________________________________________
 ## 24. dessa A Npl (_Dessa växelvarma djur_ är)
 
 (utan slutartikel)
+
 _____________________________________________________________________________________
 
 ### 24a. dessa A Npl (_Dessa växelvarma djur_): Substantiv i plural med demonstrativt pronomen _dessa_ och framförställt attribut 
