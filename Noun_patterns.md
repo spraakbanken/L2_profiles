@@ -86,8 +86,8 @@ ________________________________________________________________________________
 [9. den\|det här\|där Nsg-def (_Den här studien_)](#9-dendet-härdär-nsg-def-den-här-studien)
 
   - [9a. den\|det här\|där Nsg-def (Den här studien): Substantiv i singular med demonstrativt pronomen den\|det här\|där och slutartikel](#9a-dendet-härdär-nsg-def-den-här-studien-substantiv-i-singular-med-demonstrativt-pronomen-dendet-härdär-och-slutartikel)
-  - [9b. den här\|där Nsg-def (Den här studien): Substantiv i singular med demonstrativt pronomen den här|där och slutartikel - utrum](#9b-den-härdär-nsg-def-den-här-studien-substantiv-i-singular-med-demonstrativt-pronomen-den-härdär-och-slutartikel---utrum)
-  - [9c. det här\|där Nsg-def (Det här priset): Substantiv i singular med demonstrativt pronomen det här|där och slutartikel - neutrum](#9c-det-härdär-nsg-def-det-här-priset-substantiv-i-singular-med-demonstrativt-pronomen-det-härdär-och-slutartikel---neutrum)
+  - [9b. den här\|där Nsg-def (Den här studien): Substantiv i singular med demonstrativt pronomen den här\|där och slutartikel - utrum](#9b-den-härdär-nsg-def-den-här-studien-substantiv-i-singular-med-demonstrativt-pronomen-den-härdär-och-slutartikel---utrum)
+  - [9c. det här\|där Nsg-def (Det här priset): Substantiv i singular med demonstrativt pronomen det här\|där och slutartikel - neutrum](#9c-det-härdär-nsg-def-det-här-priset-substantiv-i-singular-med-demonstrativt-pronomen-det-härdär-och-slutartikel---neutrum)
 
 [10. den\|det här\|där A Nsg-def (Den där nya deckaren)](#10-dendet-härdär-a-nsg-def-den-där-nya-deckaren)
 
