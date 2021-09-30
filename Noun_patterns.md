@@ -226,25 +226,23 @@ ________________________________________________________________________________
   - [26h. Poss\|NP-gen A Npl (): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut - normbrott](#26h-possnp-gen-a-npl-substantiv-i-plural-med-possessivt-pronomen-el-genitivattribut-och-framförställt-attribut---normbrott)
   - [26i. Poss\|NP-gen A Npl (): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut - normbrott](#26i-possnp-gen-a-npl-substantiv-i-plural-med-possessivt-pronomen-el-genitivattribut-och-framförställt-attribut---normbrott)
  
-[27. ](#27)
+[27. A Nsg-def (Hela kvarteret)](#27-a-nsg-def-hela-kvarteret)
 
-  - [26a](#26a)
-  - [26a](#26a)
-  - [26a](#26a)
-  - [26a](#26a)
-  - [26a](#26a)
-  - [26a](#26a)
-  - [26a](#26a)
+  - [27a. A Nsg-def (Hela kvarteret): Substantiv i singular med framförställt attribut utan bestämd artikel med slutartikel - initial satsposition](#27a-a-nsg-def-hela-kvarteret-substantiv-i-singular-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---initial-satsposition)
+  - [27b. A Nsg-def (högra örat): Substantiv i singular med framförställt attribut utan bestämd artikel med slutartikel - icke-initial satsposition](#27b-a-nsg-def-högra-örat-substantiv-i-singular-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---icke-initial-satsposition)
+  - [27c. A Nsg-def (Sista bussen): Substantiv i singular med framförställt attribut utan fribestämdstående artikel med slutartikel - utrum, initial satsposition](#27c-a-nsg-def-sista-bussen-substantiv-i-singular-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---utrum-initial-satsposition)
+  - [27d. A Nsg-def (Svenska språket): Substantiv i singular med framförställt attribut utan bestämd artikel med slutartikel - neutrum, initial satsposition](#27d-a-nsg-def-svenska-språket-substantiv-i-singular-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---neutrum-initial-satsposition)
+  - [27e. A Nsg-def (ena armen): Substantiv i singular med framförställt attribut utan bestämd artikel med slutartikel - utrum, icke-initial satsposition](#27e-a-nsg-def-ena-armen-substantiv-i-singular-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---utrum-icke-initial-satsposition)
+  - [27f. A Nsg-def (Hela kvarteret): Substantiv i singular med framförställt attribut utan bestämd artikel med slutartikel - neutrum, icke-initial satsposition](#27f-a-nsg-def-hela-kvarteret-substantiv-i-singular-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---neutrum-icke-initial-satsposition)
 
-[28. ](#28)
+[28. A Npl-def (Båda ungarna)](#28-a-npl-def-båda-ungarna)
 
-  - [26a](#26a)
-  - [26a](#26a)
-  - [26a](#26a)
-  - [26a](#26a)
-  - [26a](#26a)
-  - [26a](#26a)
-  - [26a](#26a)
+  - [28a. A Npl-def (Båda ungarna): Substantiv i plural med framförställt attribut utan bestämd artikel med slutartikel - initial satsposition](#28a-a-npl-def-båda ungarna-substantiv-i-plural-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---initial-satsposition)
+  - [28b. A Npl-def (): Substantiv i plural med framförställt attribut utan bestämd artikel med slutartikel - icke-initial satsposition](#28b-a-npl-def-substantiv-i-plural-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---icke-initial-satsposition)
+  - [28c. A Npl-def (Båda ungarna): Substantiv i plural med framförställt attribut utan bestämd artikel med slutartikel - utrum, initial satsposition](#28c-a-npl-def-båda-ungarna-substantiv-i-plural-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---utrum-initial-satsposition)
+  - [28d. A Npl-def (Olympiska sommarspelen): Substantiv i plural med framförställt attribut utan bestämd artikel med slutartikel - neutrum, initial satsposition](#28d-a-npl-def-olympiska-sommarspelen-substantiv-i-plural-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---neutrum-initial-satsposition)
+  - [28e. A Npl-def (hela dagarna): Substantiv i plural med framförställt attribut utan bestämd artikel med slutartikel - utrum, icke-initial satsposition](#28e-a-npl-def-hela-dagarna-substantiv-i-plural-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---utrum-icke-initial-satsposition)
+  - [28f. A Npl-def (båda paren): Substantiv i plural med framförställt attribut utan bestämd artikel med slutartikel - neutrum, icke-initial satsposition](#28f-a-npl-def-båda-paren-substantiv-i-plural-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---neutrum-icke-initial-satsposition)
 
 _____________________________________________________________________________________
 
@@ -1321,7 +1319,7 @@ Blandade genus. Används inte.
 
 _____________________________________________________________________________________
 
-### 27c. A Nsg-def (_Sista bussen_): Substantiv i singular med framförställt attribut utan fribestämdstående artikel med slutartikel - utrum, initial satsposition
+### 27c. A Nsg-def (_Sista bussen_): Substantiv i singular med framförställt attribut utan bestämd artikel med slutartikel - utrum, initial satsposition
 
 Mönster 27c, t.ex. _Sista bussen_ går halv tolv, va?  
 
