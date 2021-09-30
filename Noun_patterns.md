@@ -121,22 +121,27 @@ ________________________________________________________________________________
 
 [14. denna\|detta A Nsg (i detta kalla land)](#14-dennadetta-a-nsg-i-detta-kalla-land)
 
-  - [14a](#14a)
-  - [14a](#14a)
-  - [14a](#14a)
-  - [14a](#14a)
-  - [14a](#14a)
-  - [14a](#14a)
-  - [14a](#14a)
+  - [14a. denna\|detta A Nsg (i detta kalla land): Substantiv i singular med demonstrativt pronomen denna\|detta och framförställt attribut](#14a-dennadetta-a-nsg-i-detta-kalla-land-substantiv-i-singular-med-demonstrativt-pronomen-dennadetta-och-framförställt-attribut)
+  - [14b. denna A Nsg (denna nya kunskap): Substantiv i singular med demonstrativt pronomen denna och framförställt attribut - utrum](#14b-denna-a-nsg-denna-nya-kunskap-substantiv-i-singular-med-demonstrativt-pronomen-denna-och-framförställt-attribut---utrum)
+  - [14c. detta A Nsg (i detta kalla land): Substantiv i singular med demonstrativt pronomen detta och framförställt attribut - neutrum](#14c-detta-a-nsg-i-detta-kalla-land-substantiv-i-singular-med-demonstrativt-pronomen-detta-och-framförställt-attribut---neutrum)
 
-[15. Poss|NP-gen N](#15-possnp-gen-n)
+[15. Poss\|NP-gen Nsg (i ditt land)](#15-possnp-gen-nsg-i-ditt-land)
 
-  - [15a](#15a)
+  - [15a. Poss\|NP-gen Nsg (i ditt land): Substantiv i singular med possessivt pronomen el. genitivattribut](#15a-possnp-gen-nsg-i-ditt-land-substantiv-i-singular-med-possessivt-pronomen-el-genitivattribut)
+  - [15b. Poss\|NP-gen Nsg (Min skolan): Substantiv i singular med possessivt pronomen el. genitivattribut - normbrott](#15b-possnp-gen-nsg-min-skolan-substantiv-i-singular-med-possessivt-pronomen-el-genitivattribut---normbrott)
+  - [15c. Poss\|NP-gen Nsg (min kompis): Substantiv i singular med possessivt pronomen el. genitivattribut - utrum](#15c-possnp-gen-nsg-min-kompis-substantiv-i-singular-med-possessivt-pronomen-el-genitivattribut---utrum)
+  - [15d. Poss\|NP-gen Nsg (lärarens telefonnummer): Substantiv i singular med possessivt pronomen el. genitivattribut - neutrum](#15d-possnp-gen-nsg-lärarens-telefonnummer-substantiv-i-singular-med-possessivt-pronomen-el-genitivattribut---neutrum)
+  - [15e. Poss\|NP-gen Nsg (Min skolan): Substantiv i singular med possessivt pronomen el. genitivattribut - normbrott](#15e-possnp-gen-nsg-min-skolan-substantiv-i-singular-med-possessivt-pronomen-el-genitivattribut---normbrott)
+  - [15f. Poss\|NP-gen Nsg (deras livet): Substantiv i singular med possessivt pronomen el. genitivattribut - normbrott](#15f-possnp-gen-nsg-deras-livet-substantiv-i-singular-med-possessivt-pronomen-el-genitivattribut---normbrott)
 
-[16. Poss|NP-gen A N (Min största resa genom livet)](#16-possnp-gen-a-n-min-största-resa-genom-livet)
+[16. Poss\|NP-gen A Nsg (Min största resa genom livet)](#16-possnp-gen-a-nsg-min-största-resa-genom-livet)
 
-  - [16a](#16a)
-  - [16b](#16b)
+  - [16a. Poss\|NP-gen A Nsg (min största resa): Substantiv i singular med possessivt pronomen el. genitivattribut och framförställt attribut](#16a-possnp-gen-a-nsg-min-största-resa-substantiv-i-singular-med-possessivt-pronomen-el-genitivattribut-och-framförställt-attribut)
+  - [16b. Poss\|NP-gen A Nsg (din verkliga livet): Substantiv i singular med possessivt pronomen el. genitivattribut och framförställt attribut - normbrott](#16b-possnp-gen-a-nsg-din-verkliga-livet-substantiv-i-singular-med-possessivt-pronomen-el-genitivattribut-och-framförställt-attribut---normbrott)
+  - [16c. Poss\|NP-gen A Nsg (Årets kortaste dag): Substantiv i singular med possessivt pronomen el. genitivattribut och framförställt attribut - utrum](#16c-possnp-gen-a-nsg-årets-kortaste-dag-substantiv-i-singular-med-possessivt-pronomen-el-genitivattribut-och-framförställt-attribut---utrum)
+  - [16d. Poss\|NP-gen A Nsg (sitt stora verk): Substantiv i singular med possessivt pronomen el. genitivattribut och framförställt attribut - neutrum](#16d-possnp-gen-a-nsg-sitt-stora-verk-substantiv-i-singular-med-possessivt-pronomen-el-genitivattribut-och-framförställt-attribut---neutrum)
+  - [16e. Poss\|NP-gen A Nsg (min kära familjen): Substantiv i singular med possessivt pronomen el. genitivattribut och framförställt attribut - normbrott](#16e-possnp-gen-a-nsg-min-kära-familjen-substantiv-i-singular-med-possessivt-pronomen-el-genitivattribut-och-framförställt-attribut---normbrott)
+  - [16f. Poss\|NP-gen A Nsg (våra moderna livet): Substantiv i singular med possessivt pronomen el. genitivattribut och framförställt attribut - normbrott](#16f-possnp-gen-a-nsg-våra-moderna-livet-substantiv-i-singular-med-possessivt-pronomen-el-genitivattribut-och-framförställt-attribut---normbrott)
 
 [17. N-pl-def](#17-n-pl-def)
 
