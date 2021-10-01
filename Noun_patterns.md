@@ -202,7 +202,7 @@ ________________________________________________________________________________
   - [24b. dessa A Npl (dessa outtalade regler): Substantiv i plural med demonstrativt pronomen dessa och framförställt attribut - utrum](#24b-dessa-a-npl-dessa-outtalade-regler-substantiv-i-plural-med-demonstrativt-pronomen-dessa-och-framförställt-attribut---utrum)
   - [24c. dessa A Npl (Dessa växelvarma djur): Substantiv i plural med demonstrativt pronomen dessa och framförställt attribut - neutrum](#24c-dessa-a-npl-dessa-växelvarma-djur-substantiv-i-plural-med-demonstrativt-pronomen-dessa-och-framförställt-attribut---neutrum)
 
-[25. Poss\|NP-gen Npl (mina barn)](#25-possnp-gennpl-mina-barn)
+[25. Poss\|NP-gen Npl (mina barn)](#25-possnp-gen-npl-mina-barn)
 
   - [25a. Poss\|NP-gen Npl (mina barn): Substantiv i plural med possessivt pronomen el. genitivattribut](#25a-possnp-gen-npl-mina-barn-substantiv-i-plural-med-possessivt-pronomen-el-genitivattribut)
   - [25b. Poss\|NP-gen Npl (min kompisarna): Substantiv i plural med possessivt pronomen el. genitivattribut - normbrott](#25b-possnp-gen-npl-min-kompisarna-substantiv-i-plural-med-possessivt-pronomen-el-genitivattribut---normbrott)
