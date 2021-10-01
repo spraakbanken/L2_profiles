@@ -192,7 +192,7 @@ ________________________________________________________________________________
 
 [23. dessa Npl (Ett av dessa språk)](#23-dessa-npl-ett-av-dessa-språk)
 
-  - [23a. dessa Npl (dessa språk): Substantiv i plural med demonstrativt pronomen dessa](#23a-dess-npl-dessa-språk-substantiv-i-plural-med-demonstrativt-pronomen-dessa)
+  - [23a. dessa Npl (dessa språk): Substantiv i plural med demonstrativt pronomen dessa](#23a-dessa-npl-dessa-språk-substantiv-i-plural-med-demonstrativt-pronomen-dessa)
   - [23b. dessa Npl (dessa singelmammor): Substantiv i plural med demonstrativt pronomen dessa - utrum](#23b-dessa-npl-dessa-singelmammor-substantiv-i-plural-med-demonstrativt-pronomen-dessa---utrum)
   - [23c. dessa Npl (dessa påståenden): Substantiv i plural med demonstrativt pronomen dessa - neutrum](#23c-dessa-npl-dessa-påståenden-substantiv-i-plural-med-demonstrativt-pronomen-dessa---neutrum)
 
