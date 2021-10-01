@@ -1271,7 +1271,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 19b.  de här\|där Npl-def (_De där idéerna_): Substantiv i plural med demonstrativt pronomen _de här\|där_ och slutartikel - utrum
+### 19b. de här\|där Npl-def (_De där idéerna_): Substantiv i plural med demonstrativt pronomen _de här\|där_ och slutartikel - utrum
 
 Mönster 19b, t.ex. _De där idéerna_ är inte nya.
 
@@ -1279,7 +1279,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 19c.  de här\|där Npl-def (_de här orden_): Substantiv i plural med demonstrativt pronomen _de här\|där_ och slutartikel - neutrum
+### 19c. de här\|där Npl-def (_de här orden_): Substantiv i plural med demonstrativt pronomen _de här\|där_ och slutartikel - neutrum
 
 Mönster 19c, t.ex. Kontrollera att du förstår _de här orden_.
 
