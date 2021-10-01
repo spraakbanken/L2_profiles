@@ -455,7 +455,7 @@ ________________________________________________________________________________
 
 (obestämd form)
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#5-npl-finländare-tycker
 
 
 _____________________________________________________________________________________
@@ -466,7 +466,7 @@ Mönster 5a, t.ex. _Finländare_ tycker också att svenskar pratar "kringelikrok
 
 Blandade genus. Används inte. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#5a-npl-finländare-tycker-substantiv-i-plural---initial-satsposition
 
 
 _____________________________________________________________________________________
@@ -477,7 +477,7 @@ Mönster 5b, t.ex. Han ensam bestämmer över _ord_ och regler.
 
 Blandade genus. Används inte. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#5b-npl-bestämma-över-ord-substantiv-i-plural---icke-initial-satsposition
 
 
 _____________________________________________________________________________________
@@ -486,7 +486,7 @@ ________________________________________________________________________________
 
 Mönster 5c, undergrupp av 5a, t.ex. _Saker_ och ting förändras. 
  
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#5c-npl-finländare-tycker-substantiv-i-plural---utrum-initial-satsposition
 
 
 _____________________________________________________________________________________
@@ -495,7 +495,7 @@ ________________________________________________________________________________
 
 Mönster 5d, undergrupp av 5a, t.ex. _Folk_ frågar mig ofta om dialekterna håller på att dö ut. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#5d-npl-folk-frågar-substantiv-i-plural---neutrum-initial-satsposition
 
 
 _____________________________________________________________________________________
@@ -504,7 +504,7 @@ ________________________________________________________________________________
 
 Mönster 5e, undergrupp av 5b, t.ex. Givetvis gäller det omvända för _svenskar_ i andra länder.  
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#5e-npl-för-svenskar-substantiv-i-plural---utrum-icke-initial-satsposition
 
 
 _____________________________________________________________________________________
@@ -513,7 +513,7 @@ ________________________________________________________________________________
 
 Mönster 5f, undergrupp av 5b, t.ex. Han skriver då och då _brev_ till mig.   
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#5f-npl-skriva-brev-substantiv-i-plural---neutrum-icke-initial-satsposition
 
 
 _____________________________________________________________________________________
@@ -522,7 +522,7 @@ ________________________________________________________________________________
 
 (obestämd form)
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#6-a-npl-gula-bilar
 
 
 _____________________________________________________________________________________
@@ -533,7 +533,7 @@ Mönster 6a, t.ex. _Sociala relationer_ är viktiga.
 
 Blandade genus. Används inte. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#6a-a-npl-gula-bilar-substantiv-i-plural-med-framförställt-attribut---initial-satsposition
 
 
 _____________________________________________________________________________________
@@ -544,6 +544,8 @@ Mönster 6b, t.ex. För att undvika bråk och _häftiga diskussioner_ kan svensk
 
 Blandade genus. Används inte. 
 
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#6b-a-npl-gula-bilar-substantiv-i-plural-med-framförställt-attribut---icke-initial-satsposition
+
 _____________________________________________________________________________________
 
 ### 6c. A Npl (_Gula bilar_ används): Substantiv i plural med framförställt attribut - utrum, initial satsposition
@@ -551,7 +553,7 @@ ________________________________________________________________________________
 
 Mönster 6c, undergrupp av 6a, t.ex. _Blivande adoptivföräldrar_ måste ha tålamod.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#6c-a-npl-gula-bilar-används-substantiv-i-plural-med-framförställt-attribut---utrum-initial-satsposition
 
 
 _____________________________________________________________________________________
@@ -560,7 +562,7 @@ ________________________________________________________________________________
 
 Mönster 6d, undergrupp av 6a, t.ex. _Alternativa sätt_ att säga nej på kan vara att säga "kanske" eller "jag ska försöka". 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#6d-a-npl-alternativa-sätt-behövs-substantiv-i-plural-med-framförställt-attribut---neutrum-initial-satsposition
 
 
 _____________________________________________________________________________________
@@ -569,23 +571,23 @@ ________________________________________________________________________________
 
 Mönster 6e, undergrupp av 6b, t.ex. I genomsnitt ägnar _svenska kvinnor_ 81 minuter och _svenska män_ 64 minuter per dag åt Facebook. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#6e-a-npl-kör-gula-bilar-substantiv-i-plural-med-framförställt-attribut---utrum-icke-initial-satsposition
 
 
 _____________________________________________________________________________________
 
 ### 6f. A Npl (att använda _alternativa sätt_): Substantiv i plural med framförställt attribut - neutrum, icke-initial satsposition
 
-Mönster 6f, undergrupp av 6b, t.ex. Jag trivs bäst i _öppna landskap_ .  
+Mönster 6f, undergrupp av 6b, t.ex. Jag trivs bäst i _öppna landskap_.  
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#6f-a-npl-att-använda-alternativa-sätt-substantiv-i-plural-med-framförställt-attribut---neutrum-icke-initial-satsposition
 
 
 _____________________________________________________________________________________
 
 ## 7. Nsg-def (_Felet_ ska straffas)
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#7-nsg-def-felet-ska-straffas
 
 
 _____________________________________________________________________________________
@@ -596,7 +598,7 @@ Mönster 7a, t.ex. _Teckenspråket_ är inte internationellt.
 
 Blandade genus. Används inte. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#7a-nsg-def-felet-ska-straffas-substantiv-i-singular-med-slutartikel---initial-satsposition
 
 
 _____________________________________________________________________________________
@@ -607,7 +609,7 @@ Mönster 7b, t.ex. Jag skakar på _huvudet_
 
 Blandade genus. Används inte. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#7b-nsg-def-jag-skakar-på-huvudet-substantiv-i-singular-med-slutartikel---icke-initial-satsposition
 
 
 _____________________________________________________________________________________
@@ -616,7 +618,7 @@ ________________________________________________________________________________
 
 Mönster 7c, undergrupp till 7a, t.ex. _Svenskan_ är ett indoeuropeiskt språk 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#7c-nsg-def-svenskan-är-ett-språk-substantiv-i-singular-med-slutartikel---utrum-initial-satsposition
 
 _____________________________________________________________________________________
 
@@ -624,7 +626,7 @@ ________________________________________________________________________________
 
 Mönster 7d, undergrupp till 7a, t.ex. _Teckenspråket_ är inte internationellt. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#7d-nsg-def-teckenspråket-är-inte-internationellt-substantiv-i-singular-med-slutartikel---neutrum-initial-satsposition
 
 
 _____________________________________________________________________________________
@@ -633,7 +635,7 @@ ________________________________________________________________________________
 
 Mönster 7e, undergrupp till 7b, t.ex. När min son tog _studenten_ bestämde han sig för att lära sig grekiska.  
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#7e-nsg-def-min-son-tog-studenten-substantiv-i-singular-med-slutartikel---utrum-icke-initial-satsposition
 
 
 _____________________________________________________________________________________
@@ -642,7 +644,7 @@ ________________________________________________________________________________
 
 Mönster 7f, undergrupp till 7b, t.ex. Jag skakar på _huvudet_
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#7f-nsg-def-jag-skakar-på-huvudet-substantiv-i-singular-med-slutartikel---neutrum-icke-initial-satsposition
 
 
 _____________________________________________________________________________________
