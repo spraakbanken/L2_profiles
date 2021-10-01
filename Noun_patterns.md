@@ -1441,7 +1441,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 23a. dessa Npl (_dessa språk_): Substantiv i plural med demonstrativt pronomen _dessa_ 
+### 23a. dessa Npl (_dessa språk_): Substantiv i plural med demonstrativt pronomen _dessa_
 
 Mönster 23a, t.ex. Ett av _dessa språk_ nådde norra Europa för mer än 2 000 år sedan. 
 
