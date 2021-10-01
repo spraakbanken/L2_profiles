@@ -212,10 +212,7 @@ ________________________________________________________________________________
   - [25f. Poss\|NP-gen Npl (era länder): Substantiv i plural med possessivt pronomen el. genitivattribut - normbrott](#25f-possnp-gen-npl-era-länder-substantiv-i-plural-med-possessivt-pronomen-el-genitivattribut---normbrott)
   - [25g. Poss\|NP-gen Npl (dina barnen): Substantiv i plural med possessivt pronomen el. genitivattribut - normbrott](#25g-possnp-gen-npl-dina-barnen-substantiv-i-plural-med-possessivt-pronomen-el-genitivattribut---normbrott)
   - [25h. Poss\|NP-gen Npl (sin pengar): Substantiv i plural med possessivt pronomen el. genitivattribut - normbrott](#25h-possnp-gen-npl-sin-pengar-substantiv-i-plural-med-possessivt-pronomen-el-genitivattribut---normbrott)
-  - [25i. Poss\|NP-gen Npl (): Substantiv i plural med possessivt pronomen el. genitivattribut - normbrott](#25i-possnp-gen-npl-substantiv-i-plural-med-possessivt-pronomen-el-genitivattribut---normbrott)
-
-25i. Poss|NP-gen Npl (): Substantiv i plural med possessivt pronomen el. genitivattribut - normbrott                          
-
+  - [25i. Poss\|NP-gen Npl (): Substantiv i plural med possessivt pronomen el. genitivattribut - normbrott](#25i-possnp-gen-npl--substantiv-i-plural-med-possessivt-pronomen-el-genitivattribut---normbrott)                          
 [26. Poss\|NP-gen A Npl (Dagens moderna mammor och pappor)](#26-possnp-gen-a-npl-dagens-moderna-mammor-och-pappor)
 
   - [26a. Poss\|NP-gen A Npl (sina egna värderingar): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut](#26a-possnp-gen-a-npl-sina-egna-värderingar-substantiv-i-plural-med-possessivt-pronomen-el-genitivattribut-och-framförställt-attribut)
