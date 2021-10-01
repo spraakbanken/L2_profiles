@@ -275,7 +275,7 @@ ________________________________________________________________________________
 
 (utan framförställt attribut utan artikel)
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#1-nsg-jag-har-körkort
 
 _____________________________________________________________________________________
 
@@ -285,7 +285,7 @@ Mönster 1a, t.ex Jag har _körkort_.
 
 Blandade genus. Används inte. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#1a-nsg-jag-har-körkort-substantiv-i-singular
 
 _____________________________________________________________________________________
 
@@ -294,7 +294,7 @@ ________________________________________________________________________________
 
 Mönster 1b, undergrup till 1a, t.ex Presens är en vanlig form för _framtid _. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#1b-nsg-jag-kan-svenska-substantiv-i-singular---utrum
 
 
 _____________________________________________________________________________________
@@ -303,7 +303,7 @@ ________________________________________________________________________________
 
 Mönster 1c, undergrup till 1a, t.ex Jag har _körkort_.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#1c-nsg-jag-har-körkort-substantiv-i-singular---neutrum
 
 _____________________________________________________________________________________
 
@@ -311,7 +311,7 @@ ________________________________________________________________________________
 
 (utan artikel)
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#2-a-nsg-det-blir-nästa-år
 
 _____________________________________________________________________________________
 
@@ -321,7 +321,7 @@ Mönster 2a, t.ex  _Följande dialog_ kan utspelas mellan två personer.
 
 Blandade genus. Används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#2a-a-nsg-följande-dialog-kan-substantiv-i-singular-med-framförställt-attribut---initial-satsposition
 
 
 _____________________________________________________________________________________
@@ -332,7 +332,7 @@ Mönster 2b, t.ex. Hon log med _stängd mun_ för att hon hade dåliga tänder.
 
 Blandade genus. Används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#2b-a-nsg-med-stängd-mun-substantiv-i-singular-med-framförställt-attribut---icke-initial-satsposition
 
 
 _____________________________________________________________________________________
@@ -342,7 +342,7 @@ ________________________________________________________________________________
 
 Mönster 2c, undergrupp till 2a, t.ex _Följande dialog_ kan utspelas mellan två personer.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#2c-a-nsg-följande-dialog-kan-substantiv-i-singular-med-framförställt-attribut---utrum-initial-satsposition
 
 
 _____________________________________________________________________________________
@@ -352,7 +352,7 @@ ________________________________________________________________________________
 
 Mönster 2d, undergrupp till 2b, t.ex _Biologiskt arv_ , miljö och slumpen bestämmer om man blir en äventyrare.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#2d-a-nsg-biologiskt-arv-bestämmer-substantiv-i-singular-med-framförställt-attribut---neutrum-initial-satsposition
 
 
 _____________________________________________________________________________________
@@ -362,7 +362,7 @@ ________________________________________________________________________________
 
 Mönster 2e, undergrupp till 2b, t.ex Myterna om henne började spinnas redan när hon var _liten flicka_ .
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#2e-a-nsg-när-hon-var-liten-flicka-substantiv-i-singular-med-framförställt-attribut---utrum-icke-initial-satsposition
 
 
 _____________________________________________________________________________________
@@ -373,7 +373,7 @@ ________________________________________________________________________________
 
 Mönster 2f, undergrupp till 2b, t.ex Hon ägnade sig med ovanligt _stort intresse_ åt konst och filosofi.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#2f-a-nsg-med-stort-intresse-substantiv-i-singular-med-framförställt-attribut---neutrum-icke-initial-satsposition
 
 
 _____________________________________________________________________________________
@@ -382,7 +382,7 @@ ________________________________________________________________________________
 
 (utan framförställt attribut)
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#3-indef-nsg-än-en-gång
 
 _____________________________________________________________________________________
 
@@ -392,7 +392,7 @@ Mönster 3a, t.ex Än _en gång_ riskerar han att avslöjas.
 
 Blandade genus. Används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#3a-indef-nsg-än-en-gång-substantiv-i-singular-med-obestämd-artikel
 
 
 _____________________________________________________________________________________
@@ -401,7 +401,7 @@ ________________________________________________________________________________
 
 Mönster 3b, undergrupp till 3a, t.ex Än _en gång_ riskerar han att avslöjas.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#3b-indef-nsg-än-en-gång-substantiv-i-singular-med-obestämd-artikel---utrum
 
 
 _____________________________________________________________________________________
@@ -410,14 +410,14 @@ ________________________________________________________________________________
 
 Mönster 3c, undergrupp till 3a, t.ex I Rimini träffade hon på _ett disko_ en stilig greve som friade redan samma kväll.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#3c-indef-nsg-på-ett-disko-substantiv-i-singular-med-obestämd-artikel---neutrum
 
 
 _____________________________________________________________________________________
 
 ## 4. indef A Nsg (_ett gult hus_)
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#4-indef-a-nsg-ett-gult-hus
 
 
 _____________________________________________________________________________________
@@ -428,7 +428,7 @@ Mönster 4a, t.ex Han startade _ett eget företag_ där och efter fem år flytta
 
 Blandade genus. Används inte. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#4a-indef-a-nsg-en-gul-bil-substantiv-i-singular-med-framförställt-attribut-och-obestämd-artikel
 
 _____________________________________________________________________________________
 
@@ -436,7 +436,7 @@ ________________________________________________________________________________
 
 Mönster 4b, undergrupp till 4a, t.ex Barn tillbringar _en stor del_ av sin dag i skolan eller förskolan.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#4b-indef-a-nsg-en-gul-bil-substantiv-i-singular-med-framförställt-attribut-och-obestämd-artikel---utrum
 
 
 _____________________________________________________________________________________
@@ -445,7 +445,7 @@ ________________________________________________________________________________
 
 Mönster 4c, undergrupp till 4a, t.ex Det sitter så djupt att man vill göra _ett gott intryck_ .
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#4c-indef-a-nsg-ett-gult-hus-substantiv-i-singular-med-framförställt-attribut-och-obestämd-artikel---neutrum
 
 
 
