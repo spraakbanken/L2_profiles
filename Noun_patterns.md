@@ -912,7 +912,7 @@ ________________________________________________________________________________
 
 (utan slutartikel)
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#13-dennadetta-nsg-vid-denna-tid-var-hon
 
 
 _____________________________________________________________________________________
@@ -924,7 +924,7 @@ Mönster 13a, t.ex. De som mötte Kristina vid _denna tid_ har beskrivit att hon
 
 Blandade genus. Används inte. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#13a-dennadetta-nsg-vid-denna-tid-var-hon-substantiv-i-singular-med-demonstrativt-pronomen-dennadetta
 
 
 _____________________________________________________________________________________
@@ -934,7 +934,7 @@ ________________________________________________________________________________
 
 Mönster 13b, t.ex. De som mötte Kristina vid _denna tid_ har beskrivit att hon var liten till växten och hade löst hängande hår. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#13b-denna-nsg-vid-denna-tid-var-hon-substantiv-i-singular-med-demonstrativt-pronomen-denna---utrum
 
 
 _____________________________________________________________________________________
@@ -944,7 +944,7 @@ ________________________________________________________________________________
 
 Mönster 13c, t.ex. _Detta straff_ är ren hämnd.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#13c-detta-nsg-detta-straff-substantiv-i-singular-med-demonstrativt-pronomen-detta---neutrum
 
 
 _____________________________________________________________________________________
@@ -953,7 +953,7 @@ ________________________________________________________________________________
 
 (utan slutartikel)
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#14-dennadetta-a-nsg-i-detta-kalla-land
 
 
 _____________________________________________________________________________________
@@ -964,7 +964,7 @@ Mönster 14a, t.ex. Han menade att människors tankar frös till is i _detta kal
 
 Blandade genus. Används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#14a-dennadetta-a-nsg-i-detta-kalla-land-substantiv-i-singular-med-demonstrativt-pronomen-dennadetta-och-framförställt-attribut
 
 _____________________________________________________________________________________
 
@@ -972,7 +972,7 @@ ________________________________________________________________________________
 
 Mönster 14b, t.ex. Med _denna nya kunskap_ återvände Kreuger till Sverige  
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#14b-denna-a-nsg-denna-nya-kunskap-substantiv-i-singular-med-demonstrativt-pronomen-denna-och-framförställt-attribut---utrum
 
 
 _____________________________________________________________________________________
@@ -981,7 +981,7 @@ ________________________________________________________________________________
 
 Mönster 14c, t.ex. Han menade att människors tankar frös till is i _detta kalla land_.  
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#14c-detta-a-nsg-i-detta-kalla-land-substantiv-i-singular-med-demonstrativt-pronomen-detta-och-framförställt-attribut---neutrum
 
 
 _____________________________________________________________________________________
