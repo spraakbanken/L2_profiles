@@ -714,7 +714,7 @@ ________________________________________________________________________________
 
 ## 9. den\|det här\|där Nsg-def (_Den här studien_)
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#9-dendet-härdär-nsg-def-den-här-studien
  
 _____________________________________________________________________________________
 
@@ -725,7 +725,7 @@ Mönster 9a, t.ex. Jag har så klart vetat att _den här dagen_ kommer.
 
 Blandade genus. Används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#9a-dendet-härdär-nsg-def-den-här-studien-substantiv-i-singular-med-demonstrativt-pronomen-dendet-härdär-och-slutartikel
 
 _____________________________________________________________________________________
 
@@ -733,7 +733,7 @@ ________________________________________________________________________________
 
 Mönster 9b, t.ex. Jag har så klart vetat att _den här dagen_ kommer.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#9b-den-härdär-nsg-def-den-här-studien-substantiv-i-singular-med-demonstrativt-pronomen-den-härdär-och-slutartikel---utrum
 
 
 _____________________________________________________________________________________
@@ -742,13 +742,13 @@ ________________________________________________________________________________
 
 Mönster 9c, t.ex. _Det här priset_ är med pensionärsrabatt.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#9c-det-härdär-nsg-def-det-här-priset-substantiv-i-singular-med-demonstrativt-pronomen-det-härdär-och-slutartikel---neutrum
 
 _____________________________________________________________________________________
 
 ## 10. den\|det här\|där A Nsg-def (_Den där nya deckaren_)
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#10-dendet-härdär-a-nsg-def-den-där-nya-deckaren
 
 _____________________________________________________________________________________
 
@@ -758,7 +758,7 @@ Mönster 10a, t.ex. _Den där nya deckaren_ du rekommenderade mig att läsa var 
 
 Blandade genus. Används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#10a-dendet-härdär-a-nsg-def-den-där-nya-deckaren-substantiv-i-singular-med-demonstrativt-pronomen-dendet-härdär-framförställt-attribut-och-slutartikel
 
 
 _____________________________________________________________________________________
@@ -767,7 +767,7 @@ ________________________________________________________________________________
 
 Mönster 10b, t.ex. _Den där nya deckaren_ du rekommenderade mig att läsa var riktigt usel.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#10b-den-härdär-a-nsg-def-den-där-nya-deckaren-substantiv-i-singular-med-demonstrativt-pronomen-den-härdär-framförställt-attribut-och-slutartikel---utrum
 
 _____________________________________________________________________________________
 
@@ -775,13 +775,13 @@ ________________________________________________________________________________
 
 Mönster 10c, t.ex. _Det här speciella förortsspråket_ är en jargong.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#10c-det-härdär-a-nsg-def-det-här-speciella-förortsspråket-substantiv-i-singular-med-demonstrativt-pronomen-det-härdär-framförställt-attribut-och-slutartikel---neutrum
 
 _____________________________________________________________________________________
 
 ## 11. den\|det Nsg (Det var _det ögönblick_ då)
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#11-dendet-nsg-det-var-det-ögönblick-då
 
 _____________________________________________________________________________________
 
@@ -791,7 +791,7 @@ Mönster 11a, t.ex. Det är inte bara du själv som skadas av	_den rök_ du anda
 
 Blandade genus. Används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#11a-dendet-nsg-den-rök-du-andas-in-substantiv-i-singular-med-bestämd-artikel-dendet-utan-slutartikel
 
 _____________________________________________________________________________________
 
@@ -799,7 +799,7 @@ ________________________________________________________________________________
 
 Mönster 11b, t.ex. År 1718 tillkom _den indelning_ vi har i dag, med några undantag. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#11b-den-nsg-den-rök-du-andas-in-substantiv-i-singular-med-bestämd-artikel-den-utan-slutartikel---utrum
 
 _____________________________________________________________________________________
 
@@ -807,7 +807,7 @@ ________________________________________________________________________________
 
 Mönster 11c, t.ex. Vanligt är att man lär sig ett andraspråk i _det land_ man flyttar till. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#11c-det-nsg-det-land-man-flyttar-till-substantiv-i-singular-med-bestämd-artikel-det-utan-slutartikel---neutrum
 
 _____________________________________________________________________________________
 
@@ -818,7 +818,7 @@ Mönster 11d, t.ex. Det var _det ögonblick_ då alla fordon stannade upp i någ
 
 Delmängd av 11a. Blandade genus. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#11d-detden-nsg-rels-det-var-det-ögönblick-då-substantiv-i-singular-med-bestämd-artikel-detden-utan-slutartikel---med-relativ-bisatsinledare
 
 _____________________________________________________________________________________
 
@@ -829,7 +829,7 @@ Mönster 11e, t.ex.  Väck ej _den björn_ som sover
 
 Delmängd av 11b
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#11e-den-nsg-rels-den-björn-som-substantiv-i-singular-med-bestämd-artikel-den-utan-slutartikel---utrum-med-relativ-bisatsinledare
 
 
 _____________________________________________________________________________________
@@ -841,14 +841,14 @@ Mönster 11f, t.ex. Det var _det ögonblick_ då alla fordon stannade upp i någ
 
 Delmängd av 11c
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#11f-det-nsg-rels-det-var-det-ögönblick-då-substantiv-i-singular-med-bestämd-artikel-det-utan-slutartikel---neutrum-med-relativ-bisatsinledare
 
 
 _____________________________________________________________________________________
 
 ## 12. den\|det A Nsg (Att sova är inte _det passiva tillstånd_)
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#12-dendet-a-nsg-att-sova-är-inte-det-passiva-tillstånd
 
 _____________________________________________________________________________________
 
@@ -858,7 +858,7 @@ Mönster 12a, t.ex. Att sova är inte _det passiva tillstånd_ som vi trodde tid
 
 Blandade genus. Används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#12a-dendet-a-nsg-att-sova-är-inte-det-passiva-tillstånd-substantiv-i-singular-med-bestämd-artikel-dendet-och-framförställt-attribut-utan-slutartikel
 
 
 _____________________________________________________________________________________
@@ -867,7 +867,7 @@ ________________________________________________________________________________
 
 Mönster 12b, t.ex. Hon hade inte _den ringaste lust_ att diska. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#12b-den-a-nsg-den-ringaste-lust-att-diska-substantiv-i-singular-med-bestämd-artikel-den-och-framförställt-attribut-utan-slutartikel---utrum
 
 
 _____________________________________________________________________________________
@@ -876,7 +876,7 @@ ________________________________________________________________________________
 
 Mönster 12c, t.ex. Det är _det neutrala språk_ man ofta hör i radio och TV.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#12c-det-a-nsg-det-neutrala-språk-man-ofta-hör-substantiv-i-singular-med-bestämd-artikel-det-och-framförställt-attribut-utan-slutartikel---neutrum
 
 _____________________________________________________________________________________
 
@@ -886,7 +886,7 @@ Mönster 12d, t.ex. Att sova är inte _det passiva tillstånd som_ vi trodde tid
 
 Blandade genus. Används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#12d-dendet-a-nsg-rels-att-sova-är-inte-det-passiva-tillstånd-som-substantiv-i-singular-med-bestämd-artikel-dendet-och-framförställt-attribut-utan-slutartikel---med-relativ-bisatsinledare
 
 _____________________________________________________________________________________
 
@@ -894,7 +894,7 @@ ________________________________________________________________________________
 
 Mönster 12e, t.ex. Barnens skratt och skrik blandas med _den rytmiska musik_ som hörs från högtalarna.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#12e-den-a-nsg-rels-den-rytmiska-musik-som-hörs-substantiv-i-singular-med-bestämd-artikel-den-och-framförställt-attribut-utan-slutartikel---utrum-med-relativ-bisatsinledare
 
 
 _____________________________________________________________________________________
@@ -903,7 +903,7 @@ ________________________________________________________________________________
 
 Mönster 12f, t.ex. Att sova är inte _det passiva tillstånd_ som vi trodde tidigare. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#12f-det-a-nsg-rels-att-sova-är-inte-det-passiva-tillstånd-som-substantiv-i-singular-med-bestämd-artikel-det-och-framförställt-attribut-utan-slutartikel---neutrum-med-relativ-bisatsinledare
 
 
 _____________________________________________________________________________________
