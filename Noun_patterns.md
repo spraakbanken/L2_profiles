@@ -35,7 +35,7 @@ ________________________________________________________________________________
   - [2e. A Nsg (när hon var liten flicka): Substantiv i singular med framförställt attribut - utrum, icke-initial satsposition](#2e-a-nsg-när-hon-var-liten-flicka-substantiv-i-singular-med-framförställt-attribut---utrum-icke-initial-satsposition)
   - [2f. A Nsg (med stort intresse): Substantiv i singular med framförställt attribut - neutrum, icke-initial satsposition](#2f-a-nsg-med-stort-intresse-substantiv-i-singular-med-framförställt-attribut---neutrum-icke-initial-satsposition)
 
-[3. indef Nsg (Än en gång)](#3-indef-nsg-än-en-gång-riskerar-vi)
+[3. indef Nsg (Än en gång)](#3-indef-nsg-än-en-gång)
 
   - [3a. indef Nsg (Än en gång): Substantiv i singular med obestämd artikel](#3a-indef-nsg-än-en-gång-substantiv-i-singular-med-obestämd-artikel)
   - [3b. indef Nsg (Än en gång): Substantiv i singular med obestämd artikel - utrum](#3b-indef-nsg-än-en-gång-substantiv-i-singular-med-obestämd-artikel---utrum)
