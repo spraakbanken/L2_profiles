@@ -651,7 +651,7 @@ ________________________________________________________________________________
 
 ## 8. def A Nsg-def (_Den naturliga följden_ av att)
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#8-def-a-nsg-def-den-naturliga-följden-av-att
 
 _____________________________________________________________________________________
 
@@ -661,7 +661,7 @@ Mönster 8a, t.ex. _Den självklara rätten_ att resa fritt gäller bara oss.
 
 Blandade genus. Används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#8a-def-a-nsg-def-den-naturliga-följden-av-att-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-bestämd-artikel---initial-satsposition
 
 
 _____________________________________________________________________________________
@@ -672,7 +672,7 @@ Mönster 8b, t.ex. Är det förklaringen till _det gåtfulla leendet_?
 
 Blandade genus. Används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#8b-def-a-nsg-def-förklaringen-till-det-gåtfulla-leendet-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-bestämd-artikel---icke-initial-satsposition
 
 
 _____________________________________________________________________________________
@@ -681,7 +681,7 @@ ________________________________________________________________________________
 
 Mönster 8c, undergrupp till 8a, t.ex. _Den unga flickan_ uppfostrades till att bli kung! 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#8c-def-a-nsg-def-den-unga-flickan-uppfostrades-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-bestämd-artikel---utrum-initial-satsposition
 
 
 _____________________________________________________________________________________
@@ -690,7 +690,7 @@ ________________________________________________________________________________
 
 Mönster 8d, undergrupp till 8a, t.ex. _Det största problemet_ är inte cyklisterna. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#8d-def-a-nsg-def-det-största-problemet-är-inte-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-bestämd-artikel---neutrum-initial-satsposition
 
 
 _____________________________________________________________________________________
@@ -699,7 +699,7 @@ ________________________________________________________________________________
 
 Mönster 8e, undergrupp till 8b, t.ex. Oden var _den klokaste guden_.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#8e-def-a-nsg-def-oden-var-den-klokaste-guden-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-bestämd-artikel---utrum-icke-initial-satsposition
 
 
 _____________________________________________________________________________________
@@ -708,7 +708,7 @@ ________________________________________________________________________________
 
 Mönster 8f, undergrupp till 8b, t.ex. An så länge har inte besökarna i _det virtuella museet_ blivit fler än de i det riktiga museet.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#8f-def-a-nsg-def-besökarna-i-det-virtuella-museet-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-bestämd-artikel---neutrum-icke-initial-satsposition
 
 _____________________________________________________________________________________
 
