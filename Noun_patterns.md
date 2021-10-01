@@ -218,7 +218,7 @@ ________________________________________________________________________________
 
 [26. Poss\|NP-gen A Npl (Dagens moderna mammor och pappor)](#26-possnp-gen-a-npl-dagens-moderna-mammor-och-pappor)
 
-  - [26a. Poss\|NP-gen A Npl (): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut](#26a-possnp-gen-a-npl---substantiv-i-plural-med-possessivt-pronomen-el-genitivattribut-och-framförställt-attribut)
+  - [26a. Poss\|NP-gen A Npl (): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut](#26a-possnp-gen-a-npl--substantiv-i-plural-med-possessivt-pronomen-el-genitivattribut-och-framförställt-attribut)
   - [26b. Poss\|NP-gen A Npl (mina smutsik kläderna): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut - normbrott](#26b-possnp-gen-a-npl-mina-smutsik-kläderna-substantiv-i-plural-med-possessivt-pronomen-el-genitivattribut-och-framförställt-attribut---normbrott)
   - [26c. Poss\|NP-gen A Npl (min dåliga dagar): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut - normbrott](#26c-possnp-gen-a-npl-min-dåliga-dagar-substantiv-i-plural-med-possessivt-pronomen-el-genitivattribut-och-framförställt-attribut---normbrott)
   - [26d. Poss\|NP-gen A Npl (Bergmans bästa filmer): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut - utrum](#26d-possnp-gen-a-npl-bergmans-bästa-filmer-substantiv-i-plural-med-possessivt-pronomen-el-genitivattribut-och-framförställt-attribut---utrum)
