@@ -1122,7 +1122,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-## 17. Npl-def  (_Lärarna_)
+## 17. Npl-def (_Lärarna_)
 
 Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
