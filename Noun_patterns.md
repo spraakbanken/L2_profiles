@@ -29,11 +29,11 @@ ________________________________________________________________________________
 [2. A Nsg (Det blir nästa år)](#2-a-nsg-det-blir-nästa-år)
 
   - [2a. A Nsg (Följande dialog kan): Substantiv i singular med framförställt attribut - initial satsposition](#2a-a-nsg-följande-dialog-kan-substantiv-i-singular-med-framförställt-attribut---initial-satsposition)
-  - [2b. A Nsg (med stängd mun): Substantiv i singular med framförställt attribut - icke-initial satsposition](#2b-a-nsg-med-stängd-mun-substantiv-i-singular-med-framförställt-attribut---icke-initial-satsposition)
+  - [2b. A Nsg (med stängd mun): Substantiv i singular med framförställt attribut - varierande satsposition](#2b-a-nsg-med-stängd-mun-substantiv-i-singular-med-framförställt-attribut---varierande-satsposition)
   - [2c. A Nsg (Följande dialog kan): Substantiv i singular med framförställt attribut - utrum, initial satsposition](#2c-a-nsg-följande-dialog-kan-substantiv-i-singular-med-framförställt-attribut---utrum-initial-satsposition)
   - [2d. A Nsg (Biologiskt arv bestämmer): Substantiv i singular med framförställt attribut - neutrum, initial satsposition](#2d-a-nsg-biologiskt-arv-bestämmer-substantiv-i-singular-med-framförställt-attribut---neutrum-initial-satsposition)
-  - [2e. A Nsg (när hon var liten flicka): Substantiv i singular med framförställt attribut - utrum, icke-initial satsposition](#2e-a-nsg-när-hon-var-liten-flicka-substantiv-i-singular-med-framförställt-attribut---utrum-icke-initial-satsposition)
-  - [2f. A Nsg (med stort intresse): Substantiv i singular med framförställt attribut - neutrum, icke-initial satsposition](#2f-a-nsg-med-stort-intresse-substantiv-i-singular-med-framförställt-attribut---neutrum-icke-initial-satsposition)
+  - [2e. A Nsg (när hon var liten flicka): Substantiv i singular med framförställt attribut - utrum, varierande satsposition](#2e-a-nsg-när-hon-var-liten-flicka-substantiv-i-singular-med-framförställt-attribut---utrum-varierande-satsposition)
+  - [2f. A Nsg (med stort intresse): Substantiv i singular med framförställt attribut - neutrum, varierande satsposition](#2f-a-nsg-med-stort-intresse-substantiv-i-singular-med-framförställt-attribut---neutrum-varierande-satsposition)
 
 [3. indef Nsg (Än en gång)](#3-indef-nsg-än-en-gång)
 
@@ -50,38 +50,38 @@ ________________________________________________________________________________
 [5. Npl (Finländare tycker)](#5-npl-finländare-tycker)
 
   - [5a. Npl (Finländare tycker): Substantiv i plural - initial satsposition](#5a-npl-finländare-tycker-substantiv-i-plural---initial-satsposition)
-  - [5b. Npl (bestämma över ord): Substantiv i plural - icke-initial satsposition](#5b-npl-bestämma-över-ord-substantiv-i-plural---icke-initial-satsposition)
+  - [5b. Npl (bestämma över ord): Substantiv i plural - varierande satsposition](#5b-npl-bestämma-över-ord-substantiv-i-plural---varierande-satsposition)
   - [5c. Npl (Finländare tycker): Substantiv i plural - utrum, initial satsposition](#5c-npl-finländare-tycker-substantiv-i-plural---utrum-initial-satsposition)
   - [5d. Npl (Folk frågar): Substantiv i plural - neutrum, initial satsposition](#5d-npl-folk-frågar-substantiv-i-plural---neutrum-initial-satsposition)
-  - [5e. Npl (för svenskar): Substantiv i plural - utrum, icke-initial satsposition](#5e-npl-för-svenskar-substantiv-i-plural---utrum-icke-initial-satsposition)
-  - [5f. Npl (skriva brev): Substantiv i plural - neutrum, icke-initial satsposition](#5f-npl-skriva-brev-substantiv-i-plural---neutrum-icke-initial-satsposition)
+  - [5e. Npl (för svenskar): Substantiv i plural - utrum, varierande satsposition](#5e-npl-för-svenskar-substantiv-i-plural---utrum-varierande-satsposition)
+  - [5f. Npl (skriva brev): Substantiv i plural - neutrum, varierande satsposition](#5f-npl-skriva-brev-substantiv-i-plural---neutrum-varierande-satsposition)
 
 [6. A Npl (gula bolar)](#6-a-npl-gula-bilar)
 
   - [6a. A Npl (gula bilar): Substantiv i plural med framförställt attribut - initial satsposition](#6a-a-npl-gula-bilar-substantiv-i-plural-med-framförställt-attribut---initial-satsposition)
-  - [6b. A Npl (gula bilar): Substantiv i plural med framförställt attribut - icke-initial satsposition](#6b-a-npl-gula-bilar-substantiv-i-plural-med-framförställt-attribut---icke-initial-satsposition)
+  - [6b. A Npl (gula bilar): Substantiv i plural med framförställt attribut - varierande satsposition](#6b-a-npl-gula-bilar-substantiv-i-plural-med-framförställt-attribut---varierande-satsposition)
   - [6c. A Npl (Gula bilar används): Substantiv i plural med framförställt attribut - utrum, initial satsposition](#6c-a-npl-gula-bilar-används-substantiv-i-plural-med-framförställt-attribut---utrum-initial-satsposition)
   - [6d. A Npl (Alternativa sätt behövs): Substantiv i plural med framförställt attribut - neutrum, initial satsposition](#6d-a-npl-alternativa-sätt-behövs-substantiv-i-plural-med-framförställt-attribut---neutrum-initial-satsposition)
-  - [6e. A Npl (kör gula bilar): Substantiv i plural med framförställt attribut - utrum, icke-initial satsposition](#6e-a-npl-kör-gula-bilar-substantiv-i-plural-med-framförställt-attribut---utrum-icke-initial-satsposition)
-  - [6f. A Npl (att använda alternativa sätt): Substantiv i plural med framförställt attribut - neutrum, icke-initial satsposition](#6f-a-npl-att-använda-alternativa-sätt-substantiv-i-plural-med-framförställt-attribut---neutrum-icke-initial-satsposition)
+  - [6e. A Npl (kör gula bilar): Substantiv i plural med framförställt attribut - utrum, varierande satsposition](#6e-a-npl-kör-gula-bilar-substantiv-i-plural-med-framförställt-attribut---utrum-varierande-satsposition)
+  - [6f. A Npl (att använda alternativa sätt): Substantiv i plural med framförställt attribut - neutrum, varierande satsposition](#6f-a-npl-att-använda-alternativa-sätt-substantiv-i-plural-med-framförställt-attribut---neutrum-varierande-satsposition)
 
 [7. Nsg-def (Felet ska straffas)](#7-nsg-def-felet-ska-straffas)
 
   - [7a. Nsg-def (Felet ska straffas): Substantiv i singular med slutartikel - initial satsposition](#7a-nsg-def-felet-ska-straffas-substantiv-i-singular-med-slutartikel---initial-satsposition)
-  - [7b. Nsg-def (Jag skakar på huvudet): Substantiv i singular med slutartikel - icke-initial satsposition](#7b-nsg-def-jag-skakar-på-huvudet-substantiv-i-singular-med-slutartikel---icke-initial-satsposition)
+  - [7b. Nsg-def (Jag skakar på huvudet): Substantiv i singular med slutartikel - varierande satsposition](#7b-nsg-def-jag-skakar-på-huvudet-substantiv-i-singular-med-slutartikel---varierande-satsposition)
   - [7c. Nsg-def (Svenskan är ett språk): Substantiv i singular med slutartikel - utrum, initial satsposition](#7c-nsg-def-svenskan-är-ett-språk-substantiv-i-singular-med-slutartikel---utrum-initial-satsposition)
   - [7d. Nsg-def (Teckenspråket är inte internationellt): Substantiv i singular med slutartikel - neutrum, initial satsposition](#7d-nsg-def-teckenspråket-är-inte-internationellt-substantiv-i-singular-med-slutartikel---neutrum-initial-satsposition)
-  - [7e. Nsg-def (Min son tog studenten): Substantiv i singular med slutartikel - utrum, icke-initial satsposition](#7e-nsg-def-min-son-tog-studenten-substantiv-i-singular-med-slutartikel---utrum-icke-initial-satsposition)
-  - [7f. Nsg-def (Jag skakar på huvudet): Substantiv i singular med slutartikel - neutrum, icke-initial satsposition](#7f-nsg-def-jag-skakar-på-huvudet-substantiv-i-singular-med-slutartikel---neutrum-icke-initial-satsposition)
+  - [7e. Nsg-def (Min son tog studenten): Substantiv i singular med slutartikel - utrum, varierande satsposition](#7e-nsg-def-min-son-tog-studenten-substantiv-i-singular-med-slutartikel---utrum-varierande-satsposition)
+  - [7f. Nsg-def (Jag skakar på huvudet): Substantiv i singular med slutartikel - neutrum, varierande satsposition](#7f-nsg-def-jag-skakar-på-huvudet-substantiv-i-singular-med-slutartikel---neutrum-varierande-satsposition)
 
 [8. def A Nsg-def (Den naturliga följden av att)](#8-def-a-nsg-def-den-naturliga-följden-av-att)
 
   - [8a. def A Nsg-def (Den naturliga följden av att): Substantiv i singular med framförställt attribut, slutartikel och bestämd artikel - initial satsposition](#8a-def-a-nsg-def-den-naturliga-följden-av-att-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-bestämd-artikel---initial-satsposition)
-  - [8b. def A Nsg-def (förklaringen till det gåtfulla leendet): Substantiv i singular med framförställt attribut, slutartikel och bestämd artikel - icke-initial satsposition](#8b-def-a-nsg-def-förklaringen-till-det-gåtfulla-leendet-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-bestämd-artikel---icke-initial-satsposition)
+  - [8b. def A Nsg-def (förklaringen till det gåtfulla leendet): Substantiv i singular med framförställt attribut, slutartikel och bestämd artikel - varierande satsposition](#8b-def-a-nsg-def-förklaringen-till-det-gåtfulla-leendet-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-bestämd-artikel---varierande-satsposition)
   - [8c. def A Nsg-def (Den unga flickan uppfostrades): Substantiv i singular med framförställt attribut, slutartikel och bestämd artikel - utrum, initial satspositio](#8c-def-a-nsg-def-den-unga-flickan-uppfostrades-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-bestämd-artikel---utrum-initial-satsposition)
   - [8d. def A Nsg-def (Det största problemet är inte): Substantiv i singular med framförställt attribut, slutartikel och bestämd artikel - neutrum, initial satsposition](#8d-def-a-nsg-def-det-största-problemet-är-inte-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-bestämd-artikel---neutrum-initial-satsposition)
-  - [8e. def A Nsg-def (Oden var den klokaste guden): Substantiv i singular med framförställt attribut, slutartikel och bestämd artikel - utrum, icke-initial satsposition](#8e-def-a-nsg-def-oden-var-den-klokaste-guden-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-bestämd-artikel---utrum-icke-initial-satsposition)
-  - [8f. def A Nsg-def (besökarna i det virtuella museet): Substantiv i singular med framförställt attribut, slutartikel och bestämd artikel - neutrum, icke-initial satsposition](#8f-def-a-nsg-def-besökarna-i-det-virtuella-museet-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-bestämd-artikel---neutrum-icke-initial-satsposition)
+  - [8e. def A Nsg-def (Oden var den klokaste guden): Substantiv i singular med framförställt attribut, slutartikel och bestämd artikel - utrum, varierandesatsposition](#8e-def-a-nsg-def-oden-var-den-klokaste-guden-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-bestämd-artikel---utrum-varierande-satsposition)
+  - [8f. def A Nsg-def (besökarna i det virtuella museet): Substantiv i singular med framförställt attribut, slutartikel och bestämd artikel - neutrum, varierande satsposition](#8f-def-a-nsg-def-besökarna-i-det-virtuella-museet-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-bestämd-artikel---neutrum-varierande-satsposition)
 
 [9. den\|det här\|där Nsg-def (_Den här studien_)](#9-dendet-härdär-nsg-def-den-här-studien)
 
