@@ -146,16 +146,16 @@ ________________________________________________________________________________
 [17. Npl-def (Lärarna)](#17-npl-def-lärarna)
 
   - [17a. Npl-def (Lärarna): Substantiv i plural med slutartikel - initial satsposition](#17a-npl-def-lärarna-substantiv-i-plural-med-slutartikel---initial-satsposition)
-  - [17b. Npl-def (instruktionerna): Substantiv i plural med slutartikel - icke-initial satsposition](#17b-npl-def-instruktionerna-substantiv-i-plural-med-slutartikel---icke-initial-satsposition)
+  - [17b. Npl-def (instruktionerna): Substantiv i plural med slutartikel - varierande satsposition](#17b-npl-def-instruktionerna-substantiv-i-plural-med-slutartikel---varierande-satsposition)
   - [17c. Npl-def (Lärarna): Substantiv i plural med slutartikel - utrum, initial satsposition](#17c-npl-def-lärarna-substantiv-i-plural-med-slutartikel---utrum-initial-satsposition)
   - [17d. Npl-def (Utsläppen): Substantiv i plural med slutartikel - neutrum, initial satsposition](#17d-npl-def-utsläppen-substantiv-i-plural-med-slutartikel---neutrum-initial-satsposition)
-  - [17e. Npl-def (Fyll i luckorna): Substantiv i plural med slutartikel - utrum, icke-initial satsposition](#17e-npl-def-fyll-i-luckorna-substantiv-i-plural-med-slutartikel---utrum-icke-initial-satsposition)
-  - [17f. Npl-def (barnen): Substantiv i plural med slutartikel - neutrum, icke-initial satsposition](#17f-npl-def-barnen-substantiv-i-plural-med-slutartikel---neutrum-icke-initial-satsposition)
+  - [17e. Npl-def (Fyll i luckorna): Substantiv i plural med slutartikel - utrum, varierande satsposition](#17e-npl-def-fyll-i-luckorna-substantiv-i-plural-med-slutartikel---utrum-varierande-satsposition)
+  - [17f. Npl-def (barnen): Substantiv i plural med slutartikel - neutrum, varierande satsposition](#17f-npl-def-barnen-substantiv-i-plural-med-slutartikel---neutrum-varierande-satsposition)
 
 [18. def A Npl-def (de flesta svenskarna)](#18-def-a-npl-def-de-flesta-svenskarna)
 
   - [18a. def A Npl-def (De flesta svenskarna): Substantiv i plural med framförställt attribut, bestämd artikel och slutartikel - initial satsposition](#18a-def-a-npl-def-de-flesta-svenskarna-substantiv-i-plural-med-framförställt-attribut-bestämd-artikel-och-slutartikel---initial-satsposition)
-  - [18b. def A Npl-def (båda ungarna): Substantiv i plural med framförställt attribut, bestämd artikel och slutartikel - icke-initial satsposition](#18b-def-a-npl-def-båda-ungarna-substantiv-i-plural-med-framförställt-attribut-bestämd-artikel-och-slutartikel---icke-initial-satsposition)
+  - [18b. def A Npl-def (båda ungarna): Substantiv i plural med framförställt attribut, bestämd artikel och slutartikel - varierande satsposition](#18b-def-a-npl-def-båda-ungarna-substantiv-i-plural-med-framförställt-attribut-bestämd-artikel-och-slutartikel---varierande-satsposition)
   - [18c. def A Npl-def (De flesta svenskarna): Substantiv i plural med framförställt attribut, bestämd artikel och slutartikel - utrum, initial satsposition](#18c-def-a-npl-def-de-flesta-svenskarna-substantiv-i-plural-med-framförställt-attribut-bestämd-artikel-och-slutartikel---utrum-initial-satsposition)
   - [18d. def A Npl-def (De sämsta jobben): Substantiv i plural med framförställt attribut, bestämd artikel och slutartikel - neutrum, initial satsposition](#18d-def-a-npl-def-de-sämsta-jobben-substantiv-i-plural-med-framförställt-attribut-bestämd-artikel-och-slutartikel---neutrum-initial-satsposition)
   - [18e. def A Npl-def (De flesta svenskarna): Substantiv i plural med framförställt attribut, bestämd artikel och slutartikel - utrum](#18e-def-a-npl-def-de-flesta-svenskarna-substantiv-i-plural-med-framförställt-attribut-bestämd-artikel-och-slutartikel---utrum)
@@ -229,20 +229,20 @@ ________________________________________________________________________________
 [27. A Nsg-def (Hela kvarteret)](#27-a-nsg-def-hela-kvarteret)
 
   - [27a. A Nsg-def (Hela kvarteret): Substantiv i singular med framförställt attribut utan bestämd artikel med slutartikel - initial satsposition](#27a-a-nsg-def-hela-kvarteret-substantiv-i-singular-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---initial-satsposition)
-  - [27b. A Nsg-def (högra örat): Substantiv i singular med framförställt attribut utan bestämd artikel med slutartikel - icke-initial satsposition](#27b-a-nsg-def-högra-örat-substantiv-i-singular-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---icke-initial-satsposition)
+  - [27b. A Nsg-def (högra örat): Substantiv i singular med framförställt attribut utan bestämd artikel med slutartikel - varierande satsposition](#27b-a-nsg-def-högra-örat-substantiv-i-singular-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---varierande-satsposition)
   - [27c. A Nsg-def (Sista bussen): Substantiv i singular med framförställt attribut utan fribestämdstående artikel med slutartikel - utrum, initial satsposition](#27c-a-nsg-def-sista-bussen-substantiv-i-singular-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---utrum-initial-satsposition)
   - [27d. A Nsg-def (Svenska språket): Substantiv i singular med framförställt attribut utan bestämd artikel med slutartikel - neutrum, initial satsposition](#27d-a-nsg-def-svenska-språket-substantiv-i-singular-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---neutrum-initial-satsposition)
-  - [27e. A Nsg-def (ena armen): Substantiv i singular med framförställt attribut utan bestämd artikel med slutartikel - utrum, icke-initial satsposition](#27e-a-nsg-def-ena-armen-substantiv-i-singular-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---utrum-icke-initial-satsposition)
-  - [27f. A Nsg-def (Hela kvarteret): Substantiv i singular med framförställt attribut utan bestämd artikel med slutartikel - neutrum, icke-initial satsposition](#27f-a-nsg-def-hela-kvarteret-substantiv-i-singular-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---neutrum-icke-initial-satsposition)
+  - [27e. A Nsg-def (ena armen): Substantiv i singular med framförställt attribut utan bestämd artikel med slutartikel - utrum, varierande satsposition](#27e-a-nsg-def-ena-armen-substantiv-i-singular-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---utrum-varierande-satsposition)
+  - [27f. A Nsg-def (Hela kvarteret): Substantiv i singular med framförställt attribut utan bestämd artikel med slutartikel - neutrum, varierande satsposition](#27f-a-nsg-def-hela-kvarteret-substantiv-i-singular-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---neutrum-varierande-satsposition)
 
 [28. A Npl-def (Båda ungarna)](#28-a-npl-def-båda-ungarna)
 
   - [28a. A Npl-def (Båda ungarna): Substantiv i plural med framförställt attribut utan bestämd artikel med slutartikel - initial satsposition](#28a-a-npl-def-båda-ungarna-substantiv-i-plural-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---initial-satsposition)
-  - [28b. A Npl-def (): Substantiv i plural med framförställt attribut utan bestämd artikel med slutartikel - icke-initial satsposition](#28b-a-npl-def--substantiv-i-plural-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---icke-initial-satsposition)
+  - [28b. A Npl-def (): Substantiv i plural med framförställt attribut utan bestämd artikel med slutartikel - varierande satsposition](#28b-a-npl-def--substantiv-i-plural-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---varierande-satsposition)
   - [28c. A Npl-def (Båda ungarna): Substantiv i plural med framförställt attribut utan bestämd artikel med slutartikel - utrum, initial satsposition](#28c-a-npl-def-båda-ungarna-substantiv-i-plural-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---utrum-initial-satsposition)
   - [28d. A Npl-def (Olympiska sommarspelen): Substantiv i plural med framförställt attribut utan bestämd artikel med slutartikel - neutrum, initial satsposition](#28d-a-npl-def-olympiska-sommarspelen-substantiv-i-plural-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---neutrum-initial-satsposition)
-  - [28e. A Npl-def (hela dagarna): Substantiv i plural med framförställt attribut utan bestämd artikel med slutartikel - utrum, icke-initial satsposition](#28e-a-npl-def-hela-dagarna-substantiv-i-plural-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---utrum-icke-initial-satsposition)
-  - [28f. A Npl-def (båda paren): Substantiv i plural med framförställt attribut utan bestämd artikel med slutartikel - neutrum, icke-initial satsposition](#28f-a-npl-def-båda-paren-substantiv-i-plural-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---neutrum-icke-initial-satsposition)
+  - [28e. A Npl-def (hela dagarna): Substantiv i plural med framförställt attribut utan bestämd artikel med slutartikel - utrum, varierande satsposition](#28e-a-npl-def-hela-dagarna-substantiv-i-plural-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---utrum-varierande-satsposition)
+  - [28f. A Npl-def (båda paren): Substantiv i plural med framförställt attribut utan bestämd artikel med slutartikel - neutrum, varierande satsposition](#28f-a-npl-def-båda-paren-substantiv-i-plural-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---neutrum-varierande-satsposition)
 
 _____________________________________________________________________________________
 
@@ -326,13 +326,13 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#2a-a-nsg-följand
 
 _____________________________________________________________________________________
 
-### 2b. A Nsg (med _stängd mun_): Substantiv i singular med framförställt attribut - icke-initial satsposition
+### 2b. A Nsg (med _stängd mun_): Substantiv i singular med framförställt attribut - varierande satsposition
 
 Mönster 2b, t.ex. Hon log med _stängd mun_ för att hon hade dåliga tänder. 
 
 Blandade genus. Används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#2b-a-nsg-med-stängd-mun-substantiv-i-singular-med-framförställt-attribut---icke-initial-satsposition
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#2b-a-nsg-med-stängd-mun-substantiv-i-singular-med-framförställt-attribut---varierande-satsposition
 
 
 _____________________________________________________________________________________
@@ -358,22 +358,22 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#2d-a-nsg-biologis
 _____________________________________________________________________________________
 
 
-### 2e. A Nsg (när hon var _liten flicka_): Substantiv i singular med framförställt attribut - utrum, icke-initial satsposition
+### 2e. A Nsg (när hon var _liten flicka_): Substantiv i singular med framförställt attribut - utrum, varierande satsposition
 
 Mönster 2e, undergrupp till 2b, t.ex Myterna om henne började spinnas redan när hon var _liten flicka_ .
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#2e-a-nsg-när-hon-var-liten-flicka-substantiv-i-singular-med-framförställt-attribut---utrum-icke-initial-satsposition
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#2e-a-nsg-när-hon-var-liten-flicka-substantiv-i-singular-med-framförställt-attribut---utrum-varierande-satsposition
 
 
 _____________________________________________________________________________________
 
 
-### 2f. A Nsg (med _stort intresse_): Substantiv i singular med framförställt attribut - neutrum, icke-initial satsposition
+### 2f. A Nsg (med _stort intresse_): Substantiv i singular med framförställt attribut - neutrum, varierande satsposition
 
 
 Mönster 2f, undergrupp till 2b, t.ex Hon ägnade sig med ovanligt _stort intresse_ åt konst och filosofi.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#2f-a-nsg-med-stort-intresse-substantiv-i-singular-med-framförställt-attribut---neutrum-icke-initial-satsposition
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#2f-a-nsg-med-stort-intresse-substantiv-i-singular-med-framförställt-attribut---neutrum-varierande-satsposition
 
 
 _____________________________________________________________________________________
@@ -471,13 +471,13 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#5a-npl-finländar
 
 _____________________________________________________________________________________
 
-### 5b. Npl (bestämma över _ord_): Substantiv i plural - icke-initial satsposition
+### 5b. Npl (bestämma över _ord_): Substantiv i plural - varierande satsposition
 
 Mönster 5b, t.ex. Han ensam bestämmer över _ord_ och regler.
 
 Blandade genus. Används inte. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#5b-npl-bestämma-över-ord-substantiv-i-plural---icke-initial-satsposition
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#5b-npl-bestämma-över-ord-substantiv-i-plural---varierande-satsposition
 
 
 _____________________________________________________________________________________
@@ -500,20 +500,20 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#5d-npl-folk-fråg
 
 _____________________________________________________________________________________
 
-### 5e. Npl (för _svenskar_): Substantiv i plural - utrum, icke-initial satsposition
+### 5e. Npl (för _svenskar_): Substantiv i plural - utrum, varierande satsposition
 
 Mönster 5e, undergrupp av 5b, t.ex. Givetvis gäller det omvända för _svenskar_ i andra länder.  
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#5e-npl-för-svenskar-substantiv-i-plural---utrum-icke-initial-satsposition
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#5e-npl-för-svenskar-substantiv-i-plural---utrum-varierande-satsposition
 
 
 _____________________________________________________________________________________
 
-### 5f. Npl (skriva _brev_): Substantiv i plural - neutrum, icke-initial satsposition
+### 5f. Npl (skriva _brev_): Substantiv i plural - neutrum, varierande satsposition
 
 Mönster 5f, undergrupp av 5b, t.ex. Han skriver då och då _brev_ till mig.   
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#5f-npl-skriva-brev-substantiv-i-plural---neutrum-icke-initial-satsposition
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#5f-npl-skriva-brev-substantiv-i-plural---neutrum-varierande-satsposition
 
 
 _____________________________________________________________________________________
@@ -538,13 +538,13 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#6a-a-npl-gula-bil
 
 _____________________________________________________________________________________
 
-### 6b. A Npl (_gula bilar_): Substantiv i plural med framförställt attribut - icke-initial satsposition
+### 6b. A Npl (_gula bilar_): Substantiv i plural med framförställt attribut - varierande satsposition
 
 Mönster 6b, t.ex. För att undvika bråk och _häftiga diskussioner_ kan svensken ibland låta bli att säga hela sanningen. 
 
 Blandade genus. Används inte. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#6b-a-npl-gula-bilar-substantiv-i-plural-med-framförställt-attribut---icke-initial-satsposition
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#6b-a-npl-gula-bilar-substantiv-i-plural-med-framförställt-attribut---varierande-satsposition
 
 _____________________________________________________________________________________
 
@@ -567,20 +567,20 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#6d-a-npl-alternat
 
 _____________________________________________________________________________________
 
-### 6e. A Npl (kör _gula bilar_): Substantiv i plural med framförställt attribut - utrum, icke-initial satsposition
+### 6e. A Npl (kör _gula bilar_): Substantiv i plural med framförställt attribut - utrum, varierande satsposition
 
 Mönster 6e, undergrupp av 6b, t.ex. I genomsnitt ägnar _svenska kvinnor_ 81 minuter och _svenska män_ 64 minuter per dag åt Facebook. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#6e-a-npl-kör-gula-bilar-substantiv-i-plural-med-framförställt-attribut---utrum-icke-initial-satsposition
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#6e-a-npl-kör-gula-bilar-substantiv-i-plural-med-framförställt-attribut---utrum-varierande-satsposition
 
 
 _____________________________________________________________________________________
 
-### 6f. A Npl (att använda _alternativa sätt_): Substantiv i plural med framförställt attribut - neutrum, icke-initial satsposition
+### 6f. A Npl (att använda _alternativa sätt_): Substantiv i plural med framförställt attribut - neutrum, varierande satsposition
 
 Mönster 6f, undergrupp av 6b, t.ex. Jag trivs bäst i _öppna landskap_.  
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#6f-a-npl-att-använda-alternativa-sätt-substantiv-i-plural-med-framförställt-attribut---neutrum-icke-initial-satsposition
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#6f-a-npl-att-använda-alternativa-sätt-substantiv-i-plural-med-framförställt-attribut---neutrum-varierande-satsposition
 
 
 _____________________________________________________________________________________
@@ -603,13 +603,13 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#7a-nsg-def-felet-
 
 _____________________________________________________________________________________
 
-### 7b. Nsg-def (Jag skakar på _huvudet_): Substantiv i singular med slutartikel - icke-initial satsposition
+### 7b. Nsg-def (Jag skakar på _huvudet_): Substantiv i singular med slutartikel - varierande satsposition
 
 Mönster 7b, t.ex. Jag skakar på _huvudet_
 
 Blandade genus. Används inte. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#7b-nsg-def-jag-skakar-på-huvudet-substantiv-i-singular-med-slutartikel---icke-initial-satsposition
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#7b-nsg-def-jag-skakar-på-huvudet-substantiv-i-singular-med-slutartikel---varierande-satsposition
 
 
 _____________________________________________________________________________________
@@ -631,20 +631,20 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#7d-nsg-def-tecken
 
 _____________________________________________________________________________________
 
-### 7e. Nsg-def (Min son tog _studenten_): Substantiv i singular med slutartikel - utrum, icke-initial satsposition
+### 7e. Nsg-def (Min son tog _studenten_): Substantiv i singular med slutartikel - utrum, varierande satsposition
 
 Mönster 7e, undergrupp till 7b, t.ex. När min son tog _studenten_ bestämde han sig för att lära sig grekiska.  
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#7e-nsg-def-min-son-tog-studenten-substantiv-i-singular-med-slutartikel---utrum-icke-initial-satsposition
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#7e-nsg-def-min-son-tog-studenten-substantiv-i-singular-med-slutartikel---utrum-varierande-satsposition
 
 
 _____________________________________________________________________________________
 
-### 7f. Nsg-def (Jag skakar på _huvudet_): Substantiv i singular med slutartikel - neutrum, icke-initial satsposition
+### 7f. Nsg-def (Jag skakar på _huvudet_): Substantiv i singular med slutartikel - neutrum, varierande satsposition
 
 Mönster 7f, undergrupp till 7b, t.ex. Jag skakar på _huvudet_
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#7f-nsg-def-jag-skakar-på-huvudet-substantiv-i-singular-med-slutartikel---neutrum-icke-initial-satsposition
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#7f-nsg-def-jag-skakar-på-huvudet-substantiv-i-singular-med-slutartikel---neutrum-varierande-satsposition
 
 
 _____________________________________________________________________________________
@@ -666,13 +666,13 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#8a-def-a-nsg-def-
 
 _____________________________________________________________________________________
 
-### 8b. def A Nsg-def (förklaringen till _det gåtfulla leendet_): Substantiv i singular med framförställt attribut, slutartikel och bestämd artikel - icke-initial satsposition
+### 8b. def A Nsg-def (förklaringen till _det gåtfulla leendet_): Substantiv i singular med framförställt attribut, slutartikel och bestämd artikel - varierande satsposition
 
 Mönster 8b, t.ex. Är det förklaringen till _det gåtfulla leendet_?  
 
 Blandade genus. Används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#8b-def-a-nsg-def-förklaringen-till-det-gåtfulla-leendet-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-bestämd-artikel---icke-initial-satsposition
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#8b-def-a-nsg-def-förklaringen-till-det-gåtfulla-leendet-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-bestämd-artikel---varierande-satsposition
 
 
 _____________________________________________________________________________________
@@ -695,20 +695,20 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#8d-def-a-nsg-def-
 
 _____________________________________________________________________________________
 
-### 8e. def A Nsg-def (Oden var _den klokaste guden_): Substantiv i singular med framförställt attribut, slutartikel och bestämd artikel - utrum, icke-initial satsposition
+### 8e. def A Nsg-def (Oden var _den klokaste guden_): Substantiv i singular med framförställt attribut, slutartikel och bestämd artikel - utrum, varierande satsposition
 
 Mönster 8e, undergrupp till 8b, t.ex. Oden var _den klokaste guden_.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#8e-def-a-nsg-def-oden-var-den-klokaste-guden-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-bestämd-artikel---utrum-icke-initial-satsposition
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#8e-def-a-nsg-def-oden-var-den-klokaste-guden-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-bestämd-artikel---utrum-varierande-satsposition
 
 
 _____________________________________________________________________________________
 
-### 8f. def A Nsg-def (besökarna i _det virtuella museet_): Substantiv i singular med framförställt attribut, slutartikel och bestämd artikel - neutrum, icke-initial satsposition
+### 8f. def A Nsg-def (besökarna i _det virtuella museet_): Substantiv i singular med framförställt attribut, slutartikel och bestämd artikel - neutrum, varierande satsposition
 
 Mönster 8f, undergrupp till 8b, t.ex. An så länge har inte besökarna i _det virtuella museet_ blivit fler än de i det riktiga museet.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#8f-def-a-nsg-def-besökarna-i-det-virtuella-museet-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-bestämd-artikel---neutrum-icke-initial-satsposition
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#8f-def-a-nsg-def-besökarna-i-det-virtuella-museet-substantiv-i-singular-med-framförställt-attribut-slutartikel-och-bestämd-artikel---neutrum-varierande-satsposition
 
 _____________________________________________________________________________________
 
@@ -1142,7 +1142,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 17b. Npl-def (_instruktionerna_): Substantiv i plural med slutartikel - icke-initial satsposition
+### 17b. Npl-def (_instruktionerna_): Substantiv i plural med slutartikel - varierande satsposition
 
 Mönster 17b, t.ex. Tyvärr har _instruktionerna_ hamnat i fel ordning.  
 
@@ -1171,7 +1171,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 17e. Npl-def (Fyll i _luckorna_): Substantiv i plural med slutartikel - utrum, icke-initial satsposition
+### 17e. Npl-def (Fyll i _luckorna_): Substantiv i plural med slutartikel - utrum, varierande satsposition
 
 Mönster 17e, t.ex. Fyll i _luckorna_!
 
@@ -1180,7 +1180,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 17f. Npl-def (_barnen_): Substantiv i plural med slutartikel - neutrum, icke-initial satsposition
+### 17f. Npl-def (_barnen_): Substantiv i plural med slutartikel - neutrum, varierande satsposition
 
 Mönster 17f, t.ex. Vi låter _barnen_ äta godis på lördagar.
 
@@ -1207,7 +1207,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 18b. def A Npl-def (_båda ungarna_): Substantiv i plural med framförställt attribut, bestämd artikel och slutartikel - icke-initial satsposition
+### 18b. def A Npl-def (_båda ungarna_): Substantiv i plural med framförställt attribut, bestämd artikel och slutartikel - varierande satsposition
 
 Mönster 18b, t.ex. _Båda ungarna_ var ju hemma, och de satt i telefon mest hela dagarna, när de inte tittade på video förstås! 
 
@@ -1728,7 +1728,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 27b. A Nsg-def (_högra örat_): Substantiv i singular med framförställt attribut utan bestämd artikel med slutartikel - icke-initial satsposition
+### 27b. A Nsg-def (_högra örat_): Substantiv i singular med framförställt attribut utan bestämd artikel med slutartikel - varierande satsposition
 
 Mönster 27b, t.ex. Jag hör sämre på _högra örat_ än på vänstra. 
 
@@ -1757,7 +1757,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 27e. A Nsg-def (_ena armen_): Substantiv i singular med framförställt attribut utan bestämd artikel med slutartikel - utrum, icke-initial satsposition
+### 27e. A Nsg-def (_ena armen_): Substantiv i singular med framförställt attribut utan bestämd artikel med slutartikel - utrum, varierande satsposition
 
 Mönster 27e, t.ex. Jag började få ont i _ena armen_ 
 
@@ -1766,7 +1766,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 27f. A Nsg-def (_Hela kvarteret_): Substantiv i singular med framförställt attribut utan bestämd artikel med slutartikel - neutrum, icke-initial satsposition
+### 27f. A Nsg-def (_Hela kvarteret_): Substantiv i singular med framförställt attribut utan bestämd artikel med slutartikel - neutrum, varierande satsposition
 
 Mönster 27f, t.ex. Eva följer _senaste modet_  
 
@@ -1792,7 +1792,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 28b. A Npl-def (): Substantiv i plural med framförställt attribut utan bestämd artikel med slutartikel - icke-initial satsposition
+### 28b. A Npl-def (): Substantiv i plural med framförställt attribut utan bestämd artikel med slutartikel - varierande satsposition
 
 Mönster 28b, t.ex. 
 
@@ -1821,7 +1821,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 28e. A Npl-def (_hela dagarna_): Substantiv i plural med framförställt attribut utan bestämd artikel med slutartikel - utrum, icke-initial satsposition
+### 28e. A Npl-def (_hela dagarna_): Substantiv i plural med framförställt attribut utan bestämd artikel med slutartikel - utrum, varierande satsposition
 
 Mönster 28e, t.ex. Hon berättar vad hon gör _hela dagarna_ 
 
@@ -1830,7 +1830,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 28f. A Npl-def (_båda paren_): Substantiv i plural med framförställt attribut utan bestämd artikel med slutartikel - neutrum, icke-initial satsposition
+### 28f. A Npl-def (_båda paren_): Substantiv i plural med framförställt attribut utan bestämd artikel med slutartikel - neutrum, varierande satsposition
 
 Mönster 28f, t.ex. 1981 hade _båda paren_ skilt sig.
 
