@@ -992,7 +992,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
-### 15a. Poss\|NP-gen Nsg (i _ditt land_): Substantiv i singular med possessivt pronomen el. genitivattribut 
+### 15a. Poss\|NP-gen Nsg (i _ditt land_): Substantiv i singular med possessivt attribut 
 
 Mönster 15a, t.ex. Äter man något speciellt till söndagsmiddag i _ditt land_? 
 
@@ -1003,7 +1003,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 15b. Poss\|NP-gen Nsg (_Min skolan_): Substantiv i singular med possessivt pronomen el. genitivattribut - normbrott
+### 15b. Poss\|NP-gen Nsg (_Min skolan_): Substantiv i singular med possessivt attribut - normbrott
 
 Mönster 15b, t.ex. _Min skolan_ heter NN Gymnasiet.  
 
@@ -1014,7 +1014,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 15c. Poss\|NP-gen Nsg (_min kompis_): Substantiv i singular med possessivt pronomen el. genitivattribut - utrum
+### 15c. Poss\|NP-gen Nsg (_min kompis_): Substantiv i singular med possessivt attribut - utrum
 
 Mönster 15c, t.ex. Enligt _min kompis_ är han trevlig.
 
@@ -1023,7 +1023,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 15d. Poss\|NP-gen Nsg (_lärarens telefonnummer_): Substantiv i singular med possessivt pronomen el. genitivattribut - neutrum
+### 15d. Poss\|NP-gen Nsg (_lärarens telefonnummer_): Substantiv i singular med possessivt attribut - neutrum
 
 Mönster 15d, t.ex. Hur ska jag få reda på _lärarens telefonnummer_?
 
@@ -1032,7 +1032,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 15e. Poss\|NP-gen Nsg (_Min skolan_): Substantiv i singular med possessivt pronomen el. genitivattribut - normbrott
+### 15e. Poss\|NP-gen Nsg (_Min skolan_): Substantiv i singular med possessivt attribut - normbrott
 
 Mönster 15e, undergrupp till 15c; t.ex. _Min skolan_ heter NN Gymnasiet. 
 
@@ -1043,7 +1043,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 15f. Poss\|NP-gen Nsg (_deras livet_): Substantiv i singular med possessivt pronomen el. genitivattribut - normbrott
+### 15f. Poss\|NP-gen Nsg (_deras livet_): Substantiv i singular med possessivt attribut - normbrott
 
 Mönster 15f, t.ex. Jag har läst boken och fattar om _deras livet_. 
 
@@ -1062,7 +1062,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 16a. Poss\|NP-gen A Nsg (_min största resa_): Substantiv i singular med possessivt pronomen el. genitivattribut och framförställt attribut 
+### 16a. Poss\|NP-gen A Nsg (_min största resa_): Substantiv i singular med possessivt attribut och framförställt attribut 
 
 Mönster 16a, t.ex. Det är utan tvekan _min största och viktigaste resa_ genom livet. 
 
@@ -1073,7 +1073,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 16b. Poss\|NP-gen A Nsg (_din verkliga livet_): Substantiv i singular med possessivt pronomen el. genitivattribut och framförställt attribut - normbrott
+### 16b. Poss\|NP-gen A Nsg (_din verkliga livet_): Substantiv i singular med possessivt attribut och framförställt attribut - normbrott
 
 Mönster 16b, t.ex. Då blir det stora problem med _din verkliga livet_.  
 
@@ -1084,7 +1084,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 16c. Poss\|NP-gen A Nsg (_Årets kortaste dag_): Substantiv i singular med possessivt pronomen el. genitivattribut och framförställt attribut - utrum
+### 16c. Poss\|NP-gen A Nsg (_Årets kortaste dag_): Substantiv i singular med possessivt attribut och framförställt attribut - utrum
 
 Mönster 16c, t.ex. _Årets kortaste dag_ är den 22 december.
 
@@ -1093,7 +1093,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 16d. Poss\|NP-gen A Nsg (_sitt stora verk_): Substantiv i singular med possessivt pronomen el. genitivattribut och framförställt attribut - neutrum
+### 16d. Poss\|NP-gen A Nsg (_sitt stora verk_): Substantiv i singular med possessivt attribut och framförställt attribut - neutrum
 
 Mönster 16d, t.ex. Här publicerade han _sitt stora verk_... 
 
@@ -1102,7 +1102,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 16e. Poss\|NP-gen A Nsg (_min kära familjen_): Substantiv i singular med possessivt pronomen el. genitivattribut och framförställt attribut - normbrott
+### 16e. Poss\|NP-gen A Nsg (_min kära familjen_): Substantiv i singular med possessivt attribut och framförställt attribut - normbrott
 
 Mönster 16e, t.ex. Det är det som jag pratad med _min kära familjen_...
 
@@ -1113,7 +1113,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 16f. Poss\|NP-gen A Nsg (_våra moderna livet_): Substantiv i singular med possessivt pronomen el. genitivattribut och framförställt attribut - normbrott
+### 16f. Poss\|NP-gen A Nsg (_våra moderna livet_): Substantiv i singular med possessivt attribut och framförställt attribut - normbrott
 
 Mönster 16f, t.ex. Stress av arbete eller arbetslöshet är vanlig och kan vara farlig i _våra moderna livet_.
 
@@ -1518,7 +1518,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 25a. Poss\|NP-gen Npl (_mina barn_): Substantiv i plural med possessivt pronomen el. genitivattribut 
+### 25a. Poss\|NP-gen Npl (_mina barn_): Substantiv i plural med possessivt attribut 
 
 Mönster 25a, t.ex. _Mina barn_ kommer att lära sig svenska fortare och bättre än jag. 
 
@@ -1529,7 +1529,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 25b. Poss\|NP-gen Npl (_min kompisarna_): Substantiv i plural med possessivt pronomen el. genitivattribut - normbrott
+### 25b. Poss\|NP-gen Npl (_min kompisarna_): Substantiv i plural med possessivt attribut - normbrott
 
 Mönster 25b, t.ex. En dag _min kompisarna_ skrev till mig på facebook...
 
@@ -1540,7 +1540,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 25c. Poss\|NP-gen Npl (_min byxor_): Substantiv i plural med possessivt pronomen el. genitivattribut - normbrott
+### 25c. Poss\|NP-gen Npl (_min byxor_): Substantiv i plural med possessivt attribut - normbrott
 
 Mönster 25c, t.ex. Den gamla kvinna tappa hennes apelsin juice på _min byxor_ när hon försöka att öppna hennes mat plast. 
 
@@ -1551,7 +1551,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 25d. Poss\|NP-gen Npl (_dina kamrater_): Substantiv i plural med possessivt pronomen el. genitivattribut - utrum
+### 25d. Poss\|NP-gen Npl (_dina kamrater_): Substantiv i plural med possessivt attribut - utrum
 
 Mönster 25d, t.ex. Jämför med _dina kamrater_!
 
@@ -1560,7 +1560,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 25e. Poss\|NP-gen Npl (_era länder_): Substantiv i plural med possessivt pronomen el. genitivattribut - neutrum
+### 25e. Poss\|NP-gen Npl (_era länder_): Substantiv i plural med possessivt attribut - neutrum
 
 Mönster 25e, t.ex. Vad finns det för skrock i _era länder_?
 
@@ -1569,7 +1569,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 25f. Poss\|NP-gen Npl (_era länder_): Substantiv i plural med possessivt pronomen el. genitivattribut - normbrott
+### 25f. Poss\|NP-gen Npl (_era länder_): Substantiv i plural med possessivt attribut - normbrott
 
 Mönster 25f, t.ex. Det var förra år när började jag kände ont i _mina lungorna_. 
 
@@ -1580,7 +1580,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 25g. Poss\|NP-gen Npl (_dina barnen_): Substantiv i plural med possessivt pronomen el. genitivattribut - normbrott
+### 25g. Poss\|NP-gen Npl (_dina barnen_): Substantiv i plural med possessivt attribut - normbrott
 
 Mönster 25g, t.ex. Slutling pappa ring till mamma och sa till henne kom och ta hand _dina barnen_ och vi bli lycklig. 
 
@@ -1591,7 +1591,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 25h. Poss\|NP-gen Npl (_sin pengar_): Substantiv i plural med possessivt pronomen el. genitivattribut - normbrott
+### 25h. Poss\|NP-gen Npl (_sin pengar_): Substantiv i plural med possessivt attribut - normbrott
 
 Mönster 25h, t.ex. Hon kan spara alla _sin pengar_ och hon iblad åker till Sverige att besöka mig. 
 
@@ -1602,7 +1602,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 25i. Poss\|NP-gen Npl (): Substantiv i plural med possessivt pronomen el. genitivattribut - normbrott
+### 25i. Poss\|NP-gen Npl (): Substantiv i plural med possessivt attribut - normbrott
 
 Mönster 25i, t.ex. (no hits...)
 
@@ -1621,7 +1621,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 26a. Poss\|NP-gen A Npl (_sina egna värderingar_): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut 
+### 26a. Poss\|NP-gen A Npl (_sina egna värderingar_): Substantiv i plural med possessivt attribut och framförställt attribut 
 
 Mönster 26a, t.ex. Är det en sann bild av _dagens moderna mammor och pappor_ ?  eller Hon börjar ifrågasätta 	_sina egna värderingar_
 
@@ -1632,7 +1632,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 26b. Poss\|NP-gen A Npl (_mina smutsik kläderna_): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut - normbrott
+### 26b. Poss\|NP-gen A Npl (_mina smutsik kläderna_): Substantiv i plural med possessivt attribut och framförställt attribut - normbrott
 
 Mönster 26b, t.ex. När jag vaknar först jag duschar sedan tar lite frukost eftersom städer och tvättar _mina smutsik kläderna_ . 
 
@@ -1643,7 +1643,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 26c. Poss\|NP-gen A Npl (_min dåliga dagar_): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut - normbrott
+### 26c. Poss\|NP-gen A Npl (_min dåliga dagar_): Substantiv i plural med possessivt attribut och framförställt attribut - normbrott
 
 Mönster 26c, t.ex. Det var _min dåliga dagar_ på mit liv.
 
@@ -1654,7 +1654,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 26d. Poss\|NP-gen A Npl (_Bergmans bästa filmer_): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut - utrum
+### 26d. Poss\|NP-gen A Npl (_Bergmans bästa filmer_): Substantiv i plural med possessivt attribut och framförställt attribut - utrum
 
 Mönster 26d, t.ex. Fanny och Alexander är en av Ingmar _Bergmans bästa filmer_. 
 
@@ -1663,7 +1663,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 26e. Poss\|NP-gen A Npl (_sina egna språk_): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut - neutrum
+### 26e. Poss\|NP-gen A Npl (_sina egna språk_): Substantiv i plural med possessivt attribut och framförställt attribut - neutrum
 
 Mönster 26e, t.ex. Folket borde kämpa för att bevara _sina egna språk_. 
 
@@ -1671,7 +1671,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 26f. Poss\|NP-gen A Npl (_sina egna jobberfarenheterna_): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut - utrum, normbrott
+### 26f. Poss\|NP-gen A Npl (_sina egna jobberfarenheterna_): Substantiv i plural med possessivt attribut och framförställt attribut - utrum, normbrott
 
 Mönster 26f, t.ex. Konkurransen är jättestor och _sina egna jobberfarenheterna_ mycket begränsade . 
 
@@ -1683,7 +1683,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 _____________________________________________________________________________________
 
 
-### 26g. Poss\|NP-gen A Npl (): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut - neutrum, normbrott
+### 26g. Poss\|NP-gen A Npl (): Substantiv i plural med possessivt attribut och framförställt attribut - neutrum, normbrott
 
 Mönster 26g, t.ex.  (0 hits)
 
@@ -1694,7 +1694,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 26h. Poss\|NP-gen A Npl (): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut - normbrott
+### 26h. Poss\|NP-gen A Npl (): Substantiv i plural med possessivt attribut och framförställt attribut - normbrott
 
 Mönster 26h, t.ex. 
 
@@ -1702,7 +1702,7 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
 
 _____________________________________________________________________________________
 
-### 26i. Poss\|NP-gen A Npl (): Substantiv i plural med possessivt pronomen el. genitivattribut och framförställt attribut - normbrott
+### 26i. Poss\|NP-gen A Npl (): Substantiv i plural med possessivt attribut och framförställt attribut - normbrott
 
 Mönster 26i, t.ex. 
 
