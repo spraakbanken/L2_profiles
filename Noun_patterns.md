@@ -127,7 +127,7 @@ ________________________________________________________________________________
 
 [15. Poss\|NP-gen Nsg (i ditt land)](#15-possnp-gen-nsg-i-ditt-land)
 
-  - [15a. Poss\|NP-gen Nsg (i ditt land): Substantiv i singular med possessivt attribut](#15a-possnp-gen-nsg-i-ditt-land-substantiv-i-singular-med-possessivt-genitivattribut)
+  - [15a. Poss\|NP-gen Nsg (i ditt land): Substantiv i singular med possessivt attribut](#15a-possnp-gen-nsg-i-ditt-land-substantiv-i-singular-med-possessivt-attribut)
   - [15b. Poss\|NP-gen Nsg (Min skolan): Substantiv i singular med possessivt attribut - normbrott](#15b-possnp-gen-nsg-min-skolan-substantiv-i-singular-med-possessivt-attribut---normbrott)
   - [15c. Poss\|NP-gen Nsg (min kompis): Substantiv i singular med possessivt attribut - utrum](#15c-possnp-gen-nsg-min-kompis-substantiv-i-singular-med-possessivt-attribut---utrum)
   - [15d. Poss\|NP-gen Nsg (lärarens telefonnummer): Substantiv i singular med possessivt attribut - neutrum](#15d-possnp-gen-nsg-lärarens-telefonnummer-substantiv-i-singular-med-possessivt-attribut---neutrum)
