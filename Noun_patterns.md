@@ -863,12 +863,11 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#12a-dendet-a-nsg-
 
 _____________________________________________________________________________________
 
-### 12b. den A Nsg (_den ringaste lust_ 	att diska): Substantiv i singular med bestämd artikel _den_ och framförställt attribut utan slutartikel - utrum
+### 12b. den A Nsg (_den ringaste lust_ att diska): Substantiv i singular med bestämd artikel _den_ och framförställt attribut utan slutartikel - utrum
 
 Mönster 12b, t.ex. Hon hade inte _den ringaste lust_ att diska. 
 
 Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#12b-den-a-nsg-den-ringaste-lust-att-diska-substantiv-i-singular-med-bestämd-artikel-den-och-framförställt-attribut-utan-slutartikel---utrum
-
 
 _____________________________________________________________________________________
 
