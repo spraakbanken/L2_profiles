@@ -990,6 +990,8 @@ ________________________________________________________________________________
 
 (utan slutartikel)
 
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#15-possnp-gen-nsg-i-ditt-land
+
 _____________________________________________________________________________________
 
 ### 15a. Poss\|NP-gen Nsg (i _ditt land_): Substantiv i singular med possessivt attribut 
@@ -998,7 +1000,7 @@ Mönster 15a, t.ex. Äter man något speciellt till söndagsmiddag i _ditt land_
 
 Blandade genus. Används inte. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#15a-possnp-gen-nsg-i-ditt-land-substantiv-i-singular-med-possessivt-attribut
 
 
 _____________________________________________________________________________________
@@ -1009,7 +1011,7 @@ Mönster 15b, t.ex. _Min skolan_ heter NN Gymnasiet.
 
 Normbrott (förekommer i uppsatser). Mönstret används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#15b-possnp-gen-nsg-min-skolan-substantiv-i-singular-med-possessivt-attribut---normbrott
 
 
 _____________________________________________________________________________________
@@ -1018,7 +1020,7 @@ ________________________________________________________________________________
 
 Mönster 15c, t.ex. Enligt _min kompis_ är han trevlig.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#15c-possnp-gen-nsg-min-kompis-substantiv-i-singular-med-possessivt-attribut---utrum
 
 
 _____________________________________________________________________________________
@@ -1027,7 +1029,7 @@ ________________________________________________________________________________
 
 Mönster 15d, t.ex. Hur ska jag få reda på _lärarens telefonnummer_?
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#15d-possnp-gen-nsg-lärarens-telefonnummer-substantiv-i-singular-med-possessivt-attribut---neutrum
 
 
 _____________________________________________________________________________________
@@ -1038,7 +1040,7 @@ Mönster 15e, undergrupp till 15c; t.ex. _Min skolan_ heter NN Gymnasiet.
 
 Normbrott (förekommer i uppsatser). Mönstret används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#15e-possnp-gen-nsg-min-skolan-substantiv-i-singular-med-possessivt-attribut---normbrott
 
 
 _____________________________________________________________________________________
@@ -1049,7 +1051,7 @@ Mönster 15f, t.ex. Jag har läst boken och fattar om _deras livet_.
 
 Normbrott (förekommer i uppsatser). Mönstret används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#15f-possnp-gen-nsg-deras-livet-substantiv-i-singular-med-possessivt-attribut---normbrott
 
 
 _____________________________________________________________________________________
@@ -1058,7 +1060,7 @@ ________________________________________________________________________________
 
 (utan slutartikel)
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#16-possnp-gen-a-nsg-min-största-resa-genom-livet
 
 _____________________________________________________________________________________
 
@@ -1068,7 +1070,7 @@ Mönster 16a, t.ex. Det är utan tvekan _min största och viktigaste resa_ genom
 
 Blandade genus. Används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#16a-possnp-gen-a-nsg-min-största-resa-substantiv-i-singular-med-possessivt-attribut-och-framförställt-attribut
 
 
 _____________________________________________________________________________________
@@ -1079,7 +1081,7 @@ Mönster 16b, t.ex. Då blir det stora problem med _din verkliga livet_.
 
 Normbrott (förekommer i uppsatser). Mönstret används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#16b-possnp-gen-a-nsg-din-verkliga-livet-substantiv-i-singular-med-possessivt-attribut-och-framförställt-attribut---normbrott
 
 
 _____________________________________________________________________________________
@@ -1088,7 +1090,7 @@ ________________________________________________________________________________
 
 Mönster 16c, t.ex. _Årets kortaste dag_ är den 22 december.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#16c-possnp-gen-a-nsg-årets-kortaste-dag-substantiv-i-singular-med-possessivt-attribut-och-framförställt-attribut---utrum
 
 
 _____________________________________________________________________________________
@@ -1097,7 +1099,7 @@ ________________________________________________________________________________
 
 Mönster 16d, t.ex. Här publicerade han _sitt stora verk_... 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#16d-possnp-gen-a-nsg-sitt-stora-verk-substantiv-i-singular-med-possessivt-attribut-och-framförställt-attribut---neutrum
 
 
 _____________________________________________________________________________________
@@ -1108,7 +1110,7 @@ Mönster 16e, t.ex. Det är det som jag pratad med _min kära familjen_...
 
 Normbrott (förekommer i uppsatser). Mönstret används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#16e-possnp-gen-a-nsg-min-kära-familjen-substantiv-i-singular-med-possessivt-attribut-och-framförställt-attribut---normbrott
 
 
 _____________________________________________________________________________________
@@ -1119,14 +1121,14 @@ Mönster 16f, t.ex. Stress av arbete eller arbetslöshet är vanlig och kan vara
 
 Normbrott (förekommer i uppsatser). Mönstret används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#16f-possnp-gen-a-nsg-våra-moderna-livet-substantiv-i-singular-med-possessivt-attribut-och-framförställt-attribut---normbrott
 
 
 _____________________________________________________________________________________
 
 ## 17. Npl-def (_Lärarna_)
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#17-npl-def-lärarna
 
 
 _____________________________________________________________________________________
@@ -1137,7 +1139,7 @@ Mönster 17a, t.ex. _Lärarna_ var mycket stränga.
 
 Blandade genus. Används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#17a-npl-def-lärarna-substantiv-i-plural-med-slutartikel---initial-satsposition
 
 
 _____________________________________________________________________________________
@@ -1148,7 +1150,7 @@ Mönster 17b, t.ex. Tyvärr har _instruktionerna_ hamnat i fel ordning.
 
 Blandade genus. Används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#17b-npl-def-instruktionerna-substantiv-i-plural-med-slutartikel---varierande-satsposition
 
 
 _____________________________________________________________________________________
@@ -1157,7 +1159,7 @@ ________________________________________________________________________________
 
 Mönster 17c, t.ex. _Lärarna_ var mycket stränga. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#17c-npl-def-lärarna-substantiv-i-plural-med-slutartikel---utrum-initial-satsposition
 
 
 _____________________________________________________________________________________
@@ -1166,7 +1168,7 @@ ________________________________________________________________________________
 
 Mönster 17d, t.ex. _Utsläppen_ måste minskas.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#17d-npl-def-utsläppen-substantiv-i-plural-med-slutartikel---neutrum-initial-satsposition
 
 
 _____________________________________________________________________________________
@@ -1175,7 +1177,7 @@ ________________________________________________________________________________
 
 Mönster 17e, t.ex. Fyll i _luckorna_!
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#17e-npl-def-fyll-i-luckorna-substantiv-i-plural-med-slutartikel---utrum-varierande-satsposition
 
 
 _____________________________________________________________________________________
@@ -1184,14 +1186,14 @@ ________________________________________________________________________________
 
 Mönster 17f, t.ex. Vi låter _barnen_ äta godis på lördagar.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#17f-npl-def-barnen-substantiv-i-plural-med-slutartikel---neutrum-varierande-satsposition
 
 
 _____________________________________________________________________________________
 
 ## 18. def A Npl-def (_de flesta svenskarna_)
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#18-def-a-npl-def-de-flesta-svenskarna
 
 
 _____________________________________________________________________________________
@@ -1202,7 +1204,7 @@ Mönster 18a, t.ex. _De flesta svenskarna_ tar semester i juli månad.
 
 Blandade genus. Används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#18a-def-a-npl-def-de-flesta-svenskarna-substantiv-i-plural-med-framförställt-attribut-bestämd-artikel-och-slutartikel---initial-satsposition
 
 
 _____________________________________________________________________________________
@@ -1213,7 +1215,7 @@ Mönster 18b, t.ex. _Båda ungarna_ var ju hemma, och de satt i telefon mest hel
 
 Blandade genus. Används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#18b-def-a-npl-def-båda-ungarna-substantiv-i-plural-med-framförställt-attribut-bestämd-artikel-och-slutartikel---varierande-satsposition
 
 
 _____________________________________________________________________________________
@@ -1224,7 +1226,7 @@ Mönster 18c, t.ex. _De flesta svenskarna_ tar semester i juli månad.
 
 Är en delmängd i 18e. Används inte. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#18c-def-a-npl-def-de-flesta-svenskarna-substantiv-i-plural-med-framförställt-attribut-bestämd-artikel-och-slutartikel---utrum-initial-satsposition
 
 
 _____________________________________________________________________________________
@@ -1235,7 +1237,7 @@ Mönster 18d, t.ex. _De sämsta jobben_ ger de lägsta lönerna.
 
 Är en delmängd i 18f. Används inte. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#18d-def-a-npl-def-de-sämsta-jobben-substantiv-i-plural-med-framförställt-attribut-bestämd-artikel-och-slutartikel---neutrum-initial-satsposition
 
 _____________________________________________________________________________________
 
@@ -1243,7 +1245,7 @@ ________________________________________________________________________________
 
 Mönster 18e, t.ex. _De flesta svenskarna_ tar semester i juli månad.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#18e-def-a-npl-def-de-flesta-svenskarna-substantiv-i-plural-med-framförställt-attribut-bestämd-artikel-och-slutartikel---utrum
 
 
 _____________________________________________________________________________________
@@ -1252,14 +1254,14 @@ ________________________________________________________________________________
 
 Mönster 18f, t.ex. Detta kan vara en effekt av de svenska framgångarna under _de senaste åren_.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#18f-def-a-npl-def-under-de-senaste-åren-substantiv-i-plural-med-framförställt-attribut-bestämd-artikel-och-slutartikel---neutrum
 
 
 _____________________________________________________________________________________
 
 ## 19. de här\|där Npl-def (_de här orden_)
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#19-de-härdär-npl-def-de-här-orden
 
 _____________________________________________________________________________________
 
@@ -1269,7 +1271,7 @@ Mönster 19a, t.ex. Kontrollera att du förstår _de här orden_.
 
 Blandade genus. Används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#19a-de-härdär-npl-def-de-här-orden-substantiv-i-plural-med-demonstrativt-pronomen-de-härdär-och-slutartikel
 
 _____________________________________________________________________________________
 
@@ -1277,7 +1279,7 @@ ________________________________________________________________________________
 
 Mönster 19b, t.ex. _De där idéerna_ är inte nya.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#19b-de-härdär-npl-def-de-där-idéerna-substantiv-i-plural-med-demonstrativt-pronomen-de-härdär-och-slutartikel---utrum
 
 _____________________________________________________________________________________
 
@@ -1285,14 +1287,14 @@ ________________________________________________________________________________
 
 Mönster 19c, t.ex. Kontrollera att du förstår _de här orden_.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#19c-de-härdär-npl-def-de-här-orden-substantiv-i-plural-med-demonstrativt-pronomen-de-härdär-och-slutartikel---neutrum
 
 
 _____________________________________________________________________________________
 
 ## 20. de här\|där A Npl-def (_de här gröna knapparna_)
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#20-de-härdär-a-npl-def-de-här-gröna-knapparna
 
 
 _____________________________________________________________________________________
@@ -1301,7 +1303,7 @@ ________________________________________________________________________________
 
 Mönster 20a, t.ex. Du måste trycka på _de här gröna knapparna_ för att välja. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#20a-de-härdär-a-npl-def-de-här-gröna-knapparna-substantiv-i-plural-med-demonstrativt-pronomen-de-härdär-framförställt-attribut-och-slutartikel
 
 _____________________________________________________________________________________
 
@@ -1309,7 +1311,7 @@ ________________________________________________________________________________
 
 Mönster 20b, t.ex. Du måste trycka på _de här gröna knapparna_ för att välja. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#20b-de-härdär-a-npl-def-de-här-gröna-knapparna-substantiv-i-plural-med-demonstrativt-pronomen-de-härdär-framförställt-attribut-och-slutartikel---utrum
 
 _____________________________________________________________________________________
 
@@ -1317,14 +1319,14 @@ ________________________________________________________________________________
 
 Mönster 20c, t.ex. Vad jag arbetade med _de där franska breven_ !  Ett av _de många problemen_ är den svenska kvinnan.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#20c-de-härdär-a-npl-def-de-där-franska-breven-substantiv-i-plural-med-demonstrativt-pronomen-de-härdär-framförställt-attribut-och-slutartikel---neutrum
 
 
 _____________________________________________________________________________________
 
 ## 21. de Npl (_De pappor_ du träffat)
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#21-de-npl-de-pappor-du-träffat
 
 
 _____________________________________________________________________________________
@@ -1335,7 +1337,7 @@ Mönster 21a, t.ex. Redovisa _de svar_ du har fått för hela gruppen.
 
 Blandade genus. Används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#21a-de-npl-de-svar-substantiv-i-plural-med-bestämd-artikel-de-utan-slutartikel
 
 
 _____________________________________________________________________________________
@@ -1344,7 +1346,7 @@ ________________________________________________________________________________
 
 Mönster 21b, t.ex. _De anställda_ träffas och utbyter idéer och erfarenheter.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#21b-de-npl-de-anställda-substantiv-i-plural-med-bestämd-artikel-de-utan-slutartikel---utrum
 
 
 _____________________________________________________________________________________
@@ -1353,7 +1355,7 @@ ________________________________________________________________________________
 
 Mönster 21c, t.ex. _De skepp_ man använde var långsmala och vackert formade.  
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#21c-de-npl-de-skepp-substantiv-i-plural-med-bestämd-artikel-de-utan-slutartikel---neutrum
 
 
 _____________________________________________________________________________________
@@ -1362,7 +1364,7 @@ ________________________________________________________________________________
 
 Mönster 21d, t.ex. Vad säger då statistiken mer om _de människor som_ separerar?  
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#21d-de-npl-rels-de-människor-som-substantiv-i-plural-med-bestämd-artikel-de-utan-slutartikel---utrum-med-relativ-bisatsinledare
 
 
 _____________________________________________________________________________________
@@ -1371,12 +1373,15 @@ ________________________________________________________________________________
 
 Mönster 21e, t.ex. Vad betyder _de partikelverb som_ ni har strukit under?
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#21e-de-npl-rels-de-partikelverb-som-substantiv-i-plural-med-bestämd-artikel-de-utan-slutartikel---neutrum-med-relativ-bisatsinledare
 
 
 _____________________________________________________________________________________
 
 ## 22. de A Npl (_De sista ord_ vi säger)
+
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#22-de-a-npl-de-sista-ord-vi-säger
+
 _____________________________________________________________________________________
 
 ### 22a. de A Npl (_De sista ord_ vi säger): Substantiv i plural med bestämd artikel _de_, framförställt attribut, utan slutartikel
@@ -1385,7 +1390,7 @@ Mönster 22a, t.ex. _De sista ord_ vi säger till varandra på kvällen: Sov got
 
 Blandade genus. Används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#22a-de-a-npl-de-sista-ord-vi-säger-substantiv-i-plural-med-bestämd-artikel-de-framförställt-attribut-utan-slutartikel
 
 _____________________________________________________________________________________
 
@@ -1393,7 +1398,7 @@ ________________________________________________________________________________
 
 Mönster 22b, t.ex. Bilden föreställer en liten prinsessa i _de finaste kläder_ i en vagn dragen av två strutsar. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#22b-de-a-npl-de-finaste-kläder-substantiv-i-plural-med-bestämd-artikel-de-framförställt-attribut-utan-slutartikel---utrum
 
 
 _____________________________________________________________________________________
@@ -1402,7 +1407,7 @@ ________________________________________________________________________________
 
 Mönster 22c, t.ex. _De flesta adjektiv_ kompareras som i grupp 1. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#22c-de-a-npl-de-flesta-adjektiv-substantiv-i-plural-med-bestämd-artikel-de-framförställt-attribut-utan-slutartikel---neutrum
 
 
 _____________________________________________________________________________________
@@ -1413,7 +1418,7 @@ Mönster 22d, t.ex. Hon tillhör _de svenska författare som_ blivit kända utan
 
 Blandade genus. Används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#22d-de-a-npl-rels-de-svenska-författare-som-substantiv-i-plural-med-bestämd-artikel-de-framförställt-attribut-utan-slutartikel---med-relativ-bisatsinledare
 
 
 _____________________________________________________________________________________
@@ -1422,7 +1427,7 @@ ________________________________________________________________________________
 
 Mönster 22e, t.ex. Hon tillhör _de svenska författare som_ blivit kända utanför Sverige. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#22e-de-a-npl-rels-de-svenska-författare-som-substantiv-i-plural-med-bestämd-artikel-de-framförställt-attribut-utan-slutartikel---utrum-med-relativ-bisatsinledare
 
 
 _____________________________________________________________________________________
@@ -1431,7 +1436,7 @@ ________________________________________________________________________________
 
 Mönster 22f, t.ex. _De politiska partier som_ har flest röster i riksdagen får bilda regering. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#22f-de-a-npl-rels-de-politiska-partier-som-substantiv-i-plural-med-bestämd-artikel-de-framförställt-attribut-utan-slutartikel---neutrum-med-relativ-bisatsinledare
 
 _____________________________________________________________________________________
 
@@ -1439,7 +1444,7 @@ ________________________________________________________________________________
 
 (utan slutartikel)
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#23-dessa-npl-ett-av-dessa-språk
 
 _____________________________________________________________________________________
 
@@ -1449,7 +1454,7 @@ Mönster 23a, t.ex. Ett av _dessa språk_ nådde norra Europa för mer än 2 000
 
 Blandade genus. Används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#23a-dessa-npl-dessa-språk-substantiv-i-plural-med-demonstrativt-pronomen-dessa
 
 
 _____________________________________________________________________________________
@@ -1458,7 +1463,7 @@ ________________________________________________________________________________
 
 Mönster 23b, t.ex.  _Dessa singelmammor_ är en modern företeelse.  
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#23b-dessa-npl-dessa-singelmammor-substantiv-i-plural-med-demonstrativt-pronomen-dessa---utrum
 
 
 _____________________________________________________________________________________
@@ -1467,7 +1472,7 @@ ________________________________________________________________________________
 
 Mönster 23c, t.ex. Vilket av _dessa påståenden_ stämmer in på dig? 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#23c-dessa-npl-dessa-påståenden-substantiv-i-plural-med-demonstrativt-pronomen-dessa---neutrum
 
 
 _____________________________________________________________________________________
@@ -1476,7 +1481,7 @@ ________________________________________________________________________________
 
 (utan slutartikel)
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#24-dessa-a-npl-dessa-växelvarma-djur-är
 
 
 _____________________________________________________________________________________
@@ -1487,7 +1492,7 @@ Mönster 24a, t.ex. _Dessa växelvarma djur_ är nämligen mycket känsliga för
 
 Blandade genus. Används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#24a-dessa-a-npl-dessa-växelvarma-djur-substantiv-i-plural-med-demonstrativt-pronomen-dessa-och-framförställt-attribut
 
 
 _____________________________________________________________________________________
@@ -1496,7 +1501,7 @@ ________________________________________________________________________________
 
 Mönster 24b, t.ex. Vill man integreras i det svenska samhället gäller det bara att lära sig alla _dessa outtalade regler_.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#24b-dessa-a-npl-dessa-outtalade-regler-substantiv-i-plural-med-demonstrativt-pronomen-dessa-och-framförställt-attribut---utrum
 
 
 _____________________________________________________________________________________
@@ -1505,7 +1510,7 @@ ________________________________________________________________________________
 
 Mönster 24c, t.ex. _Dessa växelvarma djur_ är nämligen mycket känsliga för klimatförsämringar.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#24c-dessa-a-npl-dessa-växelvarma-djur-substantiv-i-plural-med-demonstrativt-pronomen-dessa-och-framförställt-attribut---neutrum
 
 
 _____________________________________________________________________________________
@@ -1514,7 +1519,7 @@ ________________________________________________________________________________
 
 (utan slutartikel)
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#25-possnp-gen-npl-mina-barn
 
 _____________________________________________________________________________________
 
@@ -1524,7 +1529,7 @@ Mönster 25a, t.ex. _Mina barn_ kommer att lära sig svenska fortare och bättre
 
 Blandade genus. Används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#25a-possnp-gen-npl-mina-barn-substantiv-i-plural-med-possessivt-attribut
 
 
 _____________________________________________________________________________________
@@ -1535,7 +1540,7 @@ Mönster 25b, t.ex. En dag _min kompisarna_ skrev till mig på facebook...
 
 Normbrott (förekommer i uppsatser). Mönstret används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#25b-possnp-gen-npl-min-kompisarna-substantiv-i-plural-med-possessivt-attribut---normbrott
 
 
 _____________________________________________________________________________________
@@ -1546,7 +1551,7 @@ Mönster 25c, t.ex. Den gamla kvinna tappa hennes apelsin juice på _min byxor_ 
 
 Normbrott (förekommer i uppsatser). Mönstret används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#25c-possnp-gen-npl-min-byxor-substantiv-i-plural-med-possessivt-attribut---normbrott
 
 
 _____________________________________________________________________________________
@@ -1555,7 +1560,7 @@ ________________________________________________________________________________
 
 Mönster 25d, t.ex. Jämför med _dina kamrater_!
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#25d-possnp-gen-npl-dina-kamrater-substantiv-i-plural-med-possessivt-attribut---utrum
 
 
 _____________________________________________________________________________________
@@ -1564,7 +1569,7 @@ ________________________________________________________________________________
 
 Mönster 25e, t.ex. Vad finns det för skrock i _era länder_?
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#25e-possnp-gen-npl-era-länder-substantiv-i-plural-med-possessivt-attribut---neutrum
 
 
 _____________________________________________________________________________________
@@ -1575,7 +1580,7 @@ Mönster 25f, t.ex. Det var förra år när började jag kände ont i _mina lung
 
 Normbrott (förekommer i uppsatser). Mönstret används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#25f-possnp-gen-npl-era-länder-substantiv-i-plural-med-possessivt-attribut---normbrott
 
 
 _____________________________________________________________________________________
@@ -1586,7 +1591,7 @@ Mönster 25g, t.ex. Slutling pappa ring till mamma och sa till henne kom och ta 
 
 Normbrott (förekommer i uppsatser). Mönstret används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#25g-possnp-gen-npl-dina-barnen-substantiv-i-plural-med-possessivt-attribut---normbrott
 
 
 _____________________________________________________________________________________
@@ -1597,7 +1602,7 @@ Mönster 25h, t.ex. Hon kan spara alla _sin pengar_ och hon iblad åker till Sve
 
 Normbrott (förekommer i uppsatser). Mönstret används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#25h-possnp-gen-npl-sin-pengar-substantiv-i-plural-med-possessivt-attribut---normbrott
 
 
 _____________________________________________________________________________________
@@ -1608,7 +1613,7 @@ Mönster 25i, t.ex. (no hits...)
 
 Normbrott (förekommer i uppsatser). Mönstret används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#25i-possnp-gen-npl--substantiv-i-plural-med-possessivt-attribut---normbrott
 
 
 _____________________________________________________________________________________
@@ -1617,7 +1622,7 @@ ________________________________________________________________________________
 
 (utan slutartikel)
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#26-possnp-gen-a-npl-dagens-moderna-mammor-och-pappor
 
 _____________________________________________________________________________________
 
@@ -1627,7 +1632,7 @@ Mönster 26a, t.ex. Är det en sann bild av _dagens moderna mammor och pappor_ ?
 
 Blandade genus. Används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#26a-possnp-gen-a-npl-sina-egna-värderingar-substantiv-i-plural-med-possessivt-attribut-och-framförställt-attribut
 
 
 _____________________________________________________________________________________
@@ -1638,7 +1643,7 @@ Mönster 26b, t.ex. När jag vaknar först jag duschar sedan tar lite frukost ef
 
 Normbrott (förekommer i uppsatser). Mönstret används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#26b-possnp-gen-a-npl-mina-smutsik-kläderna-substantiv-i-plural-med-possessivt-attribut-och-framförställt-attribut---normbrott
 
 
 _____________________________________________________________________________________
@@ -1649,7 +1654,7 @@ Mönster 26c, t.ex. Det var _min dåliga dagar_ på mit liv.
 
 Normbrott (förekommer i uppsatser). Mönstret används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#26c-possnp-gen-a-npl-min-dåliga-dagar-substantiv-i-plural-med-possessivt-attribut-och-framförställt-attribut---normbrott
 
 
 _____________________________________________________________________________________
@@ -1658,7 +1663,7 @@ ________________________________________________________________________________
 
 Mönster 26d, t.ex. Fanny och Alexander är en av Ingmar _Bergmans bästa filmer_. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#26d-possnp-gen-a-npl-bergmans-bästa-filmer-substantiv-i-plural-med-possessivt-attribut-och-framförställt-attribut---utrum
 
 
 _____________________________________________________________________________________
@@ -1667,7 +1672,7 @@ ________________________________________________________________________________
 
 Mönster 26e, t.ex. Folket borde kämpa för att bevara _sina egna språk_. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#26e-possnp-gen-a-npl-sina-egna-språk-substantiv-i-plural-med-possessivt-attribut-och-framförställt-attribut---neutrum
 
 _____________________________________________________________________________________
 
@@ -1677,7 +1682,7 @@ Mönster 26f, t.ex. Konkurransen är jättestor och _sina egna jobberfarenhetern
 
 Normbrott (förekommer i uppsatser). Mönstret används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#26f-possnp-gen-a-npl-sina-egna-jobberfarenheterna-substantiv-i-plural-med-possessivt-attribut-och-framförställt-attribut---utrum-normbrott
 
 
 _____________________________________________________________________________________
@@ -1689,7 +1694,7 @@ Mönster 26g, t.ex.  (0 hits)
 
 Normbrott (förekommer i uppsatser). Mönstret används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#26g-possnp-gen-a-npl--substantiv-i-plural-med-possessivt-attribut-och-framförställt-attribut---neutrum-normbrott
 
 
 _____________________________________________________________________________________
@@ -1698,7 +1703,7 @@ ________________________________________________________________________________
 
 Mönster 26h, t.ex. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#26h-possnp-gen-a-npl--substantiv-i-plural-med-possessivt-attribut-och-framförställt-attribut---normbrott
 
 _____________________________________________________________________________________
 
@@ -1706,14 +1711,14 @@ ________________________________________________________________________________
 
 Mönster 26i, t.ex. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#26i-possnp-gen-a-npl--substantiv-i-plural-med-possessivt-attribut-och-framförställt-attribut---normbrott
 
 
 _____________________________________________________________________________________
 
 ## 27. A Nsg-def (_Hela kvarteret_)
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#27-a-nsg-def-hela-kvarteret
 
 _____________________________________________________________________________________
 
@@ -1723,7 +1728,7 @@ Mönster 27a, t.ex. _Hela kvarteret_ kommer att rivas.
 
 Blandade genus. Används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#27a-a-nsg-def-hela-kvarteret-substantiv-i-singular-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---initial-satsposition
 
 
 _____________________________________________________________________________________
@@ -1734,7 +1739,7 @@ Mönster 27b, t.ex. Jag hör sämre på _högra örat_ än på vänstra.
 
 Blandade genus. Används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#27b-a-nsg-def-högra-örat-substantiv-i-singular-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---varierande-satsposition
 
 
 _____________________________________________________________________________________
@@ -1743,7 +1748,7 @@ ________________________________________________________________________________
 
 Mönster 27c, t.ex. _Sista bussen_ går halv tolv, va?
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#27c-a-nsg-def-sista-bussen-substantiv-i-singular-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---utrum-initial-satsposition
 
 
 _____________________________________________________________________________________
@@ -1752,7 +1757,7 @@ ________________________________________________________________________________
 
 Mönster 26d, t.ex. _Svenska språket_ hade tidigare fyra olika böjningsformer av substantiven.  
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#27d-a-nsg-def-svenska-språket-substantiv-i-singular-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---neutrum-initial-satsposition
 
 
 _____________________________________________________________________________________
@@ -1761,7 +1766,7 @@ ________________________________________________________________________________
 
 Mönster 27e, t.ex. Jag började få ont i _ena armen_ 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#27e-a-nsg-def-ena-armen-substantiv-i-singular-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---utrum-varierande-satsposition
 
 
 _____________________________________________________________________________________
@@ -1770,14 +1775,14 @@ ________________________________________________________________________________
 
 Mönster 27f, t.ex. Eva följer _senaste modet_  
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#27f-a-nsg-def-hela-kvarteret-substantiv-i-singular-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---neutrum-varierande-satsposition
 
 
 _____________________________________________________________________________________
 
 ## 28. A Npl-def (_Båda ungarna_)
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#28-a-npl-def-båda-ungarna
 
 _____________________________________________________________________________________
 
@@ -1787,7 +1792,7 @@ Mönster 28a, t.ex. _Båda ungarna_ var ju hemma
 
 Blandade genus. Används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#28a-a-npl-def-båda-ungarna-substantiv-i-plural-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---initial-satsposition
 
 
 _____________________________________________________________________________________
@@ -1798,7 +1803,7 @@ Mönster 28b, t.ex.
 
 Blandade genus. Används inte.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#28b-a-npl-def--substantiv-i-plural-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---varierande-satsposition
 
 
 _____________________________________________________________________________________
@@ -1807,7 +1812,7 @@ ________________________________________________________________________________
 
 Mönster 28c, t.ex. _Båda ungarna_ var ju hemma 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#28c-a-npl-def-båda-ungarna-substantiv-i-plural-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---utrum-initial-satsposition
 
 
 _____________________________________________________________________________________
@@ -1816,7 +1821,7 @@ ________________________________________________________________________________
 
 Mönster 28d, t.ex. _Olympiska sommarspelen_ 1896-2000
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#28d-a-npl-def-olympiska-sommarspelen-substantiv-i-plural-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---neutrum-initial-satsposition
 
 
 _____________________________________________________________________________________
@@ -1825,7 +1830,7 @@ ________________________________________________________________________________
 
 Mönster 28e, t.ex. Hon berättar vad hon gör _hela dagarna_ 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#28e-a-npl-def-hela-dagarna-substantiv-i-plural-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---utrum-varierande-satsposition
 
 
 _____________________________________________________________________________________
@@ -1834,7 +1839,7 @@ ________________________________________________________________________________
 
 Mönster 28f, t.ex. 1981 hade _båda paren_ skilt sig.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#28f-a-npl-def-båda-paren-substantiv-i-plural-med-framförställt-attribut-utan-bestämd-artikel-med-slutartikel---neutrum-varierande-satsposition
 
 
 
