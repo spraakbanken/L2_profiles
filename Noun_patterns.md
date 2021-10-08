@@ -23,9 +23,11 @@ ________________________________________________________________________________
 [1. Nsg (Jag har körkort)](#1-nsg-jag-har-körkort)
 
   - [1a. Nsg (Jag har körkort): Substantiv i singular](#1a-nsg-jag-har-körkort-substantiv-i-singular)
-  - [1b. Nsg (Jag kan svenska): Substantiv i singular - utrum](#1b-nsg-jag-kan-svenska-substantiv-i-singular---utrum)
-  - [1c. Nsg (Jag har körkort): Substantiv i singular - neutrum](#1c-nsg-jag-har-körkort-substantiv-i-singular---neutrum)
-  
+  - [1b. Nsg (Jag kan svenska): Substantiv i singular - utrum, initial satsposition](#1b-nsg-jag-kan-svenska-substantiv-i-singular---utrum-initial-satsposition)
+  - [1c. Nsg (Jag har körkort): Substantiv i singular - neutrum, initial satsposition](#1c-nsg-jag-har-körkort-substantiv-i-singular---neutrum-initial-satsposition)
+  - [1e. Nsg (jag kan _svenska_): Substantiv i singular - utrum, varierande satsposition][1e-nsg-jag-kan-svenska-substantiv-i-singular---utrum-variernade-satsposition]
+  - [1f. Nsg (jag har _körkort_): Substantiv i singular - neutrum, varierande satsposition](#1f-nsg-jag-har-körkort-substantiv-i-singular---neutrum-varierande-satsposition](#1f-nsg-jag-har-körkort-substantiv-i-singular---neutrum-varierande-satsposition)
+ 
 [2. A Nsg (Det blir nästa år)](#2-a-nsg-det-blir-nästa-år)
 
   - [2a. A Nsg (Följande dialog kan): Substantiv i singular med framförställt attribut - initial satsposition](#2a-a-nsg-följande-dialog-kan-substantiv-i-singular-med-framförställt-attribut---initial-satsposition)
@@ -290,20 +292,36 @@ Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#1a-nsg-jag-har-k�
 _____________________________________________________________________________________
 
 
-### 1b. Nsg (Jag kan _svenska_): Substantiv i singular - utrum
+### 1b. Nsg (Jag kan _svenska_): Substantiv i singular - utrum, initial satsposition
 
 Mönster 1b, undergrup till 1a, t.ex Presens är en vanlig form för _framtid _. 
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#1b-nsg-jag-kan-svenska-substantiv-i-singular---utrum
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#1b-nsg-jag-kan-svenska-substantiv-i-singular---utrum-initial-satsposition
 
 
 _____________________________________________________________________________________
 
-### 1c. Nsg (Jag har _körkort_): Substantiv i singular - neutrum
+### 1c. Nsg (Jag har _körkort_): Substantiv i singular - neutrum, initial satsposition
 
 Mönster 1c, undergrup till 1a, t.ex Jag har _körkort_.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#1c-nsg-jag-har-körkort-substantiv-i-singular---neutrum
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#1c-nsg-jag-har-körkort-substantiv-i-singular---neutrum-initial-satsposition
+
+_____________________________________________________________________________________
+
+### 1e. Nsg (jag kan _svenska_): Substantiv i singular - utrum, varierande satsposition
+
+Mönster 1c, undergrup till 1a, t.ex jag kan _svenska_.
+
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#1e-nsg-jag-kan-svenska-substantiv-i-singular---utrum-variernade-satsposition
+
+_____________________________________________________________________________________
+
+### 1f. Nsg (jag har _körkort_): Substantiv i singular - neutrum, varierande satsposition
+
+Mönster 1c, undergrup till 1a, t.ex ...jag har _körkort_.
+
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#1e-nsg-jag-har-körkort-substantiv-i-singular---neutrum-varierande-satsposition
 
 _____________________________________________________________________________________
 
