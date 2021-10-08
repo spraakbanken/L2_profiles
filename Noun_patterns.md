@@ -25,8 +25,8 @@ ________________________________________________________________________________
   - [1a. Nsg (Jag har körkort): Substantiv i singular](#1a-nsg-jag-har-körkort-substantiv-i-singular)
   - [1b. Nsg (Jag kan svenska): Substantiv i singular - utrum, initial satsposition](#1b-nsg-jag-kan-svenska-substantiv-i-singular---utrum-initial-satsposition)
   - [1c. Nsg (Jag har körkort): Substantiv i singular - neutrum, initial satsposition](#1c-nsg-jag-har-körkort-substantiv-i-singular---neutrum-initial-satsposition)
-  - [1e. Nsg (jag kan _svenska_): Substantiv i singular - utrum, varierande satsposition][1e-nsg-jag-kan-svenska-substantiv-i-singular---utrum-variernade-satsposition]
-  - [1f. Nsg (jag har _körkort_): Substantiv i singular - neutrum, varierande satsposition](#1f-nsg-jag-har-körkort-substantiv-i-singular---neutrum-varierande-satsposition](#1f-nsg-jag-har-körkort-substantiv-i-singular---neutrum-varierande-satsposition)
+  - [1e. Nsg (jag kan _svenska_): Substantiv i singular - utrum, varierande satsposition](1e-nsg-jag-kan-svenska-substantiv-i-singular---utrum-variernade-satsposition)
+  - [1f. Nsg (jag har _körkort_): Substantiv i singular - neutrum, varierande satsposition](#1f-nsg-jag-har-körkort-substantiv-i-singular---neutrum-varierande-satsposition)
  
 [2. A Nsg (Det blir nästa år)](#2-a-nsg-det-blir-nästa-år)
 
