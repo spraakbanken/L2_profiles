@@ -313,7 +313,7 @@ ________________________________________________________________________________
 
 Mönster 1e, undergrup till 1a, t.ex jag kan _svenska_.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#1e-nsg-jag-kan-svenska-substantiv-i-singular---utrum-variernade-satsposition
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#1e-nsg-jag-kan-svenska-substantiv-i-singular---utrum-varierande-satsposition
 
 _____________________________________________________________________________________
 
@@ -321,7 +321,7 @@ ________________________________________________________________________________
 
 Mönster 1f, undergrup till 1a, t.ex ...jag har _körkort_.
 
-Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#1e-nsg-jag-har-körkort-substantiv-i-singular---neutrum-varierande-satsposition
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#1f-nsg-jag-har-körkort-substantiv-i-singular---neutrum-varierande-satsposition
 
 _____________________________________________________________________________________
 
