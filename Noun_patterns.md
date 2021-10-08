@@ -311,7 +311,7 @@ ________________________________________________________________________________
 
 ### 1e. Nsg (jag kan _svenska_): Substantiv i singular - utrum, varierande satsposition
 
-Mönster 1c, undergrup till 1a, t.ex jag kan _svenska_.
+Mönster 1e, undergrup till 1a, t.ex jag kan _svenska_.
 
 Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#1e-nsg-jag-kan-svenska-substantiv-i-singular---utrum-variernade-satsposition
 
@@ -319,7 +319,7 @@ ________________________________________________________________________________
 
 ### 1f. Nsg (jag har _körkort_): Substantiv i singular - neutrum, varierande satsposition
 
-Mönster 1c, undergrup till 1a, t.ex ...jag har _körkort_.
+Mönster 1f, undergrup till 1a, t.ex ...jag har _körkort_.
 
 Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#1e-nsg-jag-har-körkort-substantiv-i-singular---neutrum-varierande-satsposition
 
