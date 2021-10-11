@@ -120,6 +120,7 @@ ________________________________________________________________________________
   - [13a. denna\|detta Nsg (Vid denna tid var hon): Substantiv i singular med demonstrativt pronomen denna\|detta](#13a-dennadetta-nsg-vid-denna-tid-var-hon-substantiv-i-singular-med-demonstrativt-pronomen-dennadetta)
   - [13b. denna Nsg (Vid denna tid var hon): Substantiv i singular med demonstrativt pronomen denna - utrum](#13b-denna-nsg-vid-denna-tid-var-hon-substantiv-i-singular-med-demonstrativt-pronomen-denna---utrum)
   - [13c. detta Nsg (Detta straff): Substantiv i singular med demonstrativt pronomen detta - neutrum](#13c-detta-nsg-detta-straff-substantiv-i-singular-med-demonstrativt-pronomen-detta---neutrum)
+  - [13d. denne Nsg (Denne broder): Substantiv i singular med demonstrativt pronomen denne - maskulinum](#13d-denne-nsg-denne-broder-substantiv-i-singular-med-demonstrativt-pronomen-denne---maskulinum)
 
 [14. denna\|detta A Nsg (i detta kalla land)](#14-dennadetta-a-nsg-i-detta-kalla-land)
 
@@ -963,6 +964,15 @@ Mönster 13c, t.ex. _Detta straff_ är ren hämnd.
 
 Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#13c-detta-nsg-detta-straff-substantiv-i-singular-med-demonstrativt-pronomen-detta---neutrum
 
+
+_____________________________________________________________________________________
+
+### 13d. denne Nsg (_Denne broder_): Substantiv i singular med demonstrativt pronomen _denne_ - maskulinum
+
+
+Mönster 13d, t.ex. _Denne brodern_ var moderns … favorit.
+
+Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#13d-denne-nsg-denne-broder-substantiv-i-singular-med-demonstrativt-pronomen-denne---maskulinum
 
 _____________________________________________________________________________________
 
