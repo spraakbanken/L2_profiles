@@ -266,12 +266,12 @@ ________________________________________________________________________________
 * Pattern (structure) / mönster (struktur): simple noun phrase / enkel nominalfras, complex noun phrase / utbyggd nominalfras
 * Clause position / satsposition: initial / intial, varying / varierande
 * Definiteness / definithet: definite/ definit, indefinite / indefinit
-* Genus: utrum, neutrum, utrum/neutrum, -
-* Numerus: singular, plural, singular/plural, -
-* Attribut (bestämning) / attribute: adjektivattribut, genitivattribut, -
-* Artikel / article: fristående, slutartikel, fristående/slutartikel, -
-*  
-* (Kasus / case: genitiv, nominativ, - )
+* Gender / Genus: common / utrum, neuter / neutrum, masculine / maskulinum
+* Number / Numerus: singular / singular, plural / plural
+* Attribute (modifier) / Attribut: preposed attribute / framförställt attribut , preposed attribute & relative clause / framförställt attribut & relativsats, relative clause / relativsats, no attribute / inget attribut
+* Article / artikel: definite article / bestämd artikel, indefinite article / obestämd artikel, definite affix / slutartikel, definite article & definite affix / bestämd artikel & slutartikel, no article / ingen artikel
+* Other definite attributes (modifiers) / andra definita attribut: demonstrative pronoun (e.g. den här, den där...) / demonstrativt pronomen (t.ex. den här, den där...), demonstrative pronoun (e.g. denna) / demonstrativt pronomen (t.ex. denna), possessive attribute (modifier) (e.g. min, Kalles) / possessivt attribut (t.ex. min, Kalles), no definite attribute / inget definit attribut
+
 _____________________________________________________________________________________
 
 ## 1. Nsg (Jag har _körkort_)
