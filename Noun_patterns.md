@@ -260,12 +260,12 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
-## Substantivfras - deskriptorer
+## Noun phrase / Nominalfras - descriptors / deskriptorer
 
-* Pattern
-* Pattern structure / mönsterstruktur: enkelt, utbygt
-* Satsposition / clause position: initial, varierande, icke-initial, -
-* Species (bestämdhet) / definiteness: bestämd, obestämd, -
+* Pattern (description) / mönster (beskrivning)
+* Pattern (structure) / mönster (struktur): simple noun phrase / enkel nominalfras, complex noun phrase / utbyggd nominalfras
+* Clause position / satsposition: initial / intial, varying / varierande
+* Definiteness / definithet: definite/ definit, indefinite / indefinit
 * Genus: utrum, neutrum, utrum/neutrum, -
 * Numerus: singular, plural, singular/plural, -
 * Attribut (bestämning) / attribute: adjektivattribut, genitivattribut, -
