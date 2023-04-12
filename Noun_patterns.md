@@ -14,11 +14,12 @@ The noun patterns are based on Swedish standard usage as presented in the Swedis
 Below there are also certain patterns which do not follow the norm as far as the form is concerned, see "normbrott", i.e. against the norm, below. These are currently not used in the profile but we are considering adding them in the future so that one can see how forms which go against the norm develop across proficiency levels.
 
 For more information about the use of definite, indefinite and unmarked noun phrases in Swedish we recommend you to look at the description in Svenska Akademiens Grammatik (SAG, Teleman et al 1999) or for a shorter description please see Hultman (2003) Svenska akademiens språklära. For brief introductions to the form and function of noun phrases in Swedish we would also recommend: 
-* Lassus & Lindström Tiedemann (2023) Nominalfrasens struktur i svenskan [https://www.helsinki.fi/fi/unitube/video/14ef63e2-9601-4d55-97af-eaee09a08da3](video)
-* Lassus & Lindström Tiedemann (2023) Nominalfrasens funktion i svenskan [https://www.helsinki.fi/fi/unitube/video/ccf3d98b-5a11-477b-9fc0-5e02e04af4ce](video)
-* Lindström Tiedemann & Lassus (2023) Grammatiskt genus [https://www.helsinki.fi/fi/unitube/video/56ef43a8-2712-4a77-b25b-3dba6d899997](video)
-* Lindström Tiedemann & Lassus (2023) Kongruens 1 [https://www.helsinki.fi/fi/unitube/video/8b984969-a64a-413f-9c21-4ea7ff7ff356](video)
-* More information about definiteness in Swedish is coming soon.
+* Lassus & Lindström Tiedemann (2023) Nominalfrasens struktur i svenskan [https://www.helsinki.fi/fi/unitube/video/14ef63e2-9601-4d55-97af-eaee09a08da3](https://www.helsinki.fi/fi/unitube/video/14ef63e2-9601-4d55-97af-eaee09a08da3)
+* Lassus & Lindström Tiedemann (2023) Nominalfrasens funktion i svenskan [https://www.helsinki.fi/fi/unitube/video/ccf3d98b-5a11-477b-9fc0-5e02e04af4ce](https://www.helsinki.fi/fi/unitube/video/ccf3d98b-5a11-477b-9fc0-5e02e04af4ce)
+* Lindström Tiedemann & Lassus (2023) Grammatiskt genus [https://www.helsinki.fi/fi/unitube/video/56ef43a8-2712-4a77-b25b-3dba6d899997](https://www.helsinki.fi/fi/unitube/video/56ef43a8-2712-4a77-b25b-3dba6d899997)
+* Lindström Tiedemann & Lassus (2023) Kongruens 1 [https://www.helsinki.fi/fi/unitube/video/8b984969-a64a-413f-9c21-4ea7ff7ff356](https://www.helsinki.fi/fi/unitube/video/8b984969-a64a-413f-9c21-4ea7ff7ff356)
+
+More information about definiteness in Swedish is coming soon.
 
 * The most recent version of this document is available at [https://spraakbanken.github.io/L2_profiles/Noun_patterns](https://spraakbanken.github.io/L2_profiles/Noun_patterns)
 
