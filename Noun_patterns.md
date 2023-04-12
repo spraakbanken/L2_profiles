@@ -6,7 +6,13 @@
 This part of the description of the Swedish Grammar Profile is written in Swedish. English translations of terminology are provided below, see list of contents. 
 The noun patterns which we use are based on initial pattern descriptions of definite and indefinite noun phrases by Anders Agebjörn. Based on these Maisa Lauriala and Therese Lindström Tiedemann made corpus queries which are available as CQP strings as a link below. The queries are mainly based on Morphosyntactic Descriptors (MSD) as present in Korp, however when queries resulted in erroneous hits which could be avoided by including or excluding certain lemgrams in the queries this was done. 
 Naturally noun patterns which include modifiers can include any number of modifiers and when writing linear queries we had to make certain restrictions so as not to end up with a lot of occurrences which were irrelevant. This means that we may well have missed some occurrences but most should be included. 
-
+The noun patterns are based on Swedish standard usage as presented in the Swedish Academy Grammar (Teleman et al. 1999, SAG). However, a noun phrase of a certain form may have been used in a context where it would not be used according to Swedish L1 norms and this is currently not seen in the profile. Hence the profile shows how often different NP forms are used, disregarding whether they are seen as correct in that particular context of use according to the norm.
+Below there are also certain patterns which do not follow the norm as far as the form is concerned, see "normbrott", i.e. against the norm, below. These are currently not used in the profile but we are considering adding them in the future so that one can see how forms which go against the norm develop across proficiency levels.
+For more information about the use of definite, indefinite and unmarked noun phrases in Swedish we recommend you to look at the description in Svenska Akademiens Grammatik (SAG, Teleman et al 1999) or for a shorter description please see Hultman (2003) Svenska akademiens språklära. For brief introductions to the form and function of noun phrases in Swedish we would also recommend: 
+Lassus & Lindström Tiedemann (2023) Nominalfrasens struktur i svenskan [https://www.helsinki.fi/fi/unitube/video/14ef63e2-9601-4d55-97af-eaee09a08da3]
+Lassus & Lindström Tiedemann (2023) Nominalfrasens funktion i svenskan [https://www.helsinki.fi/fi/unitube/video/ccf3d98b-5a11-477b-9fc0-5e02e04af4ce]
+Lindström Tiedemann & Lassus (2023) Grammatiskt genus [https://www.helsinki.fi/fi/unitube/video/56ef43a8-2712-4a77-b25b-3dba6d899997]
+Lindström Tiedemann & Lassus (2023) Kongruens 1 [https://www.helsinki.fi/fi/unitube/video/8b984969-a64a-413f-9c21-4ea7ff7ff356]
 
 * The most recent version of this document is available at [https://spraakbanken.github.io/L2_profiles/Noun_patterns](https://spraakbanken.github.io/L2_profiles/Noun_patterns)
 
