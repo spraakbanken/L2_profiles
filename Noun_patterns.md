@@ -3,7 +3,10 @@
 
 *Therese Lindström Tiedemann, Anders Agebjörn, Samir Yousuf Ali Mohammed, Elena Volodina (September, 2021)*
 
-This part of the description of the Swedish Grammar Profile is written in Swedish. English translations of terminology are provided below, see list of contents.
+This part of the description of the Swedish Grammar Profile is written in Swedish. English translations of terminology are provided below, see list of contents. 
+The noun patterns which we use are based on initial pattern descriptions of definite and indefinite noun phrases by Anders Agebjörn. Based on these Maisa Lauriala and Therese Lindström Tiedemann made corpus queries which are available as CQP strings as a link below. The queries are mainly based on Morphosyntactic Descriptors (MSD) as present in Korp, however when queries resulted in erroneous hits which could be avoided by including or excluding certain lemgrams in the queries this was done. 
+Naturally noun patterns which include modifiers can include any number of modifiers and when writing linear queries we had to make certain restrictions so as not to end up with a lot of occurrences which were irrelevant. This means that we may well have missed some occurrences but most should be included. 
+
 
 * The most recent version of this document is available at [https://spraakbanken.github.io/L2_profiles/Noun_patterns](https://spraakbanken.github.io/L2_profiles/Noun_patterns)
 
