@@ -27,7 +27,7 @@ ________________________________________________________________________________
 
 _Useful links_
 
-* CQP patterns: https://docs.google.com/document/d/1LGfd8xQa9BouUvUDWDwAwnLE51PBJNyqkrquK2EMnLo/edit?usp=sharing
+* CQP patterns: [https://docs.google.com/document/d/1LGfd8xQa9BouUvUDWDwAwnLE51PBJNyqkrquK2EMnLo/edit?usp=sharing] (https://docs.google.com/document/d/1LGfd8xQa9BouUvUDWDwAwnLE51PBJNyqkrquK2EMnLo/edit?usp=sharing)
 
 _____________________________________________________________________________________
 ## Contents
