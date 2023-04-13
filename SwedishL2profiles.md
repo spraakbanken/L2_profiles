@@ -125,9 +125,9 @@ ________________________________________________________________________________
 
 The [SweL2P](https://spraakbanken.gu.se/larkalabb/svlp) features three main profiles:
 
-* [lexical profile](https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#3-swedish-lexical-profile), organized by words, multi-word expressions and a few other aspects of vocabulary
-* [grammatical profile](https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#4-swedish-grammatical-profile), organized by noun phrases, verb phrases and morpho-syntactic descriptors
-* [morphological profile](https://github.com/spraakbanken/L2_profiles/blob/master/SwedishL2profiles.md#5-swedish-morphological-profile), organized into word family and morpheme family
+* A [lexical profile](https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#3-swedish-lexical-profile), organized by words, multi-word expressions and a few other aspects of vocabulary
+* A [grammatical profile](https://spraakbanken.github.io/L2_profiles/SwedishL2profiles#4-swedish-grammatical-profile), organized by noun phrases and verb phrases, in addition certain grammatical features can also be accessed under the lexical profile where one can sort vocabulary by part-of-speech or gender and in the morphological profile it is possible to see how word formation patterns occur across the different levels. 
+* A [morphological profile](https://github.com/spraakbanken/L2_profiles/blob/master/SwedishL2profiles.md#5-swedish-morphological-profile), organized into word families and morpheme families
 
 <img src="SweL2Ps.png" width="600">
 
