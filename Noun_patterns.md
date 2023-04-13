@@ -14,6 +14,7 @@ The noun patterns are based on Swedish standard usage as presented in the Swedis
 All patterns are shown systematically in the table below. The table is currently in Swedish, for information about the meaning of the terminology please see below.
 
 Table 1: Noun patterns in the Swedish L2 profile
+
 <img src="nounpatterns.png" width="600">
 
 Below there are also certain patterns which do not follow the norm as far as the form is concerned, see "normbrott", i.e. against the norm, below. These are currently not used in the profile but we are considering adding them in the future so that one can see how forms which go against the norm develop across proficiency levels.
