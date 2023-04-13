@@ -139,6 +139,8 @@ Each item or pattern in the profile can be
  
 The entire dataset / filtered data selection can be downloaded. 
 
+After looking at corpus occurrences in Korp there is also the possibility of rerunning the same search in other corpora as long as the restriction for proficiency level is removed. Since the corpora we use have been annotated in the same way as other corpora in Korp this gives an excellent opportunity to easily compare the occurrences in learner data with L1 reference corpora from different genres which is not only useful for research but naturally also for teachers or material developers who wish to create exercises based on autentic data.
+
 For each of the three profiles (lexical, grammatical and morphological), you can find a more detailed description under the relevant subsection in this document.
 
 
