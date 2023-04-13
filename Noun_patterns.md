@@ -13,6 +13,8 @@ The noun patterns are based on Swedish standard usage as presented in the Swedis
 
 Below there are also certain patterns which do not follow the norm as far as the form is concerned, see "normbrott", i.e. against the norm, below. These are currently not used in the profile but we are considering adding them in the future so that one can see how forms which go against the norm develop across proficiency levels.
 
+There are some patterns which have been problematic to capture well. It has proven particularly difficult to capture definite NP:s without determiners and with other preposed modifiers such as pattern 28. Explicitly excluding certain possibilities often restricts the pattern to much and not excluding means that we risk getting occurrences which do include determiners. 
+
 For more information about the use of definite, indefinite and unmarked noun phrases in Swedish we recommend you to look at the description in Svenska Akademiens Grammatik (SAG, Teleman et al 1999) or for a shorter description please see Hultman (2003) Svenska akademiens språklära. For brief introductions to the form and function of noun phrases in Swedish we would also recommend: 
 * Lassus & Lindström Tiedemann (2023) Nominalfrasens struktur i svenskan [https://www.helsinki.fi/fi/unitube/video/14ef63e2-9601-4d55-97af-eaee09a08da3](https://www.helsinki.fi/fi/unitube/video/14ef63e2-9601-4d55-97af-eaee09a08da3)
 * Lassus & Lindström Tiedemann (2023) Nominalfrasens funktion i svenskan [https://www.helsinki.fi/fi/unitube/video/ccf3d98b-5a11-477b-9fc0-5e02e04af4ce](https://www.helsinki.fi/fi/unitube/video/ccf3d98b-5a11-477b-9fc0-5e02e04af4ce)
