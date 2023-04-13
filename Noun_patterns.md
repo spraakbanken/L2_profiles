@@ -11,6 +11,9 @@ There is no annotation of whole noun phrases in the Swedish corpora which we use
 Naturally noun patterns which include modifiers can include any number of modifiers and when writing linear queries we had to make certain restrictions so as not to end up with a lot of occurrences which were irrelevant. This means that we may well have missed some occurrences but most should be included. 
 The noun patterns are based on Swedish standard usage as presented in the Swedish Academy Grammar (Teleman et al. 1999, SAG). However, a noun phrase of a certain form may have been used in a context where it would not be used according to Swedish L1 norms and this is currently not seen in the profile. Hence the profile shows how often different NP forms are used, disregarding whether they are seen as correct in that particular context of use according to the norm.
 
+All patterns are shown systematically in the table below. The table is currently in Swedish, for information about the meaning of the terminology please see below.
+
+Table 1: Noun patterns in the Swedish L2 profile
 <img src="nounpatterns.png" width="600">
 
 Below there are also certain patterns which do not follow the norm as far as the form is concerned, see "normbrott", i.e. against the norm, below. These are currently not used in the profile but we are considering adding them in the future so that one can see how forms which go against the norm develop across proficiency levels.
