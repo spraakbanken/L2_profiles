@@ -4,7 +4,7 @@
 *Therese Lindström Tiedemann, Anders Agebjörn, Samir Yousuf Ali Mohammed, Elena Volodina (September, 2021 & April, 2023)*
 
 This part of the description of the Swedish Grammar Profile is written in Swedish. English translations of terminology are provided below, see list of contents. 
-The noun patterns which we use are based on initial pattern descriptions of definite and indefinite noun phrases by Anders Agebjörn. Based on these Maisa Lauriala and Therese Lindström Tiedemann made corpus queries which are available as CQP strings as a link below. The queries are mainly based on Morphosyntactic Descriptors (MSD) as present in Korp, however when queries resulted in erroneous hits which could be avoided by including or excluding certain lemgrams in the queries this was done. 
+The noun patterns which we use are based on initial pattern descriptions of definite and indefinite noun phrases by Anders Agebjörn. Based on these Maisa Lauriala and Therese Lindström Tiedemann made corpus queries which are available as CQP strings as a link below. The queries are mainly based on Morphosyntactic Descriptors (MSD) and/or part-of-speech (POS) as present in Korp, however when queries resulted in erroneous hits which could be avoided by including or excluding certain lemgrams in the queries this was done. When modifiers are included we have not normally restricted their form through the MSD-annotation, instead we have searched for e.g. all adjectival modifiers. This means that there may be some noun phrases which are not correct according to standard Swedish agreement.
 
 There is no annotation of whole noun phrases in the Swedish corpora which we use and we have not found a tool which can provide us with such annotation automatically. Therefore we have had to rely on linear descriptions of the phrases which we want to include in our profile.
 
@@ -998,6 +998,7 @@ ________________________________________________________________________________
 
 Link: https://spraakbanken.github.io/L2_profiles/Noun_patterns#14-dennadetta-a-nsg-i-detta-kalla-land
 
+We also designed a pattern 14d included the pronoun "denne" which is traditionally used with masculine nouns. There were no occurrences of this pattern in our corpora (Coctaill and SweLL pilot) and therefore it is not available through the Swedish L2 profile. Anyone who would like to try this query in other corpora can find the search string by looking at the document for CQP strings given at the top of this file.
 
 _____________________________________________________________________________________
 
