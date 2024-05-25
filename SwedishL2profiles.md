@@ -143,7 +143,10 @@ After looking at corpus occurrences in Korp there is also the possibility of rer
 
 For each of the three profiles (lexical, grammatical and morphological), you can find a more detailed description under the relevant subsection in this document.
 
+_Publications:_
 
+* Volodina Elena, David Alfter, and Therese Lindström Tiedemann. (2024) Profiles for Swedish as a second language: lexis, grammar, morphology. In Huminfra Conference, pp. 10-19. [link](https://doi.org/10.3384/ecp205002)
+  
 _____________________________________________________________________________________
 
 ### 2.1 Filters
@@ -258,8 +261,17 @@ ________________________________________________________________________________
 
 ### 3.3 Multi-word expressions
 
+_Publications:_
+
+* Lindström Tiedemann, Therese, Alfter, David, Mohammed, Yousuf Ali, Piipponen, Daniela, Silén, Beatrice, Volodina, Elena. (2024) Multiword expressions in Swedish as a second language: taxonomy, annotation and initial results. In: Giouli, Voula & Mititelu, Verginica Barbu (eds.), Multiword expressions in language resources. Linguistic, Lexicographic and Computational Considerations. Berlin: Language Science Press. [link](https://langsci-press.org/catalog/book/440)
+* David Alfter, Therese Lindström Tiedemann, Elena Volodina (2021). Crowdsourcing Relative Rankings of Multi-Word Expressions: Experts versus Non-Experts. Northern European Journal of Language Technology (NEJLT). [journal version](https://nejlt.ep.liu.se/article/view/3128)
+  
+
 ### 3.4 Sen\*Lex
 
+_Publications:_
+
+* Elena Volodina, David Alfter, Therese Lindström Tiedemann. (2023). Crowdsourcing ratings for single lexical items: a core vocabulary perspective. Slovenščina 2.0: Empirical, Applied and Interdisciplinary Research, 10(2), 5-61. [DOI](https://doi.org/10.4312/slo2.0.2022.2.5-61)
 
 _____________________________________________________________________________________
 
@@ -443,6 +455,9 @@ ________________________________________________________________________________
 
 ### 5.1 Word family
 
+_Publications_: 
 
+* Volodina Elena, Yousuf Ali Mohammed and Therese Lindström Tiedemann. (2024) Swedish word family resource: Construction, applicability, strengths and first experiments. ITL - International Journal of Applied Linguistics. John Benjamins Publishing Company [link](https://doi.org/10.1075/itl.22026.vol)
+* Elena Volodina, Yousuf Ali Mohammad and Therese Lindström Tiedemann. 2022. Lyxig språklig födelsedagspresent from the Swedish Word Family. In Volodina, Dannélls, Berdicevskis, Forsberg and Virk (editors), Live and Learn – Festschrift in honor of Lars Borin, pages 153–160. GU-ISS-2022-03, University of Gothenburg. [url](https://gupea.ub.gu.se/handle/2077/74254)
 
 ### 5.2 Morpheme family
